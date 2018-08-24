@@ -415,21 +415,21 @@ Daniel Fuller **bold**
 | Principal Investigator | August 2016 to August 2018 | Newfoundland Research and Development Corporation CFI Leverage Grant | RDC | $100,000 | $100,000 |
 | Co-Applicant | August 2016 to August 2021 | Impacts of City-Wide Bicycle Infrastructure Investment on Population Health & Health Equity | CIHR | $428,400 | $0 |
 | Co-Applicant | December 2017 to December 2021 | Multisectoral Urban Systems for health and Equity in Canadian cities | CIHR | $2 Million | $0 |
-| | | | Total | $10,391,038 | $713,894 |
+| | | | Total | $10,471,038 | $693,394 |
 
 ### <span style="color:#81112c">Grants Under Review</span>
 
 * Kestens, Y., Murua, A., Lord, S., **Fuller, D.**, Stanley, K., Gebru, T., Brondeel, R. (2017) Caractérisation des environnements urbains pour la recherche en santé: De la machine à l'humain. Programme intersectoriel AUDACE, FRQSC. $CAD 100,000.  
 * **Fuller D**, Winters M, Kestens Y, Rainham D, Stanley K. (2018) Creating and comparing activity space measures to understand how walkability, urban sprawl, and public transit accessibility are associated with location based physical activity in 4 Canadian cities. CIHR Operating Grant: Data Analysis Using Existing Databases and Cohorts. $CAD 100,000. 
+* Staniland, A. **Fuller, D.**, Vardy, A. (2018). Immersive Audio and Virtual Reality Infrastructure. Canada Foundation for Innovation. $250,000
 
 ### <span style="color:#81112c">Unsuccessful Grants</span>
 
 * City of St. John's & Happy City. (2018). Smart Cities Challenge. Infrastructure Canada. $5M.
 * Patterson, Z., Gaspar, V., Donaher, G., Hain, M., Chapman, O., Gueheneuc, Y-G., Renzi, A., Yu, J Y., Cloutier, M-S., **Fuller, D.,** Tessier, M-A., Hamzeh, H., Bilal, F., Winters, M., Plouffe, C., Farber, S., Widener, M. The Itinerum Open Smartphone Travel Survey Platform Partnership. (2018). SSHRC Partnership Grant. $2M. 
-* Staniland, A. **Fuller, D.**, Vardy, A. (2018). Immersive Audio and Virtual Reality Infrastructure. Canada Foundation for Innovation. $250,000
-* **Fuller, D.**, Kestens, Y., Winters, M., Luan, H., Stanley, K., Tremblay, M. (2017). A machine learning and artificial intelligence for physical activity working group for population level physical activity measurement using wearable devices. CIHR Planning and Dissemination Grant. $20,000.  
+* **Fuller, D.**, Kestens, Y., Winters, M., Luan, H., Stanley, K., Tremblay, M. (2017). A machine learning and artificial intelligence for physical activity working group for population level physical activity measurement using wearable devices. CIHR Planning and Dissemination Grant. $20,000.
 * **Fuller, D.**, Chen, Y., Cameron, E., Gyurcsik, N., Hu, T., Basset, F. Labelling data and leveraging opportunities for sex and gender identity specific physical activity counselling using wearable devices. CIHR Personalized Health Catalyst Grant. *Principal Applicant*. $200,000.  
-* Kestens, Y., Brondeel, R., Stanley, K., Mathieu, M-E., **Fuller. D.**, Stanley, K. Developing a machine learning based toolkit for derivation of physical activity indicators based on smartphone sensor data. CIHR Personalized Health Catalyst Grant. *Co-Applicant*. $136,291.  
+* Kestens, Y., Brondeel, R., Stanley, K., Mathieu, M-E., **Fuller. D.**, Stanley, K. (2017) Developing a machine learning based toolkit for derivation of physical activity indicators based on smartphone sensor data. CIHR Personalized Health Catalyst Grant. *Co-Applicant*. $136,291.  
 * Kestens, Y., Murua, A., Mathieu, M-E., Fuller, D., Stanley, K., Brondeel, R. (2017) Developing a machine learning based toolkit for derivation of physical activity indicators based on smartphone sensor data. IVADO. $CAD 100,000.  
 * **Fuller, D.** CIHR Institute of Population and Public Health Trailblazer Award. *Principal Applicant*. $17,000. 
 * McGowan, E., **Fuller. D.**, McCarthy, J., Yi, D., Browne, S. Capturing real-time association between cancer specific symptoms, sleep, and physical activity among breast cancer survivors undergoing treatment. NL Support. *Co-Principal Applicant*. $75,000.
@@ -441,6 +441,14 @@ Daniel Fuller **bold**
 *	Winters, M., Edwards, S., Teschke, K., Brauer, M., Gauvin, L., **Fuller, D.**, Frank, LDF., Kestens. Y., $200,000, Health Promotion through Active Transportation – A Pre-Post Evaluation of a Vancouver-Based Public Bikeshare Program, CIHR Operating Grant - Population Health Intervention Research, December 2011 – December 2016.
 *	Gauvin, L., **Fuller, D.**, Drouin, L., Winters, M., Edwards, S., Teschke, K. A Multi-City Study of the Impact of Public Bicycle Share Programs on Active Transportation and Risk of Injury, $199,526, CIHR Operating Grant - Population Health Intervention Research, December 2011 – December 2014.
 *	Gauvin, L., **Fuller, D.**, Drouin, L., Morency, P., Kestens, Y., $249,603, Impact of an Intervention Designed to Increase the Accessibility and User-Friendliness of an Active Mode of Transportation on Population Health: The Case of BIXI Montreal, CIHR Operating Grant- Population Health Intervention Research, April 2009 - April 2012.
+
+### <span style="color:#81112c">Media</span>
+
+1. Mark Quinn. Bike map aims to help St. John's cyclists steer clear of trouble. March 8, 2018. [http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225](http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225)
+2. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
+3. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
+4. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
+
 
 ### <span style="color:#81112c">Peer Reviews</span>
 
