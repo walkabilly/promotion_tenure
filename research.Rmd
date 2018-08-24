@@ -1,0 +1,184 @@
+---
+title: 'Research: Promotion and Tenure Document'
+author: "Daniel Fuller"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Daniel Fuller, Ph.D.  
+Canada Research Chair in Population Physical Activity  
+Assistant Professor  
+School of Human Kinetics and Recreation   
+Physical Education Building PE 2024 Memorial   
+University of Newfoundland St. John’s, NL  
+A1C 5S7  
+Tel: (709) 864-7270    
+E-mail: dfuller@mun.ca    
+Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)  
+
+## <span style="color:#81112c">Research Overview</span>
+
+My research involves using mobile health technologies including smartphones and wearable devices to understand and increase physical activity. This work is particularly focused on understanding how the urban environment influences our physical activity and transportation decisions.  
+
+My vision is    
+
+> A physically active Canadian population
+
+My mission is  
+
+> To conduct research that will help design urban and rural environments that equitably increase physical activity for the entire population
+
+## <span style="color:#81112c">Research Leadership</span>
+
+### <span style="color:#81112c">Speakers Invited to MUN</span>
+
+### <span style="color:#81112c">National Leadership</span>
+
+I am currently the [Neighbourhoods Factors Team co-lead](http://canue.ca/leadership-and-staff/#toggle-id-24) with Dr. Michael Widener, Unviersity of Toronto, of the Canadian Urban Environmental Health Research Consortium (CANUE). CANUE is a $5 Million grant funded by the CIHR Institute of Population and Public Health with the vision to:  
+
+  * *Increase scientific understanding of the interactions among the physical features of the urban   environment and health. This understanding will lead to cost-effective actions that promote healthy childhood development and aging, reduce the burden of chronic disease, and minimize the impact of changing environments.*
+
+### <span style="color:#81112c">Workshops</span>
+
+I hosted 2 workshops in 2017-2018.  
+
+1. "The Future of Walkability Measurement in Canada" workshop on attended by 18 researchers from across Canada. November 16 and 17, 2017.
+2. "Itinerum Smartphone App" workshop with Dr. Zachary Patterson from Concordia University. Approximately 20 students attended. October 20th 2017. 
+
+## <span style="color:#81112c">Publications</span>
+
+I published 10 peer reviewer scientific articles in 2017-2018. I am the lead author on three of the publications. Two publications were lead by trainnees. I also have 6 publications under review, 2 of which are on second review. 
+
+Authorship norms for my discipline are as follows. First author typically conceptualized the study did the majority of the data analysis and writing. In the case of students (identified in *italics* here) the supervisor is the last author. 
+
+### <span style="color:#81112c">Published Peer Reviewed Articles</span>
+
+* Winters M, Branion-Calles M, Therrien S, **Fuller D**, Gauvin L, Whitehurst DGT, & Nelson T. Impacts of Bicycle Infrastructure in Mid-Sized Cities (IBIMS): protocol for a natural experiment study in three Canadian cities. BMJ Open 2018;8:e019130. https://dx.doi.org/10.1136/bmjopen-2017-019130   
+* *Alphonsus, K.*, Waldner, C., **Fuller D**. Examining the Association between Area Level Deprivation and Vehicle Collisions. Canadian Journal of Public Health. 1-9. https://dx.doi.org/10.17269/s41997-018-0036-7  
+* *Brook JR, Setton EM, Seed E, Shooshtari M, Doiron D, and the CANUE – The Canadian Urban Environmental Health Research Consortium. The Canadian Urban Environmental Health Research Consortium – a protocol for building a national environmental exposure data platform for integrated analyses of urban form and health. BMC Public Health. 2018, 18:114. https://doi.org/10.1186/s12889-017-5001-5  
+* **Fuller D.**, Winters M. Income inequalities in Bike Score and bicycle to work mode share in Canadian cities. Journal of Transportation and Health. 7(B): 264-268. https://doi.org/10.1016/j.jth.2017.09.005
+* **Fuller D.**, Shareck M, Stanley C. Ethical implications of tracking participants for health research studies with mobile sensing devices. Social Science and Medicine. 191, 84-88 https://doi.org/10.1016/j.socscimed.2017.08.043.  
+* **Fuller, D.**, Buote, R., Stanley, K. (2017). A Glossary for Big Data in Population and Public Health: Discussion and Commentary on Terminology and Research Methods. Journal of Epidemiology and Community Health. 71:1113-1117. http://dx.doi.org/10.1136/jech-2017-209608.  
+* *Hasselback*, J., Schwandt, M., **Fuller, D.** (2017). Choosing Tools for Building Health Spaces: A Global Overview. Cities and Health: http://dx.doi.org/10.1080/23748834.2017.1309091.    
+* McGowan, E., **Fuller, D.**, Cutumisu, N., North, S., & Courneya, K. (2017). Examining Whether Built Environment Factors are Effect Modifiers in a Randomized Controlled Trial to Increase Physical Activity among Men with Prostate Cancer: The PROMOTE Trial. Supportive Care in Cancer. 25(10), 2993–2996. https://doi.org/10.1007/s00520-017-3798-1  
+* Pabayo, R., **Fuller, D.**, Lee, E.Y., Horino, M., Kawachi, I. (2017). State-level income inequality and meeting physical activity guidelines; differential associations among US men and women, Journal of Public Health, https://doi.org/10.1093/pubmed/fdx082  
+* Pabayo, R., **Fuller, D.**, Goldstein, R.B., Kawachi, I., Gilman, S.E. (2017). Income inequality among American states and the conditional risk of post-traumatic stress disorder. Soc Psychiatry Psychiatr Epidemiol 52: 1195. https://doi.org/10.1007/s00127-017-1413-x  
+
+### <span style="color:#81112c">In Press Publications</span>
+
+* Branion-Calles M, Nelson T, **Fuller D**, Gauvin L, Winters M. Associations between spatial access to bicycle-specific infrastructure, sociodemographic characteristics, and city-wide safety perceptions of bicycling: a cross-sectional survey of bicyclists in 6 Canadian and U.S. cities. Transportation Research Part A: Policy and Practice.  
+* Sones M, **Fuller D**, Kestens Y, Winters M. If we built it, who will come? The case for attention to equity in healthy community design. British Journal of Sports Medicine.   
+* Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial.  
+
+### <span style="color:#81112c">Submitted Publications Under Review</span>
+
+* *Ramsay, D.*, **Fuller**, D. The impact of social position on the relationship between active travel use and body mass index in a sample of urban Canadians. BMC Public Health.
+* *Alphonsus, K.*, Waldner, C., **Fuller D**. Examining the Association between Area Level Deprivation and Vehicle Collisions. Canadian Journal of Public Health.
+* Winters M, Fischer J, **Fuller D**, Gauvin L, Whitehurst DGT, Nelson T. Equity In Spatial Access To Bicycling Infrastructure In Mid-Sized Canadian Cities. Transportation Research Board.
+* Winters, M.,  Branion-Calles, M., Therrien, S., **Fuller, D.**, Gauvin, L., Whitehurst, D. G. T., Nelson, T. Impacts of Bicycle Infrastructure in Mid-Sized Cities (IBIMS): Protocol for a Natural Experiment Study. BMJ Open.
+
+### <span style="color:#81112c">Technical Reports Relevant to Academic Field</span>
+
+* Loucks-Atkinson, A, Yi, J.K., Hawkins, K., Loeffler, TA, **Fuller, D.** & Sullivan, A. (in press). A vision for an inclusive Newfoundland and Labrador. In R.E. Ommer, B. Neis, & D. Brake (Eds.), Asking the big questions: Reflections on a sustainable post oil-dependent Newfoundland and Labrador (pp. 46-54). St. John’s, NL: Harris Centre, Memorial University.
+
+## <span style="color:#81112c">Conference Presentations</span>
+
+I presented one invited lecture in 2017 to the Memorial UniversityResidency Research Day. I have presented peer reviewed conference prentations and posters and numerous international conferences in 2017.
+
+### <span style="color:#81112c">Invited Presentations</span>
+
+* **Fuller, D.** Family Medicine: A Population Approach with Heath. Residency Research Day, Memorial Family Medicine. November 21st, 2017. Memorial University. 
+
+### <span style="color:#81112c">Peer Reviewed Conference Presentations</span>
+
+* Winters M, **Fuller D,** Rondier P, Kestens Y. Understanding the context for urban form changes: A concept mapping exercise amongst stakeholders in three cities. Oral presentation at the International Society for Behavioral Nutrition and Physical Activity Annual Meeting, Victoria, Canada, June 10, 2017.
+*  **Fuller D.**, Winters M, Income inequalities in Bike Score and bicycle to work mode share in Canadian cities. Poster at the International Society for Behavioral Nutrition and Physical Activity Annual Meeting, Victoria, Canada, June 10, 2017.
+* Winters M, Therrien S, Branion-Calles M, **Fuller D,** Gauvin L, Whitehurst D, Nelson T. Laying down the context: Baseline findings from natural experiment study of Biketoria, a city-wide cycling network in Victoria, British Columbia. Poster at the International Society for Behavioral Nutrition and Physical Activity Annual Meeting, Victoria, Canada, June 10, 2017.
+* Hosford K, **Fuller D,** Gauvin L, Brauer M, Teschke K, Winters M. Assessing the Modal Impacts of Public Bikeshare Systems: A Comparison of Survey Tools. Poster at the International Society for Behavioural Nutrition and Physical Activity Annual Meeting, Victoria, Canada, June 7-10 2017.
+* **Fuller, D.**, McGowan, E., Cutumisu, N., North, S., & Courneya, K. (2017, June). The Role of the Built Environment in a Randomized Controlled Trial to Increase Physical Activity among Men with Prostate Cancer: The PROMOTE Trial. Poster at the International Society for Behavioural Nutrition and Physical Activity (ISBNPA) 2017 Annual Meeting, Victoria, British Columbia.
+* **Fuller, D.**, Gauvin, L., Dubé, A-S., Winters, M., Teshcke, K. (2016 November). Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Congress on Physical Activity and Public Health. Bangkok, Thailand. 
+* **Fuller, D.**, Gauvin, L., Dubé, A-S., Winters, M., Teshcke, K. (2016 November). Evaluating the impact of implementing public bicycle share programs on collisions: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Congress on Physical Activity and Public Health. Bangkok, Thailand. 
+
+## <span style="color:#81112c">Grants</span>
+
+I have been a named principal investigator, co-principal investigator, or co-applicant on grants totally $10.4 Million in 2017. A large proportion of which, $5 Million, is for two large 5 year CIHR projects, [CANUE](http://canue.ca/) and [INTERACT](http://www.teaminteract.ca/) which I am a co-principal applicant or project lead. In 2017 I secured a total of $713,894 of grant funding from CIHR, CFI, RDC, and Memorial University that will be used at MUN to support highly qualified personnel and infrastructure purchases (See Appendix E for CIHR Funding Database Page).
+
+### <span style="color:#81112c">Awarded Grants</span>
+
+| Role | Year | Title | Funder |  Amount | MUN Amount 2017 |
+|------|--------|--------|--------|------|------|
+| Team Lead | April 2017-April 2021 | Canadian Urban Environmental Health Research Consortium | CIHR | $5 Million | $45,00 |
+| Co-Principal Investigator | December 2017 to December 2021 | Environments and Health INTERACT: INTErventions, Research, and Action in Cities Team | CIHR | $2 Million | $106,256 |
+| Principal Investigator | April 2017 to April 2019 | Developing a public open source walkability measure for Newfoundland | MUN | $10,000 | $10,000 |
+| Principal Investigator | August 2016 to August 2021 | Canada Research Chair in Population Physical Activity | CRC  | $500,000 | $100,000 |
+| Principal Investigator | August 2016 to August 2021 | Newfoundland Research and Development Corporation CRC Leverage | RDC | $100,000 | $100,000 |
+| Principal Investigator | August 2016 to August 2018 | Canadian Foundation for Innovation John R. Evans Leaders Fund | CFI | $252,638 | $252,638 |
+| Principal Investigator | August 2016 to August 2018 | Newfoundland Research and Development Corporation CFI Leverage Grant | RDC | $100,000 | $100,000 |
+| Co-Applicant | August 2016 to August 2021 | Impacts of City-Wide Bicycle Infrastructure Investment on Population Health & Health Equity | CIHR | $428,400 | $0 |
+| Co-Applicant | December 2017 to December 2021 | Multisectoral Urban Systems for health and Equity in Canadian cities | CIHR | $2 Million | $0 |
+| | | | Total | $10,391,038 | $713,894 |
+
+### <span style="color:#81112c">Grants Under Review</span>
+
+* **Fuller, D.**, Bell, S., Kestens, Y., Stanley, K., and Winters, M. Smartphone Data for Physical Activity Surveillance. HEROX: The Healthy Behaviour Data Challenge, Phase 1. *Principal Applicant*. $10,000.
+* McGowan, E., **Fuller. D.**, McCarthy, J., Yi, D., Browne, S. Capturing real-time association between cancer specific symptoms, sleep, and physical activity among breast cancer survivors undergoing treatment. NL Support. *Co-Principal Applicant*. $75,000.
+* **Fuller. D.**, Chen, Y., Cameron, E., Gyurcsik, N., Hu, T., Basset, F. Labelling data and leveraging opportunities for sex and gender identity specific physical activity counselling using wearable devices. CIHR Personalized Health Catalyst Grant. *Principal Applicant*. $200,000.
+* Kestens, Y., Brondeel, R., Stanley, K., Mathieu, M-E., **Fuller. D.**, Stanley, K. Developing a machine learning based toolkit for derivation of physical activity indicators based on smartphone sensor data. CIHR Personalized Health Catalyst Grant. *Co-Applicant*. $136,291.
+
+### <span style="color:#81112c">Unsuccessful Grants</span>
+
+* **Fuller, D.** CIHR Institute of Population and Public Health Trailblazer Award. *Principal Applicant*. $17,000. (See Appendix F for reviewer comments)
+
+## <span style="color:#81112c">Knowledge Translation</span>
+
+### <span style="color:#81112c">Media Interviews</span>
+
+1. Mark Quinn. Bike map aims to help St. John's cyclists steer clear of trouble. March 8, 2018. [http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225](http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225)
+2. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
+3. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
+4. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
+
+### <span style="color:#81112c">Social Media</span>
+
+* [Facebook](https://www.facebook.com/walkabilly): I have 87 followers on my Facebook page. The average reach per day of my Facebook page in August and September 2017 was 103 views, likes, and comments.
+* [Twitter](https://twitter.com/walkabilly): I have 746 followers on Twitter. The average reach per day of my Twitter feed in August and September 2017 was 482 views, likes, and comments.  
+* [Website](http://walkabilly.ca/home/): My website received 1,478 unique visitors and 2,743 visitors in the past 30 days.  
+
+## <span style="color:#81112c">Ongoing Projects</span>
+
+##### <span style="color:#81112c">International BicycleShare Impacts on Cycling and Collisions</span> [IBICCS](http://www.lisegauvin.com/fr/projets/bixi-multi-villes-2)
+
+The IBICCS study aims to examine the impact of PBSP on population-levels of cycling and risk of collisions between cyclists and motor vehicles in North America. Data collection for this study is complete but there are many opportunities for data analysis.
+
+##### <span style="color:#81112c">CANUE</span> [http://www.canue.ca/](http://www.canue.ca/)
+
+I am a co-lead (with Dr. Michael Widener) of the Canadian Urban Environmental Health Research Consortium (CANUE) Neighbourhood Factors Group. CANUE will gather and develop measures of environmental factors for every neighbourhood across Canada. Dr. Widener and I will work with CANUE to prepare data, supervise students, and organize conferences related to neighbourhoods and health research in Canada.
+
+##### <span style="color:#81112c">INTERACT</span> [http://www.teaminteract.ca/](http://www.teaminteract.ca/)
+
+Initially launching in four cities across Canada – Victoria, Vancouver, Saskatoon, and Montreal - INTERACT will be evaluating the health impact of real world urban form interventions that represent an investment of more than $225M.
+
+##### <span style="color:#81112c">BikeMaps.org</span> [https://bikemaps.org/](https://bikemaps.org/)
+
+Only ~30% of bike collision data are collected and there is no centralized reporting system. BikeMaps.org is a unique tool that let's citizens build a database by mapping their riding experience. The BikeMaps.org team will analyze data to determine factors that influence cycling safety. We also have plans to build tools to help people plan safer routes and to transfer these to planners in your area.
+
+##### <span style="color:#81112c">Seasonality and active Saskatoon kids</span> [SASK](http://spheru.ca/research_projects/projects/seasonality-active-saskatoon-kids.php)
+
+Seasonality and Active Saskatoon Kids (SASK) is an obesity intervention research project that aims to measure and identify locations where physical activity occurs in Saskatoon, across all seasons, among children aged 10-14 years. Using both a self-reported activity questionnaire and accelerometers, the research team will learn about children's active and sedentary activities at school, at home and within the community. 
+
+##### <span style="color:#81112c">Smart Phone Cut Points</span> 
+
+Our study aims to assess the performance of smartphone accelerometers (in Android and iPhone models) in measuring physical activity intensity and duration in controlled laboratory conditions. Our specific objectives are to:  
+    i) Assess a variety of individuals. We aim to recruit a gender-balanced sample of 25 children aged 10-14 years and 25 adults (one of their parents or guardians). 
+    i) Develop cut-points for smartphone accelerometers. Cut-points are needed so that we can assign the appropriate physical activity intensity (i.e., light, moderate, vigorous) to the “movement counts” recorded by the smartphone accelerometers. 
+    
+##### <span style="color:#81112c">Eat Great and Participate: Paul Reynolds</span> 
+
+This project proposal outlines an evaluation of the local effects of a healthy canteen within a recreational facility. Data will be gathered from intercept-surveys, point of sales records, municipal administrative data, and key informant interviews, comprising a multi-dimensional analysis of the effects of a healthy canteen within a newly opened municipal public recreation facility.  
+
