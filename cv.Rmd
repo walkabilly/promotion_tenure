@@ -3,8 +3,8 @@ title: "Curriculum vitae"
 author: "Daniel Fuller"
 date: '2019-08-20'
 output:
-  html_document: default
   word_document: default
+  html_document: default
   pdf_document: default
 ---
 
@@ -199,6 +199,7 @@ Daniel Fuller **bold**
 * Winters M, Branion-Calles M, Therrien S, **Fuller D**, Gauvin L, Whitehurst DGT, & Nelson T. Impacts of Bicycle Infrastructure in Mid-Sized Cities (IBIMS): protocol for a natural experiment study in three Canadian cities. BMJ Open 2018;8:e019130. https://dx.doi.org/10.1136/bmjopen-2017-019130   
 * *Alphonsus, K.*, Waldner, C., **Fuller D**. Examining the Association between Area Level Deprivation and Vehicle Collisions. Canadian Journal of Public Health. 1-9. https://dx.doi.org/10.17269/s41997-018-0036-7  
 * *Brook JR, Setton EM, Seed E, Shooshtari M, Doiron D, and the CANUE – The Canadian Urban Environmental Health Research Consortium. The Canadian Urban Environmental Health Research Consortium – a protocol for building a national environmental exposure data platform for integrated analyses of urban form and health. BMC Public Health. 2018, 18:114. https://doi.org/10.1186/s12889-017-5001-5  
+* Sones M, **Fuller D**, Kestens Y, Winters M. If we built it, who will come? The case for attention to equity in healthy community design. British Journal of Sports Medicine. http://dx.doi.org/10.1136/bjsports-2018-099667  
 
 **2017**  
 * **Fuller D.**, Winters M. Income inequalities in Bike Score and bicycle to work mode share in Canadian cities. Journal of Transportation and Health. 7(B): 264-268. https://doi.org/10.1016/j.jth.2017.09.005
@@ -257,7 +258,6 @@ Daniel Fuller **bold**
 ### <span style="color:#81112c">In Press Publications</span>
 
 * Branion-Calles M, Nelson T, **Fuller D**, Gauvin L, Winters M. Associations between spatial access to bicycle-specific infrastructure, sociodemographic characteristics, and city-wide safety perceptions of bicycling: a cross-sectional survey of bicyclists in 6 Canadian and U.S. cities. Transportation Research Part A: Policy and Practice.  
-* Sones M, **Fuller D**, Kestens Y, Winters M. If we built it, who will come? The case for attention to equity in healthy community design. British Journal of Sports Medicine.   
 * Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial.  
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
@@ -304,7 +304,7 @@ Daniel Fuller **bold**
 * September 28, 2017: Winters, M, **Fuller, D.** Impacts of bicycle infrastructure in mid-sized cities study: Halifax Baseline results. Presentation and meeting with local cycling advocates. Halifax Regional Municipality Transportation Standing Committee.  
 * September 28, 2017: Winters, M, **Fuller, D.** Impacts of bicycle infrastructure in mid-sized cities study: Halifax Baseline results. Presentation and meeting with local cycling advocates. Representatives from the from the Halifax Cycling Coalition, Nova Social Cycles, Halifax Ecology Action Centre, and Halifax Regional Health Authority.  
 * September 25, 2017: **Fuller, D.**  Cycling in Canadian Communities: From Planning to Implementation.  Invited oral presentation at the Transportation Association of Canada 2017 Fall Technical Meetings. St. John’s, Newfoundland.  
-* April 15, 2015:	**Fuller, D.** Bike share impacts on health. Ontario Public Health Association.   
+* April 15, 2015:	**Fuller, D.** Bike share impacts on health. Ontario Public Health Association.  
 * February 19, 2015: **Fuller, D.** Are we succeeding or failing to increase physical activity in the population? * Memorial University of Newfoundland.   
 * October 23, 2014: **Fuller, D.** Preliminary Results from the Saskatchewan Equity Study: Focus on Diabetes and Injury. Saskatchewan Epidemiological Association Conference. 
 * October 10, 2014: **Fuller, D.** Cycling in Cities. Western Regional Training Program – University of Saskatchewan. 
@@ -517,7 +517,7 @@ http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus
 ## <span style="color:#81112c">Professional Activity Outside University</span>
 
 * 2018: Associated Editor, BMC Public Health (Impact Factor: **5 Year Impact Factor: 3.039**)
-    - Associated for 4 manuscripts to date
+    - Associate Editor for 4 manuscripts to date
 * 2015: Scientific Committee, Food Environments in Canada Symposium and Workshop.
 * 2014: Scientific Committee, Active Living Research Conference.
 * 2009-2011: Board Member, International Union of Health Promotion Student and Early Career Network (ISECN).
