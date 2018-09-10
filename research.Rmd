@@ -36,6 +36,45 @@ My mission is
 
 ## <span style="color:#81112c">Research Leadership</span>
 
+The BEAP (Built Environment and Active Populations) Lab is a multidisciplinary lab that is focused on achieving my vision and mission. The lab is home to students with training in kinesiology, public health, computer science, and anthropology. 
+
+We have developed detail documentation and introduction to the Lab (https://github.com/walkabillylab/labguide/blob/master/Guide.md). 
+
+#### BEAP Lab Members
+
+**Post Doctoral Fellows**
+
+- Henry Luan*, Post Doctoral Fellow, Human Kinetics and Recreation
+
+* Henry has completed his fellowship and accepted a faculty position in Geography at Oregon State University. OSU is one of the top 10 geography programs in the US. https://geography.uoregon.edu/profiles/faculty/
+
+**Students**
+
+- Melissa Tobin, MSc Student, Human Kinetics and Recreation
+- Bo Simango, MSc Student, Human Kinetics and Recreation
+- Kassia Orychock, MSc Student, Human Kinetics and Recreation
+- Hoda Raifi, MSc Student Computer Science
+
+**Research Assistants**
+
+- Fara Dorani*, MSc, Computer Science
+- Javad Rahimipour, PhD Candidate, Computer Science
+- Richard Buote, PhD Student, Community Health and Humanities
+- Arastoo Bozorgi, MSc Student, Computer Science
+- Majid Beheshti Mohtasham, MSc Student, Computer Science
+- Maria Yulmetova, BSc, Geography
+- Ann Marie Kieley, BSc, Human Kinetics and Recreation
+- Samantha Breslin, PhD, Anthropology
+
+* Fara is currently employed at Cisco Systems in Ottawa. 
+
+**Past Lab Members**
+
+- Nathan Taylor, Master of Public Health. Currently completing PhD in Public Health at Dalhousie University with Dr. Catherine Mah. 
+- Desiree Van Heerden, BSc, Engineering. Currently 3rd year student in Engineering at MUN. 
+
+The lab has produced a number of different publicly available code products. These include functions that will extract the time zone from global positioning system data (https://github.com/walkabillylab/LocationToTimezone), and implementation of the Sedentary Sphere algorithm (https://github.com/walkabillylab/SedentarySphere). 
+
 ### <span style="color:#81112c">Speakers Invited to MUN</span>
 
 ### <span style="color:#81112c">National Leadership</span>
