@@ -6,9 +6,7 @@ output:
         keep_md: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 Daniel Fuller, Ph.D.  
 Canada Research Chair in Population Physical Activity  

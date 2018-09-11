@@ -6,9 +6,7 @@ output:
         keep_md: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 Daniel Fuller, Ph.D.  
 Canada Research Chair in Population Physical Activity  
@@ -145,56 +143,9 @@ The data are from 13 students in HKR 3400 (out of a possible 62 students) and 18
     
 Below I present only a subset of the data. However, what is presented provides a good general picture of the evaluations. 
 
-```{r, warning=FALSE, echo = FALSE}
-library(readxl)
-teaching1 <- read_excel("/Users/dfuller/Dropbox/Teaching/Evaluations/MUNEvaluations.xlsx")
-``` 
 
-```{r, warning=FALSE, echo = FALSE, message=FALSE}
-library(dplyr)
-library(reshape2)
-library(ggplot2)
 
-teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_challenging, group=course_num, col=course_num)) + 
-  geom_density(position='dodge') + 
-  xlim(1, 5) + 
-  labs(colour = "Course Number") + 
-  labs(title = "The instructor used challenging questions") + 
-  labs(x = "Scale")
-
-teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_listen, group=course_num, col=course_num)) + 
-  geom_density(position='dodge') + 
-  xlim(1, 5) + 
-  labs(colour = "Course Number") + 
-  labs(title = "The instructor was willing to listen to student opinions") + 
-  labs(x = "Scale")
-
-teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_helpful, group=course_num, col=course_num)) + 
-  geom_density(position='dodge') + 
-  xlim(1, 5) + 
-  labs(colour = "Course Number") + 
-  labs(title = "The instructor was actively helpful to the students") + 
-  labs(x = "Scale")
-
-teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_atmosphere_good, group=course_num, col=course_num)) + 
-  geom_density(position='dodge') + 
-  xlim(1, 5) + 
-  labs(colour = "Course Number") + 
-  labs(title = "The general atmosphere in this course was good for learning") + 
-  labs(x = "Scale")
-
-teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_share_ideas, group=course_num, col=course_num)) + 
-  geom_density(position='dodge') + 
-  xlim(1, 5) + 
-  labs(colour = "Course Number") + 
-  labs(title = "Students were invited to share their ideas") + 
-  labs(x = "Scale")
-``` 
+![](teaching_files/figure-html/unnamed-chunk-2-1.png)<!-- -->![](teaching_files/figure-html/unnamed-chunk-2-2.png)<!-- -->![](teaching_files/figure-html/unnamed-chunk-2-3.png)<!-- -->![](teaching_files/figure-html/unnamed-chunk-2-4.png)<!-- -->![](teaching_files/figure-html/unnamed-chunk-2-5.png)<!-- -->
 
 
 
