@@ -2,9 +2,9 @@
 title: 'Research: Promotion and Tenure Document'
 author: "Daniel Fuller"
 output:
-  word_document: default
-  pdf_document: default
   html_document: default
+  pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -36,17 +36,14 @@ My mission is
 
 ## <span style="color:#81112c">Research Leadership</span>
 
-The BEAP (Built Environment and Active Populations) Lab is a multidisciplinary lab that is focused on achieving my vision and mission. The lab is home to students with training in kinesiology, public health, computer science, and anthropology. 
-
-We have developed detail documentation and introduction to the Lab (https://github.com/walkabillylab/labguide/blob/master/Guide.md). 
+The BEAP (Built Environment and Active Populations) Lab is a multidisciplinary lab that is focused on achieving my vision and mission. The lab is home to students with training in kinesiology, public health, computer science, and anthropology. We have developed detail documentation and introduction to the Lab (https://github.com/walkabillylab/labguide/blob/master/Guide.md). 
 
 #### BEAP Lab Members
 
 **Post Doctoral Fellows**
 
-- Henry Luan*, Post Doctoral Fellow, Human Kinetics and Recreation
-
-* Henry has completed his fellowship and accepted a faculty position in Geography at Oregon State University. OSU is one of the top 10 geography programs in the US. https://geography.uoregon.edu/profiles/faculty/
+- Henry Luan, Post Doctoral Fellow, Human Kinetics and Recreation
+    * Henry has completed his fellowship and accepted a faculty position in Geography at Oregon State University. OSU is one of the top 10 geography programs in the US. https://geography.uoregon.edu/profiles/faculty/
 
 **Students**
 
@@ -57,23 +54,30 @@ We have developed detail documentation and introduction to the Lab (https://gith
 
 **Research Assistants**
 
-- Fara Dorani*, MSc, Computer Science
+- Fara Dorani, MSc, Computer Science
+    * Fara is currently employed at Cisco Systems in Ottawa. 
+- Jonathan Low, MSc, Human Kinetics and Recreation
 - Javad Rahimipour, PhD Candidate, Computer Science
 - Richard Buote, PhD Student, Community Health and Humanities
 - Arastoo Bozorgi, MSc Student, Computer Science
 - Majid Beheshti Mohtasham, MSc Student, Computer Science
-- Maria Yulmetova, BSc, Geography
 - Ann Marie Kieley, BSc, Human Kinetics and Recreation
 - Samantha Breslin, PhD, Anthropology
 
-* Fara is currently employed at Cisco Systems in Ottawa. 
-
 **Past Lab Members**
 
-- Nathan Taylor, Master of Public Health. Currently completing PhD in Public Health at Dalhousie University with Dr. Catherine Mah. 
-- Desiree Van Heerden, BSc, Engineering. Currently 3rd year student in Engineering at MUN. 
+- Nathan Taylor, Master of Public Health
+    * Currently completing PhD in Public Health at Dalhousie University with Dr. Catherine Mah. 
+- Desiree Van Heerden, BSc, Engineering
+    * Currently 3rd year student in Engineering at MUN. 
+- Maria Yulmetova, BSc, Geography
+    * Currently completing an MSc in Remote Sensing at C-Core 
 
 The lab has produced a number of different publicly available code products. These include functions that will extract the time zone from global positioning system data (https://github.com/walkabillylab/LocationToTimezone), and implementation of the Sedentary Sphere algorithm (https://github.com/walkabillylab/SedentarySphere). 
+
+The lab has also developed an iOS app titled PASS (Physical Activity, Sleep, Sedentary Behaviour) Mobile. The app collects data from FitBit and Apple Watch. We are planning further developments of the app to include Garmin and Samsung wearable devices. The app is not publicly available on the app store. See screen shots below.
+
+## SCREEN SHOTS
 
 ### <span style="color:#81112c">Speakers Invited to MUN</span>
 
@@ -196,9 +200,19 @@ http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus
 
 ## <span style="color:#81112c">Ongoing Projects</span>
 
-##### <span style="color:#81112c">International BicycleShare Impacts on Cycling and Collisions</span> [IBICCS](http://www.lisegauvin.com/fr/projets/bixi-multi-villes-2)
+##### <span style="color:#81112c">HEROX</span>
 
-The IBICCS study aims to examine the impact of PBSP on population-levels of cycling and risk of collisions between cyclists and motor vehicles in North America. Data collection for this study is complete but there are many opportunities for data analysis.
+HeroX is a series of studies and technologies designed to further research examining the reliability and validity of commercially available wearable devices. This program includes both lab based and free living studies combining multiple devices for measuring physicl activity. 
+
+##### <span style="color:#81112c">Smart Phone Cut Points</span> 
+
+Our study aims to assess the performance of smartphone accelerometers (in Android and iPhone models) in measuring physical activity intensity and duration in controlled laboratory conditions. Our specific objectives are to:   
+    * Assess a variety of individuals. We aim to recruit a gender-balanced sample of 25 children aged 10-14 years and 25 adults (one of their parents or guardians).  
+    * Develop cut-points for smartphone accelerometers. Cut-points are needed so that we can assign the appropriate physical activity intensity (i.e., light, moderate, vigorous) to the “movement counts” recorded by the smartphone accelerometers. 
+
+##### <span style="color:#81112c">ITHIM</span> [https://github.com/ITHIM/ITHIM-R/](https://github.com/ITHIM/ITHIM-R/)
+
+The Integrated Transport Health Impact Model (ITHIM) is a mathematical model that integrates data on travel patterns, physical activity, fine particulate matter, GHG emissions, and disease and injuries based on population and travel scenarios. The model calculates the health impacts of walking and bicycling short distances usually traveled by car or driving low-emission automobiles. I am contributing to development of an R package that will implement the ITHIM model. 
 
 ##### <span style="color:#81112c">CANUE</span> [http://www.canue.ca/](http://www.canue.ca/)
 
@@ -206,7 +220,7 @@ I am a co-lead (with Dr. Michael Widener) of the Canadian Urban Environmental He
 
 ##### <span style="color:#81112c">INTERACT</span> [http://www.teaminteract.ca/](http://www.teaminteract.ca/)
 
-Initially launching in four cities across Canada – Victoria, Vancouver, Saskatoon, and Montreal - INTERACT will be evaluating the health impact of real world urban form interventions that represent an investment of more than $225M.
+The INTErventions, Research, and Action in Cities Team (INTERACT)  is a national research collaboration of scientists, urban planners, and engaged citizens uncovering how the design of our cities is shaping the health and wellbeing of Canadians from coast to coast.  Seeing the city as a living laboratory, we use innovative tools that harness the power of mobile technology and interactive mapping to measure the impact of changes in urban infrastructure on people’s physical activity, social participation, and wellbeing, and inequalities in these outcomes. By enabling cities to understand the health impact of their investments, our research aims to inspire healthy and sustainable urban development that will leave a lasting impact on population health and health equity in Canada.
 
 ##### <span style="color:#81112c">BikeMaps.org</span> [https://bikemaps.org/](https://bikemaps.org/)
 
@@ -216,13 +230,10 @@ Only ~30% of bike collision data are collected and there is no centralized repor
 
 Seasonality and Active Saskatoon Kids (SASK) is an obesity intervention research project that aims to measure and identify locations where physical activity occurs in Saskatoon, across all seasons, among children aged 10-14 years. Using both a self-reported activity questionnaire and accelerometers, the research team will learn about children's active and sedentary activities at school, at home and within the community. 
 
-##### <span style="color:#81112c">Smart Phone Cut Points</span> 
+##### <span style="color:#81112c">International BicycleShare Impacts on Cycling and Collisions</span> [IBICCS](http://www.lisegauvin.com/fr/projets/bixi-multi-villes-2)
 
-Our study aims to assess the performance of smartphone accelerometers (in Android and iPhone models) in measuring physical activity intensity and duration in controlled laboratory conditions. Our specific objectives are to:  
-    i) Assess a variety of individuals. We aim to recruit a gender-balanced sample of 25 children aged 10-14 years and 25 adults (one of their parents or guardians). 
-    i) Develop cut-points for smartphone accelerometers. Cut-points are needed so that we can assign the appropriate physical activity intensity (i.e., light, moderate, vigorous) to the “movement counts” recorded by the smartphone accelerometers. 
-    
-##### <span style="color:#81112c">Eat Great and Participate: Paul Reynolds</span> 
+The IBICCS study aims to examine the impact of PBSP on population-levels of cycling and risk of collisions between cyclists and motor vehicles in North America. Data collection for this study is complete but there are many opportunities for data analysis.
 
-This project proposal outlines an evaluation of the local effects of a healthy canteen within a recreational facility. Data will be gathered from intercept-surveys, point of sales records, municipal administrative data, and key informant interviews, comprising a multi-dimensional analysis of the effects of a healthy canteen within a newly opened municipal public recreation facility.  
+
+
 
