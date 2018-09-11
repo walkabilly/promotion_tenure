@@ -3,8 +3,8 @@ title: "Curriculum vitae"
 author: "Daniel Fuller"
 date: '2019-08-20'
 output:
-  word_document: default
   html_document: default
+  word_document: default
   pdf_document: default
 ---
 
@@ -96,15 +96,15 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 
 ### <span style="color:#81112c">Courses Taught</span>
 
-| Institution | Term | Year | Course | Topic | Role |
+| Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
-| Memorial University| 2019 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
-|  | 2019 | Winter | HKR 6134 | Seminar | Instructor |
-|  | 2018 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
-|  | 2018 | Fall | HKR 6134 | Seminar | Instructor |
-|  | 2018 | Summer | HKR 3400 | Social Determinants of Health | Instructor | 
-|  | 2018 | Winter | HKR 6134 | Seminar | Instructor | 
-|  | 2017 | Fall | HKR 6134 | Seminar | Instructor | 
+| Memorial University| 2018 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
+|  | 2018 | Winter | HKR 6134 | Seminar | Instructor |
+|  | 2017 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
+|  | 2017 | Fall | HKR 6134 | Seminar | Instructor |
+|  | 2017 | Summer | HKR 3400 | Social Determinants of Health | Instructor | 
+|  | 2017 | Winter | HKR 6134 | Seminar | Instructor | 
+|  | 2016 | Fall | HKR 6134 | Seminar | Instructor | 
 | University of Saskatchewan | 2016 | Winter | PUBH 840 | Interdisciplinary Public Health Practice | Instructor | 
 |  | 2016 | Fall | PUBH 840 | Interdisciplinary Public Health Practice | Instructor | 
 |  | 2016 | Fall | PUBH 898 | Social Epidemiology | Instructor | 
