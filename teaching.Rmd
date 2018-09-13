@@ -127,11 +127,17 @@ April 27, 2017: Transformational Teaching and Learning Day. Centre for Innovatio
 
 ## <span style="color:#81112c">Course Evaluations</span>
 
-CEQ results for HKR 3400 were not available in time for the submission deadline. For HKR 6134 the response rate was too low. However, I did collect my own course evaluation data from the 2 courses I taught in the 2016-2017 academic year. Below I present the survey data and quotes for the `Stop, Start, Continue` activity the students completed as part of the evaluation for HKR 3400 as examples of my teaching. 
+I have included CEQ results for all course for which they were available. Some courses had too few responses and results were not made available. 
+
+**Courses taught**
+
+- HKR 3400 Winter 2018: See Appendix T_1 for evaluations
+- HKR 6130 Fall 2017 and Winter 2017: See Appendix T_2 for evaluations
+- HKR 6130 Fall 2017: See Appendix T_3 for evaluations 
 
 #### <span style="color:#81112c">Course Evaluations</span>
 
-The data are from 13 students in HKR 3400 (out of a possible 62 students) and 18 students in HKR 6134 (our of a possible 35). The questions posted were:   
+Additonally, I have conducted my own course evaluations for HKR 3400 and HKR 6134. The data are from 13 students in HKR 3400 (out of a possible 62 students) and 18 students in HKR 6134 (our of a possible 35). The questions posted were:   
     1. The instructor used challenging questions   
     2. The instructor was willing to listen to student opinions  
     3. The instructor was actively helpful to the students  
@@ -196,99 +202,39 @@ ggplot(teaching1, aes(q_share_ideas, group=course_num, col=course_num)) +
   labs(x = "Scale")
 ``` 
 
+### <span style="color:#81112c">Comments from HKR 3400 Winter 2018</span>
 
+Fuller, Daniel - HKR 3400 (crn: 88389)  
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 26 = Instructor requested feedback (if applicable)  
 
-### <span style="color:#81112c">Stop, Start, Continue from HKR 3400</span>
+| Q  |  Comment |
+|----|---------------------------------------------------------------------------|
+|14 |  Good instructor always willing to help when needed, gives good feedback and is clear|
+|14 |  the feedback of article draft to then expand for final paper! Final paper so much better after feedback - opens eyes to new ideas and perspectives when feedback received |
+|14 |  I enjoyed the lightning talks and listening to different things that interest individuals |
+|14 |  Dr. Fuller had course notes well written, organized, and easily accessible on D2L. His grading was fair and he provided appropriate feedback. He was willing to meet with students to discuss their final paper and gave helpful advice. |
+|14 |  great instructing |
+|15 |  organization, format of exams |
+|15 |  the instruction for the assignments were poorly given, a lot of confusion when knowing what was expected. The course could have been offered online with the content. |
+|15 |  Too many group assignments and discussions that wasted time. I would have learned more if the professor spent the majority of class time lecturing. This course has great concepts, however I wanted to see more coming from the professor as that is how I learn best. Participation marking was easy marks but unless you are comfortable speaking in front of a class all the time then you may want to avoid it. |
+|15 |  Link the book and notes more to the exams |
+|15 |  Organziation and feedback provided for draft article, and provide what is expected for midterm |
+|15 |  the course material could have been more detailed |
+|26 |  Dr. Fuller is very approachable and is overall a nice guy. I know that he is very knowledgeable in his area and I wish he shared his insight more. |
 
-#### 1. Describe the three best elements of the instruction in the course:   
-  *  participation was encourage greatly
-  *  instructor would go around and provide to think, pair, share activities
-  *  positivity
-  *  in class assignments were a good idea, enjoyable, and useful
-  *  variety of course content
-  *  topics
-  *  engagement of class
-  *  great slideshows
-  *  great content
-  *  important topics and course
-  *  very welcoming
-  *  approachable
-  *  powerpoints online
-  *  kind welcoming
-  *  passionate about course
-  *  approachable
-  *  Lightning talks
-  *  Activities
-  *  Class engagement
-  *  knowledgeable instructor
-  *  knowledgeable instructor and wanted students to engage with the topic
-  *  various types of media were used to our attention
-  *  the course put a lot of onus on students to follow the topics and stay up to date (which is a big change for undergrad courses) 
-  *  Dr. Fuller worked hard to keep us engaged in class material
-  *  lots of opportunity to raise your mark
-  *  very interesting
-  *  I liked that there were many opportunities to give my opinion
-  *  I liked not having to the biggest educational components as a group
-  *  The instructor was fair and engaging
-  *  intersting subject matter
-  *  discussion was a good idea though used too often in my opinion and sometimes lacked guidance
-  *  challenging students to think and express ideas
+### <span style="color:#81112c">Comments from HKR 6314 Winter 2017</span>
 
-#### 2. Describe three elements of this course that need improvement:   
-  *  less work in short duration course
-  *  more time between lightning talks
-  *  lighting talks: attendance, marking, regulations need improvement
-  *  notes/materials: more structure learning basis needs to be provided at beginning
-  *  A midterm and final paper would be better
-  *  guidelines for articles
-  *  necessity of lightning talks
-  *  feedback for in class projects
-  *  less class discussion and more information from professor who is an expert
-  *  clearer instructions for assignments
-  *  material dry and could not relate
-  *  felt like I had to teach myself
-  *  even with speaking to the instructor he had inadequate or confusing/conflicting answers
-  *  work load for this course needs to be smaller considering it is only 6 weeks
-  *  rubrics need to be clear
-  *  inadequate feedback on assignments, giving students little room to improve
-  *  no reason given behind back mark
-  *  A lot expected of undergrad students
-  *  Dry material
-  *  Waiting to long for classes responses was awkward
-  *  more time between lightning talks
-  *  more focus on certain social determinants
-  *  students seemed unwilling to participate, even when questions where easy. I think they felt intimidated by topics and high expectations
-  *  participation marks based on group work aren't reflective of other in* class efforts
-  *  if left like we only scratched the surface with the topics
-  *  I wish we should have learned more for you instead of discussing in groups
-  *  better standardized grading among all students
-  *  TA's grading was quite harsh in some aspects
-  *  overall organization
-  *  The grading system for the lightning talks was horrible
-  *  wanted to learn not discuss all the time
-  *  Class has great potential
+Fuller, Daniel - HKR 6314 (crn: 63291)  
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 26 = Instructor requested feedback (if applicable)   
 
-#### 3. What have you taken from this course that you will bring forward to your future studies and career:  
-  *  encouraging participation is a great way to encourage participation
-  *  I was genuinely excited for this course but the course lead/structure/material wasn't what kinesiology/pe/rec students need in a 6 week undergrad course
-  *  the major thing I took away from this course were learned in other courses and just fact* repeated in this course
-  *  thinking more rationally from different view but keeping attention to detail
-  *  say what you mean, as precise as possible
-  *  health and wellness is complicated and there are many issues that need to be addressed
-  *  keep an open mind to why some people are healthier than others
-  *  health is determined by many factors, some of which are out of personal control
-  *  not too sure
-  *  keep an open mind, you never know what people are struggling with
-  *  An understanding of what graduate level studies look like
-  *  It was a very interesting course that I enjoyed greatly
-  *  I just wish more of peers felt the same and participated
-  *  I found the course material to be interesting yet informative
-  *  There was enough class engagement that forces students to think about issues
-  *  Don't be afraid to ask the prof for help with papers/assignments
-  *  Don't leave it up to the judges
-  *  sometimes we lack control and much is predetermined
-  *  early mistakes will follow you forever and mess up your lifecourse
-  *  interesting material and research 
-
-
+| Q | Comments |
+|----| ---------------------------------------------------------------------------|
+|14 |  Dr. Fuller's creativity and ability to create diverse seminars that link together research and it's applicability to the world as we know it. He does a great job of encouraging us to think critically and analyze every aspect of a paper (even if he encourages to tell us how bad his papers are sometimes) |
+|14 |  The instructor of this course prepared helpful materials and topics in every class for students. These materials helped all students deeply think about research process and methods.|
+|15 |  I think this course was perfect. I appreciated the instructor of this course. |
+|15 |  This course has already undergone a huge improvement from F2016 and W2017 semesters. Keep it up!|
 
