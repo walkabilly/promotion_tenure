@@ -196,25 +196,31 @@ Trainees supervised/co-supervised by Daniel Fuller *italics*
 Daniel Fuller **bold** 
 
 **2018**  
-* Winters M, Branion-Calles M, Therrien S, **Fuller D**, Gauvin L, Whitehurst DGT, & Nelson T. Impacts of Bicycle Infrastructure in Mid-Sized Cities (IBIMS): protocol for a natural experiment study in three Canadian cities. BMJ Open 2018;8:e019130. https://dx.doi.org/10.1136/bmjopen-2017-019130   
+* Winters M, Fischer J, **Fuller D**, Gauvin L, Whitehurst DGT, Nelson T. Equity In Spatial Access To Bicycling Infrastructure In Mid-Sized Canadian Cities. Transportation Research Board. https://doi.org/10.1177/0361198118791630  
+* *Hosford, K*., **Fuller, D**., Lear, S A., Teschke, K., Gauvin, L., Brauer, M., Winters. (2018). Evaluation of the impact of a public bicycle share program on population bicycling in Vancouver, BC. Preventive Medicine. https://doi.org/10.1016/j.pmedr.2018.09.014  
+* Winters M, Branion-Calles M, Therrien S, **Fuller D**, Gauvin L, Whitehurst DGT, & Nelson T. Impacts of Bicycle Infrastructure in Mid-Sized Cities (IBIMS): protocol for a natural experiment study in three Canadian cities. BMJ Open 2018;8:e019130. https://dx.doi.org/10.1136/bmjopen-2017-019130  
 * *Alphonsus, K.*, Waldner, C., **Fuller D**. Examining the Association between Area Level Deprivation and Vehicle Collisions. Canadian Journal of Public Health. 1-9. https://dx.doi.org/10.17269/s41997-018-0036-7  
-* *Brook JR, Setton EM, Seed E, Shooshtari M, Doiron D, and the CANUE – The Canadian Urban Environmental Health Research Consortium. The Canadian Urban Environmental Health Research Consortium – a protocol for building a national environmental exposure data platform for integrated analyses of urban form and health. BMC Public Health. 2018, 18:114. https://doi.org/10.1186/s12889-017-5001-5  
+* Brook JR, Setton EM, Seed E, Shooshtari M, Doiron D, and the CANUE – The Canadian Urban Environmental Health Research Consortium. The Canadian Urban Environmental Health Research Consortium – a protocol for building a national environmental exposure data platform for integrated analyses of urban form and health. BMC Public Health. 2018, 18:114. https://doi.org/10.1186/s12889-017-5001-5  
 * Sones M, **Fuller D**, Kestens Y, Winters M. If we built it, who will come? The case for attention to equity in healthy community design. British Journal of Sports Medicine. http://dx.doi.org/10.1136/bjsports-2018-099667  
 
+
+
+
+
 **2017**  
-* **Fuller D.**, Winters M. Income inequalities in Bike Score and bicycle to work mode share in Canadian cities. Journal of Transportation and Health. 7(B): 264-268. https://doi.org/10.1016/j.jth.2017.09.005
-* **Fuller D.**, Shareck M, Stanley C. Ethical implications of tracking participants for health research studies with mobile sensing devices. Social Science and Medicine. 191, 84-88 https://doi.org/10.1016/j.socscimed.2017.08.043.  
-* **Fuller, D.**, Buote, R., Stanley, K. (2017). A Glossary for Big Data in Population and Public Health: Discussion and Commentary on Terminology and Research Methods. Journal of Epidemiology and Community Health. 71:1113-1117. http://dx.doi.org/10.1136/jech-2017-209608.  
-* *Hasselback*, J., Schwandt, M., **Fuller, D.** (2017). Choosing Tools for Building Health Spaces: A Global Overview. Cities and Health: http://dx.doi.org/10.1080/23748834.2017.1309091.    
-* McGowan, E., **Fuller, D.**, Cutumisu, N., North, S., & Courneya, K. (2017). Examining Whether Built Environment Factors are Effect Modifiers in a Randomized Controlled Trial to Increase Physical Activity among Men with Prostate Cancer: The PROMOTE Trial. Supportive Care in Cancer. 25(10), 2993–2996. https://doi.org/10.1007/s00520-017-3798-1  
-* Pabayo, R., **Fuller, D.**, Lee, E.Y., Horino, M., Kawachi, I. (2017). State-level income inequality and meeting physical activity guidelines; differential associations among US men and women, Journal of Public Health, https://doi.org/10.1093/pubmed/fdx082  
-* Pabayo, R., **Fuller, D.**, Goldstein, R.B., Kawachi, I., Gilman, S.E. (2017). Income inequality among American states and the conditional risk of post-traumatic stress disorder. Soc Psychiatry Psychiatr Epidemiol 52: 1195. https://doi.org/10.1007/s00127-017-1413-x  
+* **Fuller D.**, Winters M. Income inequalities in Bike Score and bicycle to work mode share in Canadian cities. Journal of Transportation and Health. 7(B): 264-268. https://doi.org/10.1016/j.jth.2017.09.005  
+* **Fuller D.**, Shareck M, Stanley C. Ethical implications of tracking participants for health research studies with mobile sensing devices. Social Science and Medicine. 191, 84-88 https://doi.org/10.1016/j.socscimed.2017.08.043    
+* **Fuller, D.**, Buote, R., Stanley, K. (2017). A Glossary for Big Data in Population and Public Health: Discussion and Commentary on Terminology and Research Methods. Journal of Epidemiology and Community Health. 71:1113-1117. http://dx.doi.org/10.1136/jech-2017-209608  
+* *Hasselback*, J., Schwandt, M., **Fuller, D.** (2017). Choosing Tools for Building Health Spaces: A Global Overview. Cities and Health: http://dx.doi.org/10.1080/23748834.2017.1309091    
+* McGowan, E., **Fuller, D.**, Cutumisu, N., North, S., & Courneya, K. (2017). Examining Whether Built Environment Factors are Effect Modifiers in a Randomized Controlled Trial to Increase Physical Activity among Men with Prostate Cancer: The PROMOTE Trial. Supportive Care in Cancer. 25(10), 2993–2996. https://doi.org/10.1007/s00520-017-3798-1   
+* Pabayo, R., **Fuller, D.**, Lee, E.Y., Horino, M., Kawachi, I. (2017). State-level income inequality and meeting physical activity guidelines; differential associations among US men and women, Journal of Public Health, https://doi.org/10.1093/pubmed/fdx082   
+* Pabayo, R., **Fuller, D.**, Goldstein, R.B., Kawachi, I., Gilman, S.E. (2017). Income inequality among American states and the conditional risk of post-traumatic stress disorder. Soc Psychiatry Psychiatr Epidemiol 52: 1195. https://doi.org/10.1007/s00127-017-1413-x   
 
 **2016**  
-* **Fuller, D.**, Engler-Stringer, R., Muhajarine, N. Retail food environments research: Promising future with more work to be done. Canadian Journal of Public Health. 2016, 107(0): 5622. [http://dx.doi.org/10.17269/cjph.107.5622](http://dx.doi.org/10.17269/cjph.107.5622)  
-* Sullivan, E., **Fuller, D.**, Paterson, Q. S., Huffman, S., Challa, S., Woods, R. Emergency Physicians as human billboards for injury prevention: A randomized controlled trial. Canadian Journal of Emergency Medicine. 2016, 19(4):277-284. [http://dx.doi.org/10.1017/cem.2016.366](http://dx.doi.org/10.1017/cem.2016.366)  
-* Winters, M., Teschke, K., Brauer, M., **Fuller, D.** Bike Score®: Associations between urban bikeability and cycling behavior in 24 cities. International Journal of Behavioral Nutrition and Physical Activity. 2016, 13:18 [https://doi.org/10.1186/s12966-016-0339-0](https://doi.org/10.1186/s12966-016-0339-0)  
-* **Fuller, D.**, Neudorf, J., Bermedo-Carrasco, S., Neudorf, C. Classifying the population by socio-economic factors associated with support for policies to reduce social inequalities in health. Journal of Public Health.  2016, 38(4), 635-643. [http://www.dx.doi.org/10.1093/pubmed/fdv201](http://www.dx.doi.org/10.1093/pubmed/fdv201)  
+* **Fuller, D.**, Engler-Stringer, R., Muhajarine, N. Retail food environments research: Promising future with more work to be done. Canadian Journal of Public Health. 2016, 107(0): 5622. [http://dx.doi.org/10.17269/cjph.107.5622](http://dx.doi.org/10.17269/cjph.107.5622)   
+* Sullivan, E., **Fuller, D.**, Paterson, Q. S., Huffman, S., Challa, S., Woods, R. Emergency Physicians as human billboards for injury prevention: A randomized controlled trial. Canadian Journal of Emergency Medicine. 2016, 19(4):277-284. [http://dx.doi.org/10.1017/cem.2016.366](http://dx.doi.org/10.1017/cem.2016.366)   
+* Winters, M., Teschke, K., Brauer, M., **Fuller, D.** Bike Score®: Associations between urban bikeability and cycling behavior in 24 cities. International Journal of Behavioral Nutrition and Physical Activity. 2016, 13:18 [https://doi.org/10.1186/s12966-016-0339-0](https://doi.org/10.1186/s12966-016-0339-0)   
+* **Fuller, D.**, Neudorf, J., Bermedo-Carrasco, S., Neudorf, C. Classifying the population by socio-economic factors associated with support for policies to reduce social inequalities in health. Journal of Public Health.  2016, 38(4), 635-643. [http://www.dx.doi.org/10.1093/pubmed/fdv201](http://www.dx.doi.org/10.1093/pubmed/fdv201)   
 
 **2015**  
 * Neudorf, C., **Fuller, D.**, Cushon, J., Glew, R., Turner, H., Ugolini, C. An analytic approach for describing, prioritizing and acting on health inequities at the local level in Canada. CMAJ Open. 3(4): E366-E372. [http://www.dx.doi.org/10.9778/cmajo.20150049](http://www.dx.doi.org/10.9778/cmajo.20150049)
@@ -262,10 +268,8 @@ Daniel Fuller **bold**
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
-* *Hosford, K*., **Fuller, D**., Lear, S A., Teschke, K., Gauvin, L., Brauer, M., Winters. (2018). Evaluation of the impact of a public bicycle share program on population bicycling in Vancouver, BC. Preventive Medicine. 
 * Zhang, R., *Lotoski, L.*, **Fuller, D.**, Muhajarine, N., Stanley, K. (2017) The impact of physical activity cut-point choice on childhood activity estimates. PLOS One. 
 * *Luan, H*., *Ramsay, D.*, **Fuller, D.** Household income, active travel, and their interacting impact on body mass index in a sample of urban Canadians: A Bayesian spatial analysis. Health and Place.
-* Winters M, Fischer J, **Fuller D**, Gauvin L, Whitehurst DGT, Nelson T. Equity In Spatial Access To Bicycling Infrastructure In Mid-Sized Canadian Cities. Transportation Research Board.
 * Thigpen, C. Winters, M. **Fuller, D.** Gauvin, L. Therrien, Nelson, T. Who is ready to bicycle?: Categorizing and mapping bicyclists with behavior change theory. Transport Policy. 
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Pediatric Obesity. 
 * Engler-Stringer, R. **Fuller, D.** Abeykoon, A.M. H. Olauson, C. Muhajarine, N. Perspectives on the Failure of New Grocery Store Interventions in Former Food Deserts. Health Education and Behaviour
