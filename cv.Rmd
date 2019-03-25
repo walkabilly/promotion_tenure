@@ -198,7 +198,7 @@ Daniel Fuller **bold**
 **2019**  
 * *Luan, H*., *Ramsay, D.*, **Fuller, D.** Household income, active travel, and their interacting impact on body mass index in a sample of urban Canadians: A Bayesian spatial analysis. International Journal of Health Geographics. 2019;18(4). https://doi.org/10.1186/s12942-019-0168-x  
 * Kestens Y, Winters M, **Fuller D,** Bell S, Berscheid J, Brondeel R, Cantinotti M, Datta G, Gauvin L, Gough M, Laberee K, Lewis P, Lord S, Luan H, McKay H, Morency C, Muhajarine N, Nelson T, Ottoni C, Poirier Stephens Z, Pugh C, Rancourt G, Shareck M, Sims-Gould J, Sones M, Stanley K, Thierry B, Thigpen C, Wasfi R. INTERACT: A comprehensive approach to assess urban form interventions through natural experiments. BMC Public Health. 2019;19(1):51. https://doi.org/10.1186/s12889-018-6339-z  
-* __Fuller D__, Neudorf J, Lockhart S, Plante C, Roberts H, Bandara T, Neudorf C.Individual- and area-level socioeconomic inequalities in diabetes mellitus in Saskatchewan between 2007 and 2012: a cross-sectional analysis. Canadian Medical Association Journal Open. 2019;7(1):E33-E39. https://doi.org/10.9778/cmajo.20180042 
+* __Fuller D__, Neudorf J, Lockhart S, Plante C, Roberts H, Bandara T, Neudorf C. Individual- and area-level socioeconomic inequalities in diabetes mellitus in Saskatchewan between 2007 and 2012: a cross-sectional analysis. Canadian Medical Association Journal Open. 2019;7(1):E33-E39. https://doi.org/10.9778/cmajo.20180042 
 
 **2018**  
 * *Hosford, K*., Lear, S A., **Fuller, D**., Teschke, Therrien, S., Winters. (2018). Who is in the near market for bicycle sharing? Identifying current, potential, and unlikely users of a public bicycle share program in Vancouver, Canada. BMC Public Health. https://doi.org/10.1186/s12889-018-6246-3  
@@ -455,14 +455,15 @@ Daniel Fuller **bold**
 
 ### <span style="color:#81112c">Media</span>
 
-1. CBC Cross Talk. Do you feel safe riding a bicycle? June 21, 2018. 
-2. Juanita Mercer. N.L. urban residents advised to take the bus to better health. May 27, 2017.
+1. Ariana Kelland. March 25, 2019. After immigration trouble, this St. John's trainer is back to helping others https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383
+2. CBC Cross Talk. Do you feel safe riding a bicycle? June 21, 2018. 
+3. Juanita Mercer. N.L. urban residents advised to take the bus to better health. May 27, 2017.
 http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus-to-better-health-213473/
-3. Ted Blades. Taking the bus is better for your health. June 8, 2018.  http://www.cbc.ca/listen/shows/on-the-go/episode/15549559
-4. Mark Quinn. Bike map aims to help St. John's cyclists steer clear of trouble. March 8, 2018. [http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225](http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225)
-5. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
-6. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
-7. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
+4. Ted Blades. Taking the bus is better for your health. June 8, 2018.  http://www.cbc.ca/listen/shows/on-the-go/episode/15549559
+5. Mark Quinn. Bike map aims to help St. John's cyclists steer clear of trouble. March 8, 2018. [http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225](http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225)
+6. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
+7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
+8. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
 
 
 ### <span style="color:#81112c">Peer Reviews</span>
