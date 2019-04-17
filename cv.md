@@ -101,6 +101,7 @@ Trainees supervised/co-supervised by Daniel Fuller _italics_
 Daniel Fuller __bold__  
 
 ##### 2019   
+* __Fuller, D.,__ *Luan, H.,* Buote, R., Auchincloss, A. H. Impact of a public transit strike on public bicycle share use: An interrupted time series natural experiment study. Journal of Transportation and Health. 2019;13:137-142. https://doi.org/10.1016/j.jth.2019.03.018
 1. *Luan, H*., *Ramsay, D.*, **Fuller, D.** Household income, active travel, and their interacting impact on body mass index in a sample of urban Canadians: A Bayesian spatial analysis. International Journal of Health Geographics. 2019;18(4). https://doi.org/10.1186/s12942-019-0168-x
 2. Kestens Y, Winters M, **Fuller D,** Bell S, Berscheid J, Brondeel R, Cantinotti M, Datta G, Gauvin L, Gough M, Laberee K, Lewis P, Lord S, Luan H, McKay H, Morency C, Muhajarine N, Nelson T, Ottoni C, Poirier Stephens Z, Pugh C, Rancourt G, Shareck M, Sims-Gould J, Sones M, Stanley K, Thierry B, Thigpen C, Wasfi R. INTERACT: A comprehensive approach to assess urban form interventions through natural experiments. BMC Public Health. 2019;19(1):51. https://doi.org/10.1186/s12889-018-6339-z
 3. __Fuller D__, Neudorf J, Lockhart S, Plante C, Roberts H, Bandara T, Neudorf C. Individual- and area-level socioeconomic inequalities in diabetes mellitus in Saskatchewan between 2007 and 2012: a cross-sectional analysis. Canadian Medical Association Journal Open. 2019;7(1):E33-E39. https://doi.org/10.9778/cmajo.20180042
@@ -171,17 +172,16 @@ Daniel Fuller __bold__
 51.	Forbes, D. A., Bangma, J., Neilson, C., Forbes, J., **Fuller, D.**, & Furniss, S. Saskatchewan residents’ access to the Cochrane Library. Canadian Journal of Library and Information Practice and Research. 2007, 2(2).
 
 ### <span style="color:#81112c">In Press Publications</span>
-* __Fuller, D.,__ *Luan, H.,* Buote, R., Auchincloss, A. H. Impact of a public transit strike on public bicycle share use: An interrupted time series natural experiment study. Journal of Transportation and Health. 
+* Engler-Stringer, R. **Fuller, D.** Abeykoon, A.M. H. Olauson, C. Muhajarine, N. Perspectives on the Failure of New Grocery Store Interventions in Former Food Deserts. Health Education and Behaviour.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
-
 * __Fuller, D.__, Stanley, K. G. The future of activity space and health research. Journal of Health and Place.
 * __Fuller, D.__, Rahimipour Anaraki, J., *Luan, H.*, *Simango, B.*, Dorani, F., Bozorgi, A. Predicting sleep, sedentary behaviour, and physical activity using Apple Watch and Fitbit using Rotation Forest models. Medicine and Science in Sport and Exercise.
 * *Breslin, S.*, Shareck, M., **Fuller, D.** Research ethics for mobile sensing device use by vulnerable populations. Social Science and Medicine.
 * Zhang, R., *Lotoski, L.*, **Fuller, D.**, Muhajarine, N., Stanley, K. The impact of physical activity cut-point choice on childhood activity estimates. Medicine and Science in Sport and Exercise.
 * Thigpen, C. Winters, M. **Fuller, D.** Gauvin, L. Therrien, Nelson, T. Who is ready to bicycle?: Categorizing and mapping bicyclists with behavior change theory. Transport Policy.
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Pediatric Obesity.
-* Engler-Stringer, R. **Fuller, D.** Abeykoon, A.M. H. Olauson, C. Muhajarine, N. Perspectives on the Failure of New Grocery Store Interventions in Former Food Deserts. Health Education and Behaviour.
+
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
 
