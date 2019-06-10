@@ -174,10 +174,10 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 * Engler-Stringer, R. **Fuller, D.** Abeykoon, A.M. H. Olauson, C. Muhajarine, N. Perspectives on the Failure of New Grocery Store Interventions in Former Food Deserts. Health Education and Behaviour.
+* __Fuller, D.__, Stanley, K. G. The future of activity space and health research. Journal of Health and Place.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 * Zhang R, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems. 
-* __Fuller, D.__, Stanley, K. G. The future of activity space and health research. Journal of Health and Place.
 * __Fuller, D.__, Rahimipour Anaraki, J., *Luan, H.*, *Simango, B.*, Dorani, F., Bozorgi, A. Predicting sleep, sedentary behaviour, and physical activity using Apple Watch and Fitbit using Rotation Forest models. Medicine and Science in Sport and Exercise.
 * Zhang, R., *Lotoski, L.*, **Fuller, D.**, Muhajarine, N., Stanley, K. The impact of physical activity cut-point choice on childhood activity estimates. Medicine and Science in Sport and Exercise.
 * Thigpen, C. Winters, M. **Fuller, D.** Gauvin, L. Therrien, Nelson, T. Who is ready to bicycle?: Categorizing and mapping bicyclists with behavior change theory. Transport Policy.
@@ -236,6 +236,8 @@ Daniel Fuller __bold__
 * October 1, 2010: **Fuller, D.** BIXI is the new fixie: The public bike share explosion in North American. TEDxMontrealQuartierLatin, Montreal, Canada.
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
+* 2019 June: *Breslin, S.*, Shareck, M., **Fuller, D.** Research ethics for mobile sensing device use by vulnerable populations. At the Intersection of Culture and Method: Designing Feminist Action (DIS 2019).
+* 2019 April: **Fuller, D.**, Zhang, R., Bell, S., Stanely, K. Representative Features of Geospatial Mobility. American Association of Geographers Conference. Washington, DC.
 * 2019 April: **Fuller, D.**, Zhang, R., Bell, S., Stanely, K. Representative Features of Geospatial Mobility. American Association of Geographers Conference. Washington, DC.
 * 2018 October: Nolan, R., Burton, M., **Fuller, D.**. Smart Cities Challenge: Building a Healthy and Happy City through Collaboration. People, Place, Public Engagement Conference, Memorial University of Newfoundland.
 * 2018 October: **Fuller, D.**, Luan, H., Dorani, F., Rahimipour Anaraki, J., Beheshti Mohtasham, M. Predicting sleep, sedentary behaviour, and physical activity from commercially available wearable devices using Rotation Forest models. International Society for Physical Activity and Health. London, England. 
