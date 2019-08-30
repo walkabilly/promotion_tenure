@@ -177,7 +177,7 @@ Daniel Fuller __bold__
 56.	Forbes, D. A., Bangma, J., Neilson, C., Forbes, J., **Fuller, D.**, & Furniss, S. Saskatchewan residents’ access to the Cochrane Library. Canadian Journal of Library and Information Practice and Research. 2007, 2(2).
 
 ### <span style="color:#81112c">In Press Publications</span>
-* _Hosford, K._, Winters, M., __Fuller, D.__. Commentary on: Burn Calories, Not Fuel! The effects of bikeshare programs on obesity rates. Transportation Research Part D: Transport and Environment. 
+* _Hosford, K._, Winters, M., __Fuller, D.__. Commentary on: Burn Calories, Not Fuel! The effects of bikeshare programs on obesity rates. Transportation Research Part D: Transport and Environment. https://doi.org/10.1016/j.trd.2019.08.028 
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -335,7 +335,9 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 
 | Role | Year | Title | Funder |  Amount | MUN Amount 2017 |
 |------|--------|--------|--------|------|------|
-| Principal Investigator | March 2019-March 2020 | Creating and comparing activity space measures to understand how walkability, urban sprawl, and public transit accessibility are associated with location based physical activity in 4 Canadian cities | CIHR | $100,000 | $100,000 |
+| Principal Investigator  | March 2019-March 2020 | Creating and comparing activity space measures to understand how walkability, urban sprawl, and public transit accessibility are associated with location based physical activity in 4 Canadian cities | CIHR | $100,000 | $100,000 |
+| Co-Applicant | May 2019 – April 2020 | Smart Cities, Healthy Citizens? Optimizing Health and Equity in City Policy Making | CIHR | $24,985 | $0 |
+| Co-Applicant | March 2019-March 2023 | Sustainable Healthy Cities: The Interplay between Urban Interventions, Gentrification, and Population Health | CIHR | $527,851 | $0 |
 | Principal Investigator | January 2018-January 2019 | Transportation and Health Impact Modelling for Healthy Cities | CIHR | $10,000 | $10,000 |
 | Co-Applicant | January 2018-January 2019 | INTervention Research Accross Cities Team | CIHR | $10,000 | $0 |
 | Co-Applicant | January 2018-January 2019 | Policy Action for Healthy Cities | CIHR | $10,000 | $0 |
@@ -355,9 +357,9 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 
 ### <span style="color:#81112c">Grants Under Review</span>
 
-* **Fuller D**, Winters M, Kestens Y. (2018) INTERACT St. John's. CIHR Project Scheme Grant. $CAD 680,000. 
 
 ### <span style="color:#81112c">Unsuccessful Grants</span>
+* **Fuller D**, Winters M, Kestens Y. (2018) INTERACT St. John's. CIHR Project Scheme Grant. $CAD 680,000. 
 * Staniland, A. **Fuller, D.**, Vardy, A. (2018). Immersive Audio and Virtual Reality Infrastructure. Canada Foundation for Innovation. $250,000
 * Kestens, Y., Murua, A., Lord, S., **Fuller, D.**, Stanley, K., Gebru, T., Brondeel, R. (2017) Caractérisation des environnements urbains pour la recherche en santé: De la machine à l'humain. Programme intersectoriel AUDACE, FRQSC. $CAD 100,000.  
 * City of St. John's & Happy City. (2018). Smart Cities Challenge. Infrastructure Canada. $5M.
@@ -384,6 +386,7 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
 | Memorial University | 2019 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
+|  | 2018 | Winter | HKR 6134 | Seminar | Instructor |
 |  | 2019 | Fall | HKR 4600 | Research Methods | Instructor | 
 |  | 2018 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
 |  | 2018 | Winter | HKR 6134 | Seminar | Instructor |
@@ -490,10 +493,15 @@ http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus
 
 ### <span style="color:#81112c">Peer Reviews</span>
 
-I have been an Associated Editor for BMC Public Health since September 2019. I have been handling editor for 6 papers since that time. 
+I have been an Associated Editor for BMC Public Health since September 2019. I have been handling editor for 13 papers since that time. I have been Associate Editor for the Canadian Journal of Public Health since April 2019. 
 
 | Journal | Year | Number of Reviews |
 |---------|------|-------------------|
+| British Medical Journal | 2019 | 1 | 
+| Journal of Science and Medicine in Sport | 2019 | 1 | 
+| Journal of Aging and Physical Activity | 2019 | 1 | 
+| Health and Place | 2019 | 1 | 
+| Journal of Epidemiology and Community Health | 2019 | 1 | 
 | Journal of Transportation and Health | 2019 | 1 | 
 | Canadian Journal of Public Health | 2019 | 2 | 
 | Canadian Journal of Public Health | 2018 | 1 | 
@@ -534,6 +542,7 @@ I have been an Associated Editor for BMC Public Health since September 2019. I h
 
 | Name of Committee | Period | Institution |
 |-------------------|--------|-------------|
+| Search Committee - Lockheed Martin Chair | 2018 - 2019 | Marine Institute - Memorial University | 
 | Search Committee Chair | 2018 - 2019 | Memorial University | 
 | Dean Search Committee | 2017 - 2018 | Memorial University | 
 | Search Committee | 2017 - 2018 | Memorial University | 
@@ -564,8 +573,10 @@ I have been an Associated Editor for BMC Public Health since September 2019. I h
 
 ## <span style="color:#81112c">Professional Activity Outside University</span>
 
-* 2018: Associated Editor, BMC Public Health (Impact Factor: **5 Year Impact Factor: 3.039**)
-    - Associate Editor for 4 manuscripts to date
+* 2019: Associated Editor, Canadian Journal of Public Health 
+    - Associate Editor for 2 manuscripts to date
+* 2018: Associated Editor, BMC Public Health 
+    - Associate Editor for 13 manuscripts to date
 * 2015: Scientific Committee, Food Environments in Canada Symposium and Workshop.
 * 2014: Scientific Committee, Active Living Research Conference.
 * 2009-2011: Board Member, International Union of Health Promotion Student and Early Career Network (ISECN).
