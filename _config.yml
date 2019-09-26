@@ -1,1 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enable: true
+  collections: true
+include: 
+  - README.md
+  - cv.md
+  - research.md
+  - service.md
+  - teaching.md
 theme: jekyll-theme-minimal
