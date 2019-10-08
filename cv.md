@@ -183,13 +183,14 @@ Daniel Fuller __bold__
 * Zhang R, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
-* Zhang, R., *Lotoski, L.*, **Fuller, D.**, Muhajarine, N., Stanley, K. The impact of physical activity cut-point choice on childhood activity estimates. Medicine and Science in Sport and Exercise.
+* _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
+* __Fuller, D.__, Rahimipour Anaraki, J., *Luan, H.*, *Simango, B.*, Dorani, F., Bozorgi, A. Predicting sleep, sedentary behaviour, and physical activity using Apple Watch and Fitbit using Rotation Forest models. Journal for the Measurement of Physical Activity Behaviour.
+* Zhang, R., *Lotoski, L.*, **Fuller, D.**, Muhajarine, N., Stanley, K. The impact of physical activity cut-point choice on childhood activity estimates. Journal of Science and Medicine in Sport.
 * Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
 * Hosford, K., Winters, M., Gauvin, L., Camden, A., Dubé, A-S., Friedman, S. M., __Fuller, D.__. Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Journal of Behavioural Nutrition and Physical Activity.
 * Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood
 Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
 * Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Record.
-* __Fuller, D.__, Rahimipour Anaraki, J., *Luan, H.*, *Simango, B.*, Dorani, F., Bozorgi, A. Predicting sleep, sedentary behaviour, and physical activity using Apple Watch and Fitbit using Rotation Forest models. Journal for the Measurement of Physical Activity Behaviour.
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Pediatric Obesity.
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
