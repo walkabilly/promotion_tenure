@@ -2,8 +2,9 @@
 title: 'Teaching: Promotion and Tenure Document'
 author: "Daniel Fuller"
 output:
-      html_document:
-        keep_md: true
+  html_document:
+    keep_md: yes
+  word_document: default
 ---
 
 
@@ -18,6 +19,24 @@ A1C 5S7
 Tel: (709) 864-7270    
 E-mail: dfuller@mun.ca    
 Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)  
+
+### Suggested Framework
+
+* Title Page
+* Table of Contents
+* Intro Short
+    * Broad teaching experience AND what you hope reviewers realize about you and teaching
+1. Teaching responsibility
+    * Courses taught
+    * student supervision (highlight success of students)
+2. Teaching philosophy
+3. Effectiveness in teaching and supporting learning
+4. Prefessional learning and development in teaching
+5. scholarship ih teaching and learning
+6. Educationl leadership philosohy
+7. Teaching leadership and service
+8. Teaching goals
+
 
 ### <span style="color:#81112c">The important thing is not to stop questioning. Curiosity has its own reason for existing.</span>
 
@@ -94,24 +113,28 @@ By the end of the course, the student will
 
 ## <span style="color:#81112c">Graduate Student Supervision</span>  
 
-| Name | Program | Project | Completion | Institution | Role | 
+### Add titles
+
+| Name | Program | Project Title | Completion | Institution | Role | 
 |------|---------|---------|------------|-------------|------| 
 | Melissa Tobin | Human Kinetics and Recreation | MSc Student | Expected 2018 | Memorial University | Supervisor |  
 | Bo Simango | Human Kinetics and Recreation | MSc Student | Expected 2018 | Memorial University | Supervisor |  
 | Kassia Orychock | Human Kinetics and Recreation | MSc Student | Expected 2018 | Memorial University | Supervisor |  
-| Kate Hosford | Public Health | MSc Student | Expected 2018 | Simon Fraser University |  Committee Member |  
 | Pablo Navarro | Community Health and Humanities | PhD Student | Expected 2019 | Memorial University |  Committee Member |
 | Se’era Anstruthers | Nutrition | MSc Student | Expected 2019 | University of Saskatchewan |  Committee Member |  
-| Larisa Lotoski | Epidemiology | PhD Student | Expected 2018 | University of Saskatchewan | Committee Member |  
 | Adriana Fonseca | Epidemiology | PhD Student | Expected 2020 |  University of Saskatchewan | Committee Member |  
 
 ## <span style="color:#81112c">Graduated Students</span>  
 
-| Name | Program | Project | Institution | Role | 
-|------|---------|---------|-------------|------| 
-| Nathan Taylor | Public Health | Practicum Student | Memorial University | Practicum Supervisor | 
-| Amita Goyal | HKR | MSc Student | MUN |  Reviewer |  
-
+| Name | Program | Project Title | Institution | Role | Completion Year |
+|------|---------|---------|-------------|------|-----|
+| Sydney Hector | BSc Honours | | Memorial University | Supervisor | 2019 |
+| Larisa Lotoski | PhD Epidemiology | | University of Saskatchewan | Committee Member | 2019 |
+| Kenneth Joshua | MSc Human Kinetics and Recreation | | Memorial University | Committee Member | 2019 |
+| Kate Hosford | Masters of Public Health |  | Simon Fraser University |  Committee Member | 2018 |
+| John Snow | MSc Human Kinetics and Recreation |  | Memorial University |  Reviewer | 2018 |
+| Nathan Taylor | Masters of Public Health |  | Memorial University | Practicum Supervisor | 2017  |
+| Amita Goyal | Human Kinetics and Recreation |  | Memorial University |  Reviewer | 2017 |
 
 ## <span style="color:#81112c">Post Doctoral Fellows</span>
 
@@ -125,11 +148,17 @@ April 27, 2017: Transformational Teaching and Learning Day. Centre for Innovatio
 
 ## <span style="color:#81112c">Course Evaluations</span>
 
-CEQ results for HKR 3400 were not available in time for the submission deadline. For HKR 6134 the response rate was too low. However, I did collect my own course evaluation data from the 2 courses I taught in the 2016-2017 academic year. Below I present the survey data and quotes for the `Stop, Start, Continue` activity the students completed as part of the evaluation for HKR 3400 as examples of my teaching. 
+I have included CEQ results for all course for which they were available. Some courses had too few responses and results were not made available. 
+
+**Courses taught**
+
+- HKR 3400 Winter 2018: See Appendix T_1 for evaluations
+- HKR 6130 Fall 2017 and Winter 2017: See Appendix T_2 for evaluations
+- HKR 6130 Fall 2017: See Appendix T_3 for evaluations 
 
 #### <span style="color:#81112c">Course Evaluations</span>
 
-The data are from 13 students in HKR 3400 (out of a possible 62 students) and 18 students in HKR 6134 (our of a possible 35). The questions posted were:   
+Additonally, I have conducted my own course evaluations for HKR 3400 and HKR 6134. The data are from 13 students in HKR 3400 (out of a possible 62 students) and 18 students in HKR 6134 (our of a possible 35). The questions posted were:   
     1. The instructor used challenging questions   
     2. The instructor was willing to listen to student opinions  
     3. The instructor was actively helpful to the students  
@@ -147,15 +176,12 @@ Below I present only a subset of the data. However, what is presented provides a
 
 ![](teaching_files/figure-html/unnamed-chunk-2-1.png)<!-- -->![](teaching_files/figure-html/unnamed-chunk-2-2.png)<!-- -->![](teaching_files/figure-html/unnamed-chunk-2-3.png)<!-- -->![](teaching_files/figure-html/unnamed-chunk-2-4.png)<!-- -->![](teaching_files/figure-html/unnamed-chunk-2-5.png)<!-- -->
 
-
-
 ### <span style="color:#81112c">Comments from HKR 3400 Winter 2018</span>
 
-Fuller, Daniel - HKR 3400 (crn: 88389)
-Q 14 = If you had to select the best aspects of this course, what would they be?
-Q 15 = What aspects of this course could be improved and how could they be improved?
-Q 26 = Instructor requested feedback (if applicable)
-Q_No Comments
+Fuller, Daniel - HKR 3400 (crn: 88389)  
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 26 = Instructor requested feedback (if applicable)  
 
 | Q  |  Comment |
 |----|---------------------------------------------------------------------------|
@@ -174,10 +200,10 @@ Q_No Comments
 
 ### <span style="color:#81112c">Comments from HKR 6314 Winter 2017</span>
 
-Fuller, Daniel - HKR 6314 (crn: 63291)
-Q 14 = If you had to select the best aspects of this course, what would they be?
-Q 15 = What aspects of this course could be improved and how could they be improved?
-Q 26 = Instructor requested feedback (if applicable)  
+Fuller, Daniel - HKR 6314 (crn: 63291)  
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 26 = Instructor requested feedback (if applicable)   
 
 | Q | Comments |
 |----| ---------------------------------------------------------------------------|
