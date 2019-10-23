@@ -100,6 +100,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _Hosford, K._, Winters, M., Gauvin, L., Camden, A., Dubé, A-S., Friedman, S. M., __Fuller, D.__. Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Journal of Behavioural Nutrition and Physical Activity.
 1. _Hosford, K._, Winters, M., __Fuller, D.__. Commentary on: Burn Calories, Not Fuel! The effects of bikeshare programs on obesity rates. Transportation Research Part D: Transport and Environment. 2019:75, 121-122. [https://doi.org/10.1016/j.trd.2019.08.028](https://doi.org/10.1016/j.trd.2019.08.028) 
 1. __Fuller, D.__, Stanley, K. G. The future of activity space and health research. Journal of Health and Place. 2019:58, 102131. [https://doi.org/10.1016/j.healthplace.2019.05.009](https://doi.org/10.1016/j.healthplace.2019.05.009)
 2. Thigpen, C. Winters, M. **Fuller, D.** Gauvin, L. Therrien, Nelson, T. Who is ready to bicycle?: Categorizing and mapping bicyclists with behavior change theory. Transport Policy. 2019:83; 11-17. [https://doi.org/10.1016/j.tranpol.2019.07.011](https://doi.org/10.1016/j.tranpol.2019.07.011)
@@ -170,7 +171,6 @@ Daniel Fuller __bold__
 * __Fuller, D.__, Rahimipour Anaraki, J., *Luan, H.*, *Simango, B.*, Dorani, F., Bozorgi, A. Predicting sleep, sedentary behaviour, and physical activity using Apple Watch and Fitbit using Rotation Forest models. Journal for the Measurement of Physical Activity Behaviour.
 * Zhang, R., *Lotoski, L.*, **Fuller, D.**, Muhajarine, N., Stanley, K. The impact of physical activity cut-point choice on childhood activity estimates. Journal of Science and Medicine in Sport.
 * Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
-* Hosford, K., Winters, M., Gauvin, L., Camden, A., Dubé, A-S., Friedman, S. M., __Fuller, D.__. Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Journal of Behavioural Nutrition and Physical Activity.
 * Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood
 Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
 * Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Record.
@@ -228,6 +228,9 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 * October 1, 2010: **Fuller, D.** BIXI is the new fixie: The public bike share explosion in North American. TEDxMontrealQuartierLatin, Montreal, Canada.
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
+
+* 2020 February: _Hosford K_, Laberee K, **Fuller D**, Kestens Y, Winters M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Board Annual Meeting. 
+* 2020 February: _Bree S_, __Fuller D__, Diab E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership.  Transportation Research Board Annual Meeting. 
 * 2019 June: *Breslin, S.*, Shareck, M., **Fuller, D.** Research ethics for mobile sensing device use by vulnerable populations. At the Intersection of Culture and Method: Designing Feminist Action (DIS 2019).
 * 2019 April: **Fuller, D.**, Zhang, R., Bell, S., Stanely, K. Representative Features of Geospatial Mobility. American Association of Geographers Conference. Washington, DC.
 * 2019 April: **Fuller, D.**, Zhang, R., Bell, S., Stanely, K. Representative Features of Geospatial Mobility. American Association of Geographers Conference. Washington, DC.
@@ -411,6 +414,8 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 ### <span style="color:#81112c">Undergraduate Supervision</span>
 | Name | Program | Project | Term |
 |------|--------|--------|------|
+| Harshal Deshpande  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
+| Levi Moulton  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
 | Logan Slade | Human Kinetics and Recreation | MUCEP | Fall 2018 |
 | Abbie Humphreys | Humanities and Social Sciences | MUCEP | Summer 2018 |
 | Desiree van Heerden | Engineering | Co-op Student | Summer 2017 |
@@ -479,7 +484,6 @@ http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus
 6. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
 7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
 8. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
-
 
 ### <span style="color:#81112c">Peer Reviews</span>
 
