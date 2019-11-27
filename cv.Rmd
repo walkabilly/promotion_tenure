@@ -1,7 +1,7 @@
 ---
 title: "Curriculum vitae"
 author: "Daniel Fuller"
-date: '2019-07-03'
+date: '2019-11-25'
 output:
   html_document: 
       keep_md: yes
@@ -102,6 +102,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _Hosford, K._, Winters, M., Gauvin, L., Camden, A., Dubé, A-S., Friedman, S. M., __Fuller, D.__. Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Journal of Behavioural Nutrition and Physical Activity. 2019:16, 107. [https://doi.org/10.1186/s12966-019-0871-9](https://doi.org/10.1186/s12966-019-0871-9)
 1. _Hosford, K._, Winters, M., __Fuller, D.__. Commentary on: Burn Calories, Not Fuel! The effects of bikeshare programs on obesity rates. Transportation Research Part D: Transport and Environment. 2019:75, 121-122. [https://doi.org/10.1016/j.trd.2019.08.028](https://doi.org/10.1016/j.trd.2019.08.028) 
 1. __Fuller, D.__, Stanley, K. G. The future of activity space and health research. Journal of Health and Place. 2019:58, 102131. [https://doi.org/10.1016/j.healthplace.2019.05.009](https://doi.org/10.1016/j.healthplace.2019.05.009)
 2. Thigpen, C. Winters, M. **Fuller, D.** Gauvin, L. Therrien, Nelson, T. Who is ready to bicycle?: Categorizing and mapping bicyclists with behavior change theory. Transport Policy. 2019:83; 11-17. [https://doi.org/10.1016/j.tranpol.2019.07.011](https://doi.org/10.1016/j.tranpol.2019.07.011)
@@ -168,15 +169,16 @@ Daniel Fuller __bold__
 * Zhang R, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
+
+* Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health. 
 * _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
 * __Fuller, D.__, Rahimipour Anaraki, J., *Luan, H.*, *Simango, B.*, Dorani, F., Bozorgi, A. Predicting sleep, sedentary behaviour, and physical activity using Apple Watch and Fitbit using Rotation Forest models. Journal for the Measurement of Physical Activity Behaviour.
-* Zhang, R., *Lotoski, L.*, **Fuller, D.**, Muhajarine, N., Stanley, K. The impact of physical activity cut-point choice on childhood activity estimates. Journal of Science and Medicine in Sport.
 * Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
-* Hosford, K., Winters, M., Gauvin, L., Camden, A., Dubé, A-S., Friedman, S. M., __Fuller, D.__. Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Journal of Behavioural Nutrition and Physical Activity.
 * Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood
 Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
 * Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Record.
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Pediatric Obesity.
+* _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Journal of Transport Geography.
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
 
@@ -207,6 +209,8 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 ## <span style="color:#81112c">Presentations</span>
 
 ### <span style="color:#81112c">Invited Presentations</span>  
+* Friday Novemmber 15, 2019: **Fuller D**. Canada Research Chair Panel on Health and Wellbeing. Memorial Univeristy of Newfoundland. 
+* Friday October 26, 2018: **Fuller D**. Wearable Devices, Physical Activity, Machine Learning, and Automated Detection of Urban Environments. Urban Sustainability and Population Health: Turning Data into Insights. McGill University.
 * May 10, 2018: **Fuller D**. Designing Health Cities Using Data and Policy. HKR Speaker Series, Memorial University of Newfoundland.
 * November 30, 2017: Kestens Y, **Fuller D**, Winters M. INTERACT: Interventions, Research and Action in Cities Team. CIHR-IPPH Healthy Cities Think Tank, Toronto, ON.
 * November 29, 2017: **Fuller D.** The Canadian Urban Environmental Health Research Consortium (CANUE). Urban Public Health Network Annual Meeting, Toronto, ON
@@ -307,7 +311,8 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 
 ## <span style="color:#81112c">Hosted Workshops</span>
 
-1. "The Future of Walkability Measurement in Canada" workshop on attended by 18 researchers from across Canada. November 16 and 17, 2017
+1. "How to write a conceptual paper" workshop. Attended by 9 students from Universite de Montreal. November 4, 2019.
+1. "The Future of Walkability Measurement in Canada" workshop. Attended by 18 researchers from across Canada. November 16 and 17, 2017
 2. "Itinerum Smartphone App" workshop with Dr. Zachary Patterson from Concordia University. Approximately 20 students attended. October 20th 2017. 
 3."R: Data analysis and report writing for HKR" workshop in 2017 attended by 17 students and faculty members. Tuesday April 25, 2017.
 4."BikeMaps.org" workshop in 2017 attended by 9 community members and hosted in collaboration with Safety NL. Thursday February 2, 2017.  
@@ -477,6 +482,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
+1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
 1. Ariana Kelland. March 25, 2019. After immigration trouble, this St. John's trainer is back to helping others https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383
 2. CBC Cross Talk. Do you feel safe riding a bicycle? June 21, 2018. 
 3. Juanita Mercer. N.L. urban residents advised to take the bus to better health. May 27, 2017.
