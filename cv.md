@@ -1,7 +1,7 @@
 ---
 title: "Curriculum vitae"
 author: "Daniel Fuller"
-date: '2019-07-03'
+date: '2019-11-25'
 output:
   html_document: 
       keep_md: yes
@@ -168,14 +168,16 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+* __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. British Journal of Sports Medicine. 
 * Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health. 
 * _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
 * __Fuller, D.__, Rahimipour Anaraki, J., *Luan, H.*, *Simango, B.*, Dorani, F., Bozorgi, A. Predicting sleep, sedentary behaviour, and physical activity using Apple Watch and Fitbit using Rotation Forest models. Journal for the Measurement of Physical Activity Behaviour.
 * Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
 * Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood
 Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
-* Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Record.
+* Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Pediatric Obesity.
+* _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Journal of Transport Geography.
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
 
@@ -479,7 +481,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
-1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. 
+1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
 1. Ariana Kelland. March 25, 2019. After immigration trouble, this St. John's trainer is back to helping others https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383
 2. CBC Cross Talk. Do you feel safe riding a bicycle? June 21, 2018. 
 3. Juanita Mercer. N.L. urban residents advised to take the bus to better health. May 27, 2017.
