@@ -168,6 +168,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+* Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews. 
 * __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. British Journal of Sports Medicine. 
 * Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health. 
 * _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
