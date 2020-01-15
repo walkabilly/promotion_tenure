@@ -177,7 +177,7 @@ Daniel Fuller __bold__
 * Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood
 Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
 * Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
-* Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Pediatric Obesity.
+* Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
 * _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Journal of Transport Geography.
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
@@ -296,6 +296,7 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 
 ## <span style="color:#81112c">Partner and Non-Academic Audience Presentations</span>
 
+* January 24, 2020. **Fuller D**. Population Physical Activity Research: Applications to Staff Wellness. Memorial University Health Science Librarians.
 * May 28, 2018. Laberee K, Nelson T, Ferster C. Fischer J, **Fuller D**, Winters M. BikeMaps.org – A national view on bicycling safety and ridership in Canada. Presentation at the Canada Bikes National Summit in Ottawa.
 * October 28, 2017. Winters M, **Fuller D**, Fischer J, Branion-Calles M, Therrien, S, Gauvin L, Whitehurst DGT, and Nelson T.  Impacts of bicycle infrastructure in mid-sized cities study: Baseline results. Presentation at the Greater Victoria Bike to Work Week Society Annual General Meeting.  In attendance: 40 including representatives from the Greater Victoria Bike to Work Week Society, Greater Victoria Cycling Coalition and the CRD. 
 * September 29, 2017. Winters, M, **Fuller, D.** Impacts of bicycle infrastructure in mid-sized cities study: Baseline results. Presentation to Halifax Road Safety Advisory Committee.  In attendance: 5. 
@@ -436,13 +437,13 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 ### ADD titles
 
 * 2019: Rebecca Maher. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2019: Jonathan Slaney. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2019: Kole MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 
-* 2019: SeyedJavad KhataeiPour. MSc Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2017: Kassia Orychock. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2017: Bo Simango. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2017: Melissa Tobin. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2018: Pablo Navarro. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University 
+* 2019: Jonathan Slaney.  MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2019: Kole Phillips. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 
+* 2019: SeyedJavad KhataeiPour. Superior Performance of Machine Learning Algorithms in Metabolic Equivalent (MET) Prediction Using Cell Phone Accelerometer Data. MSc Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2017: Kassia Orychock. Association between BMI and WalkScore, Dining and Drinking Score and Grocery Score in a multi-city sample of adults: A cross sectional analysis. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2017: Bo Simango. Improving the accuracy of activity intensity classification using machine learning and commercial wearable device data. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2017: Melissa Tobin. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2018: Pablo Navarro. The Government of Newfoundland and Labrador’s implementation of a “Health in All Policies”. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University 
 * 2018: Machel Rayner. MPH Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Se’era Anstruthers. PhD Program. Committee Member. Department of Nutrition. University of Saskatchewan. 
 * 2017: Nathan Taylor. MPH Program. Supervisor. Neighbourhood Active Living Potential on the Avalon Peninsula. Memorial University
@@ -493,9 +494,11 @@ http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus
 7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
 8. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
 
-### <span style="color:#81112c">Peer Reviews</span>
+### <span style="color:#81112c">Funding Reviews</span>
 
-I have been an Associated Editor for BMC Public Health since September 2019. I have been handling editor for 13 papers since that time. I have been Associate Editor for the Canadian Journal of Public Health since April 2019. 
+* 2019 NSERC Discovery Grant Reviewer (1 Grant)
+
+### <span style="color:#81112c">Peer Reviews</span>
 
 | Journal | Year | Number of Reviews |
 |---------|------|-------------------|
@@ -575,10 +578,11 @@ I have been an Associated Editor for BMC Public Health since September 2019. I h
 
 ## <span style="color:#81112c">Professional Activity Outside University</span>
 
+* 2020-2023: Social Media Associated Editor, Canadian Journal of Public Health 
 * 2019: Associated Editor, Canadian Journal of Public Health 
-    - Associate Editor for 2 manuscripts to date
-* 2018: Associated Editor, BMC Public Health 
-    - Associate Editor for 13 manuscripts to date
+    - Associate Editor for 5 manuscripts 
+* 2018-2019: Associated Editor, BMC Public Health 
+    - Associate Editor for 13 manuscripts 
 * 2015: Scientific Committee, Food Environments in Canada Symposium and Workshop.
 * 2014: Scientific Committee, Active Living Research Conference.
 * 2009-2011: Board Member, International Union of Health Promotion Student and Early Career Network (ISECN).

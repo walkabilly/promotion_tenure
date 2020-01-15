@@ -108,8 +108,15 @@ By the end of the course, the student will
 
 | Name | Program | Project | Term |
 |------|--------|--------|------|
+| Harshal Deshpande  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
+| Levi Moulton  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
 | Logan Slade | Human Kinetics and Recreation | MUCEP | Fall 2018 |
 | Abbie Humphreys | Humanities and Social Sciences | MUCEP | Summer 2018 |
+| Desiree van Heerden | Engineering | Co-op Student | Summer 2017 |
+| Mehnaz Tabassum | Business | MUCEP | Summer 2017 |
+| Melissa Tobin | HKR | Honours | 2017 |
+| Alyssa Milley | HKR | Honours | 2017 |
+| Hilary Gosse | HKR | Honours | 2017 |
 
 ## <span style="color:#81112c">Graduate Student Supervision</span>  
 
@@ -128,6 +135,7 @@ By the end of the course, the student will
 
 | Name | Program | Project Title | Institution | Role | Completion Year |
 |------|---------|---------|-------------|------|-----|
+| SeyedJavad KhataeiPour | Masters of Computer Science |  | Memorial University | Co-op Supervisor | 2019 |
 | Sydney Hector | BSc Honours | | Memorial University | Supervisor | 2019 |
 | Larisa Lotoski | PhD Epidemiology | | University of Saskatchewan | Committee Member | 2019 |
 | Kenneth Joshua | MSc Human Kinetics and Recreation | | Memorial University | Committee Member | 2019 |
