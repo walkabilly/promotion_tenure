@@ -168,6 +168,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+* Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. (2020). Casually Causally speaking: challenges in measuring gentrification for population health research. Social Science & Medicine.
 * Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews. 
 * __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. British Journal of Sports Medicine. 
 * Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health. 
@@ -434,8 +435,6 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Graduate Supervision</span>
 
-### ADD titles
-
 * 2019: Rebecca Maher. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2019: Jonathan Slaney.  MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2019: Kole Phillips. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 
@@ -445,7 +444,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 * 2017: Melissa Tobin. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2018: Pablo Navarro. The Government of Newfoundland and Labrador’s implementation of a “Health in All Policies”. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University 
 * 2018: Machel Rayner. MPH Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2017: Se’era Anstruthers. PhD Program. Committee Member. Department of Nutrition. University of Saskatchewan. 
+* 2017: Se’era Anstruthers. PhD Program. Committee Member. The Influence of Socioeconomic Factors and Location on the Impact of Children in Healthy Start-Départ Santé. Department of Nutrition. University of Saskatchewan. 
 * 2017: Nathan Taylor. MPH Program. Supervisor. Neighbourhood Active Living Potential on the Avalon Peninsula. Memorial University
 * 2016: Adriana Fonseca. PhD Program. Committee Member.  Physical activity and chronic back disorders in Canadian adults. Department of Community Health and Epidemiology. University of Saskatchewan.
 * 2016: Kate Hosford. MSc Program. Committee Member. Impacts of a Public Bike Share Program in Vancouver, BC: Changes in Population Cycling Levels and Program Perceptions and Attitudes. Faculty of Health Sciences, Simon Fraser University.
@@ -458,8 +457,8 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Graduate Thesis Revisions</span>
 
-* 2017: Amita Goyal. MSc Program. Committee Member. Memorial University.
-* 2018: John Snow. CAN TRI-AXIAL ACCELEROMETERS BE USED TO IMPROVE CURRENT CLINICAL MEASURES OF SPINAL MOBILITY IN PATIENTS WITH AXIAL SPONDYLOARTHRITIS? MSc Clinical Epidemiology. Memorial University.
+* 2017: Amita Goyal. Association and mediators of leasure time physical activity and mental health among people with spinal cord injury. MSc Program. Committee Member. Memorial University.
+* 2018: John Snow. Can tri-axial accelrometers improve current clinical measures of spinal mobility in patients with axial spondyloarthiritis? MSc Clinical Epidemiology. Memorial University.
 
 ### <span style="color:#81112c">New or Revised Teaching Materials</span>
 * 2017:	HKR 6130 Computer Applications for Physical Activity Measurement and Intervention. School of Human Kinetics and Recreation. Memorial University. 
