@@ -433,15 +433,16 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 |------|--------|--------|------|
 | Nana Abekah | Computer Science | BSc | Fall 2019 Winter 2020 |
 | Utsav Koju | Computer Science | BSc | Fall 2019 |
+| Sudeny Hector | Human Kinetics and Recreation | Undergraduate Honours | 2018 |
 | Harshal Deshpande  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
 | Levi Moulton  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
 | Logan Slade | Human Kinetics and Recreation | MUCEP | Fall 2018 |
 | Abbie Humphreys | Humanities and Social Sciences | MUCEP | Summer 2018 |
 | Desiree van Heerden | Engineering | Co-op Student | Summer 2017 |
 | Mehnaz Tabassum | Business | MUCEP | Summer 2017 |
-| Melissa Tobin | HKR | Honours | 2017 |
-| Alyssa Milley | HKR | Honours | 2017 |
-| Hilary Gosse | HKR | Honours | 2017 |
+| Melissa Tobin | Human Kinetics and Recreation | Undergraduate Honours | 2017 |
+| Alyssa Milley | Human Kinetics and Recreation | Undergraduate Honours | 2017 |
+| Hilary Gosse | Human Kinetics and Recreation | Undergraduate Honours | 2017 |
 
 ## <span style="color:#81112c">Graduate Student Supervision</span>  
 
