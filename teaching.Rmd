@@ -29,7 +29,9 @@ Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)
 
 # Brief Biography
 
-I have been an assistant professor and Canada Research Chair in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University of Newfoundland since August 2016. From 2015-2016 I was a limited term assistant professor in the School of Public Health at the University of Saskatchewan. Between 2014 and 2016 I was a postdoctoral fellow in the Department of Community Health and Epidemiology at the University of Saskatchewan and from 2008 to 2014 I was a PhD student in Public Health at *Université de Montréal*. I have taught 10 different courses in kinesiology and public health since 2010. The focus of my teaching has been in two broad areas. First, methodological and statistics courses. Second, capstone and foundational courses in public health and social determinants of health. In 2016 I won the *Most Effective Professor* award voted by the School of Public Health Student Association at the University of Saskatchewan. I feel as thought my teaching profile is often overlooked given my research intensive position. However, I am deeply committed to teaching and training the next generation of students. 
+I have been an assistant professor and Canada Research Chair in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University of Newfoundland since August 2016. From 2015-2016 I was a limited term assistant professor in the School of Public Health at the University of Saskatchewan. Between 2014 and 2016 I was a postdoctoral fellow in the Department of Community Health and Epidemiology at the University of Saskatchewan and from 2008 to 2014 I was a PhD student in Public Health at *Université de Montréal*. I have taught 10 different courses in kinesiology and public health since 2010. The focus of my teaching has been in two broad areas. First, methodological and statistics courses. Second, capstone and foundational courses in public health and social determinants of health. In 2016 I won the *Most Effective Professor* award voted by the School of Public Health Student Association at the University of Saskatchewan. 
+
+As a former canoe/kayak coach and someone who has been deeply influenced by teachers and coaches throught my life, I a committed to creating a positive learning environment for students in my classes and in my lab. Teaching is always a work in progress but to date I feel as though I have demonstrated a breadth and depth of teaching that is consistent with my committement to lifelong learning.
 
 # Teaching Responsibility
 
@@ -132,37 +134,54 @@ Teaching and learning create remarkable moments in our human experience. From wa
 
 # Course Development
 
-I have developped three new courses. 
+I have developped three new courses during my career. The most recent course I would like to highlight is called **Computer Applications for Physical Activity Measurement and Intervention**. This is a gradaute level course where students learn concepts of data science and intervention evaluation applied to wearable device and accelerometer data. I have offered the course twice since 2017. This course has been a great learning experience for me and the students. I can envision this course being transformed to an undergraduate course or modified to meet teaching needs in data science for students who us different types of data. 
 
-1. Computer Applications for Physical Activity Measurement and Intervention
-2. Social Epidemiology
-3. Population Health Intervention Research
+I have also developed a Social Epidemiology course and a Population Health Intervention Research both at the graduate level. These courses have each been offered once. The courses were well received by student but unfortunately, I have not had the chance to teach these courses more than once because of career changes during that period. 
 
 # Administrative and committee work
 
-Stats course review
-Graduate program revisions
+I have done some administrative work related to teaching and learning. I lead a review of university undergraduate statistics courses at Memorial University. This review was in order for the School of Human Kinetics and Recreation to determine appropriate course equivalencies for student requirements related to undergraduate statistics. 
+
+I also participated in a graduate pprogram review for the School of Human Kinetics and Recreation in 2017. This review was designed to revise and refine our graduate programs in order to allow students more rexibility in their MSc course requirements and the ensure that the School would be able to recruit students across a variety of kinesiology and health science disciplines. 
 
 # Educational Outreach
 
-High School Program 
+The BEAP Lab participated in the St. John's English Language School District Mini Enrichment Course Program. This program invites high acheiving high school to Memorial University for a two day workshop. I developed a two day course in accelerometer and global positionning systems and data science. 
+
+#### <span style="color:#81112c">Physical Activity Data Science</span>
+
+##### Course Description  
+**[Course outline](https://github.com/walkabillylab/physical_activity_data_science)**  
+The course will introduce students to the measurement of physical activity using a metabolic cart, and accelerometers and global positioning systems in smartphones and wearable devices. With the data students collect we will introduce basic concepts of data science including reading in data, data visualization, and basic math functions using the R statistical programming language.
 
 # <span style="color:#81112c">Professional Development in Teaching</span>  
 
-I have participated in numerous professional development activities in teaching and learning over the course of my career. 
+I have participated in numerous professional development activities in teaching and learning over the course of my career. Foundational to my teaching philosophy and approach were three courses I participated in 2007 and 2008 during my MSc degree. These course covered topics such as philosophy of science (Graduate Studies and Research 987: Science, Scientists, and Science-Societal Interactions: An introduction to the dynamics of science), teaching and learning (What the best college teachers do reading group), and evidence based teaching (Making Teaching Visible: Practical principles for peer review of teaching). 
 
-* 2019:	An Introduction to Documenting Teaching Activity and Effectiveness. Centre for Innovation in Teaching and Learning, Memorial University. 
-* 2017:	Transformational Teaching and Learning Day. Centre for Innovation in Teaching and Learning, Memorial University. 
-* 2014:	Teaching Improvement Project System (TIPS) Course. College of Medicine, University of Saskatchewan.
-* 2014:	How People Learn: Seven Research-Based Principles for Smart Teaching, College of Medicine, University of Saskatchewan.
-* 2008:	What the best college teachers do, Gwena Moss Center for Teaching Effectiveness, University of Saskatchewan.
-* 2007	Graduate Studies and Research 987: Science, Scientists, and Science-Societal Interactions: An introduction to the dynamics of science, Gwena Moss Center for Teaching Effectiveness, University of Saskatchewan.
-* 2007:	Making Teaching Visible: Practical principles for peer review of teaching, Gwena Moss Center for Teaching Effectiveness, University of Saskatchewan.
-* 2007:	Teaching… if only we knew the questions? Gwena Moss Center for Teaching Effectiveness, University of Saskatchewan.
-
-
+I 2019 and 2020 I am participating in a series of teaching and learning courses offered by the  Centre for Innovation in Teaching and Learning at Memorial University. These courses focus on practical guidance for teaching improvement, documenting teaching effectiveness, and getting better feedback from students. 
 
 # Teaching effectiveness
+
+Overall, my teaching evaluations from students are positive and evaluations from BEAP lab highly qualified personnel are very positive. As with anything there is always room for improvement. I have included specific comments from students regarding areas for improvement in my teaching and lab management.
+
+Perhaps the strongest evidence related to my teaching effectiveness comes in the form of emails I have received from students. 
+
+#### Teaching Data Science
+
+> Hi Dr. Fuller,  
+> Much appreciated. The grouping within the Geom_smooth called worked.
+> In the name of feedback, I must say, I have very much enjoyed the R content in this course. I was quite skeptical to begin, as I had done some programming during my undergrad and hadn't thoroughly enjoyed it.  
+>I have been pleasantly surprised!  
+>Cheers  
+> John Halley
+
+
+#### Research Training
+
+> Dear Dr. Fuller,  
+> I hope you are doing well. I just wanted to let you know how impactful your work with me during my honours thesis has been. I recently got a job as a research assistant where I am writing the literature review for my university’s dean of education. I will be attending a conference in China next year for it. Also, I am going to China for 3 months to do my own research project with a MITACS grant. I wanted to thank you from the bottom of my heart for helping me get these opportunities indirectly, and more importantly inspiring me to do down the research route. I hope Newfoundland is treating you well and I want you to know how grateful I am. 
+> Thanks  
+> Sydney Hector 
 
 ## <span style="color:#81112c">Feedback from Students</span>
 
