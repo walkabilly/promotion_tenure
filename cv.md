@@ -168,7 +168,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
-* Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. (2020). Casually Causally speaking: challenges in measuring gentrification for population health research. Social Science & Medicine.
+* Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. (2020). Causally speaking: challenges in measuring gentrification for population health research. Social Science & Medicine.
 * Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews. 
 * __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. British Journal of Sports Medicine. 
 * Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health. 
@@ -378,7 +378,12 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
-| Memorial University | 2019 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
+| Memorial University  | 2020 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
+|  | 2020 | Winter | HKR 6134 | Seminar | Instructor |
+|  | 2019 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
+|  | 2019 | Fall | HKR 6134 | Seminar | Instructor |
+|  | 2019 | Fall | HKR 6134 | Seminar | Instructor |
+| | 2019 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
 |  | 2018 | Winter | HKR 6134 | Seminar | Instructor |
 |  | 2019 | Fall | HKR 4600 | Research Methods | Instructor | 
 |  | 2018 | Fall | HKR 6134 | Seminar | Instructor |
@@ -420,9 +425,12 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 
 Scholarship Writing Mentorship Program, Department of Social and Preventive Medicine, Université de Montréal, 2009 to 2011.
 
-### <span style="color:#81112c">Undergraduate Supervision</span>
+## <span style="color:#81112c">Undergraduate Student Supervision</span>
+
 | Name | Program | Project | Term |
 |------|--------|--------|------|
+| Nana Abekah | Computer Science | BSc | Fall 2019 Winter 2020 |
+| Utsav Koju | Computer Science | BSc | Fall 2019 |
 | Harshal Deshpande  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
 | Levi Moulton  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
 | Logan Slade | Human Kinetics and Recreation | MUCEP | Fall 2018 |
@@ -433,27 +441,54 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 | Alyssa Milley | HKR | Honours | 2017 |
 | Hilary Gosse | HKR | Honours | 2017 |
 
-### <span style="color:#81112c">Graduate Supervision</span>
+## <span style="color:#81112c">Graduate Student Supervision</span>  
 
-* 2019: Rebecca Maher. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+#### <span style="color:#81112c">Supervisor</span>  
+* 2019: Rebecca Maher. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
 * 2019: Jonathan Slaney.  MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2019: Kole Phillips. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 
 * 2019: SeyedJavad KhataeiPour. Superior Performance of Machine Learning Algorithms in Metabolic Equivalent (MET) Prediction Using Cell Phone Accelerometer Data. MSc Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Kassia Orychock. Association between BMI and WalkScore, Dining and Drinking Score and Grocery Score in a multi-city sample of adults: A cross sectional analysis. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Bo Simango. Improving the accuracy of activity intensity classification using machine learning and commercial wearable device data. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Melissa Tobin. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2018: Pablo Navarro. The Government of Newfoundland and Labrador’s implementation of a “Health in All Policies”. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University 
 * 2018: Machel Rayner. MPH Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2017: Se’era Anstruthers. PhD Program. Committee Member. The Influence of Socioeconomic Factors and Location on the Impact of Children in Healthy Start-Départ Santé. Department of Nutrition. University of Saskatchewan. 
 * 2017: Nathan Taylor. MPH Program. Supervisor. Neighbourhood Active Living Potential on the Avalon Peninsula. Memorial University
+* 2014:	Satyadeva Challa. MPH Program. Supervisor. Stress Mapping and Network Connectivity Analysis. School of Public Health. University of Saskatchewan.
+* 2013:	Anna Chen. MPH Program. Supervisor. Analyzing road surface conditions, time of the day, and road structural factors associated with bicycle collisions from 2000 to 2010 in Saskatoon, Saskatchewan. School of Public Health. University of Saskatchewan.
+
+#### <span style="color:#81112c">Committee Member</span>  
+
+* 2019: Kole Phillips. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 2019.
+* 2018: Pablo Navarro. The Government of Newfoundland and Labrador’s implementation of a “Health in All Policies”. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University. 
+* 2018: Ali Alfosool.  Road Importance Using Complex-Networks, Graph Reduction & Interpolation. PhD Program. Committee Member. Department of Computer Science. Memorial University. 
+* 2017: Se’era Anstruthers. PhD Program. Committee Member. The Influence of Socioeconomic Factors and Location on the Impact of Children in Healthy Start-Départ Santé. Department of Nutrition. University of Saskatchewan. 
 * 2016: Adriana Fonseca. PhD Program. Committee Member.  Physical activity and chronic back disorders in Canadian adults. Department of Community Health and Epidemiology. University of Saskatchewan.
 * 2016: Kate Hosford. MSc Program. Committee Member. Impacts of a Public Bike Share Program in Vancouver, BC: Changes in Population Cycling Levels and Program Perceptions and Attitudes. Faculty of Health Sciences, Simon Fraser University.
 * 2015: Larisa Lotoski. PhD Program. Committee Member. A 4-season longitudinal study examining the association between seasonality and sedentary behaviour in 8-11 year old Canadian children. Department of Community Health and Epidemiology. University of Saskatchewan. 
-* 2014:	Satyadeva Challa. MPH Program. Supervisor. Stress Mapping and Network Connectivity Analysis. School of Public Health. University of Saskatchewan.
 * 2013:	Lisa Thurairasu. MSc Program. Committee Member. Examining Individual and Area Level Income Inequalities in Urban Saskatchewan: A Case of Diabetes. Department of Community Health and Epidemiology. University of Saskatchewan.
-* 2013:	Anna Chen. MPH Program. Supervisor. Analyzing road surface conditions, time of the day, and road structural factors associated with bicycle collisions from 2000 to 2010 in Saskatoon, Saskatchewan. School of Public Health. University of Saskatchewan.
 * 2011:	Mariève Thétreault-Deslands. MPH Program. Committee Member. Utilitarian walking and diabetes: a cross-sectionnal study in Montreal, Canada. Département de Médecine sociale et preventive. Faculté de Médecine. Université de Montréal.
 * 2010:	Geneviève Boily. MPH Program. Committee Member. L’association entre l’utilisation du transport actif et l’état de santé auto-rapporté chez des adultes montréalais. Département de Médecine sociale et preventive. Faculté de Médecine. Université de Montréal.
+
+## <span style="color:#81112c">Post Doctoral Fellows</span>
+
+| Name | Program  | Completion | Institution | 
+|------|---------|------------|-------------| 
+| Hui (Henry) Luan | Post Doctoral Fellow | 2018 | Memorial University | 
+
+#### <span style="color:#81112c">Research Assistants</span>  
+
+| Name | Program  | Department | Institution | Time Frame |
+|------|---------|------------|-------------| --------- |
+| Megan Devries | MSc Student | Political Science | Memorial University | 2019
+| Javad Rahimipour Anaraki | PhD Student | Computer Science | Memorial University | 2017-2019
+| Wei Liu | PhD Student | Geography | Memorial University | 2019
+| Emily Collwell | MSc Student | Kinesiology | Memorial University | 2017-2019
+| Arastoo Borzogi | PhD Student | Computer Science | Memorial University | 2017-2020
+| Majid Beheshtimoh | MSc Student | Computer Science | Memorial University | 2018
+| Maria Yulmetova | MSc Student | Geography | Memorial University | 2018
+| Richard Buote | PhD Student | Community Health | Memorial University | 2016-2018
+| Samantha Breslin | PhD Student | Anthropology | Memorial University | 2018
+| Jonathan Low | MSc Student | Kinesiology | Memorial University | 2016-2018
+| Faramarz Dorani | MSc Student | Computer Science | Memorial University | 2016-2018
 
 ### <span style="color:#81112c">Graduate Thesis Revisions</span>
 
