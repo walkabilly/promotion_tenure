@@ -193,7 +193,7 @@ I have included CEQ results for all course for which they were available. Some c
 
 #### <span style="color:#81112c">Course Evaluations</span>
 
-Additonally, I have conducted my own course evaluations for HKR 3400 and HKR 6134. The data are from 13 students in HKR 3400 (out of a possible 62 students) and 18 students in HKR 6134 (our of a possible 35). The questions posted were:   
+Additonally, I have conducted my own course evaluations for HKR 3400, HKR 6134, and HKR 4600. The data are from 13 students in HKR 3400 (out of a possible 62 students), 18 students in HKR 6134 (out of a possible 35), and 8 (out of a possible 22). The questions posted were:   
     1. The instructor used challenging questions   
     2. The instructor was willing to listen to student opinions  
     3. The instructor was actively helpful to the students  
@@ -246,6 +246,25 @@ Q 26 = Instructor requested feedback (if applicable)
 |14 |  The instructor of this course prepared helpful materials and topics in every class for students. These materials helped all students deeply think about research process and methods.|
 |15 |  I think this course was perfect. I appreciated the instructor of this course. |
 |15 |  This course has already undergone a huge improvement from F2016 and W2017 semesters. Keep it up!|
+
+### <span style="color:#81112c">Comments from HKR 4600 Fall 2018</span>
+
+Fuller, Daniel - HKR 3400 (crn: 88389)  
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 26 = Instructor requested feedback (if applicable)  
+
+| Q | Comments |
+|----| ---------------------------------------------------------------------------|
+|14 |  The in-class handouts as they aided in students understanding what concepts may or may not be important for examination |
+|14 |  Group work and discussion in class |
+|14 |  Designing your own research project and the freedom/creativitiy associated with it |
+|14 |  The assignments wer efaire and an easy way to boost your grade |
+|14 |  Louf voice. Does not boring to listen too. Nice prof. |
+|15 |  More guidance on how to write scientifically (through class instruction, tutorials on D2L, etc) |
+|15 |  Emphasis on what is important for examination. As somone who put a lot of time studying for the midterm, I was somewhat inprepared for what material truly wound up being on it, and in turn didn't quite as well as desired. Assignments should better reflect materital to know for examination |
+|15 |  Organization or enforced due dates |
+|15 |  Overall the course taught me the basics of research, and Dr. Fuller wa respectful, nice, and helpful when answer questions. I don't the the final exam is necessary since the research project is a lot of work. |
 
 ## <span style="color:#81112c">Feedback from Lab Members</span>
 
