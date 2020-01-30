@@ -4,8 +4,8 @@ author: "Daniel Fuller"
 output:
   html_document:
     keep_md: yes
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
 
@@ -29,13 +29,13 @@ Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)
 
 I have been an assistant professor and Canada Research Chair in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University of Newfoundland since August 2016. From 2015-2016 I was a limited term assistant professor in the School of Public Health at the University of Saskatchewan. Between 2014 and 2016 I was a postdoctoral fellow in the Department of Community Health and Epidemiology at the University of Saskatchewan and from 2008 to 2014 I was a PhD student in Public Health at *Université de Montréal*. I have taught 10 different courses in kinesiology and public health since 2010. The focus of my teaching has been in two broad areas. First, methodological and statistics courses. Second, capstone and foundational courses in public health and social determinants of health. In 2016 I won the *Most Effective Professor* award voted by the School of Public Health Student Association at the University of Saskatchewan. 
 
-As a former canoe/kayak coach and someone who has been deeply influenced by teachers and coaches throught my life, I a committed to creating a positive learning environment for students in my classes and in my lab. Teaching is always a work in progress but to date I feel as though I have demonstrated a breadth and depth of teaching that is consistent with my committement to lifelong learning.
+As a former canoe/kayak coach and someone who has been deeply influenced by teachers and coaches throught my life, I am committed to creating a positive learning environment for students in my classes and in my lab. Teaching is always a work in progress but to date I feel as though I have demonstrated a breadth and depth of teaching that is consistent with my commitment to lifelong learning.
 
 # Teaching Responsibility
 
 ## <span style="color:#81112c">Courses Taught</span>
 
-I have taught 10 different courses over the course of my career. I have developed 3 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology), and one in my current positon at Memorial University (Computer Applications for Physical Activity Measurement and Intervention). 
+I have taught 10 different courses over the course of my career. I have developed 3 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology), and one in my current position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention). 
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
@@ -66,20 +66,17 @@ I have taught 10 different courses over the course of my career. I have develope
 
 ### <span style="color:#81112c">HKR 6000 Quantitative Methods in Physical Education</span>
 
-#### Course Description 
-**[Course outline](https://walkabilly.github.io/HKR_6000/)**  
+#### Course Description [https://walkabilly.github.io/HKR_6000/](https://walkabilly.github.io/HKR_6000/)  
 A critical examination of methodological research issues and quantitative research designs in the field of human kinetics and recreation. Examines and applies a variety of statistical analysis techniques which can be used in a variety of research designs. Emphasis is placed on the interpretation and implications of empirical quantitative research in the field. Students will learn statistics using either R or SPSS.
 
 ### <span style="color:#81112c">HKR 6134 Grad Seminar</span>
 
-#### Course Description
-**[Course outline](https://walkabilly.github.io/hkr_seminar/)**  
+#### Course Description [https://walkabilly.github.io/hkr_seminar/](https://walkabilly.github.io/hkr_seminar/)  
 This course provides students with a forum to discuss and debate research methods and skills such as manuscript and grant writting. The course is designed to provide students with both conceptual and practical course content, using a variety of formats, to enhance student learning. 
  
 ### <span style="color:#81112c">HKR 6130 Computer Applications for Physical Activity Measurement and Intervention</span>
 
-#### Course Description  
-**[Course outline](https://github.com/walkabilly/HKR6130_MUN/blob/master/course_outline.md)**  
+#### Course Description [https://walkabilly.github.io/HKR6130_MUN/](https://walkabilly.github.io/HKR6130_MUN/)  
 This course will introduce students to physical activity measurement using accelerometer devices including smartphones, smartwatches. I will also introduce students to measuring spatial location using Global Positioning Systems. The course will explore conceptual aspects of physical activity and spatial location measurement. Students will design, conduct, and analyse data for a small-scale intervention collecting accelerometer measured physical activity and GPS data. Students will learn programming in R and QGIS for spatial analysis methods.  
 
 ### <span style="color:#81112c">HKR 3400 Social Determinants of Health</span>
@@ -110,9 +107,9 @@ This course aims to allow students to familiarize themselves with the basic conc
 
 ## <span style="color:#81112c">Student Supervision</span>
 
-In my role as the director of the Built Environment and Active Populations (BEAP) Lab, I both supervise graduate students but also also hire and train numerous highly qualified graduate students. I have supervised 9 undergraduate students, 10 graduate students, and 1 postdoctoral fellow. I have also been a committee member for 9 students including 5 PhD students. Notably, Dr. Henry Luan, my former postdoctoral fellow is a currently an assistant professor in Geography at the University of Oregon. One of my MSc students has received CIHR funding. I currently have 2 MSc students with CIHR funding applications under review. 
+In my role as the director of the Built Environment and Active Populations (BEAP) Lab, I both supervise graduate students but also hire and train numerous highly qualified graduate students. I have supervised 9 undergraduate students, 10 graduate students, and 1 postdoctoral fellow. I have also been a committee member for 9 students including 5 PhD students. Notably, Dr. Henry Luan, my former postdoctoral fellow is a currently an assistant professor in Geography at the University of Oregon. One of my MSc students has received CIHR funding. I currently have 2 MSc students with CIHR funding applications under review. 
 
-Related to the BEAP lab I have hired 11 graduate students from multiple disciplines including computer science, geography, public health, anthropology, and politcal science. I spend considerable time and effort training in students at the BEAP Lab. I have developed various training materials including a (lab onboarding guide)[https://github.com/walkabillylab/labguide], which includes philosophy, ethics, and practical research guidance for team members. One previous lab member has is currently a faculty member at the University of Copenhagen. Another lab member is conducting a postdoctoral fellowship at the University of Toronto, while another has gone on to a successfull career at Cisco Systems in Toronto. 
+Related to the BEAP lab I have hired 11 graduate students from multiple disciplines including computer science, geography, public health, anthropology, and political science. I spend considerable time and effort training in students at the BEAP Lab. I have developed various training materials including a (lab onboarding guide)[https://github.com/walkabillylab/labguide], which includes philosophy, ethics, and practical research guidance for team members. One previous lab member has is currently a faculty member at the University of Copenhagen. Another lab member is conducting a postdoctoral fellowship at the University of Toronto, while another has gone on to a successfull career at Cisco Systems in Toronto. 
 
 ## <span style="color:#81112c">Teaching Philosophy</span>
 
@@ -177,19 +174,15 @@ Perhaps the strongest evidence related to my teaching effectiveness comes in the
 #### Research Training
 
 > Dear Dr. Fuller,  
-> I hope you are doing well. I just wanted to let you know how impactful your work with me during my honours thesis has been. I recently got a job as a research assistant where I am writing the literature review for my university’s dean of education. I will be attending a conference in China next year for it. Also, I am going to China for 3 months to do my own research project with a MITACS grant. I wanted to thank you from the bottom of my heart for helping me get these opportunities indirectly, and more importantly inspiring me to do down the research route. I hope Newfoundland is treating you well and I want you to know how grateful I am. 
+> I hope you are doing well. I just wanted to let you know how impactful your work with me during my honours thesis has been. I recently got a job as a research assistant where I am writing the literature review for my university’s dean of education. I will be attending a conference in China next year for it. Also, I am going to China for 3 months to do my own research project with a MITACS grant. I wanted to thank you from the bottom of my heart for helping me get these opportunities indirectly, and more importantly inspiring me to go down the research route. I hope Newfoundland is treating you well and I want you to know how grateful I am. 
 > Thanks  
 > Sydney Hector 
 
 ## <span style="color:#81112c">Feedback from Students</span>
 
-I have included CEQ results for all course for which they were available. Some courses had too few responses and results were not made available. 
+The course evaluation questionnaire is Memorial Universities standardized course evaluation questionnaire. I include the CEQ for all of my course where they are availble. Some courses had too few responses and results were not made available. 
 
-**Courses taught**
 
-- HKR 3400 Winter 2018: See Appendix T_1 for evaluations
-- HKR 6130 Fall 2017 and Winter 2017: See Appendix T_2 for evaluations
-- HKR 6130 Fall 2017: See Appendix T_3 for evaluations 
 
 #### <span style="color:#81112c">Course Evaluations</span>
 
