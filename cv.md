@@ -518,8 +518,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
-1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
-
+1. Jaimie Fitzpatrick, February 3, 2020. Vision Zero traffic safety policy. https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy 
 1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
 1. Ariana Kelland. March 25, 2019. After immigration trouble, this St. John's trainer is back to helping others https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383
 2. CBC Cross Talk. Do you feel safe riding a bicycle? June 21, 2018. 
