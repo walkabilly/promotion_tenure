@@ -1,12 +1,12 @@
 ---
 title: "Curriculum vitae"
 author: "Daniel Fuller"
-date: '2019-11-25'
+date: '2020-01-30'
 output:
   html_document: 
       keep_md: yes
-  word_document: default
   pdf_document: default
+  word_document: default
 ---
 
 
@@ -168,18 +168,16 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
-* Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. (2020). Causally speaking: challenges in measuring gentrification for population health research. Social Science & Medicine.
+* Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. (2020). Causally speaking: challenges in measuring gentrification for population health research. Health & Place.
 * Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews. 
-* __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. British Journal of Sports Medicine. 
+* __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. International Journal of Behavioural Nutrition and Physical Activity. 
 * Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health. 
 * _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
-* __Fuller, D.__, Rahimipour Anaraki, J., *Luan, H.*, *Simango, B.*, Dorani, F., Bozorgi, A. Predicting sleep, sedentary behaviour, and physical activity using Apple Watch and Fitbit using Rotation Forest models. Journal for the Measurement of Physical Activity Behaviour.
 * Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
-* Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood
-Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
+* Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
 * Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
-* _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Journal of Transport Geography.
+* _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology.  Transportation Research Part A: Policy and Practice.
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
 
@@ -323,11 +321,9 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 
 ### <span style="color:#81112c">Awarded Grants</span>
 
-* **Fuller D**, Winters M, Kestens Y, Rainham D, Stanley K. (2018) Creating and comparing activity space measures to understand how walkability, urban sprawl, and public transit accessibility are associated with location based physical activity in 4 Canadian cities. CIHR Operating Grant: Data Analysis Using Existing Databases and Cohorts. $CAD 100,000. 
-
-
-| Role | Year | Title | Funder |  Amount | MUN Amount 2017 |
+| Role | Year | Title | Funder |  Amount | MUN Amount |
 |------|--------|--------|--------|------|------|
+|  Co-Applicant  | February 2020-October 2020 | Training for Healthy INterdisciplinary Knowledge in Cities (THINK-Cities)  | Training Grant : CIHR-NSERC-SSHRC Healthy Cities Research Training Platform (HCRTP) | $25,000 | $0 |
 | Principal Investigator  | March 2019-March 2020 | Creating and comparing activity space measures to understand how walkability, urban sprawl, and public transit accessibility are associated with location based physical activity in 4 Canadian cities | CIHR | $100,000 | $100,000 |
 | Co-Applicant | May 2019 – April 2020 | Smart Cities, Healthy Citizens? Optimizing Health and Equity in City Policy Making | CIHR | $24,985 | $0 |
 | Co-Applicant | March 2019-March 2023 | Sustainable Healthy Cities: The Interplay between Urban Interventions, Gentrification, and Population Health | CIHR | $527,851 | $0 |
@@ -350,6 +346,8 @@ Transportation Study (DNTS) cohort. Journal of Transportation and Health.
 
 ### <span style="color:#81112c">Grants Under Review</span>
 
+* **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. CIHR Project Grant. $CAD 950,000. 
+* **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. Public Health Agency of Canada Chronic Disease Surveillance Grant. $CAD 1,000,000. 
 
 ### <span style="color:#81112c">Unsuccessful Grants</span>
 * **Fuller D**, Winters M, Kestens Y. (2018) INTERACT St. John's. CIHR Project Scheme Grant. $CAD 680,000. 
@@ -493,8 +491,10 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Graduate Thesis Revisions</span>
 
-* 2017: Amita Goyal. Association and mediators of leasure time physical activity and mental health among people with spinal cord injury. MSc Program. Committee Member. Memorial University.
+* 2019: Kenneth Joshua. The association between physical active leisure, mental and physical health and life satisfaction among Canadian imnmigrants? MSc Human Kinetics and Recreation. Memorial University.
 * 2018: John Snow. Can tri-axial accelrometers improve current clinical measures of spinal mobility in patients with axial spondyloarthiritis? MSc Clinical Epidemiology. Memorial University.
+* 2017: Amita Goyal. Association and mediators of leasure time physical activity and mental health among people with spinal cord injury.MSc Human Kinetics and Recreation. Memorial University.
+
 
 ### <span style="color:#81112c">New or Revised Teaching Materials</span>
 * 2017:	HKR 6130 Computer Applications for Physical Activity Measurement and Intervention. School of Human Kinetics and Recreation. Memorial University. 
@@ -517,6 +517,8 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 ##### 2016 Most Effective Professor. School of Public Health Student Association. University of Saskatchewan.
 
 ### <span style="color:#81112c">Media</span>
+
+1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
 
 1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
 1. Ariana Kelland. March 25, 2019. After immigration trouble, this St. John's trainer is back to helping others https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383
@@ -618,6 +620,7 @@ http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus
     - Associate Editor for 5 manuscripts 
 * 2018-2019: Associated Editor, BMC Public Health 
     - Associate Editor for 13 manuscripts 
+* 2015-2017: Board Member, Saskatchewan Epidemiology Association.
 * 2015: Scientific Committee, Food Environments in Canada Symposium and Workshop.
 * 2014: Scientific Committee, Active Living Research Conference.
 * 2009-2011: Board Member, International Union of Health Promotion Student and Early Career Network (ISECN).
