@@ -518,12 +518,13 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
-1. Jaimie Fitzpatrick, February 3, 2020. Vision Zero traffic safety policy. https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy 
-1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
-1. Ariana Kelland. March 25, 2019. After immigration trouble, this St. John's trainer is back to helping others https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383
+1. Brett Bundale, February 7, 2020. A day in the life of a crossing guard. [https://www.thechronicleherald.ca/news/local/a-day-in-the-life-of-a-crossing-guard-its-a-precarious-profession-408524/](https://www.thechronicleherald.ca/news/local/a-day-in-the-life-of-a-crossing-guard-its-a-precarious-profession-408524/)
+1. Jaimie Fitzpatrick, February 3, 2020. Vision Zero traffic safety policy. [https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy](https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy)
+1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. [https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445][https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
+1. Ariana Kelland. March 25, 2019. After immigration trouble, this St. John's trainer is back to helping others [https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383](https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383)
 2. CBC Cross Talk. Do you feel safe riding a bicycle? June 21, 2018. 
 3. Juanita Mercer. N.L. urban residents advised to take the bus to better health. May 27, 2017.
-http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus-to-better-health-213473/
+[http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus-to-better-health-213473/](http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus-to-better-health-213473/)
 4. Ted Blades. Taking the bus is better for your health. June 8, 2018.  http://www.cbc.ca/listen/shows/on-the-go/episode/15549559
 5. Mark Quinn. Bike map aims to help St. John's cyclists steer clear of trouble. March 8, 2018. [http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225](http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225)
 6. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
