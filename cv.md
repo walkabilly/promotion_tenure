@@ -177,7 +177,7 @@ Daniel Fuller __bold__
 * Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
 * Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
-* _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology.  Transportation Research Part A: Policy and Practice.
+* _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology.  Transportation Research Part F: Psychology and Behaviour.
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
 
