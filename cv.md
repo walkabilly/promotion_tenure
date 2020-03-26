@@ -100,6 +100,8 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood Transportation Study (DNTS) cohort. Journal of Transportation and Health. 2020: https://doi.org/10.1016/j.jth.2020.100836
+1. Zhang R, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems. 2020:6(1). [https://dl.acm.org/doi/10.1145/3362063](https://dl.acm.org/doi/10.1145/3362063)
 1. _Hosford, K._, Winters, M., Gauvin, L., Camden, A., Dubé, A-S., Friedman, S. M., __Fuller, D.__. Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Journal of Behavioural Nutrition and Physical Activity. 2019:16, 107. [https://doi.org/10.1186/s12966-019-0871-9](https://doi.org/10.1186/s12966-019-0871-9)
 1. _Hosford, K._, Winters, M., __Fuller, D.__. Commentary on: Burn Calories, Not Fuel! The effects of bikeshare programs on obesity rates. Transportation Research Part D: Transport and Environment. 2019:75, 121-122. [https://doi.org/10.1016/j.trd.2019.08.028](https://doi.org/10.1016/j.trd.2019.08.028) 
 1. __Fuller, D.__, Stanley, K. G. The future of activity space and health research. Journal of Health and Place. 2019:58, 102131. [https://doi.org/10.1016/j.healthplace.2019.05.009](https://doi.org/10.1016/j.healthplace.2019.05.009)
@@ -164,17 +166,15 @@ Daniel Fuller __bold__
 2. Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial.
 
 ### <span style="color:#81112c">In Press Publications</span>
-* Zhang R, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
-
+* Fuller D, Rahimipour Anaraki J, Simango B, Dorani F, Bozorgi F, Luan D, Basset F. Using machine learning methods to predict physical activity types with Apple Watch and Fitbit data using indirect calorimetry as the criterion. Journal of Sports Medicine.
 * Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. (2020). Causally speaking: challenges in measuring gentrification for population health research. Health & Place.
 * Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews. 
-* __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. International Journal of Behavioural Nutrition and Physical Activity. 
+* __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. Journal of Physical Activity and Health. 
 * Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health. 
 * _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
 * Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
-* Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood Transportation Study (DNTS) cohort. Journal of Transportation and Health. 
 * Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
 * _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology.  Transportation Research Part F: Psychology and Behaviour.
@@ -208,6 +208,7 @@ Daniel Fuller __bold__
 ## <span style="color:#81112c">Presentations</span>
 
 ### <span style="color:#81112c">Invited Presentations</span>  
+* Wednesday February 19, 2020: **Fuller D**. Emergency Panel on Pedestrian Safety in St. John's. Green New Drinks organized by the St. John's Social Justice Cooperative. 
 * Friday Novemmber 15, 2019: **Fuller D**. Canada Research Chair Panel on Health and Wellbeing. Memorial Univeristy of Newfoundland. 
 * Friday October 26, 2018: **Fuller D**. Wearable Devices, Physical Activity, Machine Learning, and Automated Detection of Urban Environments. Urban Sustainability and Population Health: Turning Data into Insights. McGill University.
 * May 10, 2018: **Fuller D**. Designing Health Cities Using Data and Policy. HKR Speaker Series, Memorial University of Newfoundland.
@@ -495,7 +496,6 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 * 2018: John Snow. Can tri-axial accelrometers improve current clinical measures of spinal mobility in patients with axial spondyloarthiritis? MSc Clinical Epidemiology. Memorial University.
 * 2017: Amita Goyal. Association and mediators of leasure time physical activity and mental health among people with spinal cord injury.MSc Human Kinetics and Recreation. Memorial University.
 
-
 ### <span style="color:#81112c">New or Revised Teaching Materials</span>
 * 2017:	HKR 6130 Computer Applications for Physical Activity Measurement and Intervention. School of Human Kinetics and Recreation. Memorial University. 
 * 2015:	PUBH 898 Social Epidemiology. School of Public Health. University of Saskatchewan.
@@ -518,6 +518,18 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
+1. CBC National Syndication. Obesity in Canada. February 13, 2020. 
+  - CBC Cape Breton - Steve Sutherland 
+  - Ontario AM - Wei Chen
+  - Island Morning - Mitch Cormier
+  - Windsor Morning - Tony Doucette
+  - Newfoundland Morning - Bernice Hillier
+  - St. John's Morning Show - Anthony Germain
+  - The Trailbreaker - Loren McGinnis
+  - Yukon Morning - Chris Walker
+  - Kitchener-Waterloo - Craig Norris
+  - Daybreak North - Carolina DeRyk
+  - The Early Edition - Steven Quinn
 1. Brett Bundale, February 7, 2020. A day in the life of a crossing guard. [https://www.thechronicleherald.ca/news/local/a-day-in-the-life-of-a-crossing-guard-its-a-precarious-profession-408524/](https://www.thechronicleherald.ca/news/local/a-day-in-the-life-of-a-crossing-guard-its-a-precarious-profession-408524/)
 1. Jaimie Fitzpatrick, February 3, 2020. Vision Zero traffic safety policy. [https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy](https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy)
 1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. [https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445][https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
@@ -533,45 +545,24 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Funding Reviews</span>
 
-* 2019 NSERC Discovery Grant Reviewer (1 Grant)
+* 2019 NSERC Discovery Grant Reviewer. Title: Merging measurement theory and technology for more accurate assessment of physical activity
+* 2020 MITACS Accelerate. Title: La navette autonome de la Petite Bourgogne répond -elle aux besoins de la communaute?
+
+"La navette autonome de la Petite Bourgogne répond-elle aux besoins de la communauté ?
 
 ### <span style="color:#81112c">Peer Reviews</span>
 
-| Journal | Year | Number of Reviews |
+| Number of Reviews | Year | Example Journals |
 |---------|------|-------------------|
-| British Medical Journal | 2019 | 1 | 
-| Journal of Science and Medicine in Sport | 2019 | 1 | 
-| Journal of Aging and Physical Activity | 2019 | 1 | 
-| Health and Place | 2019 | 1 | 
-| Journal of Epidemiology and Community Health | 2019 | 1 | 
-| Journal of Transportation and Health | 2019 | 1 | 
-| Canadian Journal of Public Health | 2019 | 2 | 
-| Canadian Journal of Public Health | 2018 | 1 | 
-| Journal of Epidemiology and Community Health | 2018 | 1 | 
-| American Journal of Preventive Medicine | 2017 | 1 | 
-| Canadian Journal of Public Health | 2017 | 2 | 
-| Nature - Science Reports | 2017 | 1 | 
-| Social Science and Medicine: Public Health | 2017 | 1 | 
-| Health Promotion and Chronic Disease Prevention | 2017 | 1 | 
-| Journal of Transportation and Health | 2016 | 1 | 
-| Canadian Journal of Public Health | 2016 | 1 | 
-| Preventive Medicine | 2015 | 1 | 
-| Journal of Epidemiology and Community Health | 2015 | 1 | 
-| Canadian Journal of Public Health | 2015 | 1 | 
-| Chronic Disease in Canada | 2015 | 1 | 
-| Transportation Research Board | 2014 | 1 | 
-| Journal of Epidemiology and Community Health | 2014 | 1 | 
-| American Journal of Public Health | 2013 | 1 | 
-| British Medical Journal | 2013 | 1 | 
-| Sustainability: Science, Policy and Practice | 2013 | 1 | 
-| Preventive Medicine | 2013 | 1 | 
-| Journal of Epidemiology and Community Health | 2011 | 1 | 
-| Preventive Medicine | 2011 | 1 | 
-| Transportation Research Board | 2011 | 1 | 
-| Social Science and Medicine | 2011 | 1 | 
-| Public Health Nutrition | 2011 | 1 | 
-| Annals of Behavioral Medicine | 2010 | 1 | 
-| Chronic Disease in Canada | 2010 | 1 | 
+| 8 | 2019 | British Medical Journal, Journal of Transportation and Health | 
+| 2 | 2018 | Canadian Journal of Public Health | 
+| 6 | 2017 | Nature - Science Reports, American Journal of Preventive Medicine | 
+| 2 | 2016 | Canadian Journal of Public Health | 
+| 4 | 2015 | Journal of Epidemiology and Community Health | 
+| 2 | 2014 | Transportation Research Board | 
+| 4 | 2013 | American Journal of Public Health | 
+| 5 | 2011 | Social Science and Medicine | 
+| 2 | 2011 | Annals of Behavioral Medicine | 
 
 ## <span style="color:#81112c">Consulting</span>
 
