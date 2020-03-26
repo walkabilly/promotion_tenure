@@ -1,7 +1,7 @@
 ---
 title: "Curriculum vitae"
 author: "Daniel Fuller"
-date: '2020-01-30'
+date: '2020-03-25'
 output:
   html_document: 
       keep_md: yes
