@@ -102,7 +102,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
-1. * Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. (2020). Causally speaking: challenges in measuring gentrification for population health research. Health & Place. 63, 102350. [https://doi.org/10.1016/j.healthplace.2020.102350](https://doi.org/10.1016/j.healthplace.2020.102350)  
+1. Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. (2020). Causally speaking: challenges in measuring gentrification for population health research. Health & Place. 63, 102350. [https://doi.org/10.1016/j.healthplace.2020.102350](https://doi.org/10.1016/j.healthplace.2020.102350)  
 1. Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood Transportation Study (DNTS) cohort. Journal of Transportation and Health. 2020: https://doi.org/10.1016/j.jth.2020.100836
 1. Zhang R, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems. 2020:6(1). [https://dl.acm.org/doi/10.1145/3362063](https://dl.acm.org/doi/10.1145/3362063)
 1. _Hosford, K._, Winters, M., Gauvin, L., Camden, A., Dubé, A-S., Friedman, S. M., __Fuller, D.__. Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Journal of Behavioural Nutrition and Physical Activity. 2019:16, 107. [https://doi.org/10.1186/s12966-019-0871-9](https://doi.org/10.1186/s12966-019-0871-9)
@@ -179,6 +179,8 @@ Daniel Fuller __bold__
 * __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. JMIR MHealth. 
 * __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. Using machine learning methods to predict physical activity types with Apple Watch and Fitbit data using indirect calorimetry as the criterion. Journal for the Measurement of Physical Activity Behavior.
 * _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
+* _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
+* _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 
 #### Healthy Cities
 
@@ -187,8 +189,8 @@ Daniel Fuller __bold__
 * Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. 
 * Sones M, Firth CL, __Fuller D__, Holden M, Kestens Y, Winters M. Situating social connectedness in healthy cities: A conceptual primer for research and policy. Health and Place
 * Firth CL, Poirier Stephens Z,  Cantinotti, M,  __Fuller D,__ Kestens Y, Winters M. (2020). Successes and failures of built environment interventions: using concept mapping to assess stakeholder perspectives in four Canadian  cities. Social Science and Medicine.
-* Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews. 
-* Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health. 
+* Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews.
+* Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health.
 * Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
 * Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
 * Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
@@ -258,7 +260,6 @@ Daniel Fuller __bold__
 * 2020 February: _Hosford K_, Laberee K, **Fuller D**, Kestens Y, Winters M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Board Annual Meeting. 
 * 2020 February: _Bree S_, __Fuller D__, Diab E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership.  Transportation Research Board Annual Meeting. 
 * 2019 June: *Breslin, S.*, Shareck, M., **Fuller, D.** Research ethics for mobile sensing device use by vulnerable populations. At the Intersection of Culture and Method: Designing Feminist Action (DIS 2019).
-* 2019 April: **Fuller, D.**, Zhang, R., Bell, S., Stanely, K. Representative Features of Geospatial Mobility. American Association of Geographers Conference. Washington, DC.
 * 2019 April: **Fuller, D.**, Zhang, R., Bell, S., Stanely, K. Representative Features of Geospatial Mobility. American Association of Geographers Conference. Washington, DC.
 * 2018 October: Nolan, R., Burton, M., **Fuller, D.**. Smart Cities Challenge: Building a Healthy and Happy City through Collaboration. People, Place, Public Engagement Conference, Memorial University of Newfoundland.
 * 2018 October: **Fuller, D.**, Luan, H., Dorani, F., Rahimipour Anaraki, J., Beheshti Mohtasham, M. Predicting sleep, sedentary behaviour, and physical activity from commercially available wearable devices using Rotation Forest models. International Society for Physical Activity and Health. London, England. 
@@ -344,6 +345,8 @@ Daniel Fuller __bold__
 
 | Role | Year | Title | Funder |  Amount | MUN Amount |
 |------|--------|--------|--------|------|------|
+|  Co-Applicant  | June 202-June 2021 | Dietary change during COVID-19: A population-based study in Atlantic Canada to build evidence for government economic and social policy responses | CIHR COVID-19 Rapid Research - Social Policy and Public Health Response | $267,020 | $0 |
+|  Co-Applicant  | August 2019 - August 2024 | AI for public health (AI4PH): A focus on equity and prevention | Operating Grant: CIHR Summer Institute on Equitable AI for Public Health | $525,000 | $0 |
 |  Co-Applicant  | October 2019-October 2022 | Impacts of the new Réseau Express Métropolitain (REM) on mobility, health and equity: A pre-post intervention study | CIHR-NSERC Collaborative Health Research Projects | $441,002 | $0 |
 |  Co-Applicant  | February 2020-October 2020 | Training for Healthy INterdisciplinary Knowledge in Cities (THINK-Cities)  | Training Grant : CIHR-NSERC-SSHRC Healthy Cities Research Training Platform (HCRTP) | $25,000 | $0 |
 | Principal Investigator  | March 2019-March 2020 | Creating and comparing activity space measures to understand how walkability, urban sprawl, and public transit accessibility are associated with location based physical activity in 4 Canadian cities | CIHR | $100,000 | $100,000 |
@@ -367,11 +370,11 @@ Daniel Fuller __bold__
 | | | | Total | $10,471,038 | $693,394 |
 
 ### <span style="color:#81112c">Grants Under Review</span>
-
 * **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. CIHR Project Grant. $CAD 950,000. 
-* **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. Public Health Agency of Canada Chronic Disease Surveillance Grant. $CAD 1,000,000. 
+
 
 ### <span style="color:#81112c">Unsuccessful Grants</span>
+* **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. Public Health Agency of Canada Chronic Disease Surveillance Grant. $CAD 1,000,000. 
 * **Fuller D**, Winters M, Kestens Y. (2018) INTERACT St. John's. CIHR Project Scheme Grant. $CAD 680,000. 
 * Staniland, A. **Fuller, D.**, Vardy, A. (2018). Immersive Audio and Virtual Reality Infrastructure. Canada Foundation for Innovation. $250,000
 * Kestens, Y., Murua, A., Lord, S., **Fuller, D.**, Stanley, K., Gebru, T., Brondeel, R. (2017) Caractérisation des environnements urbains pour la recherche en santé: De la machine à l'humain. Programme intersectoriel AUDACE, FRQSC. $CAD 100,000.  
