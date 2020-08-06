@@ -1,12 +1,12 @@
 ---
 title: "Curriculum vitae"
 author: "Daniel Fuller"
-date: '2020-03-25'
+date: '2020-08-03'
 output:
   html_document: 
       keep_md: yes
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -169,32 +169,33 @@ Daniel Fuller __bold__
 2. Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial.
 
 ### <span style="color:#81112c">In Press Publications</span>
-
+* Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews. https://doi.org/10.1080/01441647.2020.1806943
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
 #### Physical Activity Measurement 
 
-* __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi A, _Luan H_. Predicting sleep, sedentary behaviour, and physical activity with Apple Watch and Fitbit using Rotation Forest models. Sensors. 
-* __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. JMIR MHealth. 
-* __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. Using machine learning methods to predict physical activity types with Apple Watch and Fitbit data using indirect calorimetry as the criterion. Journal for the Measurement of Physical Activity Behavior.
-* _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
-* _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
-* _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
+1. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi A, _Luan H_. Predicting sleep, sedentary behaviour, and physical activity with Apple Watch and Fitbit using Rotation Forest models. Sensors. 
+2. __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. (submitted). Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. JMIR MHealth. 
+3. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. Using machine learning methods to predict physical activity types with Apple Watch and Fitbit data using indirect calorimetry as the criterion. Journal for the Measurement of Physical Activity Behavior.
+4. _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
+5. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
+6. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
+7. _Roy A_, __Fuller D__, Stanley K, Nelson T. Global Positioning Systems and accelerometer data: A machine learning approach. Transport Findings.  
 
 #### Healthy Cities
 
-* Brondon Calles M, Hosford K, Winters M, Gauvin L, __Fuller D__. The impact of implementing public bicycle share programs on bicycle crashes: the International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). Transport Findings. 
-* __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
-* Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. 
-* Sones M, Firth CL, __Fuller D__, Holden M, Kestens Y, Winters M. Situating social connectedness in healthy cities: A conceptual primer for research and policy. Health and Place
-* Firth CL, Poirier Stephens Z,  Cantinotti, M,  __Fuller D,__ Kestens Y, Winters M. (2020). Successes and failures of built environment interventions: using concept mapping to assess stakeholder perspectives in four Canadian  cities. Social Science and Medicine.
-* Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Big data for bicycling research and practice. Transport Reviews.
-* Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health.
-* Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
-* Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
-* Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
-* _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology.  Transportation Research Part F: Psychology and Behaviour.
+1. Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board.
+2. Brandon Calles M, Hosford K, Winters M, Gauvin L, __Fuller D__. The impact of implementing public bicycle share programs on bicycle crashes: the International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). Transport Findings. 
+3. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
+4. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. 
+5. Sones M, Firth CL, __Fuller D__, Holden M, Kestens Y, Winters M. Situating social connectedness in healthy cities: A conceptual primer for research and policy. Cities and Health. 
+6. Firth CL, Poirier Stephens Z,  Cantinotti, M,  __Fuller D,__ Kestens Y, Winters M. (2020). Successes and failures of built environment interventions: using concept mapping to assess stakeholder perspectives in four Canadian  cities. Social Science and Medicine.
+7. Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health.
+8. Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
+9. Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
+10. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
+11. _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology.  Transportation Research Part F: Psychology and Behaviour.
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
 
@@ -213,14 +214,18 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Technical Reports</span>
 
-* Loucks-Atkinson, A, Yi, J.K., Hawkins, K., Loeffler, TA, **Fuller, D.** & Sullivan, A. (2017). A vision for an inclusive Newfoundland and Labrador. In R.E. Ommer, B. Neis, & D. Brake (Eds.), Asking the big questions: Reflections on a sustainable post oil-dependent Newfoundland and Labrador (pp. 46-54). St. John’s, NL: Harris Centre, Memorial University.
-* Neudrof, C., **Fuller, D.**, Neudorf, J., Lockhart, S., Plante, C., Williams-Roberts, H., Thurairasu, L. (2016). Changes in Social Inequalities in Health Over Time in Saskatchewan. https://saskatchewanequitystudy.com/
-* **Fuller, D.**, Follwell, E. J., Jones, C., Sharp, K., Meili, R. (2015). Health in All Policies: Description of tools and practices with recommendations for the Government of Newfoundland and Labrador.
-* Neudorf, C., Kryzanowski, J., Marko, J., Ugolini C., Brown A., **Fuller, D.**, Murphy L. (2015). Better Health for All Series 6: Health behaviours and risk conditions. Saskatoon: Saskatoon Health Region. Accessed March 23, 2015: https://www.saskatoonhealthregion.ca/locations_services/Services/Health-Observatory/Documents/Reports-Publications/2015_shr_series6_hsrfull.pdf
-* Neudorf, C., Kryzanowski, J., Turner, H., Cushon, J., **Fuller, D.**, Ugolini, C., Murphy, L., Marko, J. (2014). Better Health for All Series 3: Advancing Health Equity in Health Care. Saskatoon: Saskatoon Health Region. Accessed January 8, 2015: https://www.saskatoonhealthregion.ca/locations_services/Services/Health-Observatory/Documents/Reports-Publications/2014_shr_phase3_advancing_healthequity_healthcare_series.pdf
+* Holloway A, Chafe B, Fuller D.  Health and economic benefits of walking in St. John’s, Newfoundland and Labrador.
+* Vanlaar W, Woods-Fry H, Mainegra Hing M, Robertson R, Laberee K, Ferster C, and  Nelson T. Bikemaps.org: Final report on the evaluation of a crowdsourced tool to compile, analyze and communicate data about cycling safety. 2020. Traffic Injury Research Foundation. 
+* Fuller D, Butt R. Report from the Bicycle Network Design Jam. 2018 ISBN: 978-0-88901-488-6. [http://www.beaplab.com/home/wp-content/uploads/2019/01/Design-Jam.pdf](http://www.beaplab.com/home/wp-content/uploads/2019/01/Design-Jam.pdf)
+* _Tobin M_, __Fuller D__. Developing Apps for Population Health Research. 2019. ISBN: 978-0-88901-487-9. [http://www.beaplab.com/home/wp-content/uploads/2019/01/App-Review.pdf](http://www.beaplab.com/home/wp-content/uploads/2019/01/App-Review.pdf)
+* Loucks-Atkinson, A, Yi, J.K., Hawkins, K., Loeffler, TA, **Fuller, D.** & Sullivan, A. 2017. A vision for an inclusive Newfoundland and Labrador. In R.E. Ommer, B. Neis, & D. Brake (Eds.), Asking the big questions: Reflections on a sustainable post oil-dependent Newfoundland and Labrador (pp. 46-54). St. John’s, NL: Harris Centre, Memorial University.
+* Neudrof, C., **Fuller, D.**, Neudorf, J., Lockhart, S., Plante, C., Williams-Roberts, H., Thurairasu, L. 2016. Changes in Social Inequalities in Health Over Time in Saskatchewan. [https://saskatchewanequitystudy.com/](https://saskatchewanequitystudy.com/)
+* **Fuller, D.**, Follwell, E. J., Jones, C., Sharp, K., Meili, R. 2015. Health in All Policies: Description of tools and practices with recommendations for the Government of Newfoundland and Labrador.
+* Neudorf, C., Kryzanowski, J., Marko, J., Ugolini C., Brown A., **Fuller, D.**, Murphy L. 2015. Better Health for All Series 6: Health behaviours and risk conditions. Saskatoon: Saskatoon Health Region. Accessed March 23, 2015: [https://www.saskatoonhealthregion.ca/locations_services/Services/Health-Observatory/Documents/Reports-Publications/2015_shr_series6_hsrfull.pdf](https://www.saskatoonhealthregion.ca/locations_services/Services/Health-Observatory/Documents/Reports-Publications/2015_shr_series6_hsrfull.pdf)
+* Neudorf, C., Kryzanowski, J., Turner, H., Cushon, J., **Fuller, D.**, Ugolini, C., Murphy, L., Marko, J. 2014. Better Health for All Series 3: Advancing Health Equity in Health Care. Saskatoon: Saskatoon Health Region. Accessed January 8, 2015: [https://www.saskatoonhealthregion.ca/locations_services/Services/Health-Observatory/Documents/Reports-Publications/2014_shr_phase3_advancing_healthequity_healthcare_series.pdf](https://www.saskatoonhealthregion.ca/locations_services/Services/Health-Observatory/Documents/Reports-Publications/2014_shr_phase3_advancing_healthequity_healthcare_series.pdf)
 
 ### <span style="color:#81112c">Blogs</span>
-* **Fuller, D.**, Huffman, S. This election can end Canada’s dark age. Upstream Blog. Accessed November 25, 2015 - http://www.thinkupstream.net/darkage.
+* **Fuller, D.**, Huffman, S. This election can end Canada’s dark age. Upstream Blog. Accessed November 25, 2015 - [http://www.thinkupstream.net/darkage](http://www.thinkupstream.net/darkage).
 
 ## <span style="color:#81112c">Presentations</span>
 
@@ -252,11 +257,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
 
-
-
 * 2020 April: __Fuller D__, Luan H, Alfosool A, Chen Y. Time weighted approaches for combining GPS and area level data to create individual exposure measures. American Association of Geographers. (Cancelled due to COVID-19). 
-
-
 * 2020 February: _Hosford K_, Laberee K, **Fuller D**, Kestens Y, Winters M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Board Annual Meeting. 
 * 2020 February: _Bree S_, __Fuller D__, Diab E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership.  Transportation Research Board Annual Meeting. 
 * 2019 June: *Breslin, S.*, Shareck, M., **Fuller, D.** Research ethics for mobile sensing device use by vulnerable populations. At the Intersection of Culture and Method: Designing Feminist Action (DIS 2019).
@@ -314,6 +315,10 @@ Daniel Fuller __bold__
 * 2006 October:	Forbes, D. A., Bangma, Neilson, C., **Fuller, D.**, Adamson, J.,Bingham, M. Strategies that promote the use of the Cochrane Library. Oral presentation at the Cochrane Colloquium, Dublin, Ireland. 
 * 2005 November:	**Fuller, D.**, & Gyurcsik, N. C. The coach-athlete relationship: Perceptions of coaching behaviour in individual sports. Oral presentation at the Sport Leadership Conference, Quebec, Quebec. 
 * 2005 December:	Forbes, D. A., Bangma, J. Bingham, M., Adamson, J., **Fuller, D.**, Marshall, C., Furniss, S., & Clark, K. Do province-wide access to the Cochrane Library and training sessions make a difference? Oral presentation at the Canadian Cochrane Symposium, Montreal, Quebec. 
+
+## <span style="color:#81112c">Open Source Software</span>
+
+* _Brondeel R_, _Rahimipour Anaraki J_, _KhataeiPour S_, __Fuller D__. activityCounts: Generate ActiLife Counts. [https://cran.r-project.org/web/packages/activityCounts/index.html](https://cran.r-project.org/web/packages/activityCounts/index.html)
 
 ## <span style="color:#81112c">Partner and Non-Academic Audience Presentations</span>
 
@@ -468,19 +473,23 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 ## <span style="color:#81112c">Graduate Student Supervision</span>  
 
 #### <span style="color:#81112c">Supervisor</span>  
-* 2019: Rebecca Maher. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2019: Jonathan Slaney.  MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2020: Ryan Ellis. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+* 2020: Summayah Mussa. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2020: Asia Holloway. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2019: Rebecca Maher. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+* 2019: Jonathan Slaney. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2019: SeyedJavad KhataeiPour. Superior Performance of Machine Learning Algorithms in Metabolic Equivalent (MET) Prediction Using Cell Phone Accelerometer Data. MSc Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2018: Machel Rayner. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Kassia Orychock. Association between BMI and WalkScore, Dining and Drinking Score and Grocery Score in a multi-city sample of adults: A cross sectional analysis. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Bo Simango. Improving the accuracy of activity intensity classification using machine learning and commercial wearable device data. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Melissa Tobin. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2018: Machel Rayner. MPH Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2017: Nathan Taylor. MPH Program. Supervisor. Neighbourhood Active Living Potential on the Avalon Peninsula. Memorial University
-* 2014:	Satyadeva Challa. MPH Program. Supervisor. Stress Mapping and Network Connectivity Analysis. School of Public Health. University of Saskatchewan.
-* 2013:	Anna Chen. MPH Program. Supervisor. Analyzing road surface conditions, time of the day, and road structural factors associated with bicycle collisions from 2000 to 2010 in Saskatoon, Saskatchewan. School of Public Health. University of Saskatchewan.
+* 2017: Nathan Taylor. Masters of Public Health Practicum. Supervisor. Neighbourhood Active Living Potential on the Avalon Peninsula. Memorial University
+* 2014:	Satyadeva Challa. Masters of Public Health Practicum. Supervisor. Stress Mapping and Network Connectivity Analysis. School of Public Health. University of Saskatchewan.
+* 2013:	Anna Chen. Masters of Public Health Practicum. Supervisor. Analyzing road surface conditions, time of the day, and road structural factors associated with bicycle collisions from 2000 to 2010 in Saskatoon, Saskatchewan. School of Public Health. University of Saskatchewan.
 
 #### <span style="color:#81112c">Committee Member</span>  
 
+* 2020: Ryan Collins. Associations between Circadian Rhythm, Physical Activity, Mood, and Cognitive Function During the First Year of Treatment for Breast Cancer. PhD Program. Committee Member. Department of Psychology. Memorial University. 
 * 2019: Kole Phillips. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 2019.
 * 2018: Pablo Navarro. The Government of Newfoundland and Labrador’s implementation of a “Health in All Policies”. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University. 
 * 2018: Ali Alfosool.  Road Importance Using Complex-Networks, Graph Reduction & Interpolation. PhD Program. Committee Member. Department of Computer Science. Memorial University. 
@@ -516,6 +525,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Graduate Thesis Revisions</span>
 
+* 2020: Ryan Pretty. Barriers To Recruitment And Participation In Physical Rehabilitation Research: A Mixed Methods Study Among People With Multiple Sclerosis. MSc Medicine. Memorial University.
 * 2019: Kenneth Joshua. The association between physical active leisure, mental and physical health and life satisfaction among Canadian imnmigrants? MSc Human Kinetics and Recreation. Memorial University.
 * 2018: John Snow. Can tri-axial accelrometers improve current clinical measures of spinal mobility in patients with axial spondyloarthiritis? MSc Clinical Epidemiology. Memorial University.
 * 2017: Amita Goyal. Association and mediators of leasure time physical activity and mental health among people with spinal cord injury.MSc Human Kinetics and Recreation. Memorial University.
