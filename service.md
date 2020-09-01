@@ -23,24 +23,32 @@ Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)
 
 ## <span style="color:#81112c">Service Overview</span>
 
-My service activities are focused on contributing to two broad themes. First, enhancing student success in research. Second, creating linkages between my work and the community. These two themes contribute to my research programs mission *"to conduct research that will help design urban and rural environments that equitably increase physical activity for the entire population"* by creating structures through my servive that enhance opportunities for highly qualified personnel and by linking my research with the community. 
+My service activities are focused on contributing to two broad themes. First, enhancing student success in research. Second, creating linkages between my work and the community. These two themes contribute to my research programs mission *"to conduct research that will help design urban and rural environments that equitably increase physical activity for the entire population"* by creating structures through my service that enhance opportunities for highly qualified personnel and by linking my research with the community. 
 
 ### <span style="color:#81112c">Service at Memorial University</span>
 
 ### <span style="color:#81112c">Cross Appointments</span>
 
-I am cross appointed with the Faculty of Medicine, Department of Community Health and Humanities. This cross appointment has allowed me to collaborate with researchers and students in Medicine. In particular, I am currently supervision Pablo Navarro's PhD in Community Health and Humanities at MUN.
+I am cross appointed with the Faculty of Medicine, Department of Community Health and Humanities and the Faculty of Science, Department of Computer Science. These cross appointments have allowed me to be a committee member for Pablo Navarro's PhD in Community Health and Humanities. I am also a co-supervisor with Dr. Yuanzhu Chen of Ali Alfosool's PhD in Computer Science titled "Road Importance Using Complex-Networks, Graph Reduction & Interpolation."
 
 ### <span style="color:#81112c">Committees</span>
 
 | Name of Committee | Period | Institution |
 |-------------------|--------|-------------|
-| Dean Search Committee | 2017 - 2018 | Memorial University | 
-| Search Committee | 2017 - 2018 | Memorial University | 
-| Gradute Studies Committee | 2016 - 2018 | Memorial University | 
-| Awards Committee | 2016 - ongoing | Memorial University | 
 | Faculty Council | 2016 - ongoing | Memorial University | 
 | Academic Council | 2016 - ongoing | Memorial University | 
+| Library Committee | 2019 - 2020 | Memorial University | 
+| Search Committee - Lockheed Martin Chair | 2018 - 2020 | Marine Institute - Memorial University | 
+| Search Committee Chair | 2018 - 2019 | Memorial University | 
+| Dean Search Committee | 2017 - 2018 | Memorial University | 
+| Search Committee | 2017 - 2018 | Memorial University | 
+| Graduate Studies Committee | 2016 - 2018 | Memorial University | 
+| Awards Committee | 2016 - 2018 | Memorial University | 
+| Epidemiology Program Advisory Committee | 2016 | University of Saskatchewan | 
+| PhD Program Committee, Student Member | 2008-2010 | Universite de Montreal | 
+| PhD Admissions Committee, Student Member | 2008-2010 | Universite de Montreal | 
+| Universite de Montreal Public Health Graduate Student Society | 2008-2010 | Universite de Montreal | 
+| College of Kinesiology Graduate Society | 2006-2008 | Universite de Montreal | 
 
 ### <span style="color:#81112c">Other Activities</span>
 
@@ -53,32 +61,78 @@ I am cross appointed with the Faculty of Medicine, Department of Community Healt
 
 ## <span style="color:#81112c">External Service</span>
 
-* 2018: Associated Editor, BMC Public Health (Impact Factor: **5 Year Impact Factor: 3.039**)
-    - Associate Editor for 4 manuscripts to date
+* 2020-2023: Social Media Associated Editor, Canadian Journal of Public Health 
+* 2019: Associated Editor, Canadian Journal of Public Health 
+    - Associate Editor for 5 manuscripts 
+* 2018-2019: Associated Editor, BMC Public Health 
+    - Associate Editor for 13 manuscripts 
+* 2015-2017: Board Member, Saskatchewan Epidemiology Association.
+* 2015: Scientific Committee, Food Environments in Canada Symposium and Workshop.
+* 2014: Scientific Committee, Active Living Research Conference.
+* 2009-2011: Board Member, International Union of Health Promotion Student and Early Career Network (ISECN).
+* 2009-2011: Board Member, Canadian Public Health Association Student Ad Hoc Committee.
+
+### <span style="color:#81112c">Funding Reviews</span>
+
+1. 2020 Tier 2 Canada Research Chair Renewal in Physical Activity and Health
+1. 2020 Tier 2 Canada Research Chair Application in  Artificial Intelligence for Complex Health Data
+1. 2020 MITACS Accelerate. Title: La navette autonome de la Petite Bourgogne répond-elle aux besoins de la communaute?
+2. 2020 MITACS Accelerate. Title: Investigation of supportive policy for Active School Travel: Evidence- based recommendations for policies to promote active transportation for school journeys
+3. 2020 European Science Foundation. Title: Data mining for real-time bicycle collisions control in cycling cities.
+4. 2019 NSERC Discovery Grant Reviewer. Title: Merging measurement theory and technology for more accurate assessment of physical activity
 
 ### <span style="color:#81112c">Scientific Peer Review</span>
 
-| Journal | Year | Number of Reviews |
+| Number of Reviews | Year | Example Journals |
 |---------|------|-------------------|
-| Canadian Journal of Public Health | 2018 | 1 | 
-| Journal of Epidemiology and Community Health | 2018 | 1 | 
-| American Journal of Preventive Medicine | 2017 | 1 | 
-| Canadian Journal of Public Health | 2017 | 2 | 
-| Nature - Science Reports | 2017 | 1 | 
-| Social Science and Medicine: Public Health | 2017 | 1 | 
-| Health Promotion and Chronic Disease Prevention | 2017 | 1 | 
+| 3 | 2020 | British Medical Journal, Journal of Transportation and Health | 
+| 8 | 2019 | British Medical Journal, Journal of Transportation and Health | 
+| 2 | 2018 | Canadian Journal of Public Health | 
+| 6 | 2017 | Nature - Science Reports, American Journal of Preventive Medicine | 
+| 2 | 2016 | Canadian Journal of Public Health | 
+| 4 | 2015 | Journal of Epidemiology and Community Health | 
+| 2 | 2014 | Transportation Research Board | 
+| 4 | 2013 | American Journal of Public Health | 
+| 5 | 2011 | Social Science and Medicine | 
+| 2 | 2011 | Annals of Behavioral Medicine | 
 
-### <span style="color:#81112c">Professional Services</span>
+### <span style="color:#81112c">Expert Reviewers</span>
 
-Expert Reviewer  
 * 2018 - Canadian Institue of Planners - Policy Statement on Healthy Communities.  
 * 2017 - Hybrid Active Living Potential Scale (HALPS) for the Canadian Armed Forces for Dr. Michael Spivock.  
+
+### <span style="color:#81112c">Media</span>
+
+1. CBC National Syndication. Obesity in Canada. February 13, 2020. 
+  - CBC Cape Breton - Steve Sutherland 
+  - Ontario AM - Wei Chen
+  - Island Morning - Mitch Cormier
+  - Windsor Morning - Tony Doucette
+  - Newfoundland Morning - Bernice Hillier
+  - St. John's Morning Show - Anthony Germain
+  - The Trailbreaker - Loren McGinnis
+  - Yukon Morning - Chris Walker
+  - Kitchener-Waterloo - Craig Norris
+  - Daybreak North - Carolina DeRyk
+  - The Early Edition - Steven Quinn
+1. Brett Bundale, February 7, 2020. A day in the life of a crossing guard. [https://www.thechronicleherald.ca/news/local/a-day-in-the-life-of-a-crossing-guard-its-a-precarious-profession-408524/](https://www.thechronicleherald.ca/news/local/a-day-in-the-life-of-a-crossing-guard-its-a-precarious-profession-408524/)
+1. Jaimie Fitzpatrick, February 3, 2020. Vision Zero traffic safety policy. [https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy](https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy)
+1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. [https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445][https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
+1. Ariana Kelland. March 25, 2019. After immigration trouble, this St. John's trainer is back to helping others [https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383](https://www.cbc.ca/news/canada/newfoundland-labrador/update-machel-rayner-1.5064383)
+2. CBC Cross Talk. Do you feel safe riding a bicycle? June 21, 2018. 
+3. Juanita Mercer. N.L. urban residents advised to take the bus to better health. May 27, 2017.
+[http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus-to-better-health-213473/](http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus-to-better-health-213473/)
+4. Ted Blades. Taking the bus is better for your health. June 8, 2018.  http://www.cbc.ca/listen/shows/on-the-go/episode/15549559
+5. Mark Quinn. Bike map aims to help St. John's cyclists steer clear of trouble. March 8, 2018. [http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225](http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225)
+6. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
+7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
+8. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
 
 ### <span style="color:#81112c">Community Collaborations</span>
 
 | Organization | Role | Period |
 |-------------------|--------|--------|
-| Building Healthy Communities Provincial Linkages Committee | Member | 2017 - ongoing |
-| Avalon Cycling | Member | 2017 - ongoing |
+| Building Healthy Communities Provincial Linkages Committee | Member | 2017 - 2019 |
+| Avalon Cycling | Member | 2017 - 2019 |
 
 
