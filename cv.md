@@ -4,7 +4,9 @@ author: "Daniel Fuller"
 date: '2020-08-03'
 output:
   html_document: 
-      keep_md: yes
+    keep_md: yes
+    toc: true
+    toc_depth: 2
   word_document: default
   pdf_document: default
 ---
@@ -103,7 +105,7 @@ Daniel Fuller __bold__
 1. Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Crowdsourced data for bicycling research and practice. Transport Reviews. 2020.  [https://doi.org/10.1080/01441647.2020.1806943](https://doi.org/10.1080/01441647.2020.1806943)
 1. Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. Causally speaking: challenges in measuring gentrification for population health research. Health & Place. 2020. 63, 102350. [https://doi.org/10.1016/j.healthplace.2020.102350](https://doi.org/10.1016/j.healthplace.2020.102350)  
 1. Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood Transportation Study (DNTS) cohort. Journal of Transportation and Health. 2020: https://doi.org/10.1016/j.jth.2020.100836
-1. Zhang R, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems. 2020:6(1). [https://dl.acm.org/doi/10.1145/3362063](https://dl.acm.org/doi/10.1145/3362063)
+1. _Zhang R_, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems. 2020:6(1). [https://dl.acm.org/doi/10.1145/3362063](https://dl.acm.org/doi/10.1145/3362063)
 1. _Hosford, K._, Winters, M., Gauvin, L., Camden, A., Dube, A-S., Friedman, S. M., __Fuller, D.__. Evaluating the impact of implementing public bicycle share programs on cycling: The International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). International Journal of Behavioural Nutrition and Physical Activity. 2019:16, 107. [https://doi.org/10.1186/s12966-019-0871-9](https://doi.org/10.1186/s12966-019-0871-9)
 1. _Hosford, K._, Winters, M., __Fuller, D.__. Commentary on: Burn Calories, Not Fuel! The effects of bikeshare programs on obesity rates. Transportation Research Part D: Transport and Environment. 2019:75, 121-122. [https://doi.org/10.1016/j.trd.2019.08.028](https://doi.org/10.1016/j.trd.2019.08.028) 
 1. __Fuller, D.__, Stanley, K. G. The future of activity space and health research. Journal of Health and Place. 2019:58, 102131. [https://doi.org/10.1016/j.healthplace.2019.05.009](https://doi.org/10.1016/j.healthplace.2019.05.009)
@@ -359,43 +361,44 @@ Daniel Fuller __bold__
 |  Co-Applicant  | February 2020-October 2020 | Training for Healthy INterdisciplinary Knowledge in Cities (THINK-Cities)  | Training Grant : CIHR-NSERC-SSHRC Healthy Cities Research Training Platform (HCRTP) | $25,000 | $0 |
 | Principal Investigator  | March 2019-March 2020 | Creating and comparing activity space measures to understand how walkability, urban sprawl, and public transit accessibility are associated with location based physical activity in 4 Canadian cities | CIHR | $100,000 | $100,000 |
 | Co-Applicant | May 2019 – April 2020 | Smart Cities, Healthy Citizens? Optimizing Health and Equity in City Policy Making | CIHR | $24,985 | $0 |
-| Co-Applicant | March 2019-March 2023 | Sustainable Healthy Cities: The Interplay between Urban Interventions, Gentrification, and Population Health | CIHR | $527,851 | $0 |
-| Principal Investigator | January 2018-January 2019 | Transportation and Health Impact Modelling for Healthy Cities | CIHR | $10,000 | $10,000 |
-| Co-Applicant | January 2018-January 2019 | INTervention Research Accross Cities Team | CIHR | $10,000 | $0 |
-| Co-Applicant | January 2018-January 2019 | Policy Action for Healthy Cities | CIHR | $10,000 | $0 |
-| Co-Applicant | January 2018-January 2020 | Documenting Urban Change for Health Research using Artificial Intelligence | CIHR | $20,000 | $0 |
-| Co-Applicant | January 2018-January 2020 | The “Quantified Self” and the Quantified Place: Developing an Artificial Intelligence System From Smart Phone and Geo- Spatial Data to Lower Dietary and Physical Inactivity Disease Burden | CIHR | $20,000 | $0 |
-| Team Lead | November 2018-February 2019 | HEROX: The Healthy Behaviour Data Challenge | CIHR | $10,000 | $10,000 |
-| Team Lead | April 2017-April 2021 | Canadian Urban Environmental Health Research Consortium | CIHR | $5 Million | $45,00 |
+| Co-Applicant | March 2019-March 2023 | Sustainable Healthy Cities: The Interplay between Urban Interventions, Gentrification, and Population Health | CIHR | $527,851 | $6000 |
+| Team Lead | April 2017-April 2021 | Canadian Urban Environmental Health Research Consortium | CIHR | $5 Million | $45,000 |
 | Co-Principal Investigator | December 2017 to December 2021 | Environments and Health INTERACT: INTErventions, Research, and Action in Cities Team | CIHR | $2 Million | $106,256 |
-| Principal Investigator | April 2017 to April 2019 | Developing a public open source walkability measure for Newfoundland | MUN | $10,000 | $10,000 |
-| Principal Investigator | August 2016 to August 2021 | Canada Research Chair in Population Physical Activity | CRC  | $500,000 | $100,000 |
+| Principal Investigator | August 2016 to August 2021 | Canada Research Chair in Population Physical Activity | CRC  | $500,000 | $500,000 |
 | Principal Investigator | August 2016 to August 2021 | Newfoundland Research and Development Corporation CRC Leverage | RDC | $100,000 | $100,000 |
 | Principal Investigator | August 2016 to August 2018 | Canadian Foundation for Innovation John R. Evans Leaders Fund | CFI | $252,638 | $252,638 |
 | Principal Investigator | August 2016 to August 2018 | Newfoundland Research and Development Corporation CFI Leverage Grant | RDC | $100,000 | $100,000 |
 | Co-Applicant | August 2016 to August 2021 | Impacts of City-Wide Bicycle Infrastructure Investment on Population Health & Health Equity | CIHR | $428,400 | $0 |
 | Co-Applicant | December 2017 to December 2021 | Multisectoral Urban Systems for health and Equity in Canadian cities | CIHR | $2 Million | $0 |
-| | | | Total | $10,471,038 | $693,394 |
+| | | | Total | $12,291,896 | $1,353,638 |
 
 ### <span style="color:#81112c">Grants Under Review</span>
-* **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. CIHR Project Grant. $CAD 950,000. 
+None
 
 ### <span style="color:#81112c">Unsuccessful Grants</span>
-* **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. Public Health Agency of Canada Chronic Disease Surveillance Grant. $CAD 1,000,000. 
-* **Fuller D**, Winters M, Kestens Y. (2018) INTERACT St. John's. CIHR Project Scheme Grant. $CAD 680,000. 
-* Staniland, A. **Fuller, D.**, Vardy, A. (2018). Immersive Audio and Virtual Reality Infrastructure. Canada Foundation for Innovation. $250,000
-* Kestens, Y., Murua, A., Lord, S., **Fuller, D.**, Stanley, K., Gebru, T., Brondeel, R. (2017) Caracterisation des environnements urbains pour la recherche en sante: De la machine à l'humain. Programme intersectoriel AUDACE, FRQSC. $CAD 100,000.  
-* City of St. John's & Happy City. (2018). Smart Cities Challenge. Infrastructure Canada. $5M.
-* Patterson, Z., Gaspar, V., Donaher, G., Hain, M., Chapman, O., Gueheneuc, Y-G., Renzi, A., Yu, J Y., Cloutier, M-S., **Fuller, D.,** Tessier, M-A., Hamzeh, H., Bilal, F., Winters, M., Plouffe, C., Farber, S., Widener, M. The Itinerum Open Smartphone Travel Survey Platform Partnership. (2018). SSHRC Partnership Grant. $2M. 
-* **Fuller, D.**, Kestens, Y., Winters, M., Luan, H., Stanley, K., Tremblay, M. (2017). A machine learning and artificial intelligence for physical activity working group for population level physical activity measurement using wearable devices. CIHR Planning and Dissemination Grant. $20,000.
-* **Fuller, D.**, Chen, Y., Cameron, E., Gyurcsik, N., Hu, T., Basset, F. Labelling data and leveraging opportunities for sex and gender identity specific physical activity counselling using wearable devices. CIHR Personalized Health Catalyst Grant. *Principal Applicant*. $200,000.  
-* Kestens, Y., Brondeel, R., Stanley, K., Mathieu, M-E., **Fuller. D.**, Stanley, K. (2017) Developing a machine learning based toolkit for derivation of physical activity indicators based on smartphone sensor data. CIHR Personalized Health Catalyst Grant. *Co-Applicant*. $136,291.  
-* Kestens, Y., Murua, A., Mathieu, M-E., Fuller, D., Stanley, K., Brondeel, R. (2017) Developing a machine learning based toolkit for derivation of physical activity indicators based on smartphone sensor data. IVADO. $CAD 100,000.  
-* **Fuller, D.** CIHR Institute of Population and Public Health Trailblazer Award. *Principal Applicant*. $17,000. 
-* McGowan, E., **Fuller. D.**, McCarthy, J., Yi, D., Browne, S. Capturing real-time association between cancer specific symptoms, sleep, and physical activity among breast cancer survivors undergoing treatment. NL Support. *Co-Principal Applicant*. $75,000.
+1. **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. CIHR Project Grant. $CAD 950,000. 
+1. **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. Public Health Agency of Canada Chronic Disease Surveillance Grant. $CAD 1,000,000. 
+1. **Fuller D**, Winters M, Kestens Y. (2018) INTERACT St. John's. CIHR Project Scheme Grant. $CAD 680,000.
+1. Staniland, A. **Fuller, D.**, Vardy, A. (2018). Immersive Audio and Virtual Reality Infrastructure. Canada Foundation for Innovation. $250,000
+1. Kestens, Y., Murua, A., Lord, S., **Fuller, D.**, Stanley, K., Gebru, T., Brondeel, R. (2017) Caracterisation des environnements urbains pour la recherche en sante: De la machine à l'humain. Programme intersectoriel AUDACE, FRQSC. $CAD 100,000.  
+1. City of St. John's & Happy City. (2018). Smart Cities Challenge. Infrastructure Canada. $5M.
+1. Patterson, Z., Gaspar, V., Donaher, G., Hain, M., Chapman, O., Gueheneuc, Y-G., Renzi, A., Yu, J Y., Cloutier, M-S., **Fuller, D.,** Tessier, M-A., Hamzeh, H., Bilal, F., Winters, M., Plouffe, C., Farber, S., Widener, M. The Itinerum Open Smartphone Travel Survey Platform Partnership. (2018). SSHRC Partnership Grant. $2M. 
+1. **Fuller, D.**, Kestens, Y., Winters, M., Luan, H., Stanley, K., Tremblay, M. (2017). A machine learning and artificial intelligence for physical activity working group for population level physical activity measurement using wearable devices. CIHR Planning and Dissemination Grant. $20,000.
+1. **Fuller, D.**, Chen, Y., Cameron, E., Gyurcsik, N., Hu, T., Basset, F. Labelling data and leveraging opportunities for sex and gender identity specific physical activity counselling using wearable devices. CIHR Personalized Health Catalyst Grant. *Principal Applicant*. $200,000.  
+1. Kestens, Y., Brondeel, R., Stanley, K., Mathieu, M-E., **Fuller. D.**, Stanley, K. (2017) Developing a machine learning based toolkit for derivation of physical activity indicators based on smartphone sensor data. CIHR Personalized Health Catalyst Grant. *Co-Applicant*. $136,291.  
+1. Kestens, Y., Murua, A., Mathieu, M-E., Fuller, D., Stanley, K., Brondeel, R. (2017) Developing a machine learning based toolkit for derivation of physical activity indicators based on smartphone sensor data. IVADO. $CAD 100,000.  
+1. **Fuller, D.** CIHR Institute of Population and Public Health Trailblazer Award. *Principal Applicant*. $17,000. 
+1. McGowan, E., **Fuller. D.**, McCarthy, J., Yi, D., Browne, S. Capturing real-time association between cancer specific symptoms, sleep, and physical activity among breast cancer survivors undergoing treatment. NL Support. *Co-Principal Applicant*. $75,000.
 
 ### <span style="color:#81112c">Completed Grants</span>
 
+* __Fuller, D.__, Chen, Y. Developing a public open source walkability measure for Newfoundland. $10,000. Memorial University Seed, Bridge, Multidiscplinary Fund. April 2017-April 2019.
+* __Fuller, D.__, Kestens, Y. Luan, H. Winters, M. HEROX: The Healthy Behaviour Data Challenge. $10,000. CIHR - Planning Grant. January 2018-January 2020.
+* Winters, M. Kestens. Y. __Fuller, D.__. Policy Action for Healthy Cities. $10,000. CIHR - Planning Grant. January 2018-January 2020.
+* Kestens. Y. __Fuller, D.__, Winters, M. INTervention Research Across Cities Team. $10,000. CIHR - Planning Grant. January 2018-January 2020.
+* __Fuller, D.__, Kestens, Y. Luan, H. Brook, J. Winters, M. Transportation and Health Impact Modelling for Healthy Cities. $10,000. CIHR - Planning Grant. January 2018-January 2020.
+* Kestens, Y. Brondeel, R. __Fuller, D.__, Stanley, K. Winters, M. Documenting Urban Change for Health Research using Artificial Intelligence. $20,000. CIHR - Planning Grant. $20,000. January 2018-January 2020.
+* Ross, N. Precup, D. Brazeau, A-S. Dasgupta, K.  Elrick, T. __Fuller, D.__ Law, R. Mandryk, E. The “Quantified Self” and the Quantified Place: Developing an Artificial Intelligence System From Smart Phone and Geo- Spatial Data to Lower Dietary and Physical Inactivity Disease Burden. $20,000. CIHR - Planning Grant.  January 2018-January 2020.
 *	Muhajarine, N., **Fuller, D.**, Katapally, T., Osgood, N., Rainhan, D., Stanley, K. A Step towards Creating Active Urban Communities: Informing Policy by Identifying and Mapping Locations of Seasonal Activity Accumulation, $194,378, CIHR Operating Grant - Population and Public Health, September 2013 – September 2016.
 *	Engler-Stringer, R., Muhajarine, N., Abonyi, S., Neudorf, C., Vatanparast, H., Walker, R., Whiting, S. J., **Fuller, D.** The Good Food Junction: A Community-Based Food Intervention to Reduce Nutritional Health Inequities, $200,00, CIHR Operating Grant - Population Health Intervention Research, December 2012 – December 2014.
 *	Winters, M., Edwards, S., Teschke, K., Brauer, M., Gauvin, L., **Fuller, D.**, Frank, LDF., Kestens. Y., $200,000, Health Promotion through Active Transportation – A Pre-Post Evaluation of a Vancouver-Based Public Bikeshare Program, CIHR Operating Grant - Population Health Intervention Research, December 2011 – December 2016.
@@ -554,18 +557,22 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
+1. Asia Holloway. August 21, 2020. Investing in a Walk-able City Pays for Itself. [https://theindependent.ca/2020/08/21/letter-investing-in-a-walk-able-city-pays-for-itself/](https://theindependent.ca/2020/08/21/letter-investing-in-a-walk-able-city-pays-for-itself/)
+1. VOCM News, August 25, 2020. [https://soundcloud.com/vocm/asia-holloway-masters-of-a-public-health-student-with-the-mun-beap-lab-health-economic-benefits-of-walking-in-st-johns?in=vocm/sets/vocm-morning-show](https://soundcloud.com/vocm/asia-holloway-masters-of-a-public-health-student-with-the-mun-beap-lab-health-economic-benefits-of-walking-in-st-johns?in=vocm/sets/vocm-morning-show)
+1. VOCM News, August 25, 2020. [Walking in St. John’s Would Help Economy, says MUN Study](Walking in St. John’s Would Help Economy, says MUN Study)
+1.  Mark Quinn, August 26, 2020. Making St. John's more walkable worth more than $100M over 10 years, say MUN researchers. [https://www.cbc.ca/news/canada/newfoundland-labrador/value-of-walking-1.5698911?__vfz=medium%3Dsharebar](https://www.cbc.ca/news/canada/newfoundland-labrador/value-of-walking-1.5698911?__vfz=medium%3Dsharebar)
 1. CBC National Syndication. Obesity in Canada. February 13, 2020. 
-  - CBC Cape Breton - Steve Sutherland 
-  - Ontario AM - Wei Chen
-  - Island Morning - Mitch Cormier
-  - Windsor Morning - Tony Doucette
-  - Newfoundland Morning - Bernice Hillier
-  - St. John's Morning Show - Anthony Germain
-  - The Trailbreaker - Loren McGinnis
-  - Yukon Morning - Chris Walker
-  - Kitchener-Waterloo - Craig Norris
-  - Daybreak North - Carolina DeRyk
-  - The Early Edition - Steven Quinn
+    * CBC Cape Breton - Steve Sutherland 
+    * Ontario AM - Wei Chen
+    * Island Morning - Mitch Cormier
+    * Windsor Morning - Tony Doucette
+    * Newfoundland Morning - Bernice Hillier
+    * St. John's Morning Show - Anthony Germain
+    * The Trailbreaker - Loren McGinnis
+    * Yukon Morning - Chris Walker
+    * Kitchener-Waterloo - Craig Norris
+    * Daybreak North - Carolina DeRyk
+    * The Early Edition - Steven Quinn
 1. Brett Bundale, February 7, 2020. A day in the life of a crossing guard. [https://www.thechronicleherald.ca/news/local/a-day-in-the-life-of-a-crossing-guard-its-a-precarious-profession-408524/](https://www.thechronicleherald.ca/news/local/a-day-in-the-life-of-a-crossing-guard-its-a-precarious-profession-408524/)
 1. Jaimie Fitzpatrick, February 3, 2020. Vision Zero traffic safety policy. [https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy](https://www.cbc.ca/listen/live-radio/1-56-st-johns-morning-show/clip/15758803-vision-zero-traffic-safety-policy)
 1. Jennifer Quesnel November 25, 2019. Interventions, Research, and Action in Cities Team Wave 1 results. [https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445][https://www.cbc.ca/news/canada/saskatoon/study-finds-half-of-riders-in-saskatoon-unaware-of-coming-bus-rapid-transit-1.5372445
@@ -639,7 +646,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ## <span style="color:#81112c">University Committees</span>
 
-| Name of Committee | Period | Institution |+
+| Name of Committee | Period | Institution |
 |-------------------|--------|-------------|
 | School of Public Health Committee, Student Member | 2008-2010 | Universite de Montreal | 
 
