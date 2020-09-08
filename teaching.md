@@ -149,7 +149,7 @@ I spend considerable time and effort training  students at the BEAP Lab. I have 
 * Newfoundland Personal Health Information Training: Direct Contact with Personal Health Information http://nlchi.skillbuilder.ca/home
 * CIHR Sex and Gender in the Analysis of Data from Human Participants http://www.cihr-irsc-igh-isfh.ca/course/index.php
 
-I have also developed training in [statistics](https://github.com/TeamINTERACT/onboarding/blob/master/r_rstudio/r_rstudio.md), [Github](https://github.com/TeamINTERACT/onboarding/blob/master/github/github_intro.md), and [Compute Canada](https://github.com/TeamINTERACT/onboarding/blob/master/databases/data_base_connections.md), among others. This interdisciplinary training is critical for students to develop skills accros numerous disciplines. 
+I have also developed training in [statistics](https://github.com/TeamINTERACT/onboarding/blob/master/r_rstudio/r_rstudio.md), [Github](https://github.com/TeamINTERACT/onboarding/blob/master/github/github_intro.md), and [Compute Canada](https://github.com/TeamINTERACT/onboarding/blob/master/databases/data_base_connections.md), among others. This interdisciplinary training is critical for students to develop skills across numerous disciplines. 
 
 # <span style="color:#81112c">Student Supervision</span>
 
@@ -223,13 +223,6 @@ I both supervise graduate students but also hire and train numerous highly quali
 | Samantha Breslin | PhD Student | Anthropology | Memorial University | 2018
 | Jonathan Low | MSc Student | Kinesiology | Memorial University | 2016-2018
 | Faramarz Dorani | MSc Student | Computer Science | Memorial University | 2016-2018
-
-### <span style="color:#81112c">Graduate Thesis Revisions</span>
-
-* 2020: Ryan Pretty. Barriers To Recruitment And Participation In Physical Rehabilitation Research: A Mixed Methods Study Among People With Multiple Sclerosis. MSc Medicine. Memorial University.
-* 2019: Kenneth Joshua. The association between physical active leisure, mental and physical health and life satisfaction among Canadian imnmigrants? MSc Human Kinetics and Recreation. Memorial University.
-* 2018: John Snow. Can tri-axial accelrometers improve current clinical measures of spinal mobility in patients with axial spondyloarthiritis? MSc Clinical Epidemiology. Memorial University.
-* 2017: Amita Goyal. Association and mediators of leasure time physical activity and mental health among people with spinal cord injury.MSc Human Kinetics and Recreation. Memorial University.
 
 # Course Development
 
@@ -314,25 +307,45 @@ Below I present only a subset of the data. However, what is presented provides a
 
 
 
-##### The instructor used challenging questions
+##### 1. The instructor used challenging questions
 
 ![](teaching_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
 
-##### The instructor was willing to listen to student opinions
+##### 2. The instructor was willing to listen to student opinions
 
 ![](teaching_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
 
-##### The instructor was actively helpful to the students
+##### 3. The instructor was actively helpful to the students
 
 ![](teaching_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
 
-##### The general atmosphere in this course was good for learning
+##### 4. The instructor had a genuine interest in student learning 
 
 ![](teaching_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
 
-##### Students were invited to share their ideas
+##### 5. The course materials (e.g., readings, notes, in‐class exercises) facilitated learning 
 
 ![](teaching_files/figure-html/unnamed-chunk-7-1.png)<!-- -->
+
+##### 6. The general atmosphere in this course was good for learning
+
+![](teaching_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+
+##### 7. The instructor related to students in ways that promoted mutual respect
+
+![](teaching_files/figure-html/unnamed-chunk-9-1.png)<!-- -->
+
+##### 8. The instructor provided adequate opportunities for questions and discussion during class time  
+
+![](teaching_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
+
+##### 9. Students were invited to share their ideas
+
+![](teaching_files/figure-html/unnamed-chunk-11-1.png)<!-- -->
+
+##### 10. In this course, I felt motivated to learn  
+
+![](teaching_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
 
 ### <span style="color:#81112c">Comments from HKR 3400 Winter 2018</span>
 

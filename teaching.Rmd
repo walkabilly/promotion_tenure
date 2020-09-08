@@ -226,13 +226,6 @@ I both supervise graduate students but also hire and train numerous highly quali
 | Jonathan Low | MSc Student | Kinesiology | Memorial University | 2016-2018
 | Faramarz Dorani | MSc Student | Computer Science | Memorial University | 2016-2018
 
-### <span style="color:#81112c">Graduate Thesis Revisions</span>
-
-* 2020: Ryan Pretty. Barriers To Recruitment And Participation In Physical Rehabilitation Research: A Mixed Methods Study Among People With Multiple Sclerosis. MSc Medicine. Memorial University.
-* 2019: Kenneth Joshua. The association between physical active leisure, mental and physical health and life satisfaction among Canadian imnmigrants? MSc Human Kinetics and Recreation. Memorial University.
-* 2018: John Snow. Can tri-axial accelrometers improve current clinical measures of spinal mobility in patients with axial spondyloarthiritis? MSc Clinical Epidemiology. Memorial University.
-* 2017: Amita Goyal. Association and mediators of leasure time physical activity and mental health among people with spinal cord injury.MSc Human Kinetics and Recreation. Memorial University.
-
 # Course Development
 
 I have developed three new courses during my career. The most recent course I would like to highlight is called **Computer Applications for Physical Activity Measurement and Intervention**. This is a gradaute level course where students learn concepts of data science and intervention evaluation applied to wearable device and accelerometer data. I have offered the course twice since 2017. This course has been a great learning experience for me and the students. I can envision this course being transformed to an undergraduate course or modified to meet teaching needs in data science for students who us different types of data. 
@@ -323,7 +316,7 @@ library(reshape2)
 library(ggplot2)
 ``` 
 
-##### The instructor used challenging questions
+##### 1. The instructor used challenging questions
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
@@ -334,7 +327,7 @@ ggplot(teaching1, aes(q_challenging, group=course_num, col=course_num)) +
   labs(x = "Scale")
 ``` 
 
-##### The instructor was willing to listen to student opinions
+##### 2. The instructor was willing to listen to student opinions
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
@@ -345,7 +338,7 @@ ggplot(teaching1, aes(q_listen, group=course_num, col=course_num)) +
   labs(x = "Scale")
 ``` 
 
-##### The instructor was actively helpful to the students
+##### 3. The instructor was actively helpful to the students
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 
@@ -357,7 +350,31 @@ ggplot(teaching1, aes(q_helpful, group=course_num, col=course_num)) +
   labs(x = "Scale")
 ``` 
 
-##### The general atmosphere in this course was good for learning
+##### 4. The instructor had a genuine interest in student learning 
+
+```{r, warning=FALSE, echo = FALSE, message=FALSE}
+
+teaching1$course_num <- as.factor(teaching1$course_num)
+ggplot(teaching1, aes(q_interest_in_learning, group=course_num, col=course_num)) + 
+  geom_density(position='dodge') + 
+  xlim(1, 5) + 
+  labs(colour = "Course Number") + 
+  labs(x = "Scale")
+``` 
+
+##### 5. The course materials (e.g., readings, notes, in‐class exercises) facilitated learning 
+
+```{r, warning=FALSE, echo = FALSE, message=FALSE}
+
+teaching1$course_num <- as.factor(teaching1$course_num)
+ggplot(teaching1, aes(q_material_helped_learn, group=course_num, col=course_num)) + 
+  geom_density(position='dodge') + 
+  xlim(1, 5) + 
+  labs(colour = "Course Number") + 
+  labs(x = "Scale")
+``` 
+
+##### 6. The general atmosphere in this course was good for learning
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 
@@ -369,11 +386,44 @@ ggplot(teaching1, aes(q_atmosphere_good, group=course_num, col=course_num)) +
   labs(x = "Scale")
 ``` 
 
-##### Students were invited to share their ideas
+##### 7. The instructor related to students in ways that promoted mutual respect
+
+```{r, warning=FALSE, echo = FALSE, message=FALSE}
+teaching1$course_num <- as.factor(teaching1$course_num)
+ggplot(teaching1, aes(q_mutual_respect, group=course_num, col=course_num)) + 
+  geom_density(position='dodge') + 
+  xlim(1, 5) + 
+  labs(colour = "Course Number") + 
+  labs(x = "Scale")
+``` 
+
+##### 8. The instructor provided adequate opportunities for questions and discussion during class time  
+
+```{r, warning=FALSE, echo = FALSE, message=FALSE}
+teaching1$course_num <- as.factor(teaching1$course_num)
+ggplot(teaching1, aes(q_class_discussion, group=course_num, col=course_num)) + 
+  geom_density(position='dodge') + 
+  xlim(1, 5) + 
+  labs(colour = "Course Number") + 
+  labs(x = "Scale")
+``` 
+
+##### 9. Students were invited to share their ideas
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
 ggplot(teaching1, aes(q_share_ideas, group=course_num, col=course_num)) + 
+  geom_density(position='dodge') + 
+  xlim(1, 5) + 
+  labs(colour = "Course Number") + 
+  labs(x = "Scale")
+``` 
+
+##### 10. In this course, I felt motivated to learn  
+
+```{r, warning=FALSE, echo = FALSE, message=FALSE}
+teaching1$course_num <- as.factor(teaching1$course_num)
+ggplot(teaching1, aes(q_motivated, group=course_num, col=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
