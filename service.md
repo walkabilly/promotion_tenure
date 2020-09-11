@@ -35,15 +35,15 @@ I am cross appointed with the Faculty of Medicine, Department of Community Healt
 
 ## <span style="color:#81112c">Committees</span>
 
-Since beginning in the School of Human Kinetics & Recreation at Memorial University on August 1 , 2016, I have made efforts to serve the School of Human Kinetics and Recreation. I will briefly describe the work of each of the committees that I have served on and, where relevant, outline specific duties or roles that I have taken on within these committees.
+Since beginning in the School of Human Kinetics & Recreation at Memorial University on August 1 , 2016, I have made efforts to serve the School of Human Kinetics and Recreation. I will briefly describe the work of each of the committees where I have served and, where relevant, outline specific duties or roles that I have taken on within these committees.
 
 | Name of Committee | Period | Institution | Role |
 |-------------------|--------|-------------| -------------|
 | Faculty Council | 2016 - ongoing | Memorial University | Regular Meetings and School decision making | 
 | Academic Council | 2016 - ongoing | Memorial University | Regular Meetings and School decision making |
 | Library Committee | 2019 - 2020 | Memorial University |  |
-| Search Committee - Lockheed Martin Chair | 2018 - 2020 | Marine Institute - Memorial University | Search community for an industry funded Chair position |
-| Search Committee Chair | 2018 - 2019 | Memorial University | Hired 2 positions. Coordinated interviews for 6 people and reviewed 78 applications |
+| Search Committee - Lockheed Martin Chair | 2018 - 2020 | Marine Institute - Memorial University | Search committee for an industry funded Research Chair position |
+| Search Committee Chair | 2018 - 2019 | Memorial University | Hired 2 positions. Coordinated interviews for 6 candidates and reviewed 32 applications |
 | Dean Search Committee | 2017 - 2018 | Memorial University | Hired Dean position. Worked with Vice President Academic |
 | Search Committee | 2017 - 2018 | Memorial University | Hired 1 position. Worked with search committee members |
 | Graduate Studies Committee | 2016 - 2018 | Memorial University | Decision making around graduate programs and began implementing updates to the program |
@@ -65,7 +65,7 @@ Since beginning in the School of Human Kinetics & Recreation at Memorial Univers
 
 # <span style="color:#81112c">External Service</span>
 
-In my external service roles I have focused on positions with journals that I respect and where I think I can make a contribution. I am currently the social media editor for the Canadian Journal of Public Health. This role was newly created by me and the CJPH editor. It allows me to engage with students and the general public on social media and promote the journal. For example, I have published 2 letters to editor in my role as social media associate editor. 
+In my external service roles I have focused on positions with journals that I respect and where I think I can make a contribution. I am currently the social media editor for the Canadian Journal of Public Health. This role was newly created by me and the CJPH editor, Dr. Louise Potvin. It allows me to engage with students and the general public on social media and promote the journal. For example, I have published 2 letters to the editor as part of my social media associate editor role.
 
 * _Paulsen, P._, __Fuller, D__. Scrolling for data or doom during COVID-19?. Can J Public Health. 2020. 111, 490–491. [https://doi.org/10.17269/s41997-020-00376-5](https://doi.org/10.17269/s41997-020-00376-5)
 * __Fuller, D.__, Potvin, L. Social media and the Canadian Journal of Public Health. Can J Public Health. 2020. 111, 149–150. [https://doi.org/10.17269/s41997-020-00301-w](https://doi.org/10.17269/s41997-020-00301-w)
@@ -93,6 +93,17 @@ I am also regularly asked to funding reviews for external organizations. As a re
 2. 2020 MITACS Accelerate. Title: Investigation of supportive policy for Active School Travel: Evidence- based recommendations for policies to promote active transportation for school journeys
 3. 2020 European Science Foundation. Title: Data mining for real-time bicycle collisions control in cycling cities.
 4. 2019 NSERC Discovery Grant Reviewer. Title: Merging measurement theory and technology for more accurate assessment of physical activity
+
+## <span style="color:#81112c">CIHR Leaderhip and Service</span>
+
+In the spring of 2020, I led an open letter signed by 103 Early Career Researchers to discuss and put forward solutions regarding the cancellation of the CIHR Spring 2020 Project Grant Competition due to COVID-19 (https://medium.com/@fuller.daniel/open-letter-to-dr-michael-strong-cihr-president-bf621eb0c49e). Project Grants are similar to NSERC Discovery or SSHRC Insight Grants. Project grants are the backbone of Canadian health research funding and I am told that it is in part because of this letter that the grant competition was reinstated. 
+
+I have also been involved in a number of leadership consultations activities as a early career research playing an important role in the CIHR Institute of Population and Public Health (IPPH) and Institute of Nutrition Metabolism and Diabetes (INMD).
+
+1. CIHR-IPPH Artificial Intelligence for Public Health Consultation Meeting. January 18, 2018. Toronto, Ontario.
+1. CIHR-IPPH Healthy Cities Consultation Meeting. November 31-December 1, 2017. Toronto, Ontario.
+1. CIHR-IPPH Advisory Board Meeting. September 21-22, 2017, Toronto, Ontario.
+2. CIHR-INMD Think Tank. September 11, 2016. Toronto, Ontario.
 
 ## <span style="color:#81112c">Scientific Peer Review</span>
 
