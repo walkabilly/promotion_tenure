@@ -14,12 +14,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Daniel Fuller, Ph.D.  
-
-## Canada Research Chair in Population Physical Activity  
-
-### Assistant Professor  
-
+Daniel Fuller, Ph.D.  
+Canada Research Chair in Population Physical Activity  
+Assistant Professor  
 School of Human Kinetics and Recreation   
 Physical Education Building PE 2024 Memorial   
 University of Newfoundland St. John’s, NL  
@@ -28,13 +25,11 @@ Tel: (709) 864-7270
 E-mail: dfuller@mun.ca    
 Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)  
 
-\newpage
-
 # Table of Contents 
 
 # Brief Biography
 
-I have been an assistant professor and Canada Research Chair in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University of Newfoundland since August 2016. From 2015-2016 I was a limited term assistant professor in the School of Public Health at the University of Saskatchewan. Between 2014 and 2016 I was a postdoctoral fellow in the Department of Community Health and Epidemiology at the University of Saskatchewan and from 2008 to 2014 I was a PhD student in Public Health at *Université de Montréal*. I have taught 10 different courses in kinesiology and public health since 2010. The focus of my teaching has been in two broad areas. First, methodological and statistics courses. Second, capstone and foundational courses in public health and social determinants of health. In 2016 I won the *Most Effective Professor* award voted by the School of Public Health Student Association at the University of Saskatchewan. 
+I have been an assistant professor and Canada Research Chair in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University of Newfoundland since August 1, 2016. From 2015-2016 I was a limited term assistant professor in the School of Public Health at the University of Saskatchewan. Between 2012 and 2014 I was a postdoctoral fellow in the Department of Community Health and Epidemiology at the University of Saskatchewan and from 2008 to 2012 I was a PhD student in Public Health at _Université de Montréal_. I have taught 10 different courses in kinesiology and public health since 2010. The focus of my teaching has been in two broad areas. First, methodological and statistics courses. Second, capstone and foundational courses in public health and social determinants of health. In 2016 I won the _Most Effective Professor_ award voted by the School of Public Health Student Association at the University of Saskatchewan.
 
 My Canada Research Chair offers me a unique role related to teaching and learning. First, I teach 2.5 course equivalents per year compared to the 5 course equivalents that are typical in my academic unit. Second, I lead a large interdisciplinary research lab. I have developed considerable teaching and learning materials related to the lab and have included those materials in my teaching dossier.  
 
@@ -48,13 +43,12 @@ As a former canoe/kayak coach and someone who has been deeply influenced by teac
 
 ***
 
-My primary intention as a teacher is to create a learning environment in which my students and I can learn together, can understand and critically reflect on threshold concepts in public health. I strive to evoke passion and nuance in my students’ thinking and to promote the integration of concepts and perspective from multiple disciplines. Given the ready availability of information, it is no longer sufficient for students simply to memorize concepts and definitions. The contemporary challenge for both teachers and students involves conceptual exploration and innovations that bring together ideas from multiple disciplines to deepen our understanding of the world, appreciating both complexity and ambiguity. As a teacher I attempt to collaborate with students in creating the best learning environment.
+My primary intention as a teacher is to create a learning environment in which my students and I can learn together, can understand and critically reflect on threshold concepts. I strive to evoke passion and nuance in my students’ thinking and to promote the integration of concepts and perspective from multiple disciplines. Given the ready availability of information, it is no longer sufficient for learners simply to memorize concepts and definitions. The contemporary challenge for both teachers and learners involves conceptual exploration and innovations that bring together ideas from multiple disciplines to deepen our understanding of the world, appreciating both complexity and ambiguity. As a teacher I collaborate with students in order to create the best learning environment.
  
-To accomplish my teaching and learning outcomes I combine technological innovation, inspiring in-class interactive learning and problem based learning. Technological innovations in my courses include podcasting lectures, online forums and mobile availability of course material. Technology, however, cannot be a substitute for human interaction. My class presentations encourage interactions and critical reflection with and among students, providing conceptual brainteasers for students’ reflection to conclude each class. Students need to recognize that universities are integral community members. Through problem based learning opportunities, students are challenged to engage their knowledge and understanding through reflective practice. Problem based learning allows students to explore and learn firsthand the principles of public health, theory and methods.
- 
-To assess progress toward my teaching and learning outcomes I draw on students’ evaluations, fellow teachers’ peer evaluations, and my students’ accomplishments in major scholarship competitions. These assessment strategies encourage continuous development of my teaching based on students’ learning. A reflexive approach to teaching and learning demands that I remain self-critical and adapt to meeting the changing needs, competencies, and hopes of my students, the fundamental purpose of my teaching practices.
- 
-Teaching and learning create remarkable moments in our human experience. From watching the joy of a child ride a bike for the first time to that “aha” moment when a student finally “gets” a challenging concept, such learning moments imprint themselves in our memory. For me, teaching involves that wonder. The hard work of remote and immediate preparation in teaching is transformed into the joy of these indelible learning moments. Although these moments are rare, they are transforming. I am motivated and strive to create such opportunities in each of my courses so that students can experience and prove to themselves they are more and can become more than they have previously believed.
+To accomplish my teaching and learning outcomes I combine technological innovation, inspiring in-class interactive learning and problem based learning. Technological innovations in my courses include podcasting lectures, online forums and mobile availability of course material. Technology, however, cannot be a substitute for human interaction. My class presentations encourage interactions and critical reflection with and among students, providing conceptual brainteasers for students’ reflection to conclude each class. Students need to recognize that universities are integral community members. Through problem based learning opportunities, students are challenged to engage their knowledge and understanding through reflective practice. Problem based learning allows students to explore and learn firsthand the principles of their discipline.
+
+To assess progress toward my teaching and learning outcomes I draw on students’ evaluations, fellow teachers’ peer evaluations, and my students’ accomplishments in major scholarship competitions. These assessment strategies encourage continuous development of my teaching based on students’ learning. A reflexive approach to teaching and learning demands that I remain self-critical and adapt to meeting the changing needs, competencies, and hopes of my students, the fundamental purpose of my teaching practice.
+Teaching and learning create remarkable moments in our human experience. From watching the joy of a child ride a bike for the first time to that “aha” moment when a student finally “gets” a challenging concept, such learning moments imprint themselves in our memory. For me, teaching involves that wonder. The hard work of remote and immediate preparation in teaching is transformed into the joy of these indelible learning moments. Although these moments are rare, they are transformative. I am motivated and strive to create such opportunities in each of my courses so that students can experience and prove to themselves they are more and can become more than they have previously believed.
 
 # Teaching Responsibility
 
@@ -62,7 +56,7 @@ Teaching and learning create remarkable moments in our human experience. From wa
 
 I have taught 10 different courses over the course of my career. I have developed 3 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology), and one in my current position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention). 
 
-I am committed to open learning and develop public websites for all of my courses at Memorial University. These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. This is particularly relevant for _HKR 6130 Computer Applications for Physical Activity Measurement and Intervention_ as this course includes coding and is regarded as very challenging for MPE students. 
+I am committed to open learning and develop public websites for all of my courses at Memorial University (see examples below). These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. This is particularly relevant for _HKR 6130 Computer Applications for Physical Activity Measurement and Intervention_ as this course includes coding and is regarded as very challenging for MPE students. 
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
@@ -93,18 +87,21 @@ I am committed to open learning and develop public websites for all of my course
 
 ### <span style="color:#81112c">HKR 6000 Quantitative Methods in Physical Education</span>
 
-#### Course Description [https://walkabilly.github.io/HKR_6000/](https://walkabilly.github.io/HKR_6000/)  
+#### Course Description 
+##### [https://walkabilly.github.io/HKR_6000/](https://walkabilly.github.io/HKR_6000/)  
 A critical examination of methodological research issues and quantitative research designs in the field of human kinetics and recreation. Examines and applies a variety of statistical analysis techniques which can be used in a variety of research designs. Emphasis is placed on the interpretation and implications of empirical quantitative research in the field. Students will learn statistics using either R or SPSS.
 
 ### <span style="color:#81112c">HKR 6134 Grad Seminar</span>
 
-#### Course Description [https://walkabilly.github.io/hkr_seminar/](https://walkabilly.github.io/hkr_seminar/)  
-This course provides students with a forum to discuss and debate research methods and skills such as manuscript and grant writting. The course is designed to provide students with both conceptual and practical course content, using a variety of formats, to enhance student learning. 
+#### Course Description 
+##### [https://walkabilly.github.io/hkr_seminar/](https://walkabilly.github.io/hkr_seminar/)  
+This course provides students with a forum to discuss and debate research methods and skills such as manuscript and grant writing. The course is designed to provide students with both conceptual and practical course content, using a variety of formats, to enhance student learning. 
  
 ### <span style="color:#81112c">HKR 6130 Computer Applications for Physical Activity Measurement and Intervention</span>
 
-#### Course Description [https://walkabilly.github.io/HKR6130_MUN/](https://walkabilly.github.io/HKR6130_MUN/)  
-This course will introduce students to physical activity measurement using accelerometer devices including smartphones, smartwatches. I will also introduce students to measuring spatial location using Global Positioning Systems. The course will explore conceptual aspects of physical activity and spatial location measurement. Students will design, conduct, and analyse data for a small-scale intervention collecting accelerometer measured physical activity and GPS data. Students will learn programming in R and QGIS for spatial analysis methods.  
+#### Course Description 
+##### [https://walkabilly.github.io/HKR6130_MUN/](https://walkabilly.github.io/HKR6130_MUN/)  
+This course will introduce students to physical activity measurement using accelerometer devices including smartphones and smartwatches. I will also introduce students to measuring spatial location using Global Positioning Systems. The course will explore conceptual aspects of physical activity and spatial location measurement. Students will design, conduct, and analyse data for a small-scale intervention collecting accelerometer measured physical activity and GPS data. Students will learn programming in R and QGIS for spatial analysis methods.  
 
 ### <span style="color:#81112c">HKR 3400 Social Determinants of Health</span>
 
@@ -118,7 +115,7 @@ This class is designed to be the culminating experience for the MPH program. As 
 
 ### <span style="color:#81112c">PUBH 898 Social Epidemiology</span>
 #### Course Description
-This course is designed to present the topic of social epidemiology. Social epidemiology encompasses the study of relationships between health and a broad range of social factors such as race/ethnicity, socioeconomic status, sex/gender, etc. Social epidemiology is broadly partitioned into surveillance (i.e., descriptive relationships between social factors and health, tracking of health inequalities over time) and etiology (i.e., causal effects of social exposures on health). This course will broadly cover the definition of social epidemiology, a historical discussion of social epidemiology’s past, causality, topics in social epidemiology (e.g., race/ethnicity) and discuss intervention strategies to act on the social determinants of health. The course is heavily focused on readings and class discussion. Students are expected to read each article for the week and come to class ready to discuss. 
+This course is designed to present the topic of social epidemiology. Social epidemiology encompasses the study of relationships between health and a broad range of social factors such as racilization/racism, socioeconomic status, sex/gender, etc. Social epidemiology is broadly partitioned into surveillance (i.e., descriptive relationships between social factors and health, tracking of health inequalities over time) and etiology (i.e., causal effects of social exposures on health). This course will broadly cover the definition of social epidemiology, a historical discussion of social epidemiology’s past, causality, topics in social epidemiology (e.g., race/ethnicity) and discuss intervention strategies to act on the social determinants of health. The course is heavily focused on readings and class discussion. Students are expected to read each article for the week and come to class ready to discuss. 
 
 ### <span style="color:#81112c">PUBH 804 Foundations of Public Health</span>
 #### Course Description
@@ -130,11 +127,11 @@ The purpose of the course is to review definitions, theories, methods and underl
 
 ### <span style="color:#81112c">MSO 6068c Multilevel Modeling</span>
 #### Course Description
-This course aims to allow students to familiarize themselves with the basic concepts and certain methods of multilevel analysis. The concepts of hierarchical structure of databases, fixed and random effects as well as units of analysis will be presented. The limits of hierarchical data analysis techniques based on the linear model are presented and serve to justify the generalization towards a more suitable model for multilevel analyzes. The methods are illustrated throughout the course using examples analyzed mainly using R.
+This course aims to allow students to familiarize themselves with the basic concepts and certain methods of multilevel analysis. The concepts of hierarchical structure of databases, fixed and random effects as well as units of analysis will be presented. The limits of hierarchical data analysis techniques based on the linear model are presented and serve to justify the generalization towards a more suitable model for multilevel analyzes. The methods are illustrated throughout the course using examples. Students will learn R, SPSS, and HLM software.
 
 # <span style="color:#81112c">Built Environment and Active Populations Lab</span>
 
-In my role as the director of the Built Environment and Active Populations (BEAP) Lab, I both supervise graduate students but also hire and train numerous highly qualified graduate students from various disciplines including HKR, public health, computer science, and geography. The vision, mission, and motto of the lab serve to help create a foundation of high quality training. 
+In my role as the director of the Built Environment and Active Populations (BEAP) Lab, I both supervise graduate students but also hire and train numerous highly qualified personnel from various disciplines including HKR, public health, computer science, and geography. The vision, mission, and motto of the lab serve to help create a foundation of high quality training. 
 
 __Vision__
 A physically active Canadian population
@@ -145,7 +142,7 @@ To conduct research that will help design urban environments that equitably incr
 __Motto__
 "On se dit les vraies choses." _Marianne Beaulieu_ We provide positive criticism and work honestly to do the best possible research. The quote is from one of my dear friends and PhD colleagues.
 
-I spend considerable time and effort training  students at the BEAP Lab. I have developed considerable training materials including a [lab onboarding guide](https://github.com/walkabillylab/labguide), which includes philosophy, ethics, and practical research guidance for team members. All of the students who are involved in the lab complete three online courses
+I spend considerable time and effort training  students at the BEAP Lab. I have developed training materials including a [lab onboarding guide](https://github.com/walkabillylab/labguide), which includes philosophy, ethics, and practical research guidance for team members. All of the students who are involved in the lab complete three online courses
 
 * Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2) https://tcps2core.ca/welcome
 * Newfoundland Personal Health Information Training: Direct Contact with Personal Health Information http://nlchi.skillbuilder.ca/home
@@ -155,7 +152,7 @@ I have also developed training in [statistics](https://github.com/TeamINTERACT/o
 
 # <span style="color:#81112c">Student Supervision</span>
 
-I both supervise graduate students but also hire and train numerous highly qualified graduate students from various disciplines including HKR, public health, computer science, and geography. I have also been a committee member for a number of PhD students at various institutions across Canada. Notably, Dr. Henry Luan, my former postdoctoral fellow is a currently an assistant professor in Geography at the University of Oregon. One of my MSc students has received CIHR funding and another was shortlist for CIHR funding. One previous lab member has is currently a faculty member at the University of Copenhagen. Another lab member is conducting a postdoctoral fellowship at the University of Toronto, while another has gone on to a successful career at Cisco Systems in Toronto. 
+I both supervise graduate students but also hire and train numerous highly qualified personnel from various disciplines including HKR, public health, computer science, and geography. I have been a committee member for a number of PhD students at various institutions across Canada. Notably, Dr. Henry Luan, my former postdoctoral fellow is a currently an assistant professor in Geography at the University of Oregon. One of my MSc students has received CIHR funding and another was shortlist for CIHR funding. One previous lab member has is currently a faculty member at the University of Copenhagen. Another lab member is conducting a postdoctoral fellowship at the University of Toronto, while another has gone on to a successful career at Cisco Systems in Ottawa. 
 
 ### <span style="color:#81112c">Undergraduate Student Supervision</span>
 
@@ -228,31 +225,33 @@ I both supervise graduate students but also hire and train numerous highly quali
 
 # Course Development
 
-I have developed three new courses during my career. The most recent course I would like to highlight is called **Computer Applications for Physical Activity Measurement and Intervention**. This is a gradaute level course where students learn concepts of data science and intervention evaluation applied to wearable device and accelerometer data. I have offered the course twice since 2017. This course has been a great learning experience for me and the students. I can envision this course being transformed to an undergraduate course or modified to meet teaching needs in data science for students who us different types of data. 
+I have developed three new courses during my career. The most recent course I would like to highlight is called **Computer Applications for Physical Activity Measurement and Intervention** (HKR 6130). This is a graduate level course where students learn concepts of data science and intervention evaluation applied to wearable device and accelerometer data. I have offered the course twice since 2017. This course has been a great learning experience for me and the students. I can envision this course being transformed to an undergraduate course or modified to meet teaching needs in data science for students who use different types of data. 
 
-I have also developed a Social Epidemiology course and a Population Health Intervention Research both at the graduate level. These courses have each been offered once. The courses were well received by student but unfortunately, I have not had the chance to teach these courses more than once because of career changes during that period. 
+I have also developed a Social Epidemiology course and a Population Health Intervention Research course both at the graduate level. These courses have each been offered once. The courses were well received by student but unfortunately, I have not had the chance to teach these courses more than once because of career changes. 
 
 # Administrative and committee work
 
-I have done some administrative work related to teaching and learning. I lead a review of university undergraduate statistics courses at Memorial University. This review was in order for the School of Human Kinetics and Recreation to determine appropriate course equivalencies for student requirements related to undergraduate statistics. 
+I have done some administrative work related to teaching and learning. I co-led a review with Dr. Kim Cullen of university undergraduate statistics courses at Memorial University. This review was in order for the School of Human Kinetics and Recreation to determine appropriate course equivalencies for student requirements related to undergraduate statistics. 
 
-I also participated in a graduate pprogram review for the School of Human Kinetics and Recreation in 2017. This review was designed to revise and refine our graduate programs in order to allow students more rexibility in their MSc course requirements and the ensure that the School would be able to recruit students across a variety of kinesiology and health science disciplines. 
+I also participated in a graduate program review for the School of Human Kinetics and Recreation in 2017. This review was designed to revise and refine our graduate programs in order to allow students more flexibility in their MSc course requirements and the ensure that the School would be able to recruit students across a variety of kinesiology and health science disciplines. 
 
 # Educational Outreach
 
-The BEAP Lab participated in the St. John's English Language School District Mini Enrichment Course Program. This program invites high acheiving high school to Memorial University for a two day workshop. I developed a two day course in accelerometer and global positionning systems and data science. 
+The BEAP Lab participated in the St. John's English Language School District Mini Enrichment Course Program. This program invites high achieving high school to Memorial University for a two day workshop. I developed a two day course in accelerometer and global positioning systems and data science. 
 
-#### <span style="color:#81112c">Physical Activity Data Science</span>
+### <span style="color:#81112c">Physical Activity Data Science</span>
 
-##### Course Description  
-**[Course outline](https://github.com/walkabillylab/physical_activity_data_science)**  
-The course will introduce students to the measurement of physical activity using a metabolic cart, and accelerometers and global positioning systems in smartphones and wearable devices. With the data students collect we will introduce basic concepts of data science including reading in data, data visualization, and basic math functions using the R statistical programming language.
+#### Course Description 
+
+##### [https://github.com/walkabillylab/physical_activity_data_science](https://github.com/walkabillylab/physical_activity_data_science)**  
+
+The course will introduce students to the measurement of physical activity using accelerometers and global positioning systems in smartphones and wearable devices. With the data students collect we will introduce basic concepts of data science including reading in data, data visualization, and basic math functions using the R statistical programming language.
 
 # <span style="color:#81112c">Professional Development in Teaching</span>  
 
-I have participated in numerous professional development activities in teaching and learning over the course of my career. Foundational to my teaching philosophy and approach were three courses I participated in 2007 and 2008 during my MSc degree. These course covered topics such as philosophy of science (Graduate Studies and Research 987: Science, Scientists, and Science-Societal Interactions: An introduction to the dynamics of science), teaching and learning (What the best college teachers do reading group), and evidence based teaching (Making Teaching Visible: Practical principles for peer review of teaching). 
+I have participated in numerous professional development activities in teaching and learning over the course of my career. Foundational to my teaching philosophy and approach were three courses I participated in 2007 and 2008 during my MSc degree. These courses covered topics such as philosophy of science (Graduate Studies and Research 987: Science, Scientists, and Science-Societal Interactions: An introduction to the dynamics of science), teaching and learning (What the best college teachers do reading group), and evidence based teaching (Making Teaching Visible: Practical principles for peer review of teaching). 
 
-I 2019 and 2020 I am participating in a series of teaching and learning courses offered by the  Centre for Innovation in Teaching and Learning at Memorial University. These courses focus on practical guidance for teaching improvement, documenting teaching effectiveness, and getting better feedback from students. 
+In 2019 and 2020 I am participating in a series of teaching and learning courses offered by the  Centre for Innovation in Teaching and Learning at Memorial University. These courses focus on practical guidance for teaching improvement, documenting teaching effectiveness, and getting better feedback from students. 
 
 * 2019:	An Introduction to Documenting Teaching Activity and Effectiveness. Centre for Innovation in Teaching and Learning, Memorial University. 
 * 2017:	Transformational Teaching and Learning Day. Centre for Innovation in Teaching and Learning, Memorial University. 
@@ -289,7 +288,7 @@ Perhaps the strongest evidence related to my teaching effectiveness comes in the
 
 ## <span style="color:#81112c">Course Evaluations</span>
 
-The course evaluation questionnaire is Memorial Universities standardized course evaluation questionnaire. I include the CEQ for all of my course where they are availble. Some courses had too few responses and results were not made available. 
+The course evaluation questionnaire is Memorial Universities standardized course evaluation questionnaire. I include the CEQ for all of my course where they are available. Some courses had too few responses and results were not made available (see Appendix). 
 
 Additionally, I have conducted my own course evaluations for HKR 3400, HKR 6134, HKR 4600, and HKR 6130. The data are from 13 students in HKR 3400 (out of a possible 62 students), 20 students in HKR 6134 (out of a possible 35), 8 students in HKR 4600 (out of a possible 22), and 4 students in HKR 6130 (out of a possible 12). The questions posted were 
     1. The instructor used challenging questions   
@@ -303,7 +302,7 @@ Additionally, I have conducted my own course evaluations for HKR 3400, HKR 6134,
     9. Students were invited to share their ideas  
     10. In this course, I felt motivated to learn  
     
-Below I present only a subset of the data. However, what is presented provides a good general picture of the evaluations. The scale is 1 being lowest or worst and 5 being highest or best. 
+Below I present only a figure that shows my scores for each question for each course. The scale is 1 being lowest or worst and 5 being highest or best. 
 
 ```{r, warning=FALSE, echo = FALSE}
 library(readxl)
