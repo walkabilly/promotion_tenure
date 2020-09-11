@@ -26,11 +26,11 @@ Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)
 
 ## <span style="color:#81112c">Research Overview</span>
 
-My research involves using mobile health technologies including smartphones and wearable devices to understand and increase physical activity. This work is focused on understanding how the urban environment influences our physical activity and transportation decisions. The interdisciplinary nature of my work means that I published in a variety of venues including public health, transportation, and computer science journals. I believe my work is innovative in that I collaborate extensively with colleagues for many disciplines and I publish novel work across disciplines. 
+My research involves using mobile health technologies including smartphones and wearable devices to understand and increase physical activity at the population level. This work is focused on understanding how the urban environment influences our physical activity and transportation decisions. The interdisciplinary nature of my work means that I published in a variety of venues including public health, transportation, and computer science journals. I believe my work is innovative because I collaborate and publish novel work with colleagues for many disciplines.
 
 I have published 36 peer reviewed academic papers since 2016 and currently have 17 papers submitted and under review. I have received funding for two major research projects; the INTErventions, Research, and Action in Cities Team (Co-PI)(Kestens et al., 2019) a $2M CIHR Team Grant and the Canadian Urban Environmental Health Research Consortium (Co-I and team lead)(Brook et al., 2018) a $5M CIHR Consortium. Along with that funding I am a Tier 2 Canada Research Chair (CRC) and have funding for the Canada Foundation for Innovation John Edwards Leaders Fund. The value of my CRC award is approximately $1M. 
 
-I have published in major journals in my field including the _Journal of Epidemiology and Community Health_, the _International Journal of Behavioral Nutrition and Physical Activity_, and the _British Journal of Sports Medicine_. I have also published in top computer science and transportation journals including _ACM Transactions on Spatial Algorithms and Systems_ and _Transportation Research Record_. 
+I have published in major journals in my field including the _Journal of Epidemiology and Community Health_ (IF = 3.3), the _International Journal of Behavioral Nutrition and Physical Activity_ (IF = 6.9), and the _British Journal of Sports Medicine_ (IF = 12.0). I have also published in well respected computer science and transportation journals including _ACM Transactions on Spatial Algorithms and Systems_ (IF = 2.3) and _Transportation Research Record_ (IF = 1.1). 
 
 My vision is    
 
@@ -42,32 +42,32 @@ My mission is
 
 ## <span style="color:#81112c">Research Program</span>
 
-My research program began in the field of healthy cities, with my PhD focused on evaluating the impacts of a public bicycle share program on cycling, crashes, and mobility. My research continues to focus on healthy cities and evaluating the impact of different built environment and urban policy changes on health. However, my field has also begun to collect Global Positionning System (GPS) and accelerometer data on a large scale. As a result, I have take what I call a methodological detour. This detour is focused on the scale up of physical activity and mobility measurement using multiple devices including commercial wearables with GPS. As a result of this work, I have collaborated with computer science and geography researchers, in order to develop new methods to understanding wearable device and GPS data. 
+My research program began in the field of healthy cities, with my PhD focused on evaluating the impacts of a public bicycle share program on cycling, crashes, and mobility. My research continues to focus on healthy cities and evaluating the impact of different built environment and urban policy changes on health. However, my field has also begun to collect Global Positionning System (GPS) and accelerometer data on a large scale. As a result, I have taken what I call a methodological detour with my research. This detour is focused on the scale up of physical activity and mobility measurement using multiple devices including commercial wearables and GPS. As a result of this work, I have collaborated with computer science and geography researchers, in order to develop new methods to understanding wearable device and GPS data.
 
 ### <span style="color:#81112c">Healthy Cities</span>
 
 My healthy cities research is focused on evaluating the impact of natural experiments, where the researcher does not control the implementation or the distribution of participants to intervention groups. I have published a number of studies using state of the art methods in this field. Most recently, I have published about the impact of bicycle share programs on crashes in 8 North American cities and on the effect of a public transit strike on cycling in Philadelphia. See example publications below. 
 
-* Brandon Calles M, Hosford K, Winters M, Gauvin L, __Fuller D__. The impact of implementing public bicycle share programs on bicycle crashes: the International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). Transport Findings. September. [https://doi.org/10.32866/001c.16724](https://doi.org/10.32866/001c.16724)
+* Brandon Calles M, Hosford K, Winters M, Gauvin L, __Fuller D__. The impact of implementing public bicycle share programs on bicycle crashes: the International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). Transport Findings. 1020. September. [https://doi.org/10.32866/001c.16724](https://doi.org/10.32866/001c.16724)
 * __Fuller, D.,__ *Luan, H.,* Buote, R., Auchincloss, A. H. Impact of a public transit strike on public bicycle share use: An interrupted time series natural experiment study. Journal of Transportation and Health. 2019;13:137-142. [https://doi.org/10.1016/j.jth.2019.03.018](https://doi.org/10.1016/j.jth.2019.03.018)
 
 ### <span style="color:#81112c">Commercial Wearable Devices</span>
 
-My commercial wearable device research is focused in two broad areas. First, in understanding the reliability and validity of commercial wearable devices and developing new methods for prediction physical activity types from multiple commercial wearables. Second, my work is focused on developing methodological tools to simply other researchers working with these types of data. This work is done using the R Statistical Programming Language [https://cran.r-project.org/](https://cran.r-project.org/). See example publications below. 
+My commercial wearable device research is focused in two broad areas. First, in understanding the reliability and validity of commercial wearable devices and developing new methods for predicting physical activity types from multiple commercial wearables. Second, my work is focused on developing methodological tools to simply other researchers working with these types of data. This work is done using the R Statistical Programming Language [https://cran.r-project.org/](https://cran.r-project.org/). See example publications below. 
 
 * __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. JMIR MHealth. JMIR Mhealth Uhealth 2020;8(9):e18694. [http://dx.doi.org/10.2196/18694](http://dx.doi.org/10.2196/18694)
 * _KhataeiPour S_, _Brondeel R_, _Rahimipour Anaraki J_, __Fuller D__. activityCounts: Generate ActiLife Counts. [https://cran.r-project.org/web/packages/activityCounts/index.html](https://cran.r-project.org/web/packages/activityCounts/index.html)
 
 ### <span style="color:#81112c">Global Positionning System Methods</span>
 
-My research using global positioning systems is focus on developing new metrics for understanding human behaviour and mobility from GPS data. These data are highly complex and I have been working with different collaborators to try and understanding how these data can be used to predict the transportation mode a person is using and more generally to understanding how movement patterns can be used predict social group membership or even the city where you live. See example publications below. 
+My research using global positioning systems is focus on developing new metrics for understanding human behaviour and mobility from GPS data. These data are highly complex and I have been working with different collaborators to try and understanding how these data can be used to predict the transportation mode a person is using and more generally to understanding how movement patterns can be used to predict social group membership or even the city where you live. See example publications below.
 
 * _Roy A_, __Fuller D__, Stanley K, Nelson T. Global Positioning Systems and accelerometer data: A machine learning approach. Transport Findings. September. [https://doi.org/10.32866/001c.14520](https://doi.org/10.32866/001c.14520)
 * _Zhang R_, Stanley K, **Fuller D,** Bell S. Differentiating Population Spatial Behavior using Representative Features of Geospatial Mobility (ReFGeM). Transactions on Spatial Algorithms and Systems. 2020:6(1). [https://dl.acm.org/doi/10.1145/3362063](https://dl.acm.org/doi/10.1145/3362063)
 
 ## <span style="color:#81112c">Research Leadership</span>
 
-The BEAP (Built Environment and Active Populations) Lab is a multidisciplinary lab that is focused on achieving my vision and mission. The lab is home to students with training in kinesiology, public health, computer science, and anthropology. We have developed detail documentation and introduction to the Lab (https://github.com/walkabillylab/labguide/blob/master/Guide.md). 
+The BEAP (Built Environment and Active Populations) Lab is a multidisciplinary lab that is focused on achieving our vision and mission. The lab is home to students with training in kinesiology, public health, computer science, and anthropology. We have developed detail documentation and introduction to the Lab (https://github.com/walkabillylab/labguide/blob/master/Guide.md). 
 
 The lab has produced a number of different publicly available products in the R Statistical Programming Language. These include functions that will extract the time zone from global positioning system data (https://github.com/walkabillylab/LocationToTimezone), and implementation of the Sedentary Sphere algorithm (https://github.com/walkabillylab/SedentarySphere). 
 
@@ -108,8 +108,8 @@ None
 #### <span style="color:#81112c">Published</span>
 
 1. __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. JMIR MHealth. JMIR Mhealth Uhealth 2020;8(9):e18694. [http://dx.doi.org/10.2196/18694](http://dx.doi.org/10.2196/18694)
-1. Brandon Calles M, Hosford K, Winters M, Gauvin L, __Fuller D__. The impact of implementing public bicycle share programs on bicycle crashes: the International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). Transport Findings. September. [https://doi.org/10.32866/001c.16724](https://doi.org/10.32866/001c.16724)
-1. _Roy A_, __Fuller D__, Stanley K, Nelson T. Global Positioning Systems and accelerometer data: A machine learning approach. Transport Findings. September. [https://doi.org/10.32866/001c.14520](https://doi.org/10.32866/001c.14520)
+1. Brandon Calles M, Hosford K, Winters M, Gauvin L, __Fuller D__. The impact of implementing public bicycle share programs on bicycle crashes: the International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). Transport Findings. 2020. September. [https://doi.org/10.32866/001c.16724](https://doi.org/10.32866/001c.16724)
+1. _Roy A_, __Fuller D__, Stanley K, Nelson T. Global Positioning Systems and accelerometer data: A machine learning approach. Transport Findings. 2020. September. [https://doi.org/10.32866/001c.14520](https://doi.org/10.32866/001c.14520)
 1. Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Crowdsourced data for bicycling research and practice. Transport Reviews. 2020.  [https://doi.org/10.1080/01441647.2020.1806943](https://doi.org/10.1080/01441647.2020.1806943)
 1. Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. Causally speaking: challenges in measuring gentrification for population health research. Health & Place. 2020. 63, 102350. [https://doi.org/10.1016/j.healthplace.2020.102350](https://doi.org/10.1016/j.healthplace.2020.102350)  
 1. Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood Transportation Study (DNTS) cohort. Journal of Transportation and Health. 2020, 16, 100836. [https://doi.org/10.1016/j.jth.2020.100836](https://doi.org/10.1016/j.jth.2020.100836)
@@ -288,34 +288,30 @@ None
 
 ##### <span style="color:#81112c">HEROX</span>
 
-HeroX is a series of studies and technologies designed to further research examining the reliability and validity of commercially available wearable devices. This program includes both lab based and free living studies combining multiple devices for measuring physicl activity. 
+HeroX is a series of studies and technologies designed to further research examining the reliability and validity of commercially available wearable devices. This program includes both lab based and free living studies combining multiple devices for measuring physical activity. As part of this work, we recently published what is to my knowledge the most comprehensive systematic review of the reliability and validity of commercial wearable devices.
 
 ##### <span style="color:#81112c">Smart Phone Cut Points</span> 
 
-Our study aims to assess the performance of smartphone accelerometers (in Android and iPhone models) in measuring physical activity intensity and duration in controlled laboratory conditions. Our specific objectives are to:   
+Our study aims to assess the performance of smartphone accelerometers (in Android and iPhone models) in measuring physical activity intensity and duration in controlled laboratory conditions. Our specific objectives are to.  
     * Assess a variety of individuals. We aim to recruit a gender-balanced sample of 25 children aged 10-14 years and 25 adults (one of their parents or guardians).  
     * Develop cut-points for smartphone accelerometers. Cut-points are needed so that we can assign the appropriate physical activity intensity (i.e., light, moderate, vigorous) to the “movement counts” recorded by the smartphone accelerometers. 
 
 ##### <span style="color:#81112c">ITHIM</span> [https://github.com/ITHIM/ITHIM-R/](https://github.com/ITHIM/ITHIM-R/)
 
-The Integrated Transport Health Impact Model (ITHIM) is a mathematical model that integrates data on travel patterns, physical activity, fine particulate matter, GHG emissions, and disease and injuries based on population and travel scenarios. The model calculates the health impacts of walking and bicycling short distances usually traveled by car or driving low-emission automobiles. I am contributing to development of an R package that will implement the ITHIM model. 
+The Integrated Transport Health Impact Model (ITHIM) is a mathematical model that integrates data on travel patterns, physical activity, fine particulate matter, GHG emissions, and disease and injuries based on population and travel scenarios. The model calculates the health impacts of walking and bicycling short distances usually traveled by car or driving low-emission automobiles. I am contributing to development of an R package that will implement the ITHIM model. I have also published a report for St. John's the is a health and economic evaluation of the impacts of walking in St. John's, based on methdos developed in ITHIM. 
 
 ##### <span style="color:#81112c">CANUE</span> [http://www.canue.ca/](http://www.canue.ca/)
 
-I am a co-lead (with Dr. Michael Widener) of the Canadian Urban Environmental Health Research Consortium (CANUE) Neighbourhood Factors Group. CANUE will gather and develop measures of environmental factors for every neighbourhood across Canada. Dr. Widener and I will work with CANUE to prepare data, supervise students, and organize conferences related to neighbourhoods and health research in Canada.
+I am a co-lead (with Dr. Michael Widener) of the Canadian Urban Environmental Health Research Consortium (CANUE) Neighbourhood Factors Group. CANUE will gather and develop measures of environmental factors for every neighbourhood across Canada. Dr. Widener and I will work with CANUE to prepare data, supervise students, and organize conferences related to neighbourhoods and health research in Canada. To date, we have published newly developed and freely available, national measures for walkability, urban sprawl, and gentrification. We are currently working to finalize a measure of public transit accessibility. 
 
 ##### <span style="color:#81112c">INTERACT</span> [http://www.teaminteract.ca/](http://www.teaminteract.ca/)
 
-The INTErventions, Research, and Action in Cities Team (INTERACT)  is a national research collaboration of scientists, urban planners, and engaged citizens uncovering how the design of our cities is shaping the health and wellbeing of Canadians from coast to coast.  Seeing the city as a living laboratory, we use innovative tools that harness the power of mobile technology and interactive mapping to measure the impact of changes in urban infrastructure on people’s physical activity, social participation, and wellbeing, and inequalities in these outcomes. By enabling cities to understand the health impact of their investments, our research aims to inspire healthy and sustainable urban development that will leave a lasting impact on population health and health equity in Canada.
+The INTErventions, Research, and Action in Cities Team (INTERACT)  is a national research collaboration of scientists, urban planners, and engaged citizens uncovering how the design of our cities is shaping the health and wellbeing of Canadians from coast to coast.  Seeing the city as a living laboratory, we use innovative tools that harness the power of mobile technology and interactive mapping to measure the impact of changes in urban infrastructure on people’s physical activity, social participation, and wellbeing, and inequalities in these outcomes. By enabling cities to understand the health impact of their investments, our research aims to inspire healthy and sustainable urban development that will leave a lasting impact on population health and health equity in Canada. 
 
 ##### <span style="color:#81112c">BikeMaps.org</span> [https://bikemaps.org/](https://bikemaps.org/)
 
-Only ~30% of bike collision data are collected and there is no centralized reporting system. BikeMaps.org is a unique tool that let's citizens build a database by mapping their riding experience. The BikeMaps.org team will analyze data to determine factors that influence cycling safety. We also have plans to build tools to help people plan safer routes and to transfer these to planners in your area.
+Only ~30% of bike collision data are collected and there is no centralized reporting system. BikeMaps.org is a unique tool that let's citizens build a database by mapping their riding experience. The BikeMaps.org team will analyze data to determine factors that influence cycling safety. We also have plans to build tools to help people plan safer routes and to transfer these to planners across Newfoundland and Labrador.
 
 ##### <span style="color:#81112c">International BicycleShare Impacts on Cycling and Collisions</span> [IBICCS](http://www.lisegauvin.com/fr/projets/bixi-multi-villes-2)
 
-The IBICCS study aims to examine the impact of PBSP on population-levels of cycling and risk of collisions between cyclists and motor vehicles in North America. Data collection for this study is complete but there are many opportunities for data analysis.
-
-
-
-
+The IBICCS study aims to examine the impact of Public Bicycle Share Programs on population-levels of cycling and risk of collisions between cyclists and motor vehicles in North America. Data collection for this study is complete but there are many opportunities for data analysis.
