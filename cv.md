@@ -591,6 +591,13 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
 8. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
 
+## <span style="color:#81112c">CIHR Leaderhip and Service</span>
+
+1. CIHR-IPPH Artificial Intelligence for Public Health Consultation Meeting. January 18, 2018. Toronto, Ontario.
+1. CIHR-IPPH Healthy Cities Consultation Meeting. November 31-December 1, 2017. Toronto, Ontario.
+1. CIHR-IPPH Advisory Board Meeting. September 21-22, 2017, Toronto, Ontario.
+2. CIHR-INMD Think Tank. September 11, 2016. Toronto, Ontario.
+
 ### <span style="color:#81112c">Funding Reviews</span>
 
 1. 2020 Tier 2 Canada Research Chair Renewal in Physical Activity and Health
