@@ -173,7 +173,7 @@ Daniel Fuller __bold__
 2. Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial.
 
 ### <span style="color:#81112c">In Press Publications</span>
-1. Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board.
+1. Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -185,15 +185,14 @@ Daniel Fuller __bold__
 6. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 
 #### Healthy Cities
-
+1. Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board.
 1. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2020. Health Reports.
 3. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
 4. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. 
-5. Sones M, Firth CL, __Fuller D__, Holden M, Kestens Y, Winters M. Situating social connectedness in healthy cities: A conceptual primer for research and policy. Cities and Health. 
+5. Sones M, Firth CL, __Fuller D__, Holden M, Kestens Y, Winters M. Situating social connectedness in healthy cities: A conceptual primer for research and policy. Cities and Health.
 6. Firth CL, Poirier Stephens Z,  Cantinotti, M,  __Fuller D,__ Kestens Y, Winters M. (2020). Successes and failures of built environment interventions: using concept mapping to assess stakeholder perspectives in four Canadian  cities. Social Science and Medicine.
 7. Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health.
 8. Whitehurst, D., DeVries, D., Fuller, D., Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. Canadian Journal of Public Health. 
-9. Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
 10. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
 11. _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Part F: Psychology and Behaviour.
 12. Alhassan J A K, Gauvin L, Judge A, __Fuller D__, Engler-Stringer R, Muhajarine R. Improving Health through Multisectoral Collaboration: Enablers and Barriers. Canadian Journal of Public Health
