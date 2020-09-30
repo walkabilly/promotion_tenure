@@ -189,7 +189,6 @@ Daniel Fuller __bold__
 6. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 
 #### Healthy Cities
-1. Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board.
 1. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2020. Health Reports.
 3. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
 4. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. 
@@ -267,6 +266,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
 
+1. Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board Annual Meeting. 
 1. 2020 April: __Fuller D__, Luan H, Alfosool A, Chen Y. Time weighted approaches for combining GPS and area level data to create individual exposure measures. American Association of Geographers. (Cancelled due to COVID-19). 
 1. 2020 February: _Hosford K_, Laberee K, **Fuller D**, Kestens Y, Winters M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Board Annual Meeting. 
 1. 2020 February: _Bree S_, __Fuller D__, Diab E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership.  Transportation Research Board Annual Meeting. 
@@ -360,6 +360,7 @@ Daniel Fuller __bold__
 
 | Role | Year | Title | Funder |  Amount | MUN Amount |
 |------|--------|--------|--------|------|------|
+|  Co-Applicant  | September 2020-March 2024 | Citizen Mapping of Microscale Barriers to Mobility | Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program | $681,992 | $40,000 |
 |  Co-Applicant  | June 202-June 2021 | Dietary change during COVID-19: A population-based study in Atlantic Canada to build evidence for government economic and social policy responses | CIHR COVID-19 Rapid Research - Social Policy and Public Health Response | $267,020 | $0 |
 |  Co-Applicant  | August 2019 - August 2024 | AI for public health (AI4PH): A focus on equity and prevention | Operating Grant: CIHR Summer Institute on Equitable AI for Public Health | $525,000 | $0 |
 |  Co-Applicant  | October 2019-October 2022 | Impacts of the new Réseau Express Métropolitain (REM) on mobility, health and equity: A pre-post intervention study | CIHR-NSERC Collaborative Health Research Projects | $441,002 | $0 |
