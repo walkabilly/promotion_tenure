@@ -104,9 +104,12 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Firth CL, Poirier Stephens Z,  Cantinotti, M,  __Fuller D,__ Kestens Y, Winters M. Successes and failures of built environment interventions: using concept mapping to assess stakeholder perspectives in four Canadian cities. Social Science and Medicine. 2021;268:113383. [https://doi.org/10.1016/j.socscimed.2020.113383](https://doi.org/10.1016/j.socscimed.2020.113383)
+1. Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice. 2020;141:430-442. [https://doi.org/10.1016/j.tra.2020.09.019](https://doi.org/10.1016/j.tra.2020.09.019)
+1. _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Part F: Psychology and Behaviour. 2020;75:26-36. [https://doi.org/10.1016/j.trf.2020.09.018](https://doi.org/10.1016/j.trf.2020.09.018)
 1. __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. JMIR MHealth. JMIR Mhealth Uhealth 2020;8(9):e18694. [http://dx.doi.org/10.2196/18694](http://dx.doi.org/10.2196/18694)
 1. Brandon Calles M, Hosford K, Winters M, Gauvin L, __Fuller D__. The impact of implementing public bicycle share programs on bicycle crashes: the International Bikeshare Impacts on Cycling and Collisions Study (IBICCS). Transport Findings. 2020. September. [https://doi.org/10.32866/001c.16724](https://doi.org/10.32866/001c.16724)
-1. _Roy A_, __Fuller D__, Stanley K, Nelson T. Global Positioning Systems and accelerometer data: A machine learning approach. Transport Findings. 2020. September. [https://doi.org/10.32866/001c.14520](https://doi.org/10.32866/001c.14520)
+1. _Roy A_, __Fuller D__, Stanley K, Nelson T. Classifying Transportation Mode from Global Positioning Systems and accelerometer data: A machine learning approach. Transport Findings. 2020. September. [https://doi.org/10.32866/001c.14520](https://doi.org/10.32866/001c.14520)
 1. Nelson, T., Ferster, C., Laberee, K. __Fuller, D.__, Winters, M. Crowdsourced data for bicycling research and practice. Transport Reviews. 2020.  [https://doi.org/10.1080/01441647.2020.1806943](https://doi.org/10.1080/01441647.2020.1806943)
 1. Firth CL, __Fuller D,__ Wasfi R, Kestens Y, Winters M. Causally speaking: challenges in measuring gentrification for population health research. Health & Place. 2020. 63, 102350. [https://doi.org/10.1016/j.healthplace.2020.102350](https://doi.org/10.1016/j.healthplace.2020.102350)  
 1. Auchincloss, A., Michael, Y., __Fuller, D.__, Li, S., Niamatullah, S., Fillmore, C., Setubal, C.,  Bettigole, C. Designing bikeshare to promote equity: baseline analysis of the Drexel Neighborhood Transportation Study (DNTS) cohort. Journal of Transportation and Health. 2020, 16, 100836. [https://doi.org/10.1016/j.jth.2020.100836](https://doi.org/10.1016/j.jth.2020.100836)
@@ -175,9 +178,6 @@ Daniel Fuller __bold__
 2. Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial.
 
 ### <span style="color:#81112c">In Press Publications</span>
-1. Firth CL, Poirier Stephens Z,  Cantinotti, M,  __Fuller D,__ Kestens Y, Winters M. Successes and failures of built environment interventions: using concept mapping to assess stakeholder perspectives in four Canadian  cities. Social Science and Medicine. 2020. https://doi.org/10.1016/j.socscimed.2020.113383
-1. Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice.
-1. _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Part F: Psychology and Behaviour.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
