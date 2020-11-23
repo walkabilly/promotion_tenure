@@ -172,8 +172,9 @@ Daniel Fuller __bold__
 56.	Forbes, D. A., Bangma, J., Neilson, C., Forbes, J., **Fuller, D.**, & Furniss, S. Saskatchewan residents’ access to the Cochrane Library. Canadian Journal of Library and Information Practice and Research. 2007, 2(2).
 
 ### <span style="color:#81112c">Published Conference Papers</span>
-1. Alfosool, A.M.S., Chen, Y., __Fuller, D.__ Road Importance Using Complex-Networks, Graph Reduction & Interpolation. International Conference on Computing, Networking and Communications.
-2. Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial.
+1.	*Alfosool, A.M.S.*, Chen, Y., **Fuller, D.** Road Importance Using Complex-Networks, Graph Reduction & Interpolation. 2020 International Conference on Computing, Networking and Communications (ICNC). Hawaii, USA. February 2020. https://doi.org/10.1109/ICNC47757.2020.9049768 
+2.	Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial 2018: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. Seattle, USA. November 2018. https://doi.org/10.1145/3274895.3274973.
+
 
 ### <span style="color:#81112c">In Press Publications</span>
 
@@ -187,6 +188,7 @@ Daniel Fuller __bold__
 6. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 
 #### Healthy Cities
+1. Slaney J, Fuller D, Apparicio P, Gelb J. Examining the Relationship Between Ventilation and Exercise Intensity During a Field Study in Seven Major Cities. Submitted. Journal of Transport and Health.
 1. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2020. Health Reports.
 3. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
 4. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. 
@@ -234,7 +236,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Invited Presentations</span>  
 1. Wednesday February 19, 2020: **Fuller D**. Emergency Panel on Pedestrian Safety in St. John's. Green New Drinks organized by the St. John's Social Justice Cooperative. 
-1. Friday Novemmber 15, 2019: **Fuller D**. Canada Research Chair Panel on Health and Wellbeing. Memorial Univeristy of Newfoundland. 
+1. Friday November 15, 2019: **Fuller D**. Canada Research Chair Panel on Health and Wellbeing. Memorial Univeristy of Newfoundland. 
 1.  February 7-8, 2019: **Fuller D**. Methods development for cycling research in Canada. NSERC Workshop: Cycling Research Collaboration with Industry in Canadian Context. Calgary, Alberta. 
 1. Friday October 26, 2018: **Fuller D**. Wearable Devices, Physical Activity, Machine Learning, and Automated Detection of Urban Environments. Urban Sustainability and Population Health: Turning Data into Insights. McGill University.
 1.  February 8, 2018: **Fuller D**. Urban planning interventions to promote physical activity. Joint annual meeting of the Quebec Society of lipidology, nutrition and metabolism (SQLNM), the Cardiometabolic, Diabetes and Obesity network  (CMDO) and the Complications of Obesity at Laval and Sherbrooke Universities (COLosSUS). 
@@ -264,10 +266,12 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
 
+1. Basset, R. Kelly, L. Behnamfar, D. Fuller, D. Self-chosen pace displays a better walking economy when expressed in caloric unit cost. Integrative Physiology of Exercise. American Physiological Association. 
 1. Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board Annual Meeting. 
 1. 2020 April: __Fuller D__, Luan H, Alfosool A, Chen Y. Time weighted approaches for combining GPS and area level data to create individual exposure measures. American Association of Geographers. (Cancelled due to COVID-19). 
 1. 2020 February: _Hosford K_, Laberee K, **Fuller D**, Kestens Y, Winters M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Board Annual Meeting. 
 1. 2020 February: _Bree S_, __Fuller D__, Diab E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership.  Transportation Research Board Annual Meeting. 
+1. 2019 July: **Fuller, D.** Re-visioning Transport and Health Conference and Hackathon. Cambridge, England. https://sites.google.com/view/transportcam2019/home/workshop
 1. 2019 June: *Breslin, S.*, Shareck, M., **Fuller, D.** Research ethics for mobile sensing device use by vulnerable populations. At the Intersection of Culture and Method: Designing Feminist Action (DIS 2019).
 1. 2019 April: **Fuller, D.**, Zhang, R., Bell, S., Stanely, K. Representative Features of Geospatial Mobility. American Association of Geographers Conference. Washington, DC.
 1. 2018 October: Nolan, R., Burton, M., **Fuller, D.**. Smart Cities Challenge: Building a Healthy and Happy City through Collaboration. People, Place, Public Engagement Conference, Memorial University of Newfoundland.
