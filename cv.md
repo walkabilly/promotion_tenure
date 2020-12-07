@@ -189,12 +189,7 @@ Daniel Fuller __bold__
 6. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 
 #### Healthy Cities
-
-
-1. Firth C,   Well-being glossary for healthy cities research. Journal of Epidemiology and Community Health.
-
-
-
+1. Firth C, Laberee K, **Fuller D**, Kestens Y, Winters M. Well-being glossary for healthy cities research. Journal of Epidemiology and Community Health.
 1. Slaney J, Fuller D, Apparicio P, Gelb J. Examining the Relationship Between Ventilation and Exercise Intensity During a Field Study in Seven Major Cities. Submitted. Journal of Transport and Health.
 1. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2020. Health Reports.
 3. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
