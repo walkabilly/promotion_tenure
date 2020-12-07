@@ -185,14 +185,17 @@ Daniel Fuller __bold__
 #### Physical Activity Measurement 
 1. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi A, _Luan H_. Predicting sleep, sedentary behaviour, and physical activity with Apple Watch and Fitbit using Rotation Forest models. Sensors.
 3. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. Using machine learning methods to predict physical activity types with Apple Watch and Fitbit data using indirect calorimetry as the criterion. Medicine and Science and Sport and Exercise.
-4. _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Acitivity.
+4. _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Activity.
+1. Lotoski L, **Fuller D**, Stanley K, Rainham D, Muhajarine N.The effect of season and neighbourhood built environment on GPS-derived home area sedentary behaviour in 9-14 year old children. International Journal of Environmental Research and Public Health. 
 5. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
 6. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 
 #### Healthy Cities
 
 
-1. Lotoski L, **Fuller D**, Stanley K, Rainham D, Muhajarine N.The effect of season and neighbourhood built environment on GPS-derived home area sedentary behaviour in 9-14 year old children. International Journal of Environmental Research and Public Health. 
+1. Firth C,   Well-being glossary for healthy cities research. Journal of Epidemiology and Community Health.
+
+
 
 1. Slaney J, Fuller D, Apparicio P, Gelb J. Examining the Relationship Between Ventilation and Exercise Intensity During a Field Study in Seven Major Cities. Submitted. Journal of Transport and Health.
 1. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2020. Health Reports.
@@ -240,7 +243,8 @@ Daniel Fuller __bold__
 
 ## <span style="color:#81112c">Presentations</span>
 
-### <span style="color:#81112c">Invited Presentations</span>  
+### <span style="color:#81112c">Invited Presentations</span>
+1. Friday December 4, 2020: **Fuller D**. The Health Costs and Benefits of Urban Planning. Atlantic Planners Institute.
 1. Wednesday February 19, 2020: **Fuller D**. Emergency Panel on Pedestrian Safety in St. John's. Green New Drinks organized by the St. John's Social Justice Cooperative. 
 1. Friday November 15, 2019: **Fuller D**. Canada Research Chair Panel on Health and Wellbeing. Memorial Univeristy of Newfoundland. 
 1.  February 7-8, 2019: **Fuller D**. Methods development for cycling research in Canada. NSERC Workshop: Cycling Research Collaboration with Industry in Canadian Context. Calgary, Alberta. 
