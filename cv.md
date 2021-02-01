@@ -184,7 +184,7 @@ Daniel Fuller __bold__
 
 #### Physical Activity Measurement 
 
-1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. Medicine & Science in Sports & Exercise. 
+1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. Frontiers in Computer Science. 
 3. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. Predicting lying, sitting, walking, and running using Apple Watch and Fitbit data. BMJ Open Sport & Exercise Medicine.
 4. _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Activity.
 1. Lotoski L, **Fuller D**, Stanley K, Rainham D, Muhajarine N.The effect of season and neighbourhood built environment on GPS-derived home area sedentary behaviour in 9-14 year old children. International Journal of Environmental Research and Public Health. 
