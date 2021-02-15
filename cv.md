@@ -193,6 +193,7 @@ Daniel Fuller __bold__
 6. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 
 #### Healthy Cities
+1. __Fuller D__, Bell S, Firth C L, Muhajarine N, Nelson T, Stanley K S, Sones M, Smith J, Thierry B, Laberee K, Poirier Stephens Z, Philips K, Kestens Y, Winters M. Wave 1 results of the INTerventions, Research, and Action in Cities Team (INTERACT) cohort study: Examining the spatio-temporal measures for urban environments and health. Submitted to Health & Place. 
 1. _Luan H_, __Fuller D__. Urban form in Canada at a small-area level: quantifying “compactness” and “sprawl” with Bayesian multivariate spatial factor analysis. Computers, Environment and Urban Systems.    
 1. Firth C, Laberee K, **Fuller D**, Kestens Y, Winters M. Well-being glossary for healthy cities research. Landscape and Urban Planning.
 1. Slaney J, Fuller D, Apparicio P, Gelb J. Examining the Relationship Between Ventilation and Exercise Intensity During a Field Study in Seven Major Cities. Submitted. Journal of Transport and Health.
