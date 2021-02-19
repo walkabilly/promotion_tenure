@@ -102,6 +102,8 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _Lotoski L_, **Fuller D**, Stanley K, Rainham D, Muhajarine N.The effect of season and neighbourhood built environment on GPS-derived home area sedentary behaviour in 9-14 year old children. 2021. International Journal of Environmental Research and Public Health. 2021, 18(4), 1968 [https://doi.org/10.3390/ijerph18041968](https://doi.org/10.3390/ijerph18041968).
+1. Whitehurst, D., DeVries, D., __Fuller, D.__, Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. 2021. PLOS One. 2020, 16(2): e0246419. [https://doi.org/10.1371/journal.pone.0246419](https://doi.org/10.1371/journal.pone.0246419)
 1. Firth CL, Poirier Stephens Z,  Cantinotti, M,  __Fuller D,__ Kestens Y, Winters M. Successes and failures of built environment interventions: using concept mapping to assess stakeholder perspectives in four Canadian cities. Social Science and Medicine. 2021;268:113383. [https://doi.org/10.1016/j.socscimed.2020.113383](https://doi.org/10.1016/j.socscimed.2020.113383)
 1. Bree. S., __Fuller. D.__, Diab, E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership. Transportation Research Part A: Policy and Practice. 2020;141:430-442. [https://doi.org/10.1016/j.tra.2020.09.019](https://doi.org/10.1016/j.tra.2020.09.019)
 1. _Hosford, K._ Laberee, K. __Fuller, D.__ Kestens, Y. Winters, M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Part F: Psychology and Behaviour. 2020;75:26-36. [https://doi.org/10.1016/j.trf.2020.09.018](https://doi.org/10.1016/j.trf.2020.09.018)
@@ -177,9 +179,8 @@ Daniel Fuller __bold__
 
 
 ### <span style="color:#81112c">In Press Publications</span>
-1. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2020. Health Reports.
-2. Whitehurst, D., DeVries, D., __Fuller, D.__, Winters, M. An economic analysis of health-related benefits of bicycle infrastructure investment in three Canadian cities. PLOS One. 
-3. _Lotoski L_, **Fuller D**, Stanley K, Rainham D, Muhajarine N.The effect of season and neighbourhood built environment on GPS-derived home area sedentary behaviour in 9-14 year old children. International Journal of Environmental Research and Public Health. 
+1. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. 2021. Predicting lying, sitting, walking, and running using Apple Watch and Fitbit data. BMJ Open Sport & Exercise Medicine.
+1. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2021. Health Reports.
 4. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. [http://www.doi.org/10.2196/preprints.21142](http://www.doi.org/10.2196/preprints.21142)
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
@@ -187,7 +188,6 @@ Daniel Fuller __bold__
 #### Physical Activity Measurement 
 
 1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. Frontiers in Computer Science. 
-3. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. Predicting lying, sitting, walking, and running using Apple Watch and Fitbit data. BMJ Open Sport & Exercise Medicine.
 4. _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. International Journal of Behavioural Nutrition and Physical Activity.
 5. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
 6. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
