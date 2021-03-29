@@ -274,7 +274,8 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
 
-1. Basset, R. Kelly, L. Behnamfar, D. Fuller, D. Self-chosen pace displays a better walking economy when expressed in caloric unit cost. Integrative Physiology of Exercise. American Physiological Association. 
+1. _Maher, R.A._, Wadden, K., Twells, L., Basset, F., Murphy, S., Murphy, F., Fuller, D., McGowan, E. Exercise Interventions and Fertility Outcomes for Women Experiencing Obesity and Infertility: A Narrative Review. 7th Canadian Obesity Summit. Online.
+1. Basset, R. Kelly, L. _Behnamfar, D._ Fuller, D. Self-chosen pace displays a better walking economy when expressed in caloric unit cost. Integrative Physiology of Exercise. American Physiological Association. 
 1. Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board Annual Meeting. 
 1. 2020 April: __Fuller D__, Luan H, Alfosool A, Chen Y. Time weighted approaches for combining GPS and area level data to create individual exposure measures. American Association of Geographers. (Cancelled due to COVID-19). 
 1. 2020 February: _Hosford K_, Laberee K, **Fuller D**, Kestens Y, Winters M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Board Annual Meeting. 
@@ -370,8 +371,13 @@ Daniel Fuller __bold__
 
 | Role | Year | Title | Funder |  Amount | MUN Amount |
 |------|--------|--------|--------|------|------|
+|  Co-Applicant  | September 2020-March 2024 | Examining the impacts of the downtown Sherbrooke (QC) revitalization project on health equity among young adults: a mixed- methods evaluation | CIHR | $100,000 | $ |
+|  Co-Applicant  | September 2020-March 2024 | CentrES | CIHR | $100,000 | $ |
+
 |  Co-Applicant  | September 2020-March 2024 | Citizen Mapping of Microscale Barriers to Mobility | Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program | $681,992 | $40,000 |
-|  Co-Applicant  | June 202-June 2021 | Dietary change during COVID-19: A population-based study in Atlantic Canada to build evidence for government economic and social policy responses | CIHR COVID-19 Rapid Research - Social Policy and Public Health Response | $267,020 | $0 |
+
+|  Co-Applicant  | September 2020-March 2024 | Citizen Mapping of Microscale Barriers to Mobility | Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program | $681,992 | $40,000 |
+|  Co-Applicant  | June 2020-June 2021 | Dietary change during COVID-19: A population-based study in Atlantic Canada to build evidence for government economic and social policy responses | CIHR COVID-19 Rapid Research - Social Policy and Public Health Response | $267,020 | $0 |
 |  Co-Applicant  | August 2019 - August 2024 | AI for public health (AI4PH): A focus on equity and prevention | Operating Grant: CIHR Summer Institute on Equitable AI for Public Health | $525,000 | $0 |
 |  Co-Applicant  | October 2019-October 2022 | Impacts of the new Réseau Express Métropolitain (REM) on mobility, health and equity: A pre-post intervention study | CIHR-NSERC Collaborative Health Research Projects | $441,002 | $0 |
 |  Co-Applicant  | February 2020-October 2020 | Training for Healthy INterdisciplinary Knowledge in Cities (THINK-Cities)  | Training Grant : CIHR-NSERC-SSHRC Healthy Cities Research Training Platform (HCRTP) | $25,000 | $0 |
