@@ -183,6 +183,8 @@ Daniel Fuller __bold__
 1. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2021. Health Reports.
 4. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. [http://www.doi.org/10.2196/preprints.21142](http://www.doi.org/10.2196/preprints.21142)
 4. _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. Journal for the Measurement of Physical Behaviour.
+5. Alhassan J A K, Gauvin L, Muhajarine N, __Fuller D__. Enablers and Barriers to Multisectoral Collaboration: Evidence from a Midsized Canadian City. Canadian Journal of Public Health.
+
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
