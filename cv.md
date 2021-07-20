@@ -103,6 +103,7 @@ Trainees supervised/co-supervised by Daniel Fuller _italics_
 Daniel Fuller __bold__  
 
 1. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. 2021. Predicting lying, sitting, walking, and running using Apple Watch and Fitbit data. BMJ Open Sport & Exercise Medicine.[doi.org/10.1136/bmjsem-2020-001004](doi.org/10.1136/bmjsem-2020-001004).
+1. Sones M, Firth CL, __Fuller D__, Holden M, Kestens Y, Winters M. Situating social connectedness in healthy cities: A conceptual primer for research and policy. Cities and Health. https://doi.org/10.1080/23748834.2021.1926657
 2. _Brondeel, R._, Kestens, Y., _Rahimipour Anaraki, J._, Stanley, K., Thierry, B., __Fuller, D.__ Converting raw accelerometer data to activity counts using open source code in MATLAB, Python, and R – a comparison to ActiLife activity counts. Journal for the Measurement of Physical Behaviour. [https://doi.org/10.1123/jmpb.2019-0063](https://doi.org/10.1123/jmpb.2019-0063)
 3. Alhassan J A K, Gauvin L, Muhajarine N, __Fuller D__. Improving health through multisectoral collaboration: enablers and barriers. Canadian Journal of Public Health. [doi.org/10.17269/s41997-021-00534-3](doi.org/10.17269/s41997-021-00534-3)
 4. Firth, C.L., Thierry, B., __Fuller, D.__, Winters, M., Kestens, Y. Gentrification, Urban Interventions, and Equity (GENUINE): a map-based gentrification tool for Canadian Metropolitan Areas. 2021. Health Reports. [https://www.doi.org/10.25318/82-003-x202100500002-eng](https://www.doi.org/10.25318/82-003-x202100500002-eng)
@@ -184,7 +185,6 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 
 1. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. [http://www.doi.org/10.2196/preprints.21142](http://www.doi.org/10.2196/preprints.21142)
-2. Sones M, Firth CL, __Fuller D__, Holden M, Kestens Y, Winters M. Situating social connectedness in healthy cities: A conceptual primer for research and policy. Cities and Health.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
