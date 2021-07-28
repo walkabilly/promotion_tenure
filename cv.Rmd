@@ -186,7 +186,9 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 
+1. __Fuller D__, Bell S, Firth C L, Muhajarine N, Nelson T, Stanley K S, Sones M, Smith J, Thierry B, Laberee K, Poirier Stephens Z, Philips K, Kestens Y, Winters M. Wave 1 results of the INTerventions, Research, and Action in Cities Team (INTERACT) cohort study: Examining the spatio-temporal measures for urban environments and health. Submitted to Health & Place. 
 1. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. [http://www.doi.org/10.2196/preprints.21142](http://www.doi.org/10.2196/preprints.21142)
+
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -194,7 +196,6 @@ Daniel Fuller __bold__
 2. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
 3. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 4. Anstruther S, Valle de Trejo M, Engler-Stringer R, Fuller D, Leis A, Feng C, Vatanparast H. Parental Influence in Healthy Eating Interventions for Preschool Aged Children: An Umbrella Review. Advances in Nutrition. 
-5. __Fuller D__, Bell S, Firth C L, Muhajarine N, Nelson T, Stanley K S, Sones M, Smith J, Thierry B, Laberee K, Poirier Stephens Z, Philips K, Kestens Y, Winters M. Wave 1 results of the INTerventions, Research, and Action in Cities Team (INTERACT) cohort study: Examining the spatio-temporal measures for urban environments and health. Submitted to Health & Place. 
 6. _Luan H_, __Fuller D__. Urban form in Canada at a small-area level: quantifying “compactness” and “sprawl” with Bayesian multivariate spatial factor analysis. Computers, Environment and Urban Systems.    
 7. Firth C, Laberee K, **Fuller D**, Kestens Y, Winters M. Well-being glossary for healthy cities research. Landscape and Urban Planning.
 8. Slaney J, Fuller D, Apparicio P, Gelb J. Examining the Relationship Between Ventilation and Exercise Intensity During a Field Study in Seven Major Cities. Submitted. Journal of Transport and Health.
