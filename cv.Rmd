@@ -370,11 +370,9 @@ Daniel Fuller __bold__
 
 | Role | Year | Title | Funder |  Amount | MUN Amount |
 |------|--------|--------|--------|------|------|
-|  Co-Applicant  | September 2020-March 2024 | Examining the impacts of the downtown Sherbrooke (QC) revitalization project on health equity among young adults: a mixed- methods evaluation | CIHR | $100,000 | $ |
-|  Co-Applicant  | September 2020-March 2024 | CentrES | CIHR | $100,000 | $ |
-
-|  Co-Applicant  | September 2020-March 2024 | Citizen Mapping of Microscale Barriers to Mobility | Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program | $681,992 | $40,000 |
-
+|  Principal Applicant  | October 2021-October 2026 | INTerventions, Equity, Research and Action in Cities Team (INTERACT) | CIHR | $918,000 | $918,000 |
+|  Co-Applicant  | September 2020-March 2024 | Examining the impacts of the downtown Sherbrooke (QC) revitalization project on health equity among young adults: a mixed- methods evaluation | CIHR | $100,000 | $0 |
+|  Co-Applicant  | September 2020-March 2024 | Equity in Built Environment Surveillance Tool (E-BEST) | Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program | $1,000,000 | $0 |
 |  Co-Applicant  | September 2020-March 2024 | Citizen Mapping of Microscale Barriers to Mobility | Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program | $681,992 | $40,000 |
 |  Co-Applicant  | June 2020-June 2021 | Dietary change during COVID-19: A population-based study in Atlantic Canada to build evidence for government economic and social policy responses | CIHR COVID-19 Rapid Research - Social Policy and Public Health Response | $267,020 | $0 |
 |  Co-Applicant  | August 2019 - August 2024 | AI for public health (AI4PH): A focus on equity and prevention | Operating Grant: CIHR Summer Institute on Equitable AI for Public Health | $525,000 | $0 |
