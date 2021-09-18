@@ -102,6 +102,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Diaz F, Abbasi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Interdisciplinary Perspectives.
 1. __Fuller D__, Bell S, Firth C L, Muhajarine N, Nelson T, Stanley K S, Sones M, Smith J, Thierry B, Laberee K, Poirier Stephens Z, Philips K, Kestens Y, Winters M. Wave 1 results of the INTerventions, Research, and Action in Cities Team (INTERACT) cohort study: Examining the spatio-temporal measures for urban environments and health. Health & Place. [https://doi.org/10.1016/j.healthplace.2021.102646](https://doi.org/10.1016/j.healthplace.2021.102646)
 1. __Fuller D__, Rahimipour Anaraki J, _Simango B_, Dorani F, Bozorgi F, _Luan D_, Basset F. 2021. Predicting lying, sitting, walking, and running using Apple Watch and Fitbit data. BMJ Open Sport & Exercise Medicine. [doi.org/10.1136/bmjsem-2020-001004](doi.org/10.1136/bmjsem-2020-001004).
 1. Sones M, Firth CL, __Fuller D__, Holden M, Kestens Y, Winters M. Situating social connectedness in healthy cities: A conceptual primer for research and policy. Cities and Health. https://doi.org/10.1080/23748834.2021.1926657
@@ -186,7 +187,6 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 
 1. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. [http://www.doi.org/10.2196/preprints.21142](http://www.doi.org/10.2196/preprints.21142)
-1. Diaz F, Abbasi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Interdisciplinary Perspectives.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
