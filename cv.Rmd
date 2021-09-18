@@ -192,6 +192,8 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. __Afosool A__, _Fuller D_, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS One. 
+1. __Afosool A__, _Fuller D_, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
 1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise.
 2. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
 3. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
