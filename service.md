@@ -87,6 +87,8 @@ I am also regularly asked to funding reviews for external organizations. As a re
 
 ## <span style="color:#81112c">Funding Reviews</span>
 
+1. 2021 MITACS Accelerate: Health equity, road safety and the built environment (BE): Examining barriers and facilitators to BE change decision-making, the impact of Vision Zero, and COVID-19.
+1. 2020 New Frontiers Research Fund, Exploration 2020 (Health Stream) Funding competition
 1. 2020 Tier 2 Canada Research Chair Renewal in Physical Activity and Health
 1. 2020 Tier 2 Canada Research Chair Application in  Artificial Intelligence for Complex Health Data
 1. 2020 MITACS Accelerate. Title: La navette autonome de la Petite Bourgogne répond-elle aux besoins de la communaute?
@@ -109,7 +111,8 @@ I have also been involved in a number of leadership consultations activities as 
 
 | Number of Reviews | Year | Example Journals |
 |---------|------|-------------------|
-| 3 | 2020 | British Medical Journal, Journal of Transportation and Health | 
+| 3 | 2021 | Canadian Journal of Public Health | 
+| 10 | 2020 | British Medical Journal, Journal of Transportation and Health | 
 | 8 | 2019 | British Medical Journal, Journal of Transportation and Health | 
 | 2 | 2018 | Canadian Journal of Public Health | 
 | 6 | 2017 | Nature - Science Reports, American Journal of Preventive Medicine | 
@@ -134,6 +137,7 @@ I have also been involved in a number of leadership consultations activities as 
 
 ## <span style="color:#81112c">Media</span>
 
+1. Timothy Gower. May 28, 2021. Wearable Health Devices: Is There One in Your Future? [https://www.webmd.com/a-to-z-guides/features/wearable-health-devices](https://www.webmd.com/a-to-z-guides/features/wearable-health-devices)
 1. Asia Holloway. August 21, 2020. Investing in a Walk-able City Pays for Itself. [https://theindependent.ca/2020/08/21/letter-investing-in-a-walk-able-city-pays-for-itself/](https://theindependent.ca/2020/08/21/letter-investing-in-a-walk-able-city-pays-for-itself/)
 1. VOCM News, August 25, 2020. [https://soundcloud.com/vocm/asia-holloway-masters-of-a-public-health-student-with-the-mun-beap-lab-health-economic-benefits-of-walking-in-st-johns?in=vocm/sets/vocm-morning-show](https://soundcloud.com/vocm/asia-holloway-masters-of-a-public-health-student-with-the-mun-beap-lab-health-economic-benefits-of-walking-in-st-johns?in=vocm/sets/vocm-morning-show)
 1. VOCM News, August 25, 2020. [Walking in St. John’s Would Help Economy, says MUN Study](Walking in St. John’s Would Help Economy, says MUN Study)
@@ -157,7 +161,7 @@ I have also been involved in a number of leadership consultations activities as 
 2. CBC Cross Talk. Do you feel safe riding a bicycle? June 21, 2018. 
 3. Juanita Mercer. N.L. urban residents advised to take the bus to better health. May 27, 2017.
 [http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus-to-better-health-213473/](http://www.thetelegram.com/news/local/nl-urban-residents-advised-to-take-the-bus-to-better-health-213473/)
-4. Ted Blades. Taking the bus is better for your health. June 8, 2018.  http://www.cbc.ca/listen/shows/on-the-go/episode/15549559
+4. Ted Blades. Taking the bus is better for your health. June 8, 2018.  [http://www.cbc.ca/listen/shows/on-the-go/episode/15549559](http://www.cbc.ca/listen/shows/on-the-go/episode/15549559)
 5. Mark Quinn. Bike map aims to help St. John's cyclists steer clear of trouble. March 8, 2018. [http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225](http://www.cbc.ca/news/canada/newfoundland-labrador/bike-map-st-john-s-1.4567225)
 6. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
 7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
@@ -165,8 +169,8 @@ I have also been involved in a number of leadership consultations activities as 
 
 ## <span style="color:#81112c">Social Media</span>
 
-* [Facebook](https://www.facebook.com/walkabilly): I have 99 followers on my Facebook page. The average reach per day of my Facebook page in August and September 2020 was 406 views, likes, and comments.
-* [Twitter](https://twitter.com/walkabilly): I have 1541 followers on Twitter. I get on average 50,000 impressions on my Twitter page per month. 
+* [Facebook](https://www.facebook.com/walkabilly): I have 98 followers on my Facebook page. The average reach per day of my Facebook page in August and September 2021 was 50 views, likes, and comments.
+* [Twitter](https://twitter.com/walkabilly): I have 1695 followers on Twitter. I get on average 45,000 impressions on my Twitter page per month. 
 * [Website](http://walkabilly.ca/home/): My website received 19,378 unique visitors in the past year. 
 
 ## <span style="color:#81112c">Community Collaborations</span>
@@ -178,7 +182,3 @@ For example, in winter of 2019-2020 there were a large number of fatal and sever
 Similarly, a student of mine Asia Holloway released a report titled "Health and economic benefits of walking in St. John’s, Newfoundland and Labrador." The report garnered considerable of media attention. I received correspondence from a Newfoundlander now living in Ottawa who wanted to retire in NL but was concerned that they would not be able to walk safely in their beloved community (see Appendix 2). 
 
 Finally, I was also a member of the Building Healthy Communities Provincial Linkages Committee from 2017 to 2019. This group was convened by the provincial government to plan healthy community initiatives throughout Newfoundland and Labrador. 
-
-
-
-
