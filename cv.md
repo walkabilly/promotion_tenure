@@ -102,7 +102,6 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
-
 1. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. [https://doi.org/10.2196/21142](https://doi.org/10.2196/21142)
 1. Diaz F, Abbasi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Interdisciplinary Perspectives. 2021: 12, 100465. [https://doi.org/10.1016/j.trip.2021.100465](https://doi.org/10.1016/j.trip.2021.100465).
 1. __Fuller D__, Bell S, Firth C L, Muhajarine N, Nelson T, Stanley K S, Sones M, Smith J, Thierry B, Laberee K, Poirier Stephens Z, Philips K, Kestens Y, Winters M. Wave 1 results of the INTerventions, Research, and Action in Cities Team (INTERACT) cohort study: Examining the spatio-temporal measures for urban environments and health. Health & Place. [https://doi.org/10.1016/j.healthplace.2021.102646](https://doi.org/10.1016/j.healthplace.2021.102646)
@@ -274,10 +273,9 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
 
-1. Firth CL, Hirsch JA, Fuller D, Winters M, Kestens Y. (2021). Living in gentrified neighbourhoods, perceptions of gentrification, and health outcomes among adults in Montreal, QC. Submitted to International Conference on Urban Health 2021.
-1. _Maher, R.A._, Wadden, K., Twells, L., Basset, F., Murphy, S., Murphy, F., Fuller, D., McGowan, E. Exercise Interventions and Fertility Outcomes for Women Experiencing Obesity and Infertility: A Narrative Review. 7th Canadian Obesity Summit. Online.
-1. Basset, R. Kelly, L. _Behnamfar, D._ Fuller, D. Self-chosen pace displays a better walking economy when expressed in caloric unit cost. Integrative Physiology of Exercise. American Physiological Association. 
-1. Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board Annual Meeting. 
+1. 2020 October: _Maher, R.A._, Wadden, K., Twells, L., Basset, F., Murphy, S., Murphy, F., Fuller, D., McGowan, E. Exercise Interventions and Fertility Outcomes for Women Experiencing Obesity and Infertility: A Narrative Review. 7th Canadian Obesity Summit. Online.
+1. 2020 August: Basset, R. Kelly, L. _Behnamfar, D._ Fuller, D. Self-chosen pace displays a better walking economy when expressed in caloric unit cost. Integrative Physiology of Exercise. American Physiological Association. 
+1. 2020 August: Diaz F, Abbassi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Board Annual Meeting. 
 1. 2020 April: __Fuller D__, Luan H, Alfosool A, Chen Y. Time weighted approaches for combining GPS and area level data to create individual exposure measures. American Association of Geographers. (Cancelled due to COVID-19). 
 1. 2020 February: _Hosford K_, Laberee K, **Fuller D**, Kestens Y, Winters M. Are They Really Interested but Concerned? A Mixed Methods Exploration of the Geller Bicyclist Typology. Transportation Research Board Annual Meeting. 
 1. 2020 February: _Bree S_, __Fuller D__, Diab E. Access to Transit? Validating Local Transit Accessibility Measures Using Transit Ridership.  Transportation Research Board Annual Meeting. 
@@ -370,6 +368,10 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Awarded Grants</span>
 
+## <span style="color:#81112c">Grants</span>
+
+### <span style="color:#81112c">Awarded Grants</span>
+
 | Role | Year | Title | Funder |  Amount | MUN Amount |
 |------|--------|--------|--------|------|------|
 |  Principal Applicant  | October 2021-October 2026 | INTerventions, Equity, Research and Action in Cities Team (INTERACT) | CIHR | $918,000 | $918,000 |
@@ -391,7 +393,7 @@ Daniel Fuller __bold__
 | Principal Investigator | August 2016 to August 2018 | Newfoundland Research and Development Corporation CFI Leverage Grant | RDC | $100,000 | $100,000 |
 | Co-Applicant | August 2016 to August 2021 | Impacts of City-Wide Bicycle Infrastructure Investment on Population Health & Health Equity | CIHR | $428,400 | $0 |
 | Co-Applicant | December 2017 to December 2021 | Multisectoral Urban Systems for health and Equity in Canadian cities | CIHR | $2 Million | $0 |
-| | | | Total | $12,291,896 | $1,353,638 |
+| | | | Total | $14,991,888  | $2,167,894  |
 
 ### <span style="color:#81112c">Grants Under Review</span>
 None
@@ -617,6 +619,8 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Funding Reviews</span>
 
+1. 2021 MITACS Accelerate: Health equity, road safety and the built environment (BE): Examining barriers and facilitators to BE change decision-making, the impact of Vision Zero, and COVID-19.
+1. 2020 New Frontiers Research Fund, Exploration 2020 (Health Stream) Funding competition
 1. 2020 Tier 2 Canada Research Chair Renewal in Physical Activity and Health
 1. 2020 Tier 2 Canada Research Chair Application in  Artificial Intelligence for Complex Health Data
 1. 2020 MITACS Accelerate. Title: La navette autonome de la Petite Bourgogne répond-elle aux besoins de la communaute?
@@ -628,7 +632,8 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 | Number of Reviews | Year | Example Journals |
 |---------|------|-------------------|
-| 3 | 2020 | British Medical Journal, Journal of Transportation and Health | 
+| 3 | 2021 | Canadian Journal of Public Health | 
+| 10 | 2020 | British Medical Journal, Journal of Transportation and Health | 
 | 8 | 2019 | British Medical Journal, Journal of Transportation and Health | 
 | 2 | 2018 | Canadian Journal of Public Health | 
 | 6 | 2017 | Nature - Science Reports, American Journal of Preventive Medicine | 
@@ -683,7 +688,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 * 2020-2023: Social Media Associated Editor, Canadian Journal of Public Health 
 * 2019: Associated Editor, Canadian Journal of Public Health 
-    - Associate Editor for 5 manuscripts 
+    - Associate Editor for 7 manuscripts 
 * 2018-2019: Associated Editor, BMC Public Health 
     - Associate Editor for 13 manuscripts 
 * 2015-2017: Board Member, Saskatchewan Epidemiology Association.
