@@ -3,11 +3,11 @@ title: "Curriculum vitae"
 author: "Daniel Fuller"
 date: '2020-08-03'
 output:
+  word_document: default
   html_document: 
     keep_md: yes
     toc: true
     toc_depth: 2
-  word_document: default
   pdf_document: default
 ---
 
@@ -487,9 +487,10 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 | Name | Program | Project | Term |
 |------|--------|--------|------|
-| Nana Abekah | Computer Science | BSc | Fall 2019 Winter 2020 |
+| Liam Chislett | Engineering | BSc | Winter 2021 |
+| Kyle Shale | Engineering | BSc | Winter 2021 |
 | Utsav Koju | Computer Science | BSc | Fall 2019 |
-| Sydney Hector | Human Kinetics and Recreation | Undergraduate Honours | 2018 |
+| Sudeny Hector | Human Kinetics and Recreation | Undergraduate Honours | 2018 |
 | Harshal Deshpande  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
 | Levi Moulton  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
 | Logan Slade | Human Kinetics and Recreation | MUCEP | Fall 2018 |
@@ -503,13 +504,15 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 ## <span style="color:#81112c">Graduate Student Supervision</span>  
 
 #### <span style="color:#81112c">Supervisor</span>  
-* 2020: Ryan Ellis. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2020: Summayah Mussa. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2021: Rachel Cowitz. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+* 2020: Ryan Ellis. Changes in Step Count Accuracy of Wearable Devices with the Continuous Development of New Technology. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+* 2020: Summayah Mussa. Comparing Accelerometer Processing Metrics for Physical Activity Classification Accuracy using Machine Learning Methods. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2020: Asia Holloway. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2019: Rebecca Maher. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2019: Jonathan Slaney. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2019: Rebecca Maher. Exercise interventions and fertility outcomes for women experiencing obesity and infertiliy: a narrative review. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+* 2019: Jonathan Slaney. Examining the association between cycling infrastructure exposure and physical activity: A Natural experiment study in Victoria, Canada. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2019: SeyedJavad KhataeiPour. Superior Performance of Machine Learning Algorithms in Metabolic Equivalent (MET) Prediction Using Cell Phone Accelerometer Data. MSc Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2018: Machel Rayner. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2018: Ali Alfosool.  Road Importance Using Complex-Networks, Graph Reduction & Interpolation. PhD Program. Committee Member. Department of Computer Science. Memorial University. 
 * 2017: Kassia Orychock. Association between BMI and WalkScore, Dining and Drinking Score and Grocery Score in a multi-city sample of adults: A cross sectional analysis. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Bo Simango. Improving the accuracy of activity intensity classification using machine learning and commercial wearable device data. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Melissa Tobin. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University
@@ -522,7 +525,6 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 * 2020: Ryan Collins. Associations between Circadian Rhythm, Physical Activity, Mood, and Cognitive Function During the First Year of Treatment for Breast Cancer. PhD Program. Committee Member. Department of Psychology. Memorial University. 
 * 2019: Kole Phillips. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 2019.
 * 2018: Pablo Navarro. The Government of Newfoundland and Labrador’s implementation of a “Health in All Policies”. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University. 
-* 2018: Ali Alfosool.  Road Importance Using Complex-Networks, Graph Reduction & Interpolation. PhD Program. Committee Member. Department of Computer Science. Memorial University. 
 * 2017: Se’era Anstruthers. PhD Program. Committee Member. The Influence of Socioeconomic Factors and Location on the Impact of Children in Healthy Start-Depart Sante. Department of Nutrition. University of Saskatchewan. 
 * 2016: Adriana Fonseca. PhD Program. Committee Member.  Physical activity and chronic back disorders in Canadian adults. Department of Community Health and Epidemiology. University of Saskatchewan.
 * 2016: Kate Hosford. MSc Program. Committee Member. Impacts of a Public Bike Share Program in Vancouver, BC: Changes in Population Cycling Levels and Program Perceptions and Attitudes. Faculty of Health Sciences, Simon Fraser University.
