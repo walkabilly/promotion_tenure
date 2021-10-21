@@ -186,13 +186,13 @@ Daniel Fuller __bold__
 2.	Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial 2018: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. Seattle, USA. November 2018. https://doi.org/10.1145/3274895.3274973.
 
 ### <span style="color:#81112c">In Press Publications</span>
-
+1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
 1. __Afosool A__, _Fuller D_, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS One. 
 1. __Afosool A__, _Fuller D_, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
-1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise.
+1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise. Preprint available [doi.org/10.17605/OSF.IO/D2JUC](doi.org/10.17605/OSF.IO/D2JUC)
 2. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
 3. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 4. Anstruther S, Valle de Trejo M, Engler-Stringer R, Fuller D, Leis A, Feng C, Vatanparast H. Parental Influence in Healthy Eating Interventions for Preschool Aged Children: An Umbrella Review. Advances in Nutrition. 
@@ -201,7 +201,6 @@ Daniel Fuller __bold__
 8. Slaney J, Fuller D, Apparicio P, Gelb J. Examining the Relationship Between Ventilation and Exercise Intensity During a Field Study in Seven Major Cities. Submitted. Journal of Transport and Health.
 9. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
 10. Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health.
-11. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. Health and Place.
 12. _Roy A_, __Fuller D__, Kendron P, Nelson T. Assessing the role of geographic context in transportation mode detection from GPS data. Journal of Transport Geography.
 
 ### <span style="color:#81112c">Letters to the Editor</span>
