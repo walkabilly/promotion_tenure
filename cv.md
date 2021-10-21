@@ -580,7 +580,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 ##### 2016 Most Effective Professor. School of Public Health Student Association. University of Saskatchewan.
 
 ### <span style="color:#81112c">Media</span>
-
+1. The Independent. October 14, 2021. We need to talk about the bike lanes. [https://theindependent.ca/commentary/letter/letter-we-need-to-talk-about-bike-lanes/](https://theindependent.ca/commentary/letter/letter-we-need-to-talk-about-bike-lanes/)
 1. Timothy Gower. May 28, 2021. Wearable Health Devices: Is There One in Your Future? [https://www.webmd.com/a-to-z-guides/features/wearable-health-devices](https://www.webmd.com/a-to-z-guides/features/wearable-health-devices)
 1. Asia Holloway. August 21, 2020. Investing in a Walk-able City Pays for Itself. [https://theindependent.ca/2020/08/21/letter-investing-in-a-walk-able-city-pays-for-itself/](https://theindependent.ca/2020/08/21/letter-investing-in-a-walk-able-city-pays-for-itself/)
 1. VOCM News, August 25, 2020. [https://soundcloud.com/vocm/asia-holloway-masters-of-a-public-health-student-with-the-mun-beap-lab-health-economic-benefits-of-walking-in-st-johns?in=vocm/sets/vocm-morning-show](https://soundcloud.com/vocm/asia-holloway-masters-of-a-public-health-student-with-the-mun-beap-lab-health-economic-benefits-of-walking-in-st-johns?in=vocm/sets/vocm-morning-show)
