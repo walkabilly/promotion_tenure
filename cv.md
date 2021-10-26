@@ -240,6 +240,7 @@ Daniel Fuller __bold__
 ## <span style="color:#81112c">Presentations</span>
 
 ### <span style="color:#81112c">Invited Presentations</span>
+1. Saturday October 16, 2021: **Fuller D**. Walkability, Health, and Urban Planning. Keep Rolling: An event to promote diversity, inclusion in Saskatoon's cycling community. Saskatoon Cycles. 
 1. Friday December 4, 2020: **Fuller D**. The Health Costs and Benefits of Urban Planning. Atlantic Planners Institute.
 1. Wednesday February 19, 2020: **Fuller D**. Emergency Panel on Pedestrian Safety in St. John's. Green New Drinks organized by the St. John's Social Justice Cooperative. 
 1. Friday November 15, 2019: **Fuller D**. Canada Research Chair Panel on Health and Wellbeing. Memorial Univeristy of Newfoundland. 
@@ -376,6 +377,7 @@ Daniel Fuller __bold__
 | Role | Year | Title | Funder |  Amount | MUN Amount |
 |------|--------|--------|--------|------|------|
 |  Principal Applicant  | October 2021-October 2026 | INTerventions, Equity, Research and Action in Cities Team (INTERACT) | CIHR | $918,000 | $918,000 |
+|  Principal Applicant  | August 2021-August 2026 | Canada Research Chair - Renewal | CRC | $500,000 | $500,000 |
 |  Co-Applicant  | September 2020-March 2024 | Examining the impacts of the downtown Sherbrooke (QC) revitalization project on health equity among young adults: a mixed- methods evaluation | CIHR | $100,000 | $0 |
 |  Co-Applicant  | September 2020-March 2024 | Equity in Built Environment Surveillance Tool (E-BEST) | Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program | $1,000,000 | $0 |
 |  Co-Applicant  | September 2020-March 2024 | Citizen Mapping of Microscale Barriers to Mobility | Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program | $681,992 | $40,000 |
@@ -394,7 +396,7 @@ Daniel Fuller __bold__
 | Principal Investigator | August 2016 to August 2018 | Newfoundland Research and Development Corporation CFI Leverage Grant | RDC | $100,000 | $100,000 |
 | Co-Applicant | August 2016 to August 2021 | Impacts of City-Wide Bicycle Infrastructure Investment on Population Health & Health Equity | CIHR | $428,400 | $0 |
 | Co-Applicant | December 2017 to December 2021 | Multisectoral Urban Systems for health and Equity in Canadian cities | CIHR | $2 Million | $0 |
-| | | | Total | $14,991,888  | $2,167,894  |
+| | | | Total | $15,491,888  | $2,667,894  |
 
 ### <span style="color:#81112c">Grants Under Review</span>
 None
