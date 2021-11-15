@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Daniel Fuller, Ph.D.  
 Canada Research Chair in Population Physical Activity  
-Assistant Professor  
+Associate Professor  
 School of Human Kinetics and Recreation   
 Physical Education Building PE 2024 Memorial   
 University of Newfoundland St. John’s, NL  
