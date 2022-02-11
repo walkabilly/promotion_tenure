@@ -7,8 +7,8 @@ output:
     keep_md: yes
     toc: true
     toc_depth: 2
-  word_document: default
   pdf_document: default
+  word_document: default
 ---
 
 
@@ -28,7 +28,7 @@ Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)
 
 Date of Birth: January 10, 1982  
 Citizenship: Canadian  
-Address: 176 Patrick Street, St. John’s, NL, A1C 5C4  
+Address: 406 Avenue E S, Saskatoon, Sk, S7M 1S3
 Email: dfuller@mun.ca  
 Website: [www.walkabilly.ca](http://walkabilly.ca/home/)  
 Twitter: [walkabilly](https://twitter.com/walkabilly)  
@@ -55,7 +55,8 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 
 | Period | Appointment | Rank | Unit | Institution | 
 |--------|-------------|------|------|-------------|
-| 2016 - Ongoing | Primary |	Assistant Professor | School of Human Kinetics and Recreation | Memorial University |
+| 2021 - Ongoing | Primary |	Associate Professor | School of Human Kinetics and Recreation | Memorial University |
+| 2016 - 2021 | Primary |	Assistant Professor | School of Human Kinetics and Recreation | Memorial University |
 | 2016 - Ongoing |	Cross Appointment | Assistant Professor | Community Health and Humanities | Memorial University |
 | 2016 - Ongoing |	Cross Appointment | Assistant Professor | Department of Computer Science | Memorial University |
 | 2016 - Ongoing | | Adjunct Professor | Department of Community Health and Epidemiology | University of Saskatchewan |
@@ -76,6 +77,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 
 | Year | Award | Funder | Amount | 
 |------|-------|--------|--------|
+| 2021 | Canada Research Chair (Tier 2) | CIHR | $500,000 |
 | 2016 | Canada Research Chair (Tier 2) | CIHR | $500,000 |
 | 2012 | Travel Award | CIHR Institute of Population and Public Health | $900 |
 | 2012 | Top Post-Doctoral Fellowship Award (Socio-Health) | Saskatchewan Health Research Foundation | $0 |
@@ -102,6 +104,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _Luan H_, __Fuller D__. Urban form in Canada at a small-area level: quantifying “compactness” and “sprawl” with Bayesian multivariate spatial factor analysis. Computers, Environment and Urban Systems. [https://journals.sagepub.com/doi/10.1177/23998083211062901](https://journals.sagepub.com/doi/10.1177/23998083211062901)
 1. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. [https://doi.org/10.2196/21142](https://doi.org/10.2196/21142)
 1. Diaz F, Abbasi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Interdisciplinary Perspectives. 2021: 12, 100465. [https://doi.org/10.1016/j.trip.2021.100465](https://doi.org/10.1016/j.trip.2021.100465).
 1. __Fuller D__, Bell S, Firth C L, Muhajarine N, Nelson T, Stanley K S, Sones M, Smith J, Thierry B, Laberee K, Poirier Stephens Z, Philips K, Kestens Y, Winters M. Wave 1 results of the INTerventions, Research, and Action in Cities Team (INTERACT) cohort study: Examining the spatio-temporal measures for urban environments and health. Health & Place. [https://doi.org/10.1016/j.healthplace.2021.102646](https://doi.org/10.1016/j.healthplace.2021.102646)
@@ -187,10 +190,11 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-2. _Luan H_, __Fuller D__. Urban form in Canada at a small-area level: quantifying “compactness” and “sprawl” with Bayesian multivariate spatial factor analysis. Computers, Environment and Urban Systems.   
+2. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, Fuller D. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity.
 1. __Afosool A__, _Fuller D_, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS One. 
 1. __Afosool A__, _Fuller D_, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
 1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise. Preprint available [doi.org/10.17605/OSF.IO/D2JUC](doi.org/10.17605/OSF.IO/D2JUC)
@@ -199,7 +203,6 @@ Daniel Fuller __bold__
 4. Anstruther S, Valle de Trejo M, Engler-Stringer R, Fuller D, Leis A, Feng C, Vatanparast H. Parental Influence in Healthy Eating Interventions for Preschool Aged Children: An Umbrella Review. Advances in Nutrition. 
 7. Firth C, Laberee K, **Fuller D**, Kestens Y, Winters M. Well-being glossary for healthy cities research. Landscape and Urban Planning.
 8. Slaney J, Fuller D, Apparicio P, Gelb J. Examining the Relationship Between Ventilation and Exercise Intensity During a Field Study in Seven Major Cities. Submitted. Journal of Transport and Health.
-9. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
 10. Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health.
 12. _Roy A_, __Fuller D__, Kendron P, Nelson T. Assessing the role of geographic context in transportation mode detection from GPS data. Journal of Transport Geography.
 
@@ -273,6 +276,8 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
 
+1. Upcoming May 2022. Shareck M, Paquette-Guay A, Ekouagou K, Camirand-Lemyre F, Dubé T, Firth C, Fuller D, Kestens Y, Morin P, 
+TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who doesn’t? Introducing the Centre-Ville Equitable et en Santé (CentrÉS) study. 24th IUHPE World Conference on Health Promotion.
 1. 2021 October: __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. International Society for Physical Activity and Health (ISPAH).
 1. 2021 October: __Fuller D__, __Stanley K__, __Voss C__, __Winters M__, __Firth C__, __Kestens Y__. Combining Global Positioning System and Accelerometer Data: tools, methods, and headaches. International Society for Physical Activity and Health (ISPAH).
 1. 2020 October: _Maher, R.A._, Wadden, K., Twells, L., Basset, F., Murphy, S., Murphy, F., Fuller, D., McGowan, E. Exercise Interventions and Fertility Outcomes for Women Experiencing Obesity and Infertility: A Narrative Review. 7th Canadian Obesity Summit. Online.
@@ -374,8 +379,9 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Awarded Grants</span>
 
-| Role | Year | Title | Funder |  Amount | MUN Amount |
+| Role | Year | Title | Funder | Total Amount | Amount Received |
 |------|--------|--------|--------|------|------|
+|  Co-Principal Applicant  | February 2022-February 2028 | AI for public health (AI4PH) Training Platform | CIHR | $2.4M | $0 |
 |  Principal Applicant  | October 2021-October 2026 | INTerventions, Equity, Research and Action in Cities Team (INTERACT) | CIHR | $918,000 | $918,000 |
 |  Principal Applicant  | August 2021-August 2026 | Canada Research Chair - Renewal | CRC | $500,000 | $500,000 |
 |  Co-Applicant  | September 2020-March 2024 | Examining the impacts of the downtown Sherbrooke (QC) revitalization project on health equity among young adults: a mixed- methods evaluation | CIHR | $100,000 | $0 |
@@ -437,6 +443,8 @@ None
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
+| University of Saskatchewan  | 2022 | Winter | CHEP 898 | Advanced Epidemiology | Co-Instructor |
+| University of Saskatchewan  | 2022 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-Instructor |
 | Memorial University  | 2020 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
 |  | 2020 | Winter | HKR 6134 | Seminar | Instructor |
 |  | 2019 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
@@ -525,7 +533,6 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 * 2020: Ryan Collins. Associations between Circadian Rhythm, Physical Activity, Mood, and Cognitive Function During the First Year of Treatment for Breast Cancer. PhD Program. Committee Member. Department of Psychology. Memorial University. 
 * 2019: Kole Phillips. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 2019.
-* 2018: Pablo Navarro. The Government of Newfoundland and Labrador’s implementation of a “Health in All Policies”. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University. 
 * 2017: Se’era Anstruthers. PhD Program. Committee Member. The Influence of Socioeconomic Factors and Location on the Impact of Children in Healthy Start-Depart Sante. Department of Nutrition. University of Saskatchewan. 
 * 2016: Adriana Fonseca. PhD Program. Committee Member.  Physical activity and chronic back disorders in Canadian adults. Department of Community Health and Epidemiology. University of Saskatchewan.
 * 2016: Kate Hosford. MSc Program. Committee Member. Impacts of a Public Bike Share Program in Vancouver, BC: Changes in Population Cycling Levels and Program Perceptions and Attitudes. Faculty of Health Sciences, Simon Fraser University.
@@ -614,6 +621,12 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 6. Andrea Kelly. Collisions and Close Calls. February 28, 2018 [https://gazette.mun.ca/research/collisions-and-close-calls/](https://gazette.mun.ca/research/collisions-and-close-calls/)
 7. Susan Flagan. Walkability factors. June 6, 2017. [https://gazette.mun.ca/research/walkability-factors/](https://gazette.mun.ca/research/walkability-factors/)
 8. CBC Cross Talk. Do activity trackers increase physical activity. October 25, 2016. 
+
+## <span style="color:#81112c">Social Media</span>
+
+* Twitter: I have 1742 followers on Twitter. I get on average 45,000 impressions on my Twitter page per month.
+* Website: My website received 19,378 unique visitors in the past year.
+* Facebook: I have 98 followers on my Facebook page. The average reach per day of my Facebook page in August and September 2021 was 50 views, likes, and comments.
 
 ## <span style="color:#81112c">CIHR Leadership and Service</span>
 
