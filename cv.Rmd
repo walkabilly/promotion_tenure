@@ -3,12 +3,12 @@ title: "Curriculum vitae"
 author: "Daniel Fuller"
 date: '2020-08-03'
 output:
-  word_document: default
-  pdf_document: default
   html_document: 
     keep_md: yes
     toc: true
     toc_depth: 2
+  pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -106,6 +106,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 22, Article number: 450. [https://doi.org/10.1186/s12889-022-12747-3](https://doi.org/10.1186/s12889-022-12747-3)
 1. _Luan H_, __Fuller D__. Urban form in Canada at a small-area level: quantifying “compactness” and “sprawl” with Bayesian multivariate spatial factor analysis. Computers, Environment and Urban Systems. [https://journals.sagepub.com/doi/10.1177/23998083211062901](https://journals.sagepub.com/doi/10.1177/23998083211062901)
 1. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research. [https://doi.org/10.2196/21142](https://doi.org/10.2196/21142)
 1. Diaz F, Abbasi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Interdisciplinary Perspectives. 2021: 12, 100465. [https://doi.org/10.1016/j.trip.2021.100465](https://doi.org/10.1016/j.trip.2021.100465).
@@ -192,15 +193,17 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-2. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 
+1. _Fuller D_, Ferner R, Stanley K. Why Machine Learning (ML) has failed physical activity research and how we can improve. BMJ Open Sport & Exercise.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. __Phillips K__, Stanley K, _Fuller D_. A Theory-based Model of Cumulative Activity. Scientific Reports. 
+1. __Firth C L__, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, _Fuller D_. Using 2M combined Global Position System and accelerometer data points to examine were built and social environments are associated with physical activity in four Canadian cities. International Journal of Behavioral Nutrition and Physical Activity.
 1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, Fuller D. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity.
 1. __Afosool A__, _Fuller D_, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS One. 
 1. __Afosool A__, _Fuller D_, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
 1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise. Preprint available [doi.org/10.17605/OSF.IO/D2JUC](doi.org/10.17605/OSF.IO/D2JUC)
-2. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine..
+2. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine. Preventive Medicine.
 3. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 4. Anstruther S, Valle de Trejo M, Engler-Stringer R, Fuller D, Leis A, Feng C, Vatanparast H. Parental Influence in Healthy Eating Interventions for Preschool Aged Children: An Umbrella Review. Advances in Nutrition. 
 7. Firth C, Laberee K, **Fuller D**, Kestens Y, Winters M. Well-being glossary for healthy cities research. Landscape and Urban Planning.
