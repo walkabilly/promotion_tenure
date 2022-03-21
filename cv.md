@@ -104,6 +104,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. __Fuller D__, Ferber R, Stanley K. Why Machine Learning (ML) has failed physical activity research and how we can improve. BMJ Open Sport & Exercise. 2022;8:e001259. [https://doi.org/10.1136/bmjsem-2021-001259](https://doi.org/10.1136/bmjsem-2021-001259) 
 1. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 22, Article number: 450. [https://doi.org/10.1186/s12889-022-12747-3](https://doi.org/10.1186/s12889-022-12747-3)
 1. _Luan H_, __Fuller D__. Urban form in Canada at a small-area level: quantifying “compactness” and “sprawl” with Bayesian multivariate spatial factor analysis. Environment and Planning B: Urban Analytics and City Science. December 2021.  [https://doi.org/10.1177%2F23998083211062901](https://doi.org/10.1177%2F23998083211062901)
 1. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research.  Vol 23, No 11. [https://doi.org/10.2196/21142](https://doi.org/10.2196/21142)
@@ -191,7 +192,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-1. __Fuller D__, Ferner R, Stanley K. Why Machine Learning (ML) has failed physical activity research and how we can improve. BMJ Open Sport & Exercise.
+1. _Roy A_, __Fuller D__, Kendron P, Nelson T. Assessing the role of geographic context in transportation mode detection from GPS data. Journal of Transport Geography.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -207,7 +208,6 @@ Daniel Fuller __bold__
 7. Firth C, Laberee K, **Fuller D**, Kestens Y, Winters M. Well-being glossary for healthy cities research. Landscape and Urban Planning.
 8. Slaney J, Fuller D, Apparicio P, Gelb J. Examining the Relationship Between Ventilation and Exercise Intensity During a Field Study in Seven Major Cities. Submitted. Journal of Transport and Health.
 10. Parenteau, N., __Fuller, D.__, Najjar, M., Poirier Stephens, Z., Rancourt, G., Winters, M., Kestens, Y. Do travel modes contribute to well-being? A cross-sectional analysis considering enjoyment, gender, and education. Journal of Transport and Health.
-12. _Roy A_, __Fuller D__, Kendron P, Nelson T. Assessing the role of geographic context in transportation mode detection from GPS data. Journal of Transport Geography.
 
 ### <span style="color:#81112c">Letters to the Editor</span>
 1. Paulsen, P., Fuller, D. Scrolling for data or doom during COVID-19?. Can J Public Health. 2020. 111, 490–491. [https://doi.org/10.17269/s41997-020-00376-5](https://doi.org/10.17269/s41997-020-00376-5)
