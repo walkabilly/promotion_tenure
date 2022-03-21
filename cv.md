@@ -196,6 +196,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, Fuller D, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Journal of Environmental Psychology
 1. _Phillips K_, Stanley K, __Fuller D__. A Theory-based Model of Cumulative Activity. Scientific Reports. 
 1. _Firth C L_, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, __Fuller D__. Using 2M combined Global Position System and accelerometer data points to examine were built and social environments are associated with physical activity in four Canadian cities. International Journal of Behavioral Nutrition and Physical Activity.
 1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, __Fuller D__. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity.
