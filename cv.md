@@ -193,7 +193,8 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-1. Mah C L. Foster K, Jago E, Hajizadeh M, Luongo G, Taylor N, __Fuller D__, Yi Y, Esan K, Lukic R, MacDonald B, Boyd H, McIver H, Khederi A, Clarke M, Wranik D, Brimblecombe J, Peeters A. Study protocol for CELLAR: population-based observational study to monitor dietary intakes and purchasing during COVID-19 in four Canadian provinces. BMJ Open. 
+1. Mah C L. Foster K, Jago E, Hajizadeh M, Luongo G, Taylor N, __Fuller D__, Yi Y, Esan K, Lukic R, MacDonald B, Boyd H, McIver H, Khederi A, Clarke M, Wranik D, Brimblecombe J, Peeters A. Study protocol for CELLAR: population-based observational study to monitor dietary intakes and purchasing during COVID-19 in four Canadian provinces. BMJ Open. [http://dx.doi.org/10.1136/bmjopen-2022-061660](http://dx.doi.org/10.1136/bmjopen-2022-061660).
+1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise. Preprint available [doi.org/10.17605/OSF.IO/D2JUC](doi.org/10.17605/OSF.IO/D2JUC)
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -206,7 +207,6 @@ Daniel Fuller __bold__
 1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, __Fuller D__. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity.
 1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS One. 
 1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
-1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise. Preprint available [doi.org/10.17605/OSF.IO/D2JUC](doi.org/10.17605/OSF.IO/D2JUC)
 2. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine.
 3. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine. 
 4. Anstruther S, Valle de Trejo M, Engler-Stringer R, Fuller D, Leis A, Feng C, Vatanparast H. Parental Influence in Healthy Eating Interventions for Preschool Aged Children: An Umbrella Review. Advances in Nutrition. 
