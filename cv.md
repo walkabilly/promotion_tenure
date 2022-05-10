@@ -198,7 +198,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
-1.Smith J, __Fuller D__, Stanley K, Poirier Stephens Z. Software Application Profile: ProvLog - A lightweight provenance logging and monitoring tool for data collection pipelines. American Journal of Epidemiology.
+1. Smith J, __Fuller D__, Stanley K, Poirier Stephens Z. Software Application Profile: ProvLog - A lightweight provenance logging and monitoring tool for data collection pipelines. American Journal of Epidemiology.
 1. Plante C, Sandhu N, Bandara T, Fuller D, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada". Canadian Journal of Public Health.
 1. Poirier Stephens Z, Firth Caislin L, Cantinotti M, Fuller D, Winters M, Kestens Y. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Journal of Urban Health. 
  1. Musa S B, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, Fuller D. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health.
