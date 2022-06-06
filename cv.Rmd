@@ -30,7 +30,7 @@ Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)
 
 Date of Birth: January 10, 1982  
 Citizenship: Canadian  
-Address: 406 Avenue E S, Saskatoon, Sk, S7M 1S3
+Address: 406 Avenue E S, Saskatoon, Sk, S7M 1S3  
 Email: dfuller@mun.ca  
 Website: [www.walkabilly.ca](http://walkabilly.ca/home/)  
 Twitter: [walkabilly](https://twitter.com/walkabilly)  
@@ -197,18 +197,20 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
+1. _Firth C L_, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, __Fuller D__. Using 2M combined Global Position System and accelerometer data points to examine were built and social environments are associated with physical activity in four Canadian cities. International Journal of Behavioral Nutrition and Physical Activity.
+1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS One. 
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Doiron D, Setton E, Brook J, Kestens Y, McCormack G R, Winters M, Shooshtari M, Azami S, __Fuller D.__ Predicting walking-to-work using Google Street View imagery and deep learning: a study of seven Canadian cities. Scientific Reports. 
+1. Flood S, Thompson J, Faulkner G, Vanderloo L, Blackett, Dolf, Latimer-Cheung A, Duggan, Di Sebastiano, Lane, Brouwers, McKenna, Chulak-Bozzer, Fuller D, Ruissen, Sturrock S, Tomasone J. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. 
 1. Smith J, __Fuller D__, Stanley K, Poirier Stephens Z. Software Application Profile: ProvLog - A lightweight provenance logging and monitoring tool for data collection pipelines. American Journal of Epidemiology.
 1. Plante C, Sandhu N, Bandara T, Fuller D, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada". Canadian Journal of Public Health.
 1. Poirier Stephens Z, Firth Caislin L, Cantinotti M, Fuller D, Winters M, Kestens Y. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Journal of Urban Health. 
  1. Musa S B, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, Fuller D. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health.
 1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, Fuller D, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Journal of Environmental Psychology
 1. _Phillips K_, Stanley K, __Fuller D__. A Theory-based Model of Cumulative Activity. Scientific Reports. 
-1. _Firth C L_, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, __Fuller D__. Using 2M combined Global Position System and accelerometer data points to examine were built and social environments are associated with physical activity in four Canadian cities. International Journal of Behavioral Nutrition and Physical Activity.
 1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, __Fuller D__. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity.
-1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS One. 
 1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
 2. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine.
 3. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine.
