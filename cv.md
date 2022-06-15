@@ -190,8 +190,8 @@ Daniel Fuller __bold__
 82.	Forbes, D. A., Bangma, J., Neilson, C., Forbes, J., **Fuller, D.**, & Furniss, S. Saskatchewan residents’ access to the Cochrane Library. Canadian Journal of Library and Information Practice and Research. 2007, 2(2).
 
 ### <span style="color:#81112c">Published Conference Papers</span>
-1.	*Alfosool, A.M.S.*, Chen, Y., **Fuller, D.** Road Importance Using Complex-Networks, Graph Reduction & Interpolation. 2020 International Conference on Computing, Networking and Communications (ICNC). Hawaii, USA. February 2020. https://doi.org/10.1109/ICNC47757.2020.9049768 
-2.	Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial 2018: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. Seattle, USA. November 2018. https://doi.org/10.1145/3274895.3274973.
+1.	*Alfosool, A.M.S.*, Chen, Y., **Fuller, D.** Road Importance Using Complex-Networks, Graph Reduction & Interpolation. 2020 International Conference on Computing, Networking and Communications (ICNC). Hawaii, USA. February 2020. [https://doi.org/10.1109/ICNC47757.2020.9049768](https://doi.org/10.1109/ICNC47757.2020.9049768).
+2.	Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial 2018: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. Seattle, USA. November 2018. [https://doi.org/10.1145/3274895.3274973](https://doi.org/10.1145/3274895.3274973).
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
@@ -201,7 +201,7 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
 1. Doiron D, Setton E, Brook J, Kestens Y, McCormack G R, Winters M, Shooshtari M, Azami S, __Fuller D.__ Predicting walking-to-work using Google Street View imagery and deep learning: a study of seven Canadian cities. Scientific Reports. 
-1. Flood S, Thompson J, Faulkner G, Vanderloo L, Blackett, Dolf, Latimer-Cheung A, Duggan, Di Sebastiano, Lane, Brouwers, McKenna, Chulak-Bozzer, Fuller D, Ruissen, Sturrock S, Tomasone J. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. 
+1. Flood S, Thompson B, Faulkner G, Vanderloo L M, Blackett B, Dolf M, Latimer-Cheung A, Duggan M, Di Sebastiano K M, Lane K N, Brouwers M C, McKenna J, Chulak-Bozzer T, Fuller D, Ruissen G R, Sturrock S L, Tomasone J R. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. JMIR Preprints. [http://preprints.jmir.org/preprint/39977](http://preprints.jmir.org/preprint/39977).
 1. Smith J, __Fuller D__, Stanley K, Poirier Stephens Z. Software Application Profile: ProvLog - A lightweight provenance logging and monitoring tool for data collection pipelines. American Journal of Epidemiology.
 1. Plante C, Sandhu N, Bandara T, Fuller D, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada". Canadian Journal of Public Health.
 1. Poirier Stephens Z, Firth Caislin L, Cantinotti M, Fuller D, Winters M, Kestens Y. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Journal of Urban Health. 
