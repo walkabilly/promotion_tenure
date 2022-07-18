@@ -106,7 +106,9 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
-1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise. Preprint available [https://bmjopensem.bmj.com/content/8/2/e001242](https://bmjopensem.bmj.com/content/8/2/e001242)
+1. _Firth C L_, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, __Fuller D__. Using combined Global Position System and accelerometer data points to examine how built environments and gentrification are associated with physical activity in four Canadian cities. 2022. International Journal of Behavioral Nutrition and Physical Activity, 19, 78. [https://doi.org/10.1186/s12966-022-01306-z](https://doi.org/10.1186/s12966-022-01306-z).
+1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS ONE 17(6): e0270098. [https://doi.org/10.1371/journal.pone.0270098](https://doi.org/10.1371/journal.pone.0270098).
+1. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise. 2022;8:e001242. [https://bmjopensem.bmj.com/content/8/2/e001242](https://bmjopensem.bmj.com/content/8/2/e001242)
 1. Mah C L. Foster K, Jago E, Hajizadeh M, Luongo G, Taylor N, __Fuller D__, Yi Y, Esan K, Lukic R, MacDonald B, Boyd H, McIver H, Khederi A, Clarke M, Wranik D, Brimblecombe J, Peeters A. Study protocol for CELLAR: population-based observational study to monitor dietary intakes and purchasing during COVID-19 in four Canadian provinces. BMJ Open. [https://pubmed.ncbi.nlm.nih.gov/35477873/](https://pubmed.ncbi.nlm.nih.gov/35477873/).
 1. _Roy A_, __Fuller D__, Kendron P, Nelson T. Assessing the role of geographic context in transportation mode detection from GPS data. Journal of Transport Geography. 2022;100:103330. [https://doi.org/10.1016/j.jtrangeo.2022.103330](https://doi.org/10.1016/j.jtrangeo.2022.103330)
 2. __Fuller D__, Ferber R, Stanley K. Why Machine Learning (ML) has failed physical activity research and how we can improve. BMJ Open Sport & Exercise. 2022;8:e001259. [https://doi.org/10.1136/bmjsem-2021-001259](https://doi.org/10.1136/bmjsem-2021-001259) 
@@ -196,9 +198,8 @@ Daniel Fuller __bold__
 2.	Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial 2018: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. Seattle, USA. November 2018. [https://doi.org/10.1145/3274895.3274973](https://doi.org/10.1145/3274895.3274973).
 
 ### <span style="color:#81112c">In Press Publications</span>
+1. Barua A, __Fuller D__, Musa S B, Jiang X. Exploring Orientation Invariant Heuristic Features with Variant Window Length of 1D-CNN-LSTM in Human Activity Recognition. Biosensors.
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-1. _Firth C L_, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, __Fuller D__. Using 2M combined Global Position System and accelerometer data points to examine were built and social environments are associated with physical activity in four Canadian cities. International Journal of Behavioral Nutrition and Physical Activity.
-1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS One. 
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -208,7 +209,7 @@ Daniel Fuller __bold__
 1. Plante C, Sandhu N, Bandara T, Fuller D, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada". Canadian Journal of Public Health.
 1. Poirier Stephens Z, Firth Caislin L, Cantinotti M, Fuller D, Winters M, Kestens Y. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Journal of Urban Health. 
  1. Musa S B, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, Fuller D. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health.
-1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, Fuller D, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Journal of Environmental Psychology
+1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, Fuller D, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Emotion, Space and Society.
 1. _Phillips K_, Stanley K, __Fuller D__. A Theory-based Model of Cumulative Activity. Scientific Reports. 
 1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, __Fuller D__. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity.
 1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
@@ -394,6 +395,8 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 
 | Role | Year | Title | Funder | Total Amount | Amount Received |
 |------|--------|--------|--------|------|------|
+|  Co-Principal Applicant  | February 2022-February 2023 | Planning Grant | CIHR | $20K | $0 |
+|  Co-Principal Applicant  | February 2022-February 2023 | Planning Grant | CIHR | $40K | $0 |
 |  Co-Principal Applicant  | February 2022-February 2028 | AI for public health (AI4PH) Training Platform | CIHR | $2.4M | $0 |
 |  Principal Applicant  | October 2021-October 2026 | INTerventions, Equity, Research and Action in Cities Team (INTERACT) | CIHR | $918,000 | $918,000 |
 |  Principal Applicant  | August 2021-August 2026 | Canada Research Chair - Renewal | CRC | $500,000 | $500,000 |
