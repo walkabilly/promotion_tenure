@@ -102,6 +102,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score++, a novel approach to transfer knowledge and predict network-based walkability scores across cities. 2022. Scientific Reports. 12:14013. [https://doi.org/10.1038/s41598-022-17713-y](https://doi.org/10.1038/s41598-022-17713-y).
 1. Barua A, __Fuller D__, Musa S B, Jiang X. Exploring Orientation Invariant Heuristic Features with Variant Window Length of 1D-CNN-LSTM in Human Activity Recognition. 2022. Biosensors, 12(7), 549. [https://doi.org/10.3390/bios12070549](https://doi.org/10.3390/bios12070549)
 1. _Firth C L_, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, __Fuller D__. Using combined Global Position System and accelerometer data points to examine how built environments and gentrification are associated with physical activity in four Canadian cities. 2022. International Journal of Behavioral Nutrition and Physical Activity, 19, 78. [https://doi.org/10.1186/s12966-022-01306-z](https://doi.org/10.1186/s12966-022-01306-z).
 1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS ONE 17(6): e0270098. [https://doi.org/10.1371/journal.pone.0270098](https://doi.org/10.1371/journal.pone.0270098).
@@ -196,7 +197,6 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score++, a novel approach to transfer knowledge and predict network-based walkability scores across cities. Scientific Reports.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
