@@ -4,9 +4,7 @@ Daniel Fuller is a Principal Investigator on the INTERventions, Research, and Ac
 
 ## CV
 
-The most updated version of my CV is Here
-- [https://github.com/walkabilly/promotion_tenure/blob/master/cv.md](https://github.com/walkabilly/promotion_tenure/blob/master/cv.md)
-- [Google Scholar](https://scholar.google.com/citations?user=pivE9zQAAAAJ&hl=en) also works
+My CV is available [here](https://github.com/walkabilly/promotion_tenure/blob/master/cv.md) but [Google Scholar](https://scholar.google.com/citations?user=pivE9zQAAAAJ&hl=en) also works
 
 ## Teaching
 - My teaching portfolio is available [here](https://github.com/walkabilly/promotion_tenure/blob/master/teaching.md)
