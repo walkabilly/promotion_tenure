@@ -1,7 +1,6 @@
 ---
 title: 'Service: Promotion and Tenure Document'
 author: "Daniel Fuller"
-date: '2017-09-12'
 output:
   html_document:
     keep_md: yes
