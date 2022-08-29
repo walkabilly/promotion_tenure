@@ -2,11 +2,11 @@
 title: 'Teaching Dossier'
 author: "Daniel Fuller"
 output:
+  word_document: default
   html_document:
     keep_md: yes
     toc: true
     toc_depth: 2
-  word_document: default
   pdf_document: default
 ---
 
@@ -60,6 +60,8 @@ I am committed to open learning and develop public websites for all of my course
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
+| Memorial University  | 2021 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
+| Memorial University  | 2021 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
 | Memorial University  | 2020 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
 |  | 2020 | Winter | HKR 6134 | Grad Seminar | Instructor |
 |  | 2019 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
@@ -158,7 +160,8 @@ I both supervise graduate students but also hire and train numerous highly quali
 
 | Name | Program | Project | Term |
 |------|--------|--------|------|
-| Nana Abekah | Computer Science | BSc | Fall 2019 Winter 2020 |
+| Liam Chislett | Engineering | BSc | Winter 2021 |
+| Kyle Shale | Engineering | BSc | Winter 2021 |
 | Utsav Koju | Computer Science | BSc | Fall 2019 |
 | Sudeny Hector | Human Kinetics and Recreation | Undergraduate Honours | 2018 |
 | Harshal Deshpande  | Human Kinetics and Recreation | BSc | Fall 2018 Winter 2019 |
@@ -173,14 +176,15 @@ I both supervise graduate students but also hire and train numerous highly quali
 
 ### <span style="color:#81112c">Graduate Student Supervision</span>  
 
-* 2020: Ryan Ellis. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2020: Summayah Mussa. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2021: Rachel Cowitz. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+* 2020: Ryan Ellis. Changes in Step Count Accuracy of Wearable Devices with the Continuous Development of New Technology. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+* 2020: Summayah Mussa. Comparing Accelerometer Processing Metrics for Physical Activity Classification Accuracy using Machine Learning Methods. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2020: Asia Holloway. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2019: Rebecca Maher. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2019: Jonathan Slaney. _Thesis title TBD_. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2019: SeyedJavad KhataeiPour. Superior Performance of Machine Learning Algorithms in Metabolic Equivalent (MET) Prediction Using Cell Phone Accelerometer Data. MSc Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2018: Ali Alfosool.  Road Importance Using Complex-Networks, Graph Reduction & Interpolation. PhD Program. Committee Member. Department of Computer Science. Memorial University. 
+* 2019: Rebecca Maher. Exercise interventions and fertility outcomes for women experiencing obesity and infertiliy: a narrative review. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+* 2019: Jonathan Slaney. Examining the association between cycling infrastructure exposure and physical activity: A Natural experiment study in Victoria, Canada. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2019: SeyedJavad KhataeiPour. Superior Performance of Machine Learning Algorithms in Metabolic Equivalent (MET) Prediction Using Cell Phone Accelerometer Data. MSc Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2018: Machel Rayner. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+* 2018: Ali Alfosool.  Road Importance Using Complex-Networks, Graph Reduction & Interpolation. PhD Program. Committee Member. Department of Computer Science. Memorial University. 
 * 2017: Kassia Orychock. Association between BMI and WalkScore, Dining and Drinking Score and Grocery Score in a multi-city sample of adults: A cross sectional analysis. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Bo Simango. Improving the accuracy of activity intensity classification using machine learning and commercial wearable device data. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 * 2017: Melissa Tobin. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University
@@ -211,6 +215,8 @@ I both supervise graduate students but also hire and train numerous highly quali
 
 | Name | Program  | Department | Institution | Time Frame |
 |------|---------|------------|-------------| --------- |
+| Machel Rayner | MPH | Community Health and Humanities | Memorial University | 2017 - ongoing
+| Nana Abeka | BSc Student | Computer Science | Memorial University | 2018 - ongoing
 | Megan Devries | MSc Student | Political Science | Memorial University | 2019
 | Javad Rahimipour Anaraki | PhD Student | Computer Science | Memorial University | 2017-2019
 | Wei Liu | PhD Student | Geography | Memorial University | 2019
@@ -251,8 +257,9 @@ The course will introduce students to the measurement of physical activity using
 
 I have participated in numerous professional development activities in teaching and learning over the course of my career. Foundational to my teaching philosophy and approach were three courses I participated in 2007 and 2008 during my MSc degree. These courses covered topics such as philosophy of science (Graduate Studies and Research 987: Science, Scientists, and Science-Societal Interactions: An introduction to the dynamics of science), teaching and learning (What the best college teachers do reading group), and evidence based teaching (Making Teaching Visible: Practical principles for peer review of teaching). 
 
-In 2019 and 2020 I am participating in a series of teaching and learning courses offered by the  Centre for Innovation in Teaching and Learning at Memorial University. These courses focus on practical guidance for teaching improvement, documenting teaching effectiveness, and getting better feedback from students. 
+In 2019-2021 I am participating in a series of teaching and learning courses offered by the  Centre for Innovation in Teaching and Learning at Memorial University. These courses focus on practical guidance for teaching improvement, documenting teaching effectiveness, and getting better feedback from students. 
 
+* 2021:	Ungrading Community of Practice. Centre for Innovation in Teaching and Learning, Memorial University. 
 * 2019:	An Introduction to Documenting Teaching Activity and Effectiveness. Centre for Innovation in Teaching and Learning, Memorial University. 
 * 2017:	Transformational Teaching and Learning Day. Centre for Innovation in Teaching and Learning, Memorial University. 
 * 2014:	Teaching Improvement Project System (TIPS) Course. College of Medicine, University of Saskatchewan.
@@ -288,7 +295,7 @@ Perhaps the strongest evidence related to my teaching effectiveness comes in the
 
 ## <span style="color:#81112c">Course Evaluations</span>
 
-The course evaluation questionnaire is Memorial Universities standardized course evaluation questionnaire. I include the CEQ for all of my course where they are available. Some courses had too few responses and results were not made available (see Appendix). 
+The course evaluation questionnaire is Memorial Universities standardized course evaluation questionnaire. I include the CEQ for all of my course where they are available. Some courses had too few responses and results were not made available (see Appendix). In Winter 2020, due to the COVID-19 Pandemic, CEQs were put on hold. As a result, I do not submit CEQs past winter 2020. 
 
 Additionally, I have conducted my own course evaluations for HKR 3400, HKR 6134, HKR 4600, and HKR 6130. The data are from 13 students in HKR 3400 (out of a possible 62 students), 20 students in HKR 6134 (out of a possible 35), 8 students in HKR 4600 (out of a possible 22), and 4 students in HKR 6130 (out of a possible 12). The questions posted were 
     1. The instructor used challenging questions   
