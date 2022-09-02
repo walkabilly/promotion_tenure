@@ -200,6 +200,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. _Maher R A_, Wadden K P, __Fuller D__, Basset F, McGowan E. A Narrative Review of Exercise Interventions for Women Experiencing Obesity and Infertility. Reproduction. 
 1. Laberee K, Nelson T, Boss D, Ferster C, Hosford K, __Fuller D__, Cloutier M-S, and Winters M. WalkRollMap.org: Crowdsourcing barriers to mobility. Frontiers in Public Health. 
 1.  Koohsari M J, McCormack G R, Nakaya T, Yasunaga A, __Fuller D__, Nagai Y, Oka K. The Metaverse, the built environment, and public health: Opportunities and uncertainties. The Lancet Global Health
 1. Doiron D, Setton E, Brook J, Kestens Y, McCormack G R, Winters M, Shooshtari M, Azami S, __Fuller D.__ Predicting walking-to-work using Google Street View imagery and deep learning: a study of seven Canadian cities. Scientific Reports. 
