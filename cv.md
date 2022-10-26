@@ -100,6 +100,8 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, __Fuller D__. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity. 19, 132. 2022. [https://doi.org/10.1186/s12966-022-01353-6](https://doi.org/10.1186/s12966-022-01353-6).
+1. _Phillips K_, Stanley K, __Fuller D__. A Theory-based Model of Cumulative Activity. Scientific Reports. 12, 15635. 2022. [https://doi.org/10.1038/s41598-022-18982-3](https://doi.org/10.1038/s41598-022-18982-3).
 1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score++, a novel approach to transfer knowledge and predict network-based walkability scores across cities. 2022. Scientific Reports. 12:14013. [https://doi.org/10.1038/s41598-022-17713-y](https://doi.org/10.1038/s41598-022-17713-y).
 1. Barua A, __Fuller D__, Musa S B, Jiang X. Exploring Orientation Invariant Heuristic Features with Variant Window Length of 1D-CNN-LSTM in Human Activity Recognition. 2022. Biosensors, 12(7), 549. [https://doi.org/10.3390/bios12070549](https://doi.org/10.3390/bios12070549)
 1. _Firth C L_, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, __Fuller D__. Using combined Global Position System and accelerometer data points to examine how built environments and gentrification are associated with physical activity in four Canadian cities. 2022. International Journal of Behavioral Nutrition and Physical Activity, 19, 78. [https://doi.org/10.1186/s12966-022-01306-z](https://doi.org/10.1186/s12966-022-01306-z).
@@ -196,21 +198,21 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
 1. Doiron D, Setton E, Brook J, Kestens Y, McCormack G R, Winters M, Shooshtari M, Azami S, __Fuller D.__ Predicting walking-to-work using Google Street View imagery and deep learning in seven Canadian cities. Scientific Reports. 
+1. _Musa S B_, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, __Fuller D__. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Theirry B, Stanley K, Kestens Y, Winters M, Fuller D. Comparing location data from smartphone and dedicated GPS devices: Implications for epidemiological research. American Journal of Epidemiology. 
+1. Youngbloom A J, Thierry B, __Fuller D__, Kestens Y, Winters M, Hirsch J A, Micheal Y L, Firth C L. Gentrification, perceptions of neighborhood change, and mental health in Montréal, Québec. Health & Place. 
 1. _Maher R A_, Wadden K P, __Fuller D__, Basset F, McGowan E. A Narrative Review of Exercise Interventions for Women Experiencing Obesity and Infertility. Reproduction. 
 1. Laberee K, Nelson T, Boss D, Ferster C, Hosford K, __Fuller D__, Cloutier M-S, and Winters M. WalkRollMap.org: Crowdsourcing barriers to mobility. Frontiers in Public Health. 
 1.  Koohsari M J, McCormack G R, Nakaya T, Yasunaga A, __Fuller D__, Nagai Y, Oka K. The Metaverse, the built environment, and public health: Opportunities and uncertainties. The Lancet Global Health
 1. Flood S, Thompson B, Faulkner G, Vanderloo L M, Blackett B, Dolf M, Latimer-Cheung A, Duggan M, Di Sebastiano K M, Lane K N, Brouwers M C, McKenna J, Chulak-Bozzer T, __Fuller D__, Ruissen G R, Sturrock S L, Tomasone J R. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. JMIR Preprints. [http://preprints.jmir.org/preprint/39977](http://preprints.jmir.org/preprint/39977).
 1. Smith J, __Fuller D__, Stanley K, Poirier Stephens Z. Software Application Profile: ProvLog - A lightweight provenance logging and monitoring tool for data collection pipelines. American Journal of Epidemiology.
 1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
-1. Plante C, Sandhu N, Bandara T, __Fuller D__, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada". Canadian Journal of Public Health.
+1. Plante C, Sandhu N, Bandara T, __Fuller D__, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada. Canadian Journal of Public Health.
 1. Poirier Stephens Z, Firth Caislin L, Cantinotti M, __Fuller D__, Winters M, Kestens Y. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Journal of Urban Health. 
- 1. _Musa S B_, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, __Fuller D__. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health.
 1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, __Fuller D__, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Emotion, Space and Society.
-1. _Phillips K_, Stanley K, __Fuller D__. A Theory-based Model of Cumulative Activity. Scientific Reports. 
-1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, __Fuller D__. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity.
 2. _Angarita-Fonseca A_, Trask C, Pahwa P, __Fuller D__, Bath B. Physical activity and chronic back disorders: A repeated measures analysis of a 16-year prospective cohort study. Preventive Medicine.
 3. _Angarita-Fonseca A_, Trask C, Pahwa P, Herman H, __Fuller D__, Bath B. Is meeting Canadian physical activity guidelines associated with Chronic Back Disorders? A comparison between self-reported and accelerometer-measured physical activity. Spine.
 4. Anstruther S, Valle de Trejo M, Engler-Stringer R, Fuller D, Leis A, Feng C, Vatanparast H. Parental Influence in Healthy Eating Interventions for Preschool Aged Children: An Umbrella Review. Advances in Nutrition. 
