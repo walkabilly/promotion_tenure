@@ -102,6 +102,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Doiron D, Setton E, Brook J, Kestens Y, McCormack G R, Winters M, Shooshtari M, Azami S, __Fuller D.__ Predicting walking-to-work using Google Street View imagery and deep learning in seven Canadian cities. Scientific Reports. 18380 (2022). [https://doi.org/10.1038/s41598-022-22630-1](https://doi.org/10.1038/s41598-022-22630-1).
 1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, __Fuller D__. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity. 19, 132. 2022. [https://doi.org/10.1186/s12966-022-01353-6](https://doi.org/10.1186/s12966-022-01353-6).
 1. _Phillips K_, Stanley K, __Fuller D__. A Theory-based Model of Cumulative Activity. Scientific Reports. 12, 15635. 2022. [https://doi.org/10.1038/s41598-022-18982-3](https://doi.org/10.1038/s41598-022-18982-3).
 1. _Afosool A_, __Fuller D__, Chen Y. ALF-Score++, a novel approach to transfer knowledge and predict network-based walkability scores across cities. 2022. Scientific Reports. 12:14013. [https://doi.org/10.1038/s41598-022-17713-y](https://doi.org/10.1038/s41598-022-17713-y).
@@ -199,7 +200,6 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-1. Doiron D, Setton E, Brook J, Kestens Y, McCormack G R, Winters M, Shooshtari M, Azami S, __Fuller D.__ Predicting walking-to-work using Google Street View imagery and deep learning in seven Canadian cities. Scientific Reports. 
 1. _Musa S B_, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, __Fuller D__. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health.
 1. Plante C, Sandhu N, Bandara T, __Fuller D__, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada. Canadian Journal of Public Health.
 
