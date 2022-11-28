@@ -635,7 +635,6 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 1. Timothy Gower. May 28, 2021. Wearable Health Devices: Is There One in Your Future? [https://www.webmd.com/a-to-z-guides/features/wearable-health-devices](https://www.webmd.com/a-to-z-guides/features/wearable-health-devices)
 1. Asia Holloway. August 21, 2020. Investing in a Walk-able City Pays for Itself. [https://theindependent.ca/2020/08/21/letter-investing-in-a-walk-able-city-pays-for-itself/](https://theindependent.ca/2020/08/21/letter-investing-in-a-walk-able-city-pays-for-itself/)
 1. VOCM News, August 25, 2020. [https://soundcloud.com/vocm/asia-holloway-masters-of-a-public-health-student-with-the-mun-beap-lab-health-economic-benefits-of-walking-in-st-johns?in=vocm/sets/vocm-morning-show](https://soundcloud.com/vocm/asia-holloway-masters-of-a-public-health-student-with-the-mun-beap-lab-health-economic-benefits-of-walking-in-st-johns?in=vocm/sets/vocm-morning-show)
-1. VOCM News, August 25, 2020. [Walking in St. John’s Would Help Economy, says MUN Study](Walking in St. John’s Would Help Economy, says MUN Study)
 1.  Mark Quinn, August 26, 2020. Making St. John's more walkable worth more than $100M over 10 years, say MUN researchers. [https://www.cbc.ca/news/canada/newfoundland-labrador/value-of-walking-1.5698911?__vfz=medium%3Dsharebar](https://www.cbc.ca/news/canada/newfoundland-labrador/value-of-walking-1.5698911?__vfz=medium%3Dsharebar)
 1. CBC National Syndication. Obesity in Canada. February 13, 2020. 
     * CBC Cape Breton - Steve Sutherland 
