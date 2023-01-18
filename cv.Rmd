@@ -208,6 +208,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Sturrock S, Gesink D, Moineddin R, Woodruff S, Kestens Y, Winters M, __Fuller D__. Significant reductions in physical activity among Canadian adults more than 6 months into the COVID-19 pandemic: Results from the INTERACT study. American Journal of Epidemiology.
 1. Theirry B, Stanley K, Kestens Y, Winters M, Fuller D. Comparing location data from smartphone and dedicated GPS devices: Implications for epidemiological research. American Journal of Epidemiology. 
 2. Youngbloom A J, Thierry B, __Fuller D__, Kestens Y, Winters M, Hirsch J A, Micheal Y L, Firth C L. Gentrification, perceptions of neighborhood change, and mental health in Montréal, Québec. Journal of Behavioral Medicine. 
 3. _Maher R A_, Wadden K P, __Fuller D__, Basset F, McGowan E. A Narrative Review of Exercise Interventions for Women Experiencing Obesity and Infertility. Reproduction. 
