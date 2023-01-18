@@ -102,6 +102,8 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, __Fuller D__, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Emotion, Space and Society. 2023, 26, 100937. [https://doi.org/10.1016/j.emospa.2022.100937](https://doi.org/10.1016/j.emospa.2022.100937)
+1. _Musa S B_, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, __Fuller D__. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health. [https://doi.org/10.1123/jpah.2022-0160](https://doi.org/10.1123/jpah.2022-0160)
 1. Doiron D, Setton E, Brook J, Kestens Y, McCormack G R, Winters M, Shooshtari M, Azami S, __Fuller D.__ Predicting walking-to-work using Google Street View imagery and deep learning in seven Canadian cities. Scientific Reports. 18380 (2022). [https://doi.org/10.1038/s41598-022-22630-1](https://doi.org/10.1038/s41598-022-22630-1).
 1. Auchincloss A H, Michael Y L, Niamatullah A, Li S, Melly S J, Pharis M L, __Fuller D__. Changes in physical activity after joining a bikeshare program: a cohort of new bikeshare users. International Journal of Behavioral Nutrition and Physical Activity. 19, 132. 2022. [https://doi.org/10.1186/s12966-022-01353-6](https://doi.org/10.1186/s12966-022-01353-6).
 1. _Phillips K_, Stanley K, __Fuller D__. A Theory-based Model of Cumulative Activity. Scientific Reports. 12, 15635. 2022. [https://doi.org/10.1038/s41598-022-18982-3](https://doi.org/10.1038/s41598-022-18982-3).
@@ -199,10 +201,10 @@ Daniel Fuller __bold__
 2.	Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial 2018: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. Seattle, USA. November 2018. [https://doi.org/10.1145/3274895.3274973](https://doi.org/10.1145/3274895.3274973).
 
 ### <span style="color:#81112c">In Press Publications</span>
+1. Koohsari M J, McCormack G R, Nakaya T, Yasunaga A, __Fuller D__, Nagai Y, Oka K. The Metaverse, the built environment, and public health: Opportunities and uncertainties. JMIR. 
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-1. _Musa S B_, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, __Fuller D__. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health.
+6. Flood S, Thompson B, Faulkner G, Vanderloo L M, Blackett B, Dolf M, Latimer-Cheung A, Duggan M, Di Sebastiano K M, Lane K N, Brouwers M C, McKenna J, Chulak-Bozzer T, __Fuller D__, Ruissen G R, Sturrock S L, Tomasone J R. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. JMIR Preprints. [http://preprints.jmir.org/preprint/39977](http://preprints.jmir.org/preprint/39977).
 1. Plante C, Sandhu N, Bandara T, __Fuller D__, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada. Canadian Journal of Public Health.
-1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, __Fuller D__, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Emotion, Space and Society.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -210,8 +212,6 @@ Daniel Fuller __bold__
 2. Youngbloom A J, Thierry B, __Fuller D__, Kestens Y, Winters M, Hirsch J A, Micheal Y L, Firth C L. Gentrification, perceptions of neighborhood change, and mental health in Montréal, Québec. Journal of Behavioral Medicine. 
 3. _Maher R A_, Wadden K P, __Fuller D__, Basset F, McGowan E. A Narrative Review of Exercise Interventions for Women Experiencing Obesity and Infertility. Reproduction. 
 4. Laberee K, Nelson T, Boss D, Ferster C, Hosford K, __Fuller D__, Cloutier M-S, and Winters M. WalkRollMap.org: Crowdsourcing barriers to mobility. Frontiers in Public Health. 
-5.  Koohsari M J, McCormack G R, Nakaya T, Yasunaga A, __Fuller D__, Nagai Y, Oka K. The Metaverse, the built environment, and public health: Opportunities and uncertainties. The Lancet Global Health
-6. Flood S, Thompson B, Faulkner G, Vanderloo L M, Blackett B, Dolf M, Latimer-Cheung A, Duggan M, Di Sebastiano K M, Lane K N, Brouwers M C, McKenna J, Chulak-Bozzer T, __Fuller D__, Ruissen G R, Sturrock S L, Tomasone J R. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. JMIR Preprints. [http://preprints.jmir.org/preprint/39977](http://preprints.jmir.org/preprint/39977).
 7. Smith J, __Fuller D__, Stanley K, Poirier Stephens Z. Software Application Profile: ProvLog - A lightweight provenance logging and monitoring tool for data collection pipelines. BMC Medical Informatics and Decision Making.
 8. _Afosool A_, __Fuller D__, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
 9. Poirier Stephens Z, Firth Caislin L, Cantinotti M, __Fuller D__, Winters M, Kestens Y. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Journal of Urban Health. 
