@@ -102,6 +102,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Koohsari M J, McCormack G R, Nakaya T, Yasunaga A, __Fuller D__, Nagai Y, Oka K. The Metaverse, the built environment, and public health: Opportunities and uncertainties. JMIR. 2023. 25:e43549. [https://doi.org/10.2196/43549](https://doi.org/10.2196/43549).
 1. Hernández-Torres R, Alaniz-Cantu E, Bautista Rojas MV, Lara D, Merritt S, DeJesus E, D’Abundo ML, McIntosh S, Ossip DJ, Fuller D, Rivera MP, Cupertino AP, Cartujano-Barrera F (In Press). Understanding the perspectives of Latino adults who smoke on physical activity: A qualitative study. International Journal of Environmental Research and Public Health. 2023, 20(4), 3128; [https://doi.org/10.3390/ijerph20043128](https://doi.org/10.3390/ijerph20043128). 
 1. Plante C, Sandhu N, Bandara T, __Fuller D__, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada. Canadian Journal of Public Health. 2023. 114, 5–9. [https://doi.org/10.17269/s41997-022-00714-9](https://doi.org/10.17269/s41997-022-00714-9) 
 1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, __Fuller D__, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Emotion, Space and Society. 2023, 26, 100937. [https://doi.org/10.1016/j.emospa.2022.100937](https://doi.org/10.1016/j.emospa.2022.100937)
@@ -203,7 +204,6 @@ Daniel Fuller __bold__
 2.	Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial 2018: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. Seattle, USA. November 2018. [https://doi.org/10.1145/3274895.3274973](https://doi.org/10.1145/3274895.3274973).
 
 ### <span style="color:#81112c">In Press Publications</span>
-1. Koohsari M J, McCormack G R, Nakaya T, Yasunaga A, __Fuller D__, Nagai Y, Oka K. The Metaverse, the built environment, and public health: Opportunities and uncertainties. JMIR. 
 2. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
 4. Flood S, Thompson B, Faulkner G, Vanderloo L M, Blackett B, Dolf M, Latimer-Cheung A, Duggan M, Di Sebastiano K M, Lane K N, Brouwers M C, McKenna J, Chulak-Bozzer T, __Fuller D__, Ruissen G R, Sturrock S L, Tomasone J R. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. JMIR Preprints. [http://preprints.jmir.org/preprint/39977](http://preprints.jmir.org/preprint/39977).
 
