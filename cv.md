@@ -234,6 +234,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Published Abstracts</span>
 
+1. Theirry B, Stanley K, Kestens Y, Winters M, __Fuller D__. Comparing location data from smartphone and dedicated GPS devices: Implications for epidemiological research. Proceedings of the 8th conference on Spatial Knowledge and Information Canada. [https://osf.io/n6du5/](https://osf.io/n6du5/)
 1.	**Fuller, D.**, Gauvin, L., Kestens, Y. Sociodemographic correlates of public bicycle share program use: An intercept survey of users in Montreal, Canada. Journal of Science and Medicine in Sport. 2012, 15(6), S87.
 1. **Fuller, D.**, Gauvin, L., Kestens, Y. Examining the spatial distribution and relationship between support for policies aimed at active living in transportation and transportation behavior. Annals of Behavioral Medicine. 2012, 43(S1), S153.
 1. **Fuller, D.**, Gauvin, L., Kestens, Y., Morency, P., Daniel, M., & Drouin, L. Validity and Reliability of a Measure of Favorability to Active Living Friendly Policies. Annals of Behavioral Medicine. 2012, 39(S1), S62.
