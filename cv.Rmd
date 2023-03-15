@@ -1,7 +1,6 @@
 ---
 title: "Curriculum vitae"
 author: "Daniel Fuller"
-date: '2020-08-03'
 output:
   html_document: 
     keep_md: yes
@@ -102,8 +101,10 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Laberee K, Nelson T, Boss D, Ferster C, Hosford K, __Fuller D__, Cloutier M-S, and Winters M. WalkRollMap.org: Crowdsourcing barriers to mobility. Frontiers in Rehabilitation Science. 2023. Volume 4. [ https://doi.org/10.3389/fresc.2023.1023582]( https://doi.org/10.3389/fresc.2023.1023582)
+1. Flood S, Thompson B, Faulkner G, Vanderloo L M, Blackett B, Dolf M, Latimer-Cheung A, Duggan M, Di Sebastiano K M, Lane K N, Brouwers M C, McKenna J, Chulak-Bozzer T, __Fuller D__, Ruissen G R, Sturrock S L, Tomasone J R. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. 2023. 12:e39977. JMIR Research Protocols. [https://doi.org/10.2196/39977](https://doi.org/10.2196/39977)
 1. Koohsari M J, McCormack G R, Nakaya T, Yasunaga A, __Fuller D__, Nagai Y, Oka K. The Metaverse, the built environment, and public health: Opportunities and uncertainties. JMIR. 2023. 25:e43549. [https://doi.org/10.2196/43549](https://doi.org/10.2196/43549).
-1. Hernández-Torres R, Alaniz-Cantu E, Bautista Rojas MV, Lara D, Merritt S, DeJesus E, D’Abundo ML, McIntosh S, Ossip DJ, Fuller D, Rivera MP, Cupertino AP, Cartujano-Barrera F (In Press). Understanding the perspectives of Latino adults who smoke on physical activity: A qualitative study. International Journal of Environmental Research and Public Health. 2023, 20(4), 3128; [https://doi.org/10.3390/ijerph20043128](https://doi.org/10.3390/ijerph20043128). 
+1. Hernández-Torres R, Alaniz-Cantu E, Bautista Rojas MV, Lara D, Merritt S, DeJesus E, D’Abundo ML, McIntosh S, Ossip DJ, Fuller D, Rivera MP, Cupertino AP, Cartujano-Barrera F. Understanding the perspectives of Latino adults who smoke on physical activity: A qualitative study. International Journal of Environmental Research and Public Health. 2023, 20(4), 3128; [https://doi.org/10.3390/ijerph20043128](https://doi.org/10.3390/ijerph20043128). 
 1. Plante C, Sandhu N, Bandara T, __Fuller D__, Neudorf C. Defining the “Local Public Health Unit” for Public Health Systems and Services Research in Canada. Canadian Journal of Public Health. 2023. 114, 5–9. [https://doi.org/10.17269/s41997-022-00714-9](https://doi.org/10.17269/s41997-022-00714-9) 
 1. Karmann J, Najjar M, Ottoni C, Shareck M, Lord S, Winters M, __Fuller D__, Kestens Y. “They didn’t have to build that much”: A qualitative study on the emotional response to urban change in the Montreal context. Emotion, Space and Society. 2023, 26, 100937. [https://doi.org/10.1016/j.emospa.2022.100937](https://doi.org/10.1016/j.emospa.2022.100937)
 1. _Musa S B_, Ellis R, Chafe B, Sturrock S L, Maher R A, Cullen K, __Fuller D__. Wearable device validity in measuring steps, energy expenditure, and heart rate across age, gender, and body mass index: Data analysis from a systematic review. Journal of Physical Activity and Health. 2023. [https://doi.org/10.1123/jpah.2022-0160](https://doi.org/10.1123/jpah.2022-0160)
@@ -204,8 +205,7 @@ Daniel Fuller __bold__
 2.	Zhang R, Stanley K, Bell S, **Fuller D.** A Feature Set for Spatial Behavior Characterization. SIG Spatial 2018: Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. Seattle, USA. November 2018. [https://doi.org/10.1145/3274895.3274973](https://doi.org/10.1145/3274895.3274973).
 
 ### <span style="color:#81112c">In Press Publications</span>
-2. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
-4. Flood S, Thompson B, Faulkner G, Vanderloo L M, Blackett B, Dolf M, Latimer-Cheung A, Duggan M, Di Sebastiano K M, Lane K N, Brouwers M C, McKenna J, Chulak-Bozzer T, __Fuller D__, Ruissen G R, Sturrock S L, Tomasone J R. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. JMIR Preprints. [http://preprints.jmir.org/preprint/39977](http://preprints.jmir.org/preprint/39977).
+1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -214,7 +214,6 @@ Daniel Fuller __bold__
 1. Theirry B, Stanley K, Kestens Y, Winters M, Fuller D. Comparing location data from smartphone and dedicated GPS devices: Implications for epidemiological research. American Journal of Epidemiology. 
 2. Youngbloom A J, Thierry B, __Fuller D__, Kestens Y, Winters M, Hirsch J A, Micheal Y L, Firth C L. Gentrification, perceptions of neighborhood change, and mental health in Montréal, Québec. Journal of Behavioral Medicine. 
 3. _Maher R A_, Wadden K P, __Fuller D__, Basset F, McGowan E. A Narrative Review of Exercise Interventions for Women Experiencing Obesity and Infertility. Reproduction. 
-4. Laberee K, Nelson T, Boss D, Ferster C, Hosford K, __Fuller D__, Cloutier M-S, and Winters M. WalkRollMap.org: Crowdsourcing barriers to mobility. Frontiers in Public Health. 
 7. Smith J, __Fuller D__, Stanley K, Poirier Stephens Z. Software Application Profile: ProvLog - A lightweight provenance logging and monitoring tool for data collection pipelines. BMC Medical Informatics and Decision Making.
 8. _Afosool A_, __Fuller D__, Chen Y. ALF-Score+ - Personalization of a Predictive Network-Based Walkability Scoring System. Transactions on Spatial Algorithms and Systems.
 9. Poirier Stephens Z, Firth Caislin L, Cantinotti M, __Fuller D__, Winters M, Kestens Y. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Journal of Urban Health. 
@@ -400,6 +399,7 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 
 | Role | Year | Title | Funder | Total Amount | Amount Received |
 |------|--------|--------|--------|------|------|
+|  Co-Principal Applicant  | November 2022-November 2028 | CapaCITY Implementation Science Team Grant for Healthy Cities | CIHR | $3M | $400,000 |
 |  Co-Principal Applicant  | February 2022-February 2023 | Planning Grant | CIHR | $20K | $0 |
 |  Co-Principal Applicant  | February 2022-February 2023 | Planning Grant | CIHR | $40K | $0 |
 |  Co-Principal Applicant  | February 2022-February 2028 | AI for public health (AI4PH) Training Platform | CIHR | $2.4M | $0 |
@@ -464,6 +464,8 @@ None
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
+| University of Saskatchewan  | 2023 | Winter | CHEP 801 | Epidemiology II | Co-Instructor |
+| University of Saskatchewan  | 2022 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
 | University of Saskatchewan  | 2022 | Winter | CHEP 898 | Advanced Epidemiology | Co-Instructor |
 | University of Saskatchewan  | 2022 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-Instructor |
 | Memorial University  | 2020 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
