@@ -382,6 +382,7 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 
 ## <span style="color:#81112c">Hosted Workshops</span>
 
+1. "Saskatchewan Integrated Epidemiology face to face meeting" workshop. Co-coordination role with Dr. Maureen Anderson and Alyssa Green. March 23, 2023.
 1. "How to write a conceptual paper" workshop. Attended by 9 students from Universite de Montreal. November 4, 2019.
 1. "The Future of Walkability Measurement in Canada" workshop. Attended by 18 researchers from across Canada. November 16 and 17, 2017
 2. "Itinerum Smartphone App" workshop with Dr. Zachary Patterson from Concordia University. Approximately 20 students attended. October 20th 2017. 
@@ -425,7 +426,9 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 | | | | Total | $15,491,888  | $2,667,894  |
 
 ### <span style="color:#81112c">Grants Under Review</span>
-None
+
+1. **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Z Weston, Stanley K. (2023) A working group for equity, measurement, and methods for commercial wearable devices among children and youth. $CAD 10,000.
+2. __Fuller D.__ (2023) CapaCITY for interdisciplinary teaching in implementation science using SoTL principles. USask Scholarship of Teaching and Learning Grant. $CAD 10,000.
 
 ### <span style="color:#81112c">Unsuccessful Grants</span>
 1. **Fuller D**, Arbour-Nicitopoulos K, Basset F, Kestens Y, Winters M, Martin Ginis K, Voss C, Schaffel A, Stanley K. (2018) PAS App – A system to scale up physical activity and sedentary behaviour surveillance among diverse populations in Canada. CIHR Project Grant. $CAD 950,000. 
@@ -496,6 +499,16 @@ None
 
 | Course | Instructor | Lecture | Year | Institution | 
 |--------|------------|---------|------|-------------|
+| PHPM | Dr. Jasmine Hasselback | Study Design | 2023 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Measures of Association | 2023 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Regression Analyses | 2023 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Geospatial Epidemiology | 2023 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Biostatistics Review | 2023 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Study Design | 2022 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Measures of Association | 2022 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Regression Analyses | 2022 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Geospatial Epidemiology | 2022 | University of Saskatchewan | 
+| PHPM | Dr. Jasmine Hasselback | Biostatistics Review | 2022 | University of Saskatchewan | 
 | HKR 2000 | Dr. Kevin Power | Big data and Physical Activity | 2019 | Memorial University | 
 | HKR 2000 | Dr. Kevin Power | Physical Activity Epidemiology | 2018 | Memorial University | 
 | HKR 2000 | Dr. Kevin Power | Population Approach to Physical Activity | 2017 | Memorial University | 
