@@ -424,7 +424,7 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 | Principal Investigator | August 2016 to August 2018 | Newfoundland Research and Development Corporation CFI Leverage Grant | RDC | $100,000 | $100,000 |
 | Co-Applicant | August 2016 to August 2021 | Impacts of City-Wide Bicycle Infrastructure Investment on Population Health & Health Equity | CIHR | $428,400 | $0 |
 | Co-Applicant | December 2017 to December 2021 | Multisectoral Urban Systems for health and Equity in Canadian cities | CIHR | $2 Million | $0 |
-| | | | Total | $15,491,888  | $2,667,894  |
+| | | | Total | $20,951,888  | $3,067,894 |
 
 ### <span style="color:#81112c">Grants Under Review</span>
 
