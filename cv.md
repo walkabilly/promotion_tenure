@@ -208,6 +208,8 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. _Musa S B_, Rocky A, Stanley K, Basset F, Mamiya H, Mongeon K, __Fuller D.__  Comparing accelerometer processing metrics and hyper-parameter optimization for physical activity classification accuracy using machine learning methods. Journal for the Measurement of Physical Behaviour.
+1. Poirier Stephens Z, Firth L C, Cantinotti M, __Fuller D__, Winters M, Kestens Y. 2023. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Canadian Journal of Public Health. 
 1. Vatanparast H, Anstruther S M, Feng C X, __Fuller D__, Engler-Stringer R, Leis A, Osgood N D. The Role of Sociodemographic Factors on Nutrient Density of Food Consumed by 3-5-year-old Children from the Healthy Start/Départ Santé Intervention: A Randomized Controlled Trial. 2023. American Journal of Clinical Nutrition.
 1. __Fuller D__, Shareck M, Sersli S, Priebe C, Alfosool A, Lang J J, Wolfe Phillips E. Common measures of green and blue space for built environment, health equity and intervention research: a scoping review. 2023. Cities & Health.
 2. Shareck M, __Fuller D__, Sersli S, Priebe C, Alfosool A, Lang J J, Wolfe Phillips E. Measuring walkability and bikeability for health equity and intervention research: a scoping review. 2023. Cities & Health.
