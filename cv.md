@@ -99,6 +99,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _Kiani B_, Mamiya H, Thierry B, Firth C, __Fuller D__, Winters M, Kestens Y. The temporal sequence between gentrification and cycling infrastructure expansions in Montreal, Canada. Habitat International. 2023. 139, 102899. [https://doi-org.cyber.usask.ca/10.1016/j.habitatint.2023.102899](https://doi-org.cyber.usask.ca/10.1016/j.habitatint.2023.102899).
 1. Youngbloom A J, Thierry B, __Fuller D__, Kestens Y, Winters M, Hirsch J A, Micheal Y L, Firth C L. Gentrification, perceptions of neighborhood change, and mental health in Montréal, Québec. 2023. SSM Population Health. Volume 22, 101406.[https://doi.org/10.1016/j.ssmph.2023.101406](https://doi.org/10.1016/j.ssmph.2023.101406).
 1. Laberee K, Nelson T, Boss D, Ferster C, Hosford K, __Fuller D__, Cloutier M-S, and Winters M. WalkRollMap.org: Crowdsourcing barriers to mobility. Frontiers in Rehabilitation Science. 2023. Volume 4. [ https://doi.org/10.3389/fresc.2023.1023582]( https://doi.org/10.3389/fresc.2023.1023582)
 2. Flood S, Thompson B, Faulkner G, Vanderloo L M, Blackett B, Dolf M, Latimer-Cheung A, Duggan M, Di Sebastiano K M, Lane K N, Brouwers M C, McKenna J, Chulak-Bozzer T, __Fuller D__, Ruissen G R, Sturrock S L, Tomasone J R. Targeting Post-Secondary Students’ Movement Behaviours via the ParticipACTION App: Protocol for Using Intervention Mapping to Design and Implement an App-Based Intervention based on the 24-Hour Movement Guidelines. 2023. 12:e39977. JMIR Research Protocols. [https://doi.org/10.2196/39977](https://doi.org/10.2196/39977)
@@ -205,6 +206,7 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
 1. Theirry B, Stanley K, Kestens Y, Winters M, __Fuller D.__ Comparing location data from smartphone and dedicated GPS devices: Implications for epidemiological research. American Journal of Epidemiology. 
+1. _Kiani B_, Poirier-Stephens Z, Thierry B, Firth C, __Fuller D__, Winters M, Kestens Y. Gentrification, Neighborhood Socioeconomic Factors and Urban Vegetation Inequities: A Study of Greenspace and Tree Canopy Increases in Montreal, Canada. 2023. Landscape and Urban Planning.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -407,7 +409,9 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 
 | Role | Year | Title | Funder | Total Amount | Amount Received |
 |------|--------|--------|--------|------|------|
-|  Principal Applicant  | September 2023-September 2024 | Applying data driven tools to understand healthy sustainable transportation in Saskatoon | USask Research Junction | $30K | $30K |
+|  Principal Applicant  | September 2023-September 2024 | A working group for equity, measurement, and methods for commercial wearable devices among children and youth | SHRF | $10,000 | $10,000 |
+|  Principal Applicant  | September 2023-September 2024 | Applying data driven tools to understand healthy sustainable transportation in Saskatoon | USask Research Junction | $30,000 | $30,000 |
+|  Co-Applicant  | September 2023-September 2027 | Multilevel estimation of the relative impacts of social determinants on income-related health inequalities in urban Canada: Toward a new Canadian Social Determinants Urban Laboratory | CIHR Project Grant | $940,000 | $60,000 |
 |  Co-Principal Applicant  | November 2022-November 2028 | CapaCITY Implementation Science Team Grant for Healthy Cities | CIHR | $3M | $400,000 |
 |  Co-Principal Applicant  | February 2022-February 2023 | Planning Grant | CIHR | $20K | $0 |
 |  Co-Principal Applicant  | February 2022-February 2023 | Planning Grant | CIHR | $40K | $0 |
