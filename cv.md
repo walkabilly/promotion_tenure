@@ -655,6 +655,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 ### <span style="color:#81112c">Media</span>
 
 1. SRC Radio. Utilisation de l'intelligence artificielle sur certains problème de santé. August 28, 2023.
+1. Le Devoir.  Boris Proulx. L’avenir du vélo existe déjà. [https://www.ledevoir.com/societe/transports-urbanisme/795296/sur-deux-roues-l-avenir-du-velo-existe-deja](https://www.ledevoir.com/societe/transports-urbanisme/795296/sur-deux-roues-l-avenir-du-velo-existe-deja). July 28, 2023.
 1. CBC News by Dayne Patterson. Saskatoon council shelved bike corridor on street where cyclist later killed by cement truck. [https://www.cbc.ca/news/canada/saskatoon/city-council-shelved-bike-corridor-intersection-cyclist-killed-cement-truck-1.6888759](https://www.cbc.ca/news/canada/saskatoon/city-council-shelved-bike-corridor-intersection-cyclist-killed-cement-truck-1.6888759). June 27, 2023.
 1. Saskatoon Morning with Leisha Grebinski. CBC. Study team looks into best practices around the globe when it comes to sustainable transportation infrastructure. November 23, 2022.
 1. CBC National Syndication. Cycling and COVID-19 Pandemic. March 23, 2022. 
