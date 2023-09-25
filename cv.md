@@ -99,6 +99,7 @@ Facebook: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Biswas A, Chen C, Dobson KG, Prince SA, Vahid Shahidi F, Smith PM, __Fuller D.__ Identifying the sociodemographic and work-related factors related to workers’ daily physical activity using a decision tree approach. BMC Public Health. 2023. 23: 1853.  [https://doi.org/10.1186/s12889-023-16747-9](https://doi.org/10.1186/s12889-023-16747-9).
 1. _Kiani B_, Poirier-Stephens Z, Thierry B, Firth C, __Fuller D__, Winters M, Kestens Y. Gentrification, Neighborhood Socioeconomic Factors and Urban Vegetation Inequities: A Study of Greenspace and Tree Canopy Increases in Montreal, Canada. 2023. Landscape and Urban Planning. 240, 104871. [https://doi.org/10.1016/j.landurbplan.2023.104871](https://doi.org/10.1016/j.landurbplan.2023.104871)
 1. Theirry B, Stanley K, Kestens Y, Winters M, __Fuller D.__ 2023. Comparing location data from smartphone and dedicated GPS devices: Implications for epidemiological research. American Journal of Epidemiology. [https://doi.org/10.1093/aje/kwad176](https://doi.org/10.1093/aje/kwad176).
 1. _Kiani B_, Mamiya H, Thierry B, Firth C, __Fuller D__, Winters M, Kestens Y. The temporal sequence between gentrification and cycling infrastructure expansions in Montreal, Canada. Habitat International. 2023. 139, 102899. [https://doi.org/10.1016/j.habitatint.2023.102899](https://doi-org.cyber.usask.ca/10.1016/j.habitatint.2023.102899).
@@ -209,7 +210,6 @@ Daniel Fuller __bold__
 1. Bird, M. Barnett, T.A. Mathieu, M-E. **Fuller, D.** Geetanjali D D. Multidimensional School Features Associated with Physical Activity among Youth at Risk of Obesity: An Exploratory Principal Component and Generalized Estimating Equation Analysis. BMC Public Health.
 2. __Fuller D__, Shareck M, Sersli S, Priebe C, Alfosool A, Lang J J, Wolfe Phillips E. Common measures of green and blue space for built environment, health equity and intervention research: a scoping review. 2023. Cities & Health.
 3. Shareck M, __Fuller D__, Sersli S, Priebe C, Alfosool A, Lang J J, Wolfe Phillips E. Measuring walkability and bikeability for health equity and intervention research: a scoping review. 2023. Cities & Health.
-1. Biswas A, Chen C, Dobson KG, Prince SA, Vahid Shahidi F, Smith PM, __Fuller D.__ Identifying the sociodemographic and work-related factors related to workers’ daily physical activity using a decision tree approach. International Journal of Behavioral Nutrition and Physical Activity. 
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
