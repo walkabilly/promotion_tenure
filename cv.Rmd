@@ -22,13 +22,11 @@ University of Saskatchewan
 104 Clinic Place  
 Saskatoon, Saskatchewan, Canada S7N 2Z4  
 E-mail: daniel.fuller@usask.ca  
-Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)  
 
 ## <span style="color:#81112c">Personal</span>
 
-Website: [www.walkabilly.ca](http://walkabilly.ca/home/)  
+Website: [www.beaplab.com/home/](http://www.beaplab.com/home/)  
 Twitter: [walkabilly](https://twitter.com/walkabilly)  
-Facebook: [walkabilly](https://twitter.com/walkabilly)  
 
 ### <span style="color:#81112c">Languages</span>
 
@@ -156,7 +154,8 @@ Daniel Fuller __bold__
 52. *Breslin, S.*, Shareck, M., **Fuller, D.** Research ethics for mobile sensing device use by vulnerable populations. Social Science and Medicine. 2019;232:50-57. [https://doi.org/10.1016/j.socscimed.2019.04.035](https://doi.org/10.1016/j.socscimed.2019.04.035)
 53. __Fuller, D.,__ *Luan, H.,* Buote, R., Auchincloss, A. H. Impact of a public transit strike on public bicycle share use: An interrupted time series natural experiment study. Journal of Transportation and Health. 2019;13:137-142. [https://doi.org/10.1016/j.jth.2019.03.018](https://doi.org/10.1016/j.jth.2019.03.018)
 54. *Luan, H*., *Ramsay, D.*, **Fuller, D.** Household income, active travel, and their interacting impact on body mass index in a sample of urban Canadians: A Bayesian spatial analysis. International Journal of Health Geographics. 2019;18(4). [https://doi.org/10.1186/s12942-019-0168-x](https://doi.org/10.1186/s12942-019-0168-x)
-55. Branion-Calles M, Nelson T, **Fuller D**, Gauvin L, Winters M. Associations between spatial access to bicycle-specific infrastructure, sociodemographic characteristics, and city-wide safety perceptions of bicycling: a cross-sectional survey of bicyclists in 6 Canadian and U.S. cities. Transportation Research Part A: Policy and Practice. 2019, 123: 229-239. [https://doi.org/10.1016/j.tra.2018.10.024](https://doi.org/10.1016/j.tra.2018.10.024) 50. Kestens Y, Winters M, **Fuller D,** Bell S, Berscheid J, Brondeel R, Cantinotti M, Datta G, Gauvin L, Gough M, Laberee K, Lewis P, Lord S, Luan H, McKay H, Morency C, Muhajarine N, Nelson T, Ottoni C, Poirier Stephens Z, Pugh C, Rancourt G, Shareck M, Sims-Gould J, Sones M, Stanley K, Thierry B, Thigpen C, Wasfi R. INTERACT: A comprehensive approach to assess urban form interventions through natural experiments. BMC Public Health. 2019;19(1):51. [https://doi.org/10.1186/s12889-018-6339-z](https://doi.org/10.1186/s12889-018-6339-z)
+55. Branion-Calles M, Nelson T, **Fuller D**, Gauvin L, Winters M. Associations between spatial access to bicycle-specific infrastructure, sociodemographic characteristics, and city-wide safety perceptions of bicycling: a cross-sectional survey of bicyclists in 6 Canadian and U.S. cities. Transportation Research Part A: Policy and Practice. 2019, 123: 229-239. [https://doi.org/10.1016/j.tra.2018.10.024](https://doi.org/10.1016/j.tra.2018.10.024) 
+50. Kestens Y, Winters M, **Fuller D,** Bell S, Berscheid J, Brondeel R, Cantinotti M, Datta G, Gauvin L, Gough M, Laberee K, Lewis P, Lord S, Luan H, McKay H, Morency C, Muhajarine N, Nelson T, Ottoni C, Poirier Stephens Z, Pugh C, Rancourt G, Shareck M, Sims-Gould J, Sones M, Stanley K, Thierry B, Thigpen C, Wasfi R. INTERACT: A comprehensive approach to assess urban form interventions through natural experiments. BMC Public Health. 2019;19(1):51. [https://doi.org/10.1186/s12889-018-6339-z](https://doi.org/10.1186/s12889-018-6339-z)
 56. __Fuller D__, Neudorf J, Lockhart S, Plante C, Roberts H, Bandara T, Neudorf C. Individual- and area-level socioeconomic inequalities in diabetes mellitus in Saskatchewan between 2007 and 2012: a cross-sectional analysis. Canadian Medical Association Journal Open. 2019;7(1):E33-E39. [https://doi.org/10.9778/cmajo.20180042](https://doi.org/10.9778/cmajo.20180042)
 57. *Hosford, K*., Lear, S A., **Fuller, D**., Teschke, Therrien, S., Winters. Who is in the near market for bicycle sharing? Identifying current, potential, and unlikely users of a public bicycle share program in Vancouver, Canada. BMC Public Health. 2018, 18: 1326. [https://doi.org/10.1186/s12889-018-6246-3](https://doi.org/10.1186/s12889-018-6246-3)
 58. Winters M, Fischer J, **Fuller D**, Gauvin L, Whitehurst DGT, Nelson T. Equity In Spatial Access To Bicycling Infrastructure In Mid-Sized Canadian Cities. Transportation Research Board. 2018, 2672:36. [https://doi.org/10.1177/0361198118791630](https://doi.org/10.1177/0361198118791630) 
