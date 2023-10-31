@@ -214,6 +214,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Winters, M., Cloutier, M-S, Beck, B., Harris, M.A., Howard, A., Kestens, Y., Kirk, S.F.L, Macpherson, A., Moore, S.A., Rothman, L., Shareck, S., Tomasone, J., Laberee, K., Poirier Stephens, Z., Sones, M., Ayton, D., Batomen, B., Bell, S., Collins, P.A., Diab, E., Giles, A., Hagel, B.E., Harris, M.S., Harris, P., Lachapelle, U., Manaugh, K., Mitra, R., Muhajarine, N., Muller Myrdahl, T., Pettit, C.J., Pike, I., Skouteris, H., Wachsmuth, D., Whitehurst, D.G.T. & Fuller, D. (Submitted 27 Oct 2023) Building CapaCITY/É for Sustainable Transportation: Protocol for an Implementation Science Research Program in Healthy Cities. BMC Public Health. ID# f0945040-82a2-41cc-8f71-f11087928ec4
 1. Fuller D, Ellis R, Mongeon K. Changes in Step Count Accuracy of Wearable Devices Over Time as New Models are Released to the Market. 2023. Lancet Digital Health.
 1. Fuller D, Stanojevic S, Watson-Creed G, Anderson L, Mason N. Incorporating Equity, Diversity, and Inclusion into the Epidemiology and Biostatistics Curriculum: A Workshop Report and Recommendations. 2023. Canadian Journal of Public Health. 
 2. _Barua A_, __Fuller D__, Jiang X. Investigating The Effectiveness of Simple Heuristic Features in Solving Sensor Orientation and Sensor Placement Problems in Human Activity Recognition Using A Single Smartphone Accelerometer. 2023. BioMedical Engineering OnLine.
