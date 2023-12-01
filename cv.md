@@ -650,6 +650,9 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
+1. ACFAS.  Les péripéties d’une décennie de recherche avec les municipalités canadiennes. [https://www.youtube.com/watch?v=f69oqOJfUFA](https://www.youtube.com/watch?v=f69oqOJfUFA).
+1. Canadian Urban Environmental Health Research Consortium.  Obesity and Environment | Environments and Health Signature Initiative Webinar Series. [https://www.youtube.com/watch?v=Yr1IHfETkvk&list=PL3VuWhqQM1RlCtc8mzZbhGJAxDz3D2cPJ&index=4](https://www.youtube.com/watch?v=Yr1IHfETkvk&list=PL3VuWhqQM1RlCtc8mzZbhGJAxDz3D2cPJ&index=4).
+1. Instituts de recherche en santé du Canada. Les deux font la paire : pourquoi la recherche en santé et la planification urbaine vont main dans la main. [https://cihr-irsc.gc.ca/f/53167.html](https://cihr-irsc.gc.ca/f/53167.html).
 1. SRC Radio. Utilisation de l'intelligence artificielle sur certains problème de santé. August 28, 2023.
 1. Le Devoir.  Boris Proulx. L’avenir du vélo existe déjà. [https://www.ledevoir.com/societe/transports-urbanisme/795296/sur-deux-roues-l-avenir-du-velo-existe-deja](https://www.ledevoir.com/societe/transports-urbanisme/795296/sur-deux-roues-l-avenir-du-velo-existe-deja). July 28, 2023.
 1. CBC News by Dayne Patterson. Saskatoon council shelved bike corridor on street where cyclist later killed by cement truck. [https://www.cbc.ca/news/canada/saskatoon/city-council-shelved-bike-corridor-intersection-cyclist-killed-cement-truck-1.6888759](https://www.cbc.ca/news/canada/saskatoon/city-council-shelved-bike-corridor-intersection-cyclist-killed-cement-truck-1.6888759). June 27, 2023.
