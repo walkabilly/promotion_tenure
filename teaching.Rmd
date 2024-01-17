@@ -2,11 +2,11 @@
 title: 'Teaching Dossier'
 author: "Daniel Fuller"
 output:
-  word_document: default
   html_document:
     keep_md: yes
     toc: true
     toc_depth: 2
+  word_document: default
   pdf_document: default
 ---
 
@@ -313,7 +313,7 @@ Below I present only a figure that shows my scores for each question for each co
 
 ```{r, warning=FALSE, echo = FALSE}
 library(readxl)
-teaching1 <- read_excel("/Users/dfuller/Dropbox/Teaching/Evaluations/MUNEvaluations.xlsx")
+teaching1 <- read_excel("/Users/dlf545/Dropbox/Teaching/Evaluations/Evaluations.xlsx")
 ``` 
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
@@ -506,6 +506,80 @@ Q 26 = Instructor requested feedback (if applicable)
 |15 |  Terrible course organization. It is one thing to not have deadlines but another to also not get any feedback for assignments in a timely manner. It leaves students in the unknown of expectations and if they are on the right path, some guided learning would be beneficial. Instead of having so much theory on intervention - have more real life intervention to analyse as it makes the learning for grounded in present day. R program is too advanced. R is great for MKin students who will move on to do research. This course, as is, is not at all suited for the MPE student. Although the theory behind teachers knowing "how to code" is a good one, using R is much beyond our scope and that of the teaching curriculum and teachers. Ie. in elementary I have seen the coding robots, Minecraft, coding games utilized. Those are application to teachers. Rather than just using R, utilizing examples that could be relevant to actual teaching ins schools would be better for an MPE student  |
 |15 |  The coding portion was incredible overwhelming and challenging. It is not material that I am likely to apply to my work and I would have liked to see more on the theory and application of wearable technology |
 |15 |  The course was great. I really enjoyed it. |
+
+### <span style="color:#81112c">Comments from CHEP 816 Fall 2022</span>
+
+Fuller, Daniel - HKR 6130 (crn: 70728)  
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 16 = What have you taken from this course that you will bring forward to your future studies and career?
+Q 26 = Instructor requested feedback (if applicable)  
+
+| Q | Comments |
+|----| ---------------------------------------------------------------------------|
+|14 |  1. Learning method used in class is very interactive between tutor and students.  |
+|14 |  2. Presentation opprortunity for students 3. Assignment feedbacks are clear and constructive   |
+|14 | The oppurtunity to diccuss about course subjects and providing helpful resources for studying in different PIHR subjects , providing valuable feedback on students questoins and comments. |
+|14 | Interactive discussions that help to maintain interest. Instructor gives clear feedback. Assignments are designed in a way that lets you improve over time and better understand assignment expectations.|
+|14 | First, this is the first time that the instructor has focused on writing skills which are really helpful for me. I like it. Second, the selected reading on each topic is really informative. There are up-to-date and provide the most important knowledge that each graduate student should know. Third, the flexibility to change class time was really valuable for me. | 
+|15 | I think if the instructor let the students know about what it is expected that students do in the next class such as,  searching for a concept and presenting a topic,  in advance, it would be helpful. sometimes reading about a new concept and getting ready to present in a short time was stressful for me.|
+|15 | Some assigned course readings are dense, but classroom discussions help a lot with understanding them. Would be helpful to have more examples for some assignments (protocol paper). Would be helpful to have detailed discussions of more real world applications of PHIR and also more variety of topics/research areas where PHIR has been done. |
+|15 |  1. Using practical examples to make learning for various concept easier, particularly the vague concepts  |
+|15 |  2. some weeks have more readings, it will be helpful if the readings are assigned to students for better in class discussion. |
+|15 | It'd be helpful to assign course reading to students ahead to have enough time to prepare for in-class presentations, also, to explain shortly about the assignments and discussing the examples in class.  |
+|16 |  Critical thinking skills, Developing different research papers (letter to the editor, protocol). |
+|16 | Critical thinking and discussing about PIHR methods, learning to prepare research documents such as protocols and letters. |
+|16 | Different research methods, how to draft different document types, presentation skills, critical thinking skills |
+|16 | I learned a lot from this course. Before taking this class, I had concerns about some aspects of my thesis method. But now, I have better knowledge and tools to use. The importance of theory, framework and context was unclear to me before this class. Also, I got familiar with new methods such as synthetic control which is really interesting for me. All in all, I am sure, I will be back on this class's reading list in my future studies. |
+
+### <span style="color:#81112c">Comments from CHEP 801 Winter 2023</span>
+
+Fuller, Daniel - HKR 6130 (crn: 70728)  
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 16 = What have you taken from this course that you will bring forward to your future studies and career?
+Q 26 = Instructor requested feedback (if applicable)  
+
+| Q | Comments |
+|----| ---------------------------------------------------------------------------|
+|14 |  Hand on data work in class, teaching  up to date epidemiological concepts and practical epi technics, flexible deadlines for assignments. |
+|15 |  It would be helpful to have an intro session about working with github and clearer instructions/rubric for assignments. |
+|16 |  The new approach for variable selection (e.g. DAGs), model selection, working with R, github, deeper understanding of epi concepts and technics (e.g. casual inferecne, regression analysis), epi communication skills |
+
+### <span style="color:#81112c">Comments from CHEP 816 Fall 2023</span>
+
+Fuller, Daniel - HKR 6130 (crn: 70728)  
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 16 = What have you taken from this course that you will bring forward to your future studies and career?
+Q 26 = Instructor requested feedback (if applicable)  
+
+| Q | Comments |
+|----| ---------------------------------------------------------------------------|
+|14 |  1. Reflections on topics during the class 2. Very nice learning environment |
+|14 |  2. Very nice learning environment (prof and classmates) |
+|14 |  3. Different tools to learn: assignments, peer reviews, group work, journal club, loved the hands on working |
+|14 |  Very engaged and invested in individual student interest and projects. It was extremely helpful and useful to continuously related learnings to my own project and to use class time for working on projects. |
+|14 |  An excellent use of structured time. ENcouraged peer elarnign in class and through assignment activities |
+|14 | Ability to explain broad, complex problems in digestiable format |
+|14 | Lots of applies example, which was awesome |
+|14 | Integrated other learning based on the foundation of information we should be expected to have by now |
+|14 | Interactive, practically focused, developing the skills rather than just the knowledge |
+|14 | I like the simultaneous use of white board, giving examples, showing in powerpoint |
+|14 | The way of teaching by giving examples is good |
+|14 | The readings correlate with discussions in class |
+|15 | Having rubrics for assignments can be helpful |
+|15 | Diversifying the nature of assignments |
+|15 | The timelines felt a bit tight towards the end, some detailed instructions on the assignments early on could be helpful so some students can work ahead if needed. |
+|15 | The computer with the delay of 10s |
+|15 | The journal articles were great, maybe there is room to bring in different forms of knowledge for discussion just to mix it up. |
+|15 | No not use perusall! Good readings, appropriate length/reasonable. Lesson open ended questions throughout the class. Add more detail to the lecture notes for students to be able to look back and take away kley conceps about each topic/week. 
+|15 | Integrate other tupe of materials? Like AI? |
+|15 | Afternoon classes are always challenging |
+|15 | I would sometimes spend time after the class working on our projects |
+|15 | I found completing the intervention assignment difficult maybe a class on appendices can be added |
+|15 | Not to use persuall is a better option |
+|15 | Sometimes timelines are hard to met, so broaden timelines for assignment completion |
 
 ## <span style="color:#81112c">Feedback from Lab Members</span>
 
