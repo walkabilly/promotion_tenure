@@ -6,8 +6,8 @@ output:
     keep_md: yes
     toc: true
     toc_depth: 2
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
 
@@ -213,6 +213,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
+2. _Musa S B_, _Rocky A_, Stanley K, Basset F, _Mamiya H_, Mongeon K, __Fuller D.__  2024. Comparing accelerometer processing metrics and hyper-parameter optimization for physical activity classification accuracy using machine learning methods. Journal for the Measurement of Physical Behaviour.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -223,7 +224,6 @@ Daniel Fuller __bold__
 1. Winters, M., Cloutier, M-S, Beck, B., Harris, M.A., Howard, A., Kestens, Y., Kirk, S.F.L, Macpherson, A., Moore, S.A., Rothman, L., Shareck, S., Tomasone, J., Laberee, K., Poirier Stephens, Z., Sones, M., Ayton, D., Batomen, B., Bell, S., Collins, P.A., Diab, E., Giles, A., Hagel, B.E., Harris, M.S., Harris, P., Lachapelle, U., Manaugh, K., Mitra, R., Muhajarine, N., Muller Myrdahl, T., Pettit, C.J., Pike, I., Skouteris, H., Wachsmuth, D., Whitehurst, D.G.T. & __Fuller, D__. (Submitted 27 Oct 2023) Building CapaCITY/É for Sustainable Transportation: Protocol for an Implementation Science Research Program in Healthy Cities. BMC Public Health. ID# f0945040-82a2-41cc-8f71-f11087928ec4
 1. __Fuller D__, Ellis R, Mongeon K. Changes in Step Count Accuracy of Wearable Devices Over Time as New Models are Released to the Market. 2023. Lancet Digital Health.
 1. __Fuller D__, Stanojevic S, Watson-Creed G, Anderson L, Mason N. Incorporating Equity, Diversity, and Inclusion into the Epidemiology and Biostatistics Curriculum: A Workshop Report and Recommendations. 2023. Canadian Journal of Public Health. 
-3. _Musa S B_, _Rocky A_, Stanley K, Basset F, _Mamiya H_, Mongeon K, __Fuller D.__  2023. Comparing accelerometer processing metrics and hyper-parameter optimization for physical activity classification accuracy using machine learning methods. Journal for the Measurement of Physical Behaviour.
 4. _Mamiya H_, __Fuller, D.__  Quantifying the Uncertainty of Human Activity Recognition Using a Bayesian Machine Learning Method: A Prediction Study. International Journal of Behavioral Nutrition and Physical Activity. [Preprint](https://www.medrxiv.org/content/10.1101/2023.08.16.23294126v1)
 6. Poirier Stephens Z, Firth L C, Cantinotti M, __Fuller D__, Winters M, Kestens Y. 2023. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Canadian Journal of Public Health. 
 7. Vatanparast H, _Anstruther S M_, Feng C X, __Fuller D__, Engler-Stringer R, Leis A, Osgood N D. The Role of Sociodemographic Factors on Nutrient Density of Food Consumed by 3-5-year-old Children from the Healthy Start/Départ Santé Intervention: A Randomized Controlled Trial. 2023. American Journal of Clinical Nutrition.
