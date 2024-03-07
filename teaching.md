@@ -27,9 +27,7 @@ Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)
 
 # Brief Biography
 
-I have been an assistant professor and Canada Research Chair in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University of Newfoundland since August 1, 2016. From 2015-2016 I was a limited term assistant professor in the School of Public Health at the University of Saskatchewan. Between 2012 and 2014 I was a postdoctoral fellow in the Department of Community Health and Epidemiology at the University of Saskatchewan and from 2008 to 2012 I was a PhD student in Public Health at _Université de Montréal_. I have taught 10 different courses in kinesiology and public health since 2010. The focus of my teaching has been in two broad areas. First, methodological and statistics courses. Second, capstone and foundational courses in public health and social determinants of health. In 2016 I won the _Most Effective Professor_ award voted by the School of Public Health Student Association at the University of Saskatchewan.
-
-My Canada Research Chair offers me a unique role related to teaching and learning. First, I teach 2.5 course equivalents per year compared to the 5 course equivalents that are typical in my academic unit. Second, I lead a large interdisciplinary research lab. I have developed considerable teaching and learning materials related to the lab and have included those materials in my teaching dossier.  
+I am currently an Associate Professor in the Department of Community Health and Epidemiology at the University of Saskatchewan. From 2016-2021 I held a Tier 2 Canada Research Chair in in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University of Newfoundland. From 2015-2016 I was a limited term assistant professor in the School of Public Health at the University of Saskatchewan. Between 2012 and 2014 I was a postdoctoral fellow in the Department of Community Health and Epidemiology at the University of Saskatchewan and from 2008 to 2012 I was a PhD student in Public Health at _Université de Montréal_. I have taught 14 different courses in kinesiology and public health since 2010. The focus of my teaching has been in two broad areas. First, methodological and statistics courses. Second, capstone and foundational courses in public health and social determinants of health. In 2016 I won the _Most Effective Professor_ award voted by the School of Public Health Student Association at the University of Saskatchewan.
 
 As a former canoe/kayak coach and someone who has been deeply influenced by teachers and coaches throughout my life, I am committed to creating a positive learning environment for students in my classes and in my lab. Teaching is always a work in progress but to date I feel as though I have demonstrated a breadth and depth of teaching that is consistent with my commitment to lifelong learning.
 
@@ -52,12 +50,21 @@ Teaching and learning create remarkable moments in our human experience. From wa
 
 ## <span style="color:#81112c">Courses Taught</span>
 
-I have taught 10 different courses over the course of my career. I have developed 3 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology), and one in my current position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention). 
-
-I am committed to open learning and develop public websites for all of my courses at Memorial University (see examples below). These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. This is particularly relevant for _HKR 6130 Computer Applications for Physical Activity Measurement and Intervention_ as this course includes coding and is regarded as very challenging for MPE students. 
+I have taught 14 different courses over the course of my career. I have developed 3 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology), and one in my position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention). I am committed to open learning and develop public websites for all of my courses. These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. 
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
+| University of Saskatchewan  | 2021 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-instructor |
+|   | 2024 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2024 | Winter | CHEP 801 | Epidemiology 2 | Instructor |
+|   | 2023 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2023 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
+|   | 2023 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2023 | Winter | CHEP 801 | Epidemiology 2 | Instructor |
+|   | 2022 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2022 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
+|   | 2021 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2021 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-instructor |
 | Memorial University  | 2021 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
 | Memorial University  | 2021 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
 | Memorial University  | 2020 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
@@ -84,6 +91,19 @@ I am committed to open learning and develop public websites for all of my course
 |  | 2014 | Fall | PUBH 840 | Public Health Capstone | Instructor | 
 |  | 2014 | Fall | CHEP 898 | Population Health Intervention Research | Instructor | 
 | Université de Montréal | 2011 | Winter | MSO 6068c | Multilevel Modeling | Co-Instructor | 
+
+
+### <span style="color:#81112c">CHEP 801 Epidemiology 2</span>
+
+#### Course Description 
+##### [https://github.com/walkabilly/chep801_usask](https://github.com/walkabilly/chep801_usask)  
+This course is intended to build upon the foundational knowledge gained in CHEP 800 (Epidemiology) and CHEP 805 (Biostatistics) – building upon topics of bias, epidemiologic study design, inferential and descriptive statistics, and statistical model building. Course topics include: causation, bias, multivariable modelling, critical appraisal, study design, and “new” techniques in epidemiology (machine learning and predictive modelling). Methods of instruction will feature lectures and interactive lab sessions. Focus will be on the understanding of modern epidemiological practice and analytical skills in order to conduct independent public health practice and research.
+
+### <span style="color:#81112c">CHEP 816 Population Health Intervention Research</span>
+
+#### Course Description 
+##### [https://github.com/walkabilly/chep816_usask](https://github.com/walkabilly/chep816_usask)  
+The purpose of the course is to review definitions, theories, methods and underlying assumptions of population health intervention research, to examine the evidence-base for evaluating population health interventions, to review local real-world interventions and discuss evaluation directions and challenges. Students are expected to be engaged participants and co-learners. This is a readings course. There will be reading and discussion every class. You must do the readings to be successful in the course. On-going discussion and evaluation of scope, content, and format will be sought as the course is unfolding.
 
 ### <span style="color:#81112c">HKR 6000 Quantitative Methods in Physical Education</span>
 
