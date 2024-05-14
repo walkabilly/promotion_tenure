@@ -313,9 +313,9 @@ Perhaps the strongest evidence related to my teaching effectiveness comes in the
 
 ## <span style="color:#81112c">Course Evaluations</span>
 
-The course evaluation questionnaire is Memorial Universities standardized course evaluation questionnaire. I include the CEQ for all of my course where they are available. Some courses had too few responses and results were not made available (see Appendix). In Winter 2020, due to the COVID-19 Pandemic, CEQs were put on hold. As a result, I do not submit CEQs past winter 2020. 
+The course evaluation questionnaire is Memorial Universities standardized course evaluation questionnaire. I include the CEQ for all of my course where they are available. Some courses had too few responses and results were not made available.
 
-Additionally, I have conducted my own course evaluations for HKR 3400, HKR 6134, HKR 4600, and HKR 6130. The data are from 13 students in HKR 3400 (out of a possible 62 students), 20 students in HKR 6134 (out of a possible 35), 8 students in HKR 4600 (out of a possible 22), and 4 students in HKR 6130 (out of a possible 12). The questions posted were 
+Additionally, I have conducted my own course evaluations for CHEP 816, HKR 3400, HKR 6134, HKR 4600, and HKR 6130. The data are from 13 students in HKR 3400 (out of a possible 62 students), 20 students in HKR 6134 (out of a possible 35), 8 students in HKR 4600 (out of a possible 22), and 4 students in HKR 6130 (out of a possible 12). The questions posted were 
     1. The instructor used challenging questions   
     2. The instructor was willing to listen to student opinions  
     3. The instructor was actively helpful to the students  
@@ -471,7 +471,6 @@ Q 26 = Instructor requested feedback (if applicable)
 
 ### <span style="color:#81112c">Comments from CHEP 801 Winter 2023</span>
 
-Fuller, Daniel - HKR 6130 (crn: 70728)  
 Q 14 = If you had to select the best aspects of this course, what would they be?  
 Q 15 = What aspects of this course could be improved and how could they be improved?  
 Q 16 = What have you taken from this course that you will bring forward to your future studies and career?
@@ -485,7 +484,6 @@ Q 26 = Instructor requested feedback (if applicable)
 
 ### <span style="color:#81112c">Comments from CHEP 816 Fall 2023</span>
 
-Fuller, Daniel - HKR 6130 (crn: 70728)  
 Q 14 = If you had to select the best aspects of this course, what would they be?  
 Q 15 = What aspects of this course could be improved and how could they be improved?  
 Q 16 = What have you taken from this course that you will bring forward to your future studies and career?
@@ -517,6 +515,80 @@ Q 26 = Instructor requested feedback (if applicable)
 |15 | I found completing the intervention assignment difficult maybe a class on appendices can be added |
 |15 | Not to use persuall is a better option |
 |15 | Sometimes timelines are hard to met, so broaden timelines for assignment completion |
+
+### <span style="color:#81112c">Comments from CHEP 801 Winter 2024</span>
+
+Q 14 = If you had to select the best aspects of this course, what would they be?  
+Q 15 = What aspects of this course could be improved and how could they be improved?  
+Q 16 = What have you taken from this course that you will bring forward to your future studies and career?
+Q 26 = Instructor requested feedback (if applicable)  
+
+| Q | Comments |
+|----| ---------------------------------------------------------------------------|
+|14 |  Lecture notes were well done and thorough |
+|14 |  RMarkdown labs introduced new and power coding concepts |
+|14 |  Assignments permitted flexibility and prepare students for research and employment |
+|14 |  More than enough study materials were provided |
+|14 |  The R tutorial Github thing was super useful |
+|14 |  There was not strict deadline for handing in the assignments which I believe helps the student more opportunity to learn and helps to go in depth |
+|14 |  The application of materials |
+|14 |  Instructor made himself available to help students |
+|14 |  No deadlines for assignments |
+|14 |  Hands-on work (rather than teams) |
+|14 |  Participative class |
+|14 |  Flexibility with assignments |
+|14 |  Instructor is always willing to help |
+|14 |  Self-paced learning made it accessible for assignments |
+|14 |  Choosing which software program to use |
+|14 |  Practice parctice |
+|14 |  Accessibility of the instructor in helping students understand the course |
+|14 |  No exams |
+|14 |  The group work help with bonding among classmates |
+|14 |  R programming |
+|14 |  Theory and material interaction |
+|14 |  Based on example from real data |
+|14 |  R sessions |
+|14 |  Interactivity, dynamics, association with CHEP 805 learning |
+|14 |  Presentations |
+|14 |  R software learning |
+|14 |  Readings |
+|14 |  Instructor teaching skill |
+|15 |  Maybe use a different dataset that is opan and less approval to publish |
+|15 |  Strongly suggest at least one more group assignment to promote collaborative work |
+|15 |  One more presentation session to boost confidence |
+|15 |  Maybe more breaks because it gets INTENSE! |
+|15 |  Teaching more about problem solving R problems |
+|15 |  Conflicting messages from CHEP 801 and 805 |
+|15 |  Time! Put this class in the morning please |
+|15 |  More organization with Github |
+|15 |  Expectations with group assignments. Do we all get the same grade? Do we need to submit documents with our contributions? |
+|15 |  Organization on Github (the datawork is very confusing) |
+|15 |  Teaching is fast paces |
+|15 |  Practical data work R sessions needed more time |
+|15 |  TAs needed to support data work sessions aside the time with the prof |
+|15 |  The expectations in the class. Sometimes after asking questions it becomes more confusing to understand him |
+|15 |  Linear and logistic regression should be switched because confounding came before effect modification |
+|15 |  Should put detail on presentation |
+|15 |  Should put guide to use Github or file structure |
+|15 |  Focus on R coding |
+|16 |  Better appreciation of descriptive and etiologic epidemiology |
+|16 |  Better appreciation of causality and exposure pathways |
+|16 |  No p-values in Table 1 |
+|16 |  Learned a new language R which is extremely useful and I'm sure I will use this after school |
+|16 |  Concepts were way more advanced and help to look at a public health in a better way |
+|16 |  This class motivated me to learn more |
+|16 |  How to access epi research |
+|16 |  I feel more prepared to work with data and to look for tools that can help me. As well, to understand epi and it's use in real world settings |
+|16 |  I learnt how to use R! This felt like a huge accomplishment |
+|16 |  Github learning/datawork page. This class pushed me to learn as much as I could |
+|16 |  Using DAGs to show causality before data analysis is important |
+|16 |  Learned about the advanced epidemiology that I should use for my thesis, project grant writing |
+|16 |  Data analysis and understanding epidemiological concepts |
+|16 |  Ability to work on a good epi communication |
+|16 |  Ability to work with coding and ability to translate data |
+|16 |  To make students think about process |
+|16 |  The experiences of R and the epidemiological concepts that have learnt from this course |
+
 
 ## <span style="color:#81112c">Feedback from Lab Members</span>
 
@@ -634,7 +706,7 @@ __Evaluation__
 
 ## Course Syllabi
 
-## Memorial University CEQs
+
 
 
 
