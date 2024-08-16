@@ -6,8 +6,8 @@ output:
     keep_md: yes
     toc: true
     toc_depth: 2
-  word_document: default
   pdf_document: default
+  word_document: default
 ---
 
 
@@ -223,6 +223,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Implementation Science. Manuscript Number: IMPS-D-24-00619.
 1. Sousa-Silva R, Kestens Y, Poirier Stephens Z, Thierry B, Schoenig D, __Fuller D__, Winters M, Smargiassi A. (2023 under review). Associations between types of urban vegetation and well-being measures: a cross-sectional study in Montreal, Canada. People and Nature. Manuscript ID: PAN-23-11-617.
 1. Ferster, C., Laberee, K., Nelson, T., Winters, M., Cloutier, M-S., and Fuller, D. (2024 under review). Top pedestrian concerns mapped by on WalkRollMap.org. Submitted to Transportation Research Interdisciplinary Perspectives. Submitted 2 February 2024. Manuscript ID: TRIP-D-24-00063.
 1. Winters, M., Cloutier, M-S, Beck, B., Harris, M.A., Howard, A., Kestens, Y., Kirk, S.F.L, Macpherson, A., Moore, S.A., Rothman, L., Shareck, S., Tomasone, J., Laberee, K., Poirier Stephens, Z., Sones, M., Ayton, D., Batomen, B., Bell, S., Collins, P.A., Diab, E., Giles, A., Hagel, B.E., Harris, M.S., Harris, P., Lachapelle, U., Manaugh, K., Mitra, R., Muhajarine, N., Muller Myrdahl, T., Pettit, C.J., Pike, I., Skouteris, H., Wachsmuth, D., Whitehurst, D.G.T. & __Fuller, D__. (Submitted 27 Oct 2023) Building CapaCITY/É for Sustainable Transportation: Protocol for an Implementation Science Research Program in Healthy Cities. BMC Public Health. ID# f0945040-82a2-41cc-8f71-f11087928ec4
