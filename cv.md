@@ -653,6 +653,8 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
+1. Rue Scarth : un retour de la circulation en voiture est-il envisageable ? Point du Jour - Radio Canada. August 16, 2024. [https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/1830309/revitaliser-rue-scarth-au-centre-ville-regina](https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/1830309/revitaliser-rue-scarth-au-centre-ville-regina)
+1. Walk the Talk: Researchers Under the Scope. University of Saskatchewan College of Medicine. June 25, 2024. [https://medicine.usask.ca/news/2024/walking-the-talk-dr-daniel-fuller-on-urban-health-and-mobility.php ](https://medicine.usask.ca/news/2024/walking-the-talk-dr-daniel-fuller-on-urban-health-and-mobility.php)
 1. The Apple Watch May Have a Calorie Problem by Caroline Mimbs Nyce. February 1, 2024.  [https://www.theatlantic.com/technology/archive/2024/02/activity-trackers-calories-fitness/677320/](https://www.theatlantic.com/technology/archive/2024/02/activity-trackers-calories-fitness/677320/).
 1. ACFAS.  Les péripéties d’une décennie de recherche avec les municipalités canadiennes. [https://www.youtube.com/watch?v=f69oqOJfUFA](https://www.youtube.com/watch?v=f69oqOJfUFA).
 1. Canadian Urban Environmental Health Research Consortium.  Obesity and Environment | Environments and Health Signature Initiative Webinar Series. [https://www.youtube.com/watch?v=Yr1IHfETkvk&list=PL3VuWhqQM1RlCtc8mzZbhGJAxDz3D2cPJ&index=4](https://www.youtube.com/watch?v=Yr1IHfETkvk&list=PL3VuWhqQM1RlCtc8mzZbhGJAxDz3D2cPJ&index=4).
