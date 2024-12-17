@@ -221,9 +221,10 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
-1. Sousa-Silva R, Kestens Y, Poirier Stephens Z, Thierry B, Schoenig D, __Fuller D__, Winters M, Smargiassi A. (2023 under review). Associations between types of urban vegetation and well-being measures: a cross-sectional study in Montreal, Canada. People and Nature. Manuscript ID: PAN-23-11-617.
-1. Alhassan J, Fuller, D. The promises and perils of a free rural inter-city transportation scheme: A mixed methods study from Northern Saskatchewan. Canadian Journal of Public Health. Manuscript ID: CJPH-D-24-00197R2. 
-1. Schweitzer A M, __Fuller D__, Mitchell C J. Perspective on Strategies for Matching Across Age and Sex in Physiology Research: "Recreationally Active" is Not Good Enough." Frontiers in Physiology. Manuscript ID: 1517355.
+2. Sousa-Silva R, Kestens Y, Poirier Stephens Z, Thierry B, Schoenig D, __Fuller D__, Winters M, Smargiassi A. (2023 under review). Associations between types of urban vegetation and well-being measures: a cross-sectional study in Montreal, Canada. People and Nature. Manuscript ID: PAN-23-11-617.
+3. Alhassan J, __Fuller D__. The promises and perils of a free rural inter-city transportation scheme: A mixed methods study from Northern Saskatchewan. Canadian Journal of Public Health. Manuscript ID: CJPH-D-24-00197R2. 
+4. Schweitzer A M, __Fuller D__, Mitchell C J. Perspective on Strategies for Matching Across Age and Sex in Physiology Research: "Recreationally Active" is Not Good Enough." Frontiers in Physiology. Manuscript ID: 1517355.
+5. Sturrock S, Moineddin R, Gesink D, Woodruff S, __Fuller D__. The effect of software and hardware version on Apple Watch activity measurement: A secondary analysis of the COVFIT retrospective cohort study. PLOS Digital Health. Manuscript ID: PDIG-D-24-00257R1.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 1. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Implementation Science. Manuscript Number: IMPS-D-24-00619.
