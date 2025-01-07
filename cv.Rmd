@@ -99,6 +99,7 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _Schweitzer A M_, __Fuller D__, Mitchell C J. 2025. Perspective on Strategies for Matching Across Age and Sex in Physiology Research: "Recreationally Active" is Not Good Enough." Frontiers in Physiology. Volume 15. [doi.org/10.3389/fphys.2024.1517355](doi.org/10.3389/fphys.2024.1517355)
 1. _Sturrock S_, Gesink D, Moineddin R, Woodruff S, Kestens Y, Winters M, __Fuller D__. Changes in physical activity among Canadian adults more than 6 months into the COVID-19 pandemic: a secondary analysis of the INTERACT cohort study. BMJ Open. 2024;14:e081583. [httts://doi.org/10.1136/bmjopen-2023-081583](httts://doi.org/10.1136/bmjopen-2023-081583) 
 1. _Maher R A_, Wadden K P, __Fuller D__, Basset F, McGowan E. The current landscape of exercise and female fertility research: a narrative review. Reproduction. 2024. 168(1):e220317. [https://doi.org/10.1530/REP-22-0317](https://doi.org/10.1530/REP-22-0317).
 2. Poirier Stephens Z, Firth L C, Cantinotti M, __Fuller D__, Winters M, Kestens Y. 2023. Imagining and implementing healthy city interventions: Combined results from parallel concept mapping exercises in Montreal with community members and stakeholders. Canadian Journal of Public Health. 2024. 115(599-610). [https://doi.org/10.17269/s41997-024-00883-9](https://doi.org/10.17269/s41997-024-00883-9).
@@ -225,7 +226,6 @@ Daniel Fuller __bold__
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
 2. Sousa-Silva R, Kestens Y, Poirier Stephens Z, Thierry B, Schoenig D, __Fuller D__, Winters M, Smargiassi A. (2023 under review). Associations between types of urban vegetation and well-being measures: a cross-sectional study in Montreal, Canada. People and Nature. Manuscript ID: PAN-23-11-617.
 3. Alhassan J, __Fuller D__. The promises and perils of a free rural inter-city transportation scheme: A mixed methods study from Northern Saskatchewan. Canadian Journal of Public Health. Manuscript ID: CJPH-D-24-00197R2. 
-4. Schweitzer A M, __Fuller D__, Mitchell C J. Perspective on Strategies for Matching Across Age and Sex in Physiology Research: "Recreationally Active" is Not Good Enough." Frontiers in Physiology. Manuscript ID: 1517355.
 5. Sturrock S, Moineddin R, Gesink D, Woodruff S, __Fuller D__. The effect of software and hardware version on Apple Watch activity measurement: A secondary analysis of the COVFIT retrospective cohort study. PLOS Digital Health. Manuscript ID: PDIG-D-24-00257R1.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
