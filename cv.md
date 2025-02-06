@@ -97,6 +97,7 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Alhassan JAK, __Fuller D__, Woytowich R. (2025). The promises and perils of a free rural inter ‑ city transportation scheme: A mixed ‑ methods study from Northern Saskatchewan. Canadian Journal of Public Health. [https://doi.org/10.17269/s41997-024-00986-3](https://doi.org/10.17269/s41997-024-00986-3)
 1. Sousa-Silva R, Kestens Y, Poirier Stephens Z, Thierry B, Schoenig D, __Fuller D__, Winters M, Smargiassi A. 2024. Associations between types of urban vegetation and well-being measures: a cross-sectional study in Montreal, Canada. People and Nature. [https://doi.org/10.1002/pan3.10771](https://doi.org/10.1002/pan3.10771)
 1. _Schweitzer A M_, __Fuller D__, Mitchell C J. 2025. Perspective on Strategies for Matching Across Age and Sex in Physiology Research: "Recreationally Active" is Not Good Enough." Frontiers in Physiology. Volume 15. [doi.org/10.3389/fphys.2024.1517355](doi.org/10.3389/fphys.2024.1517355)
 1. _Sturrock S_, Gesink D, Moineddin R, Woodruff S, Kestens Y, Winters M, __Fuller D__. Changes in physical activity among Canadian adults more than 6 months into the COVID-19 pandemic: a secondary analysis of the INTERACT cohort study. BMJ Open. 2024;14:e081583. [httts://doi.org/10.1136/bmjopen-2023-081583](httts://doi.org/10.1136/bmjopen-2023-081583) 
@@ -223,7 +224,6 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
-2. Alhassan J, __Fuller D__. The promises and perils of a free rural inter-city transportation scheme: A mixed methods study from Northern Saskatchewan. Canadian Journal of Public Health. Manuscript ID: CJPH-D-24-00197R2. 
 3. Sturrock S, Moineddin R, Gesink D, Woodruff S, __Fuller D__. The effect of software and hardware version on Apple Watch activity measurement: A secondary analysis of the COVFIT retrospective cohort study. PLOS Digital Health. Manuscript ID: PDIG-D-24-00257R1.
 1. Ferster, C., Laberee, K., Nelson, T., Winters, M., Cloutier, M-S., and Fuller, D. 2024. Top pedestrian concerns mapped by on WalkRollMap.org. Canadian Geographies / Géographies canadiennes. Manuscript ID 06-24-TCG-1126.
 
