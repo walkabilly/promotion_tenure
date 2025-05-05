@@ -230,6 +230,7 @@ Daniel Fuller __bold__
 
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
+1. Kauffeldt K, Shareck M, Bell S, Collins P, Diab E, Lachapelle U, Manaugh K, Couture-Ménard, M-È, Beck B, Pearson L, Chevrier T, Winters M, __Fuller D__, Cloutier M-S, Laberee K, & Tomasone J. (Submitted). Strategic investments in transportation: A protocol paper exploring the implementation of sustainable transportation interventions in Canadian cities. BMJ Open (bmjopen-2025-104526).
 1. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Implementation Science. Manuscript Number: IMPS-D-24-00619.
 1. _Verity W_, Foulds H, McIlduff C, __Fuller D__, Leis A.  Conceptualizing Access to a Group-Based Older Adult Physical Activity Program in Saskatchewan: Demographics, Distributions, and Dimensions of Levesque’s Access to Healthcare Framework. Health Promotion and Chronic Disease Prevention in Canada. 
 1. __Fuller D__, Ellis R, Mongeon K. Changes in Step Count Accuracy of Wearable Devices Over Time as New Models are Released to the Market. 2024. Pre-print available [https://osf.io/h38se/](https://osf.io/h38se/).
