@@ -13,15 +13,11 @@ output:
 
 
 Daniel Fuller, Ph.D.  
-Canada Research Chair in Population Physical Activity  
-Assistant Professor  
-School of Human Kinetics and Recreation   
-Physical Education Building PE 2024 Memorial   
-University of Newfoundland St. John’s, NL  
-A1C 5S7  
-Tel: (709) 864-7270    
-E-mail: dfuller@mun.ca    
-Web: [http://www.walkabilly.ca/](http://www.walkabilly.ca/)  
+Associate Professor
+Department of Community Health and Epidemiology
+College of Medicine
+University of Saskatchewan
+E-mail: daniel.fuller@usask.ca
 
 # Table of Contents 
 
@@ -44,17 +40,21 @@ My primary intention as a teacher is to create a learning environment in which m
 To accomplish my teaching and learning outcomes I combine technological innovation, inspiring in-class interactive learning and problem based learning. Technological innovations in my courses include podcasting lectures, online forums and mobile availability of course material. Technology, however, cannot be a substitute for human interaction. My class presentations encourage interactions and critical reflection with and among students, providing conceptual brainteasers for students’ reflection to conclude each class. Students need to recognize that universities are integral community members. Through problem based learning opportunities, students are challenged to engage their knowledge and understanding through reflective practice. Problem based learning allows students to explore and learn firsthand the principles of their discipline.
 
 To assess progress toward my teaching and learning outcomes I draw on students’ evaluations, fellow teachers’ peer evaluations, and my students’ accomplishments in major scholarship competitions. These assessment strategies encourage continuous development of my teaching based on students’ learning. A reflexive approach to teaching and learning demands that I remain self-critical and adapt to meeting the changing needs, competencies, and hopes of my students, the fundamental purpose of my teaching practice.
+
 Teaching and learning create remarkable moments in our human experience. From watching the joy of a child ride a bike for the first time to that “aha” moment when a student finally “gets” a challenging concept, such learning moments imprint themselves in our memory. For me, teaching involves that wonder. The hard work of remote and immediate preparation in teaching is transformed into the joy of these indelible learning moments. Although these moments are rare, they are transformative. I am motivated and strive to create such opportunities in each of my courses so that students can experience and prove to themselves they are more and can become more than they have previously believed.
 
 # Teaching Responsibility
 
 ## <span style="color:#81112c">Courses Taught</span>
 
-I have taught 14 different courses over the course of my career. I have developed 3 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology), and one in my position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention). I am committed to open learning and develop public websites for all of my courses. These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. 
+I have taught 14 different courses over the course of my career. I have developed 5 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology),  one in my position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention), and two at USask in Community Health and Epidemiology (Epidemiology 2 and Data Science for Epidemiology. I am committed to open learning and develop public websites for all of my courses. These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. 
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
-| University of Saskatchewan  | 2021 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-instructor |
+| University of Saskatchewan  | 2025 | Winter | CHEP 898 | Data Science for Epidemiology | Instructor |
+|   | 2025 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2024 | Fall | CHEP 898 | Introduction to R | Instructor |
+|   | 2024 | Fall | CHEP 990 | Graduate Seminar | Instructor |
 |   | 2024 | Winter | CHEP 990 | Graduate Seminar | Instructor |
 |   | 2024 | Winter | CHEP 801 | Epidemiology 2 | Instructor |
 |   | 2023 | Fall | CHEP 990 | Graduate Seminar | Instructor |
@@ -92,6 +92,18 @@ I have taught 14 different courses over the course of my career. I have develope
 |  | 2014 | Fall | CHEP 898 | Population Health Intervention Research | Instructor | 
 | Université de Montréal | 2011 | Winter | MSO 6068c | Multilevel Modeling | Co-Instructor | 
 
+
+### <span style="color:#81112c">CHEP 898 Data Science for Epidemiology</span>
+##### [https://github.com/walkabilly/data_science_for_epi_usask](https://github.com/walkabilly/data_science_for_epi_usask) 
+
+This course introduces students to the principles of data science as applied to epidemiological research. Emphasis is on data wrangling, version control with Git and GitHub, high-performance computing, and machine learning techniques. It also compares traditional epidemiologic analysis approaches with contemporary machine learning methods.
+
+### <span style="color:#81112c">CHEP 898 Intro to R</span>
+##### [https://github.com/walkabilly/intro_to_r_crsu](https://github.com/walkabilly/intro_to_r_crsu)
+
+Students, faculty, and staff in the health sciences, community health, and epidemiology will learn to use R, a statistical software frequently used in health sciences research. This course provides an overview on data entry, data management and manipulation, and visualization using R and also covers basic statistical applications, including linear regression, and logistic regression. To demonstrate proficiency, students will be given a dataset with steps to follow and analyze based on the learning outcomes.
+
+This class is expected to help students build capacity with R and the research process. They can begin to consider how to use R to apply their biostatistics knowledge to their graduate thesis or other research.
 
 ### <span style="color:#81112c">CHEP 801 Epidemiology 2</span>
 
@@ -174,7 +186,7 @@ I have also developed training in [statistics](https://github.com/TeamINTERACT/o
 
 I both supervise graduate students but also hire and train numerous highly qualified personnel from various disciplines including HKR, public health, computer science, and geography. I have been a committee member for a number of PhD students at various institutions across Canada. Notably, Dr. Henry Luan, my former postdoctoral fellow is a currently an assistant professor in Geography at the University of Oregon. One of my MSc students has received CIHR funding and another was shortlist for CIHR funding. One previous lab member has is currently a faculty member at the University of Copenhagen. Another lab member is conducting a postdoctoral fellowship at the University of Toronto, while another has gone on to a successful career at Cisco Systems in Ottawa. 
 
-### <span style="color:#81112c">Undergraduate Student Supervision</span>
+## <span style="color:#81112c">Undergraduate Student Supervision</span>
 
 | Name | Program | Project | Term |
 |------|--------|--------|------|
@@ -192,41 +204,59 @@ I both supervise graduate students but also hire and train numerous highly quali
 | Alyssa Milley | Human Kinetics and Recreation | Undergraduate Honours | 2017 |
 | Hilary Gosse | Human Kinetics and Recreation | Undergraduate Honours | 2017 |
 
-### <span style="color:#81112c">Graduate Student Supervision</span>  
+## <span style="color:#81112c">Graduate Student Supervision</span>  
 
-* 2021: Rachel Cowitz. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2020: Ryan Ellis. Changes in Step Count Accuracy of Wearable Devices with the Continuous Development of New Technology. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2020: Summayah Mussa. Comparing Accelerometer Processing Metrics for Physical Activity Classification Accuracy using Machine Learning Methods. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2020: Asia Holloway. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2019: Rebecca Maher. Exercise interventions and fertility outcomes for women experiencing obesity and infertiliy: a narrative review. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
-* 2019: Jonathan Slaney. Examining the association between cycling infrastructure exposure and physical activity: A Natural experiment study in Victoria, Canada. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2019: SeyedJavad KhataeiPour. Superior Performance of Machine Learning Algorithms in Metabolic Equivalent (MET) Prediction Using Cell Phone Accelerometer Data. MSc Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2018: Machel Rayner. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2018: Ali Alfosool.  Road Importance Using Complex-Networks, Graph Reduction & Interpolation. PhD Program. Committee Member. Department of Computer Science. Memorial University. 
-* 2017: Kassia Orychock. Association between BMI and WalkScore, Dining and Drinking Score and Grocery Score in a multi-city sample of adults: A cross sectional analysis. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2017: Bo Simango. Improving the accuracy of activity intensity classification using machine learning and commercial wearable device data. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
-* 2017: Melissa Tobin. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University
-* 2017: Nathan Taylor. Masters of Public Health Practicum. Supervisor. Neighbourhood Active Living Potential on the Avalon Peninsula. Memorial University
-* 2014:	Satyadeva Challa. Masters of Public Health Practicum. Supervisor. Stress Mapping and Network Connectivity Analysis. School of Public Health. University of Saskatchewan.
-* 2013:	Anna Chen. Masters of Public Health Practicum. Supervisor. Analyzing road surface conditions, time of the day, and road structural factors associated with bicycle collisions from 2000 to 2010 in Saskatoon, Saskatchewan. School of Public Health. University of Saskatchewan.
+#### <span style="color:#81112c"> MSc Supervisor</span>  
+1. __Patricia Salazar__. Ongoing. The Role of Mode of Transportation in Physical Activity: Socioeconomic Influences on Active Mobility in Urban Environments.
+1. __Bernard Asante__. Ongoing. Evaluating wearable and smartphone accelerometer data for physical activity monitoring using data imputation and machine learning techniques.
+1. __Katrina Pearman__. Ongoing. Examination of commercial wearable devices for children and youth who use manual wheelchairs. 
+1. __Meherun Nahar__. Ongoing. Association Between Public Transit Use and Happiness Across Four Canadian Cities: A Multilevel Analysis Using Longitudinal Data. 
+1. __Summayah Mussa__. 2020. Comparing Accelerometer Processing Metrics for Physical Activity Classification Accuracy using Machine Learning Methods. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+3. __Kole Phillips__. 2019. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Co-Supervisor with Dr. Kevin Stanley. Department of Computer Science. University of Saskatchewan.
+4. __Rebecca Maher__. 2019. Exercise interventions and fertility outcomes for women experiencing obesity and infertiliy: a narrative review. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+5. __Jonathan Slaney__. 2019. Examining the association between cycling infrastructure exposure and physical activity: A Natural experiment study in Victoria, Canada. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+6. __Kassia Orychock__. 2017. Association between BMI and WalkScore, Dining and Drinking Score and Grocery Score in a multi-city sample of adults: A cross sectional analysis. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+7. __Bo Simango__. 2017. Improving the accuracy of activity intensity classification using machine learning and commercial wearable device data. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+8. __Melissa Tobin__. 2017. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University
 
-### <span style="color:#81112c">Committee Member</span>  
+#### <span style="color:#81112c">PhD Supervisor</span>  
+1. __Tyler Pittman__. Ongoing. Changes in ownership and super-organization of American nursing homes in hospital referral region during the COVID-19 pandemic.
+1. __Wendy Verity__. 2021. Equitable Access to Forever in Motion Programs in Saskatchewan. PhD Program. Committee Member. Department of Community Health and Epidemiology. University of Saskatchewan.
+1. __Shelby Sturrock__. 2021. The Impact of COVID-19 restrictions on Physical Activity in Canada. PhD Program. Co-Supervisor with Dr. Dionne Gesink. Dalla Lana School of Public Health. University of Toronto. 
+2. __Ryan Collins__. 2020. Associations between Circadian Rhythm, Physical Activity, Mood, and Cognitive Function During the First Year of Treatment for Breast Cancer. PhD Program. Co-Supervisor with Dr. Sheila Garland. Department of Psychology. Memorial University. 
+3. __Ali Alfosool__. 2018. ALF-Score: A Predictive, Personalized, Transferable and Network-Based Walkability Scoring System. PhD Program. Co-Supervisor with Dr. Yuanzhu Chen. Department of Computer Science. Memorial University. 
 
-* 2020: Ryan Collins. Associations between Circadian Rhythm, Physical Activity, Mood, and Cognitive Function During the First Year of Treatment for Breast Cancer. Doctor of Psychology. Committee Member. Department of Psychology. Memorial University. 
-* 2019: Kole Phillips. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Committee Member. Department of Computer Science. University of Saskatchewan. 2019.
-* 2018: Pablo Navarro. The Government of Newfoundland and Labrador’s implementation of a “Health in All Policies”. PhD Program. Committee Member. Faculty of Medicine, Division of Community Health and Humanities. Memorial University. 
-* 2017: Se’era Anstruthers. PhD Program. Committee Member. The Influence of Socioeconomic Factors and Location on the Impact of Children in Healthy Start-Depart Sante. Department of Nutrition. University of Saskatchewan. 
-* 2016: Adriana Fonseca. PhD Program. Committee Member.  Physical activity and chronic back disorders in Canadian adults. Department of Community Health and Epidemiology. University of Saskatchewan.
-* 2016: Kate Hosford. MSc Program. Committee Member. Impacts of a Public Bike Share Program in Vancouver, BC: Changes in Population Cycling Levels and Program Perceptions and Attitudes. Faculty of Health Sciences, Simon Fraser University.
-* 2015: Larisa Lotoski. PhD Program. Committee Member. A 4-season longitudinal study examining the association between seasonality and sedentary behaviour in 8-11 year old Canadian children. Department of Community Health and Epidemiology. University of Saskatchewan. 
-* 2013:	Lisa Thurairasu. MSc Program. Committee Member. Examining Individual and Area Level Income Inequalities in Urban Saskatchewan: A Case of Diabetes. Department of Community Health and Epidemiology. University of Saskatchewan.
-* 2011:	Mariève Thetreault-Deslands. MPH Program. Committee Member. Utilitarian walking and diabetes: a cross-sectionnal study in Montreal, Canada. Departement de Medecine sociale et preventive. Faculte de Medecine. Universite de Montreal.
-* 2010:	Geneviève Boily. MPH Program. Committee Member. L’association entre l’utilisation du transport actif et l’etat de sante auto-rapporte chez des adultes montrealais. Departement de Medecine sociale et preventive. Faculte de Medecine. Universite de Montreal.
+#### <span style="color:#81112c">Practicum Supervisor</span>  
+1. __Tori Carter__. 2022. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University. 
+1. __Stephanie Liu__. 2022. Masters of Public Health Practicum. Supervisor. School of Public Health. University of Saskatchewan. 
+1. __Rachel Cowitz__. 2021. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University.
+1. __Azadeh Gharedaghi__. 2021. Masters of Public Health Practicum. Supervisor. School of Public Health. University of Saskatchewan.
+2. __Asia Holloway__. 2020. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+3. __SeyedJavad KhataeiPour__. 2019. Computer Science Co-Op. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+4. __Machel Rayner__. 2018. Masters of Public Health Practicum. Supervisor. School of Human Kinetics and Recreation. Memorial University 
+5. __Nathan Taylor__. 2017. Masters of Public Health Practicum. Supervisor. Neighbourhood Active Living Potential on the Avalon Peninsula. Memorial University
+6. __Satyadeva Challa__. 2014. Masters of Public Health Practicum. Supervisor. Stress Mapping and Network Connectivity Analysis. School of Public Health. University of Saskatchewan.
+7. __Anna Chen__. 2013. Masters of Public Health Practicum. Supervisor. Analyzing road surface conditions, time of the day, and road structural factors associated with bicycle collisions from 2000 to 2010 in Saskatoon, Saskatchewan. School of Public Health. University of Saskatchewan.
 
-### <span style="color:#81112c">Post Doctoral Fellows</span>
+#### <span style="color:#81112c">Committee Member</span>  
+
+##### <span style="color:#81112c">MSc</span>  
+1. __Sara Bree__. 2016. MSc Program. Committee Member. Transit Accessibility: Modelling Ridership in Saskatoon’s Planned BRT System. Department of Geography and Planning. University of Saskatchewan.
+2. __Kate Hosford__. 2016. MSc Program. Committee Member. Impacts of a Public Bike Share Program in Vancouver, BC: Changes in Population Cycling Levels and Program Perceptions and Attitudes. Faculty of Health Sciences, Simon Fraser University.
+3. __Lisa Thurairasu__. 2013. MSc Program. Committee Member. Examining Individual and Area Level Income Inequalities in Urban Saskatchewan: A Case of Diabetes. Department of Community Health and Epidemiology. University of Saskatchewan.
+4. __Mariève Thetreault-Deslands__. 2011. MPH Program. Committee Member. Utilitarian walking and diabetes: a cross-sectionnal study in Montreal, Canada. Departement de Medecine sociale et preventive. Faculte de Medecine. Universite de Montreal.
+5. __Geneviève Boily__. 2010. MPH Program. Committee Member. L’association entre l’utilisation du transport actif et l’etat de sante auto-rapporte chez des adultes montrealais. Departement de Medecine sociale et preventive. Faculte de Medecine. Universite de Montreal.
+
+##### <span style="color:#81112c">PhD</span>  
+1. __Se’era Anstruthers__. 2017. PhD Program. Committee Member. The Influence of Socioeconomic Factors and Location on the Impact of Children in Healthy Start-Depart Sante. Department of Nutrition. University of Saskatchewan. 
+2. __Adriana Fonseca__. 2016. PhD Program. Committee Member.  Physical activity and chronic back disorders in Canadian adults. Department of Community Health and Epidemiology. University of Saskatchewan.
+3. __Larisa Lotoski__. 2015. PhD Program. Committee Member. A 4-season longitudinal study examining the association between seasonality and sedentary behaviour in 8-11 year old Canadian children. Department of Community Health and Epidemiology. University of Saskatchewan. 
+
+## <span style="color:#81112c">Post Doctoral Fellows</span>
 
 | Name | Program  | Completion | Institution | 
 |------|---------|------------|-------------| 
+| Hiroshi Mamiya | Post Doctoral Fellow | Ongoing | University of Saskatchewan | 
 | Hui (Henry) Luan | Post Doctoral Fellow | 2018 | Memorial University | 
 
 ### <span style="color:#81112c">Research Assistants</span>  
