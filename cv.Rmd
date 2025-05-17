@@ -485,34 +485,47 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
-| University of Saskatchewan  | 2023 | Winter | CHEP 801 | Epidemiology II | Co-Instructor |
-| University of Saskatchewan  | 2022 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
-| University of Saskatchewan  | 2022 | Winter | CHEP 898 | Advanced Epidemiology | Co-Instructor |
-| University of Saskatchewan  | 2022 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-Instructor |
+| Artificial Intelligence for Public Health  | 2025 | Winter | AI4PH  |  Analysis of Biosignal Data | Instructor |
+| University of Saskatchewan  | 2025 | Winter | CHEP 898 | Data Science for Epidemiology | Instructor |
+|   | 2025 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2024 | Fall | CHEP 898 | Introduction to R | Instructor |
+|   | 2024 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2024 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2024 | Winter | CHEP 801 | Epidemiology 2 | Instructor |
+|   | 2023 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2023 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
+|   | 2023 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2023 | Winter | CHEP 801 | Epidemiology 2 | Instructor |
+|   | 2022 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2022 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
+|   | 2021 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2021 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-instructor |
+| Memorial University  | 2021 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
+| Memorial University  | 2021 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
 | Memorial University  | 2020 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
-|  | 2020 | Winter | HKR 6134 | Seminar | Instructor |
+|  | 2020 | Winter | HKR 6134 | Grad Seminar | Instructor |
 |  | 2019 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
-|  | 2019 | Fall | HKR 6134 | Seminar | Instructor |
-|  | 2019 | Fall | HKR 6134 | Seminar | Instructor |
+|  | 2019 | Fall | HKR 6134 | Grad Seminar | Instructor |
+|  | 2019 | Fall | HKR 6134 |  Grad Seminar | Instructor |
 | | 2019 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
 |  | 2018 | Winter | HKR 6134 | Seminar | Instructor |
 |  | 2019 | Fall | HKR 4600 | Research Methods | Instructor | 
-|  | 2018 | Fall | HKR 6134 | Seminar | Instructor |
+|  | 2018 | Fall | HKR 6134 | Grad Seminar | Instructor |
 |  | 2018 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
-|  | 2018 | Winter | HKR 6134 | Seminar | Instructor |
+|  | 2018 | Winter | HKR 6134 | Grad Seminar | Instructor |
 |  | 2017 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
-|  | 2017 | Fall | HKR 6134 | Seminar | Instructor |
+|  | 2017 | Fall | HKR 6134 | Grad Seminar | Instructor |
 |  | 2017 | Summer | HKR 3400 | Social Determinants of Health | Instructor | 
-|  | 2017 | Winter | HKR 6134 | Seminar | Instructor | 
-|  | 2016 | Fall | HKR 6134 | Seminar | Instructor | 
-| University of Saskatchewan | 2016 | Winter | PUBH 840 | Public Health Practice | Instructor | 
-|  | 2016 | Fall | PUBH 840 | Public Health Practice | Instructor | 
+|  | 2017 | Winter | HKR 6134 | Grad Seminar | Instructor | 
+|  | 2016 | Fall | HKR 6134 | Grad Seminar | Instructor | 
+| University of Saskatchewan | 2016 | Winter | PUBH 840 | Public Health Capstone | Instructor | 
+|  | 2016 | Fall | PUBH 840 | Public Health Capstone | Instructor | 
 |  | 2016 | Fall | PUBH 898 | Social Epidemiology | Instructor | 
-|  | 2015 | Winter | PUBH 840 | Public Health Practice | Instructor | 
+|  | 2015 | Winter | PUBH 840 | Public Health Capstone | Instructor | 
 |  | 2015 | Summer | PUBH 804 | Foundations of Public Health | Instructor | 
-|  | 2014 | Fall | PUBH 840 | Public Health Practice | Instructor | 
+|  | 2014 | Fall | PUBH 840 | Public Health Capstone | Instructor | 
 |  | 2014 | Fall | CHEP 898 | Population Health Intervention Research | Instructor | 
-| Universite de Montreal | 2011 | Winter | MSO 6068c | Multilevel Modeling | Co-Instructor | 
+| Université de Montréal | 2011 | Winter | MSO 6068c | Multilevel Modeling | Co-Instructor | 
 
 ### <span style="color:#81112c">Guest Lectures</span>
 

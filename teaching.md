@@ -51,6 +51,7 @@ I have taught 14 different courses over the course of my career. I have develope
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
+| Artificial Intelligence for Public Health  | 2025 | Winter | AI4PH  |  Analysis of Biosignal Data | Instructor |
 | University of Saskatchewan  | 2025 | Winter | CHEP 898 | Data Science for Epidemiology | Instructor |
 |   | 2025 | Winter | CHEP 990 | Graduate Seminar | Instructor |
 |   | 2024 | Fall | CHEP 898 | Introduction to R | Instructor |

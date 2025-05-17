@@ -228,7 +228,6 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
 
-
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 1. Kauffeldt K, Shareck M, Bell S, Collins P, Diab E, Lachapelle U, Manaugh K, Couture-Ménard, M-È, Beck B, Pearson L, Chevrier T, Winters M, __Fuller D__, Cloutier M-S, Laberee K, & Tomasone J. (Submitted). Strategic investments in transportation: A protocol paper exploring the implementation of sustainable transportation interventions in Canadian cities. BMJ Open (bmjopen-2025-104526).
 1. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Implementation Science. Manuscript Number: IMPS-D-24-00619.
@@ -484,34 +483,47 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
-| University of Saskatchewan  | 2023 | Winter | CHEP 801 | Epidemiology II | Co-Instructor |
-| University of Saskatchewan  | 2022 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
-| University of Saskatchewan  | 2022 | Winter | CHEP 898 | Advanced Epidemiology | Co-Instructor |
-| University of Saskatchewan  | 2022 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-Instructor |
+| Artificial Intelligence for Public Health  | 2025 | Winter | AI4PH  |  Analysis of Biosignal Data | Instructor |
+| University of Saskatchewan  | 2025 | Winter | CHEP 898 | Data Science for Epidemiology | Instructor |
+|   | 2025 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2024 | Fall | CHEP 898 | Introduction to R | Instructor |
+|   | 2024 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2024 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2024 | Winter | CHEP 801 | Epidemiology 2 | Instructor |
+|   | 2023 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2023 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
+|   | 2023 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2023 | Winter | CHEP 801 | Epidemiology 2 | Instructor |
+|   | 2022 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2022 | Fall | CHEP 816 | Population Health Intervention Research | Instructor |
+|   | 2021 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2021 | Winter | CHEP 811 | Professional Research Skills in Community and Population Health Research | Co-instructor |
+| Memorial University  | 2021 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
+| Memorial University  | 2021 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
 | Memorial University  | 2020 | Winter | HKR 6000 | Quantitative Methods in Physical Education | Instructor |
-|  | 2020 | Winter | HKR 6134 | Seminar | Instructor |
+|  | 2020 | Winter | HKR 6134 | Grad Seminar | Instructor |
 |  | 2019 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
-|  | 2019 | Fall | HKR 6134 | Seminar | Instructor |
-|  | 2019 | Fall | HKR 6134 | Seminar | Instructor |
+|  | 2019 | Fall | HKR 6134 | Grad Seminar | Instructor |
+|  | 2019 | Fall | HKR 6134 |  Grad Seminar | Instructor |
 | | 2019 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
 |  | 2018 | Winter | HKR 6134 | Seminar | Instructor |
 |  | 2019 | Fall | HKR 4600 | Research Methods | Instructor | 
-|  | 2018 | Fall | HKR 6134 | Seminar | Instructor |
+|  | 2018 | Fall | HKR 6134 | Grad Seminar | Instructor |
 |  | 2018 | Winter | HKR 3400 | Social Determinants of Health | Instructor | 
-|  | 2018 | Winter | HKR 6134 | Seminar | Instructor |
+|  | 2018 | Winter | HKR 6134 | Grad Seminar | Instructor |
 |  | 2017 | Fall | HKR 6130 | Computer Applications for Physical Activity Measurement and Intervention | Instructor |
-|  | 2017 | Fall | HKR 6134 | Seminar | Instructor |
+|  | 2017 | Fall | HKR 6134 | Grad Seminar | Instructor |
 |  | 2017 | Summer | HKR 3400 | Social Determinants of Health | Instructor | 
-|  | 2017 | Winter | HKR 6134 | Seminar | Instructor | 
-|  | 2016 | Fall | HKR 6134 | Seminar | Instructor | 
-| University of Saskatchewan | 2016 | Winter | PUBH 840 | Public Health Practice | Instructor | 
-|  | 2016 | Fall | PUBH 840 | Public Health Practice | Instructor | 
+|  | 2017 | Winter | HKR 6134 | Grad Seminar | Instructor | 
+|  | 2016 | Fall | HKR 6134 | Grad Seminar | Instructor | 
+| University of Saskatchewan | 2016 | Winter | PUBH 840 | Public Health Capstone | Instructor | 
+|  | 2016 | Fall | PUBH 840 | Public Health Capstone | Instructor | 
 |  | 2016 | Fall | PUBH 898 | Social Epidemiology | Instructor | 
-|  | 2015 | Winter | PUBH 840 | Public Health Practice | Instructor | 
+|  | 2015 | Winter | PUBH 840 | Public Health Capstone | Instructor | 
 |  | 2015 | Summer | PUBH 804 | Foundations of Public Health | Instructor | 
-|  | 2014 | Fall | PUBH 840 | Public Health Practice | Instructor | 
+|  | 2014 | Fall | PUBH 840 | Public Health Capstone | Instructor | 
 |  | 2014 | Fall | CHEP 898 | Population Health Intervention Research | Instructor | 
-| Universite de Montreal | 2011 | Winter | MSO 6068c | Multilevel Modeling | Co-Instructor | 
+| Université de Montréal | 2011 | Winter | MSO 6068c | Multilevel Modeling | Co-Instructor | 
 
 ### <span style="color:#81112c">Guest Lectures</span>
 
@@ -566,6 +578,10 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 ## <span style="color:#81112c">Graduate Student Supervision</span>  
 
 #### <span style="color:#81112c"> MSc Supervisor</span>  
+1. __Patricia Salazar__. Ongoing. The Role of Mode of Transportation in Physical Activity: Socioeconomic Influences on Active Mobility in Urban Environments.
+1. __Bernard Asante__. Ongoing. Evaluating wearable and smartphone accelerometer data for physical activity monitoring using data imputation and machine learning techniques.
+1. __Katrina Pearman__. Ongoing. Examination of commercial wearable devices for children and youth who use manual wheelchairs. 
+1. __Meherun Nahar__. Ongoing. Association Between Public Transit Use and Happiness Across Four Canadian Cities: A Multilevel Analysis Using Longitudinal Data. 
 1. __Summayah Mussa__. 2020. Comparing Accelerometer Processing Metrics for Physical Activity Classification Accuracy using Machine Learning Methods. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University 
 3. __Kole Phillips__. 2019. Novel measures of physical activity: String Analysis of Behavior Log Elements (StABLE). MSc Program. Co-Supervisor with Dr. Kevin Stanley. Department of Computer Science. University of Saskatchewan.
 4. __Rebecca Maher__. 2019. Exercise interventions and fertility outcomes for women experiencing obesity and infertiliy: a narrative review. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University.
@@ -575,6 +591,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 8. __Melissa Tobin__. 2017. Examining the association between cycling infrastructure and cycling: Baseline results from INTERACT Victoria. MSc Program. Supervisor. School of Human Kinetics and Recreation. Memorial University
 
 #### <span style="color:#81112c">PhD Supervisor</span>  
+1. __Tyler Pittman__. Ongoing. Changes in ownership and super-organization of American nursing homes in hospital referral region during the COVID-19 pandemic.
 1. __Wendy Verity__. 2021. Equitable Access to Forever in Motion Programs in Saskatchewan. PhD Program. Committee Member. Department of Community Health and Epidemiology. University of Saskatchewan.
 1. __Shelby Sturrock__. 2021. The Impact of COVID-19 restrictions on Physical Activity in Canada. PhD Program. Co-Supervisor with Dr. Dionne Gesink. Dalla Lana School of Public Health. University of Toronto. 
 2. __Ryan Collins__. 2020. Associations between Circadian Rhythm, Physical Activity, Mood, and Cognitive Function During the First Year of Treatment for Breast Cancer. PhD Program. Co-Supervisor with Dr. Sheila Garland. Department of Psychology. Memorial University. 
