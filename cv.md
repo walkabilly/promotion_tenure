@@ -92,7 +92,7 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 
 ## <span style="color:#81112c">Publications</span>
 
-## <span style="color:#81112c">Peer Reviewed</span>
+## <span style="color:#81112c">Peer Reviewed Publications</span>
 
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
