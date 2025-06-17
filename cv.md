@@ -231,7 +231,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
-1. Kauffeldt K, Shareck M, Bell S, Collins P, Diab E, Lachapelle U, Manaugh K, Couture-Ménard, M-È, Beck B, Pearson L, Chevrier T, Winters M, __Fuller D__, Cloutier M-S, Laberee K, & Tomasone J. (Submitted). Strategic investments in transportation: A protocol paper exploring the implementation of sustainable transportation interventions in Canadian cities. BMJ Open (bmjopen-2025-104526).
+1. _Kauffeldt K D_, Shareck M, Bell S,  Collins P, Diab E, Lachapelle U, Manaugh K,  Couture-Ménard M-E, Beck B, Pearson L, Chevrier T; Winters M, Fuller D, Cloutier M-S,  Laberee K, Tomasone J. Strategic investments in transportation: A protocol paper exploring the implementation of sustainable transportation interventions in Canadian cities. Urban Transitions. Manuscript Number: UBTR-D-25-00111
 1. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Implementation Science. Manuscript Number: IMPS-D-24-00619.
 1. _Verity W_, Foulds H, McIlduff C, __Fuller D__, Leis A.  Conceptualizing Access to a Group-Based Older Adult Physical Activity Program in Saskatchewan: Demographics, Distributions, and Dimensions of Levesque’s Access to Healthcare Framework. Health Promotion and Chronic Disease Prevention in Canada. 
 1. __Fuller D__, Ellis R, Mongeon K. Changes in Step Count Accuracy of Wearable Devices Over Time as New Models are Released to the Market. 2024. Pre-print available [https://osf.io/h38se/](https://osf.io/h38se/).
@@ -239,9 +239,9 @@ Daniel Fuller __bold__
 1. Alhassan J, _Ibeh K_, __Fuller D__. The Health and Socioeconomic Impacts of Free Transportation Schemes: A Scoping Review of Evidence from 9 Countries. Journal of Transport & Health. Manuscript Number: JTH-D-25-00306.
 1. Mamiya H, __Fuller D__. Comparing dose-response associations between cardiovascular disease and three measurement methods for accelerometer-derived moderate-vigorous physical activity: retrospective cohort study using UK Biobank. Cardiovascular Research.
 
-
 ### <span style="color:#81112c">Letters to the Editor</span>
-1. Paulsen, P., Fuller, D. Scrolling for data or doom during COVID-19?. Can J Public Health. 2020. 111, 490–491. [https://doi.org/10.17269/s41997-020-00376-5](https://doi.org/10.17269/s41997-020-00376-5)
+1. _Pearman K_, __Fuller D.__ Current landscape of social media and (Canadian Journal of) public health: Constructive engagement is needed and encouraged. Can J Public Health. 2025. [https://doi.org/10.17269/s41997-025-01052-2](https://doi.org/10.17269/s41997-025-01052-2)
+1. _Paulsen P,_, __Fuller D.__ Scrolling for data or doom during COVID-19?. Can J Public Health. 2020. 111, 490–491. [https://doi.org/10.17269/s41997-020-00376-5](https://doi.org/10.17269/s41997-020-00376-5)
 1. Fuller, D., Potvin, L. Social media and the Canadian Journal of Public Health. Can J Public Health. 2020. 111, 149–150. [https://doi.org/10.17269/s41997-020-00301-w](https://doi.org/10.17269/s41997-020-00301-w)
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
