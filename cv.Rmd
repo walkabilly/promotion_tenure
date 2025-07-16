@@ -230,6 +230,7 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
 1. _Mamiya H_, __Fuller, D.__  Quantifying the Uncertainty of Human Activity Recognition Using a Bayesian Machine Learning Method: A Prediction Study. Physical Activity and Nutrition. [Preprint](https://www.medrxiv.org/content/10.1101/2023.08.16.23294126v1)
+1. Alhassan J, _Ibeh K_, __Fuller D__. The Health and Socioeconomic Impacts of Free Transportation Schemes: A Scoping Review of Evidence from 9 Countries. Journal of Transport & Health. Manuscript Number: JTH-D-25-00306.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
@@ -239,7 +240,6 @@ Daniel Fuller __bold__
 1. _Verity W_, Foulds H, McIlduff C, __Fuller D__, Leis A.  Conceptualizing Access to a Group-Based Older Adult Physical Activity Program in Saskatchewan: Demographics, Distributions, and Dimensions of Levesque’s Access to Healthcare Framework. Health Promotion and Chronic Disease Prevention in Canada. 
 1. __Fuller D__, Ellis R, Mongeon K. Changes in Step Count Accuracy of Wearable Devices Over Time as New Models are Released to the Market. 2024. Pre-print available [https://osf.io/h38se/](https://osf.io/h38se/).
 7. Vatanparast H, _Anstruther S M_, Feng C X, __Fuller D__, Engler-Stringer R, Leis A, Osgood N D. The Role of Sociodemographic Factors on Nutrient Density of Food Consumed by 3-5-year-old Children from the Healthy Start/Départ Santé Intervention: A Randomized Controlled Trial. 2023. American Journal of Clinical Nutrition.
-1. Alhassan J, _Ibeh K_, __Fuller D__. The Health and Socioeconomic Impacts of Free Transportation Schemes: A Scoping Review of Evidence from 9 Countries. Journal of Transport & Health. Manuscript Number: JTH-D-25-00306.
 1. Mamiya H, __Fuller D__. Comparing dose-response associations between cardiovascular disease and three measurement methods for accelerometer-derived moderate-vigorous physical activity: retrospective cohort study using UK Biobank. Cardiovascular Research.
 
 ### <span style="color:#81112c">Letters to the Editor</span>
