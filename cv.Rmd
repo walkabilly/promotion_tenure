@@ -99,6 +99,7 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _Ibeh C C_, __Fuller D__, & Alhassan J A K (2025). The health and socioeconomic impacts of free transportation initiatives: A scoping review. Journal of Transport & Health, 44(June), 102139. [https://doi.org/10.1016/j.jth.2025.102139](https://doi.org/10.1016/j.jth.2025.102139).
 1. Sturrock S, Moineddin R, Gesink D, Woodruff S, __Fuller D__. 2025. The effect of software and hardware version on Apple Watch activity measurement: A secondary analysis of the COVFIT retrospective cohort study. PLOS Digital Health. 4(4): e0000727. [https://doi.org/10.1371/journal.pdig.0000727](https://doi.org/10.1371/journal.pdig.0000727)
 1. _Verity W_, Poirier Stephens Z, Lin H, Ottoni C A, Bourgeois E, Kestens Y, __Fuller D__, Manaugh K, Winters M. Health and equity considerations in policy and practice related to sustainable transportation interventions in four Canadian cities. Journal of Transport & Health. Volume 41, March 2025, 102009. [https://doi.org/10.1016/j.jth.2025.102009](https://doi.org/10.1016/j.jth.2025.102009).
 1. Ferster, C., Laberee, K., Nelson, T., Winters, M., Cloutier, M-S., and Fuller, D. 2024. Top pedestrian concerns mapped by on WalkRollMap.org. Canadian Geographies / Géographies canadiennes. [https://doi.org/10.1111/cag.70005](https://doi.org/10.1111/cag.70005).
@@ -230,7 +231,6 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
 1. _Mamiya H_, __Fuller, D.__  Quantifying the Uncertainty of Human Activity Recognition Using a Bayesian Machine Learning Method: A Prediction Study. Physical Activity and Nutrition. [Preprint](https://www.medrxiv.org/content/10.1101/2023.08.16.23294126v1)
-1. Alhassan J, _Ibeh K_, __Fuller D__. The Health and Socioeconomic Impacts of Free Transportation Schemes: A Scoping Review of Evidence from 9 Countries. Journal of Transport & Health. Manuscript Number: JTH-D-25-00306.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
