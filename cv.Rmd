@@ -231,6 +231,7 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
 1. _Mamiya H_, __Fuller, D.__  Quantifying the Uncertainty of Human Activity Recognition Using a Bayesian Machine Learning Method: A Prediction Study. Physical Activity and Nutrition. [Preprint](https://www.medrxiv.org/content/10.1101/2023.08.16.23294126v1)
+1. Plante C, Datta Gupta S, Bandara T, Beland D, Blaser C, Camillo CA, de Villa E, Dutton D, Fuller D, Hasselback J, Lix LM, Marouzi A, Muhajarine N, Notten G, Reimer B, Wolfson M, Young M, Yupanqui Concha D, Neudorf C. 2025. Multilevel estimation of the relative impacts of social determinants on income-related health inequalities in urban Canada: Protocol for the Canadian Social Determinants Urban Laboratory. JMIR Res Protoc. 
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
