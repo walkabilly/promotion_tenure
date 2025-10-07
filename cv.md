@@ -270,6 +270,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Technical Reports</span>
 
+1. World Health Organization. Measuring Physical Activity in Adults Using Wearable Technologies: Report of a Scientific Meeting. 10-12, June 2025, Montreal, Canada. 
 1. Exon Smith K, Chapple K, Fagan D, Siemiatycki M. Canada's Urban Infrastructure Deficit: Toward democracy & equitable prosperity. 2024. Chapter 8: Moving Healthy Cities Forward - The state of cycling infrastructure in Canada. __Fuller D__, Winters M, Kestens Y, Mamiya H, Sones M, Thierry B, Poirier Stephens Z. [https://stateofcitiessummit.ca/report](https://stateofcitiessummit.ca/report).
 1. Holloway A, Chafe B, Fuller D.  Health and economic benefits of walking in St. John’s, Newfoundland and Labrador. [http://www.beaplab.com/home/wp-content/uploads/2020/08/HEAT-St-Johns.pdf](http://www.beaplab.com/home/wp-content/uploads/2020/08/HEAT-St-Johns.pdf)
 1. Vanlaar W, Woods-Fry H, Mainegra Hing M, Robertson R, Laberee K, Ferster C, and  Nelson T. Bikemaps.org: Final report on the evaluation of a crowdsourced tool to compile, analyze and communicate data about cycling safety. 2020. Traffic Injury Research Foundation. 
