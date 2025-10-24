@@ -234,6 +234,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Singh J, Coleman T, Nyambi A, _Pittman T_, Dogget A, Andre F, Dupuis J, __Fuller D__. Collaboratively Building Teaching Resources for EDI in Epidemiology and Biostatistics. Canadian Journal of Public Health. Manuscript ID: CJPH-S-25-00649. 
 1. _Pittman T_, __Fuller D__. Hidden ownership, asymmetrical information and multidecadal contractual obligations at Saskatchewan’s first public-private partnership long-term care home: a case study. Canadian Journal of Public Health. Manuscript ID: CJPH-D-25-00413.
 1. Mamiya H, Thierry B, Poirier Stephens Z, Bell S, Diab E, Kestens Y, Winters M,  __Fuller D.__ Temporal shifts in area-level access to cycling infrastructure for equity-deserving groups in three Canadian cities: a descriptive epidemiologic study. Canadian Journal of Public Health. 
 2. Beauchamp M K, D’Amore C, Raina P, McIlroy B, Adesina N, Ahmadi M, Alcock L, Becker C,  Doherty A, Donnelly A, Eslinger D W, Fenton SAM, __Fuller D__, Garcia-Aymerich J, Hausdorff J M, Hesketh K, Hillsdon M, Prince S P, Richardson J, Schrack JA, Stamatakis E, Van Ooteghem K, Wainwright T M, Wanigatunga AA, Western M J, Stathi A. Establishing global standards on wearable technology for measuring mobility in aging populations: an international consensus exercise. Lancet Digital Health. [Preprint](https://dx.doi.org/10.2139/ssrn.5373737).
