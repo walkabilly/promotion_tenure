@@ -231,13 +231,13 @@ Daniel Fuller __bold__
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
 1. _Mamiya H_, __Fuller, D.__  Quantifying the Uncertainty of Human Activity Recognition Using a Bayesian Machine Learning Method: A Prediction Study. Physical Activity and Nutrition. [Preprint](https://www.medrxiv.org/content/10.1101/2023.08.16.23294126v1)
 1. Plante C, Datta Gupta S, Bandara T, Beland D, Blaser C, Camillo CA, de Villa E, Dutton D, Fuller D, Hasselback J, Lix LM, Marouzi A, Muhajarine N, Notten G, Reimer B, Wolfson M, Young M, Yupanqui Concha D, Neudorf C. 2025. Multilevel estimation of the relative impacts of social determinants on income-related health inequalities in urban Canada: Protocol for the Canadian Social Determinants Urban Laboratory. JMIR Res Protoc. 
+1. Beauchamp M K, D’Amore C, Raina P, McIlroy B, Adesina N, Ahmadi M, Alcock L, Becker C,  Doherty A, Donnelly A, Eslinger D W, Fenton SAM, __Fuller D__, Garcia-Aymerich J, Hausdorff J M, Hesketh K, Hillsdon M, Prince S P, Richardson J, Schrack JA, Stamatakis E, Van Ooteghem K, Wainwright T M, Wanigatunga AA, Western M J, Stathi A. Establishing global standards on wearable technology for measuring mobility in aging populations: an international consensus exercise. Age and Aging. [Preprint](https://dx.doi.org/10.2139/ssrn.5373737).
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
 1. Singh J, Coleman T, Nyambi A, _Pittman T_, Dogget A, Andre F, Dupuis J, __Fuller D__. Collaboratively Building Teaching Resources for EDI in Epidemiology and Biostatistics. Canadian Journal of Public Health. Manuscript ID: CJPH-S-25-00649. 
 1. _Pittman T_, __Fuller D__. Hidden ownership, asymmetrical information and multidecadal contractual obligations at Saskatchewan’s first public-private partnership long-term care home: a case study. Canadian Journal of Public Health. Manuscript ID: CJPH-D-25-00413.
 1. Mamiya H, Thierry B, Poirier Stephens Z, Bell S, Diab E, Kestens Y, Winters M,  __Fuller D.__ Temporal shifts in area-level access to cycling infrastructure for equity-deserving groups in three Canadian cities: a descriptive epidemiologic study. Canadian Journal of Public Health. 
-2. Beauchamp M K, D’Amore C, Raina P, McIlroy B, Adesina N, Ahmadi M, Alcock L, Becker C,  Doherty A, Donnelly A, Eslinger D W, Fenton SAM, __Fuller D__, Garcia-Aymerich J, Hausdorff J M, Hesketh K, Hillsdon M, Prince S P, Richardson J, Schrack JA, Stamatakis E, Van Ooteghem K, Wainwright T M, Wanigatunga AA, Western M J, Stathi A. Establishing global standards on wearable technology for measuring mobility in aging populations: an international consensus exercise. Lancet Digital Health. [Preprint](https://dx.doi.org/10.2139/ssrn.5373737).
 3. _Kauffeldt K D_, Shareck M, Bell S,  Collins P, Diab E, Lachapelle U, Manaugh K,  Couture-Ménard M-E, Beck B, Pearson L, Chevrier T; Winters M, Fuller D, Cloutier M-S,  Laberee K, Tomasone J. Strategic investments in transportation: A protocol paper exploring the implementation of sustainable transportation interventions in Canadian cities. Urban Transitions. Manuscript Number: UBTR-D-25-00111
 4. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Implementation Science. Manuscript Number: IMPS-D-24-00619.
 5. _Verity W_, Foulds H, McIlduff C, __Fuller D__, Leis A.  Conceptualizing Access to a Group-Based Older Adult Physical Activity Program in Saskatchewan: Demographics, Distributions, and Dimensions of Levesque’s Access to Healthcare Framework. Health Promotion and Chronic Disease Prevention in Canada. 
@@ -497,6 +497,10 @@ TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who d
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
+| Artificial Intelligence for Public Health  | 2025 | Fall | AI4PH  |  Foundations of Machine Learning and Artificial Intelligence | Instructor |
+| University of Saskatchewan  | 2025 | Fall | CHEP 801 | Epidemiology 2 | Instructor |
+|   | 2025 | Fall | CHEP 990 | Graduate Seminar | Instructor |
+|   | 2025 | Fall | CHEP 898 | Introduction to R | Instructor |
 | Artificial Intelligence for Public Health  | 2025 | Winter | AI4PH  |  Analysis of Biosignal Data | Instructor |
 | University of Saskatchewan  | 2025 | Winter | CHEP 898 | Data Science for Epidemiology | Instructor |
 |   | 2025 | Winter | CHEP 990 | Graduate Seminar | Instructor |
