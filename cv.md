@@ -236,6 +236,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Khezri S, Thierry B, __Fuller D,__ Winters M, Kanning M, El Geneidy A, Kestens Y. Exposure to built and social environments and momentary well-being: A geographic ecological momentary assessment study in Montreal. Environment International. 
 1. Han J, Stanley K G, __Fuller D.__ A Feature-Based Framework for Evaluating Synthetic Human Mobility. Transactions on Spatial Algorithms and Systems. Manuscript ID: TSAS-2026-7.
 1. Tomasone, J. R., Price, J., Warren, S. M., Sturrock, S. L., Ruissen, G. R., Fuller, D., Thompson, B., McKenna, J., Vanderloo, L. M., Ng, N., Latimer-Cheung, A. E., Lane, K. N., Blackett, B., Dolf, M., & Faulkner, G. Feasibility, acceptability and potential impact of a ParticipACTION app-based intervention to improve post-secondary students’ movement behaviours: A proof-of-concept study. BMC Pilot and Feasibility Studies.
 1. Khezri S, Thierry B, __Fuller D__, Winters M, Kanning M, El Geneidy A, Kestens Y. Exposure to built and social environments and momentary well-being: A geographic ecological momentary assessment study in Montreal. Environment International. Manuscript ID: ENVINT-D-25-07405.
