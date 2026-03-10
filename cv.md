@@ -263,6 +263,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Books or Book Chapters</span>
 
+1. Alhassan JAK, _Chima C_, & __Fuller D__. Health impacts of fare free transportation initiatives around the world: A scoping review of existing evidence. Health on the move. Volume 3. 
 1.	Benmarhnia, T., **Fuller, D.**, McKinnon, B. (2018). Utilisation de methodes quasi experimentales pour evaluer l’effet de l’age egal minimum pour la consommation d'alcool sur la mortalite accidentelle chez les jeunes in Ridde, V., Dagenais, C. Eds.). 2015. Methodes avancees d’evaluation d’interventions de sante mondiale. *Code* here: https://github.com/walkabilly/methode_evaluation  
 2. **Fuller, D.**, Hobin, E. Natural Experiments of Addressing Chronic Disease in Harrington, D. McLafferty, S. Elliott., J. (Eds.). 2016. Population Health Intervention Research: Geographical Perspective. Ashgate Books. 15 pages.
 
