@@ -237,6 +237,7 @@ Daniel Fuller __bold__
 1. _Pittman T_, Carr T, Muhajarine M, __Fuller D.__ Ownership change in American nursing homes during the COVID-19 pandemic and the relationship with measures in Donabedian's model of care quality. The Gerontologist. Manuscript ID: TG-2025-0876.
 1. __Fuller D__, Ghasedi M, Achot G, Ross N. Can-ALE 2.0: Development of an open-source pipeline for the replication and extension of the Canadian Active Living Environments measure. Health Reports. [https://can-ale.ca/](https://can-ale.ca/).
 1. Keadle K S, Strath S, Giurgiu M, __Fuller D__, Marti M, Doherty A, Ahmadi M, Hyde E, Troiano R, Matthews C. The PhasED Framework: A Measurement Theory–Based Approach to Algorithm Development and Evaluation. Journal for the Measurement of Physical Behaviour. Manuscript ID: JMPB.2025-0074.
+1. Fuller D, Stanley K G. Discussion on 'INTACT: A method for integration of longitudinal physical activity data from multiple sources' by Jingru Zhang, Erjia Cui, Hongzhe Li, and Haochang Shou". Biometrics. Manucsript ID: BIOM2025845D. 
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
