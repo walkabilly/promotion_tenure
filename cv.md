@@ -238,6 +238,7 @@ Daniel Fuller __bold__
 1. __Fuller D__, Ghasedi M, Achot G, Ross N. Can-ALE 2.0: Development of an open-source pipeline for the replication and extension of the Canadian Active Living Environments measure. Health Reports. [https://can-ale.ca/](https://can-ale.ca/).
 1. Keadle K S, Strath S, Giurgiu M, __Fuller D__, Marti M, Doherty A, Ahmadi M, Hyde E, Troiano R, Matthews C. The PhasED Framework: A Measurement Theory–Based Approach to Algorithm Development and Evaluation. Journal for the Measurement of Physical Behaviour. Manuscript ID: JMPB.2025-0074.
 1. Fuller D, Stanley K G. Discussion on 'INTACT: A method for integration of longitudinal physical activity data from multiple sources' by Jingru Zhang, Erjia Cui, Hongzhe Li, and Haochang Shou". Biometrics. Manucsript ID: BIOM2025845D. 
+1. Chavez Uceda V, Orfin RH, Panizoni E, LanzDuret-Hernandez J, Hurtado-de-Mendoza A, Chávez-Iñiguez A, __Fuller D__, Marquez DX, Ossip DJ, Li D, Vasquez E, Ramos-Santiago JW, Carter-Bawa L, Aleese RM, Yousefi Nooraie R, McIntosh S, Cupertino AP, Cartujano-Barrera F. Feasibility of using a patient portal to recruit Latino adults into a smoking cessation and physical activity randomized clinical trial: A secondary analysis. Tobacco Induced Diseases. 2026. TID-01903-2026-02.
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
