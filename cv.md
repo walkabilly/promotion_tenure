@@ -242,6 +242,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Verity W, Gopher S, Mitsuing L, Tipewan D, Moccasin D, Foulds H, McIlduff C, Fuller D, Leis A. Nitatoskēwininān Nitimahcihowininān - Our Program, Our Health: Self-Determination Promotes Feasibility and Access to an Older Adult Exercise Program in Saulteaux First Nation, Canada, to Journal of Community Health. Journal of Community Health. Manuscript ID: JOHE-D-26-01077.
 1. Salsabilian P, __Fuller D__, Lee S, Manaugh K. Addressing measurement uncertainty in neighborhood accessibility. Journal of Urban Mobility. Manuscript ID: URBMOB-D-26-00159.
 1. Salsabilian P, __Fuller D__, Lee S, Sones M, Manaugh K. Built environment change effect on active transportation following residential and workplace relocation. Transportation Research Part D. TRD-D-26-00355. 
 1. Han J, Stanley K G, __Fuller D.__ A Feature-Based Framework for Evaluating Synthetic Human Mobility. Transactions on Spatial Algorithms and Systems. Manuscript ID: TSAS-2026-7.
