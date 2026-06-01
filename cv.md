@@ -1,11 +1,10 @@
+
 ---
 title: "Curriculum vitae"
 author: "Daniel Fuller"
 output:
   html_document: 
     keep_md: yes
-    toc: true
-    toc_depth: 2
   pdf_document: default
   word_document: default
 ---
@@ -21,7 +20,7 @@ University of Saskatchewan
 Saskatoon, Saskatchewan, Canada S7N 2Z4  
 E-mail: daniel.fuller@usask.ca  
 
-## <span style="color:#81112c">Personal</span>
+## <span style="color:#81112c">1. Personal</span>
 
 Website: [www.beaplab.com/home/](http://www.beaplab.com/home/)  
 Twitter: [walkabilly](https://twitter.com/walkabilly)  
@@ -31,12 +30,12 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 * English (read, write, speak, peer review)
 * French (read, write, speak, peer review)
 
-### <span style="color:#81112c">Education</span>
+### <span style="color:#81112c">2. Degrees</span>
 
 * 2014:	Post-Doctoral Fellowship, University of Saskatchewan, Saskatoon, Saskatchewan, Canada 
-* 2012: 	Ph.D. Public Health, Universite de Montreal, Montreal, Quebec, Canada
+* 2012: Ph.D. Public Health, Universite de Montreal, Montreal, Quebec, Canada
 * 2008:	M.Sc. Kinesiology, University of Saskatchewan, Saskatoon, Saskatchewan, Canada
-* 2006: 	B.Sc. Kinesiology, University of Saskatchewan, Saskatoon, Saskatchewan, Canada 
+* 2006: B.Sc. Kinesiology, University of Saskatchewan, Saskatoon, Saskatchewan, Canada 
 
 ### <span style="color:#81112c">Additional Education</span>
 * 2011:	International Internship, Dr. Steven Cummins, Queen Mary University of London 
@@ -97,6 +96,7 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Transportation Research Interdisciplinary Perspectives. 2026. 38, 102020. [https://doi.org/10.1016/j.trip.2026.102020](https://doi.org/10.1016/j.trip.2026.102020).
 1. Lapointe Y, Kapur A, Sharma A, Panter J, __Fuller D__, Mamiya H. Non-reproducibility of wearable accelerometer methods in protective association between physical activity and cardiovascular disease: a cohort study. Preventive Medicine. 2026. 209, 108603. [https://doi.org/10.1016/j.ypmed.2026.108603](https://doi.org/10.1016/j.ypmed.2026.108603).
 1. _Mamiya H_, Thierry B, Poirier Stephens Z, Bell S, Diab E, Kestens Y, Winters M,  __Fuller D.__ Temporal shifts in area-level access to cycling infrastructure for equity-deserving groups in three Canadian cities: a descriptive epidemiologic study. Canadian Journal of Public Health. 2026. [https://doi.org/10.17269/s41997-026-01209-7](https://doi.org/10.17269/s41997-026-01209-7).
 2. _Pittman T_, Carr T, Muhajarine M, __Fuller D.__ Ownership change in American nursing homes during the COVID-19 pandemic and the relationship with measures in Donabedian's model of care quality. The Gerontologist. 2026. 66, 5. [https://doi.org/10.1093/geront/gnag021](https://doi.org/10.1093/geront/gnag021).
@@ -238,7 +238,6 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 
 1. Singh J, Coleman T, Nyambi A, _Pittman T_, Dogget A, Andre F, Dupuis J, __Fuller D__. Collaboratively Building Teaching Resources for EDI in Epidemiology and Biostatistics. Canadian Journal of Public Health. Manuscript ID: CJPH-S-25-00649. 
-1. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Transportation Research Interdisciplinary Perspectives. Manuscript Number: TRIP-D-25-01155.
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
 1. __Fuller D__, Ghasedi M, Achot G, Ross N. Can-ALE 2.0: Development of an open-source pipeline for the replication and extension of the Canadian Active Living Environments measure. Health Reports. [https://can-ale.ca/](https://can-ale.ca/).
 1. Keadle K S, Strath S, Giurgiu M, __Fuller D__, Marti M, Doherty A, Ahmadi M, Hyde E, Troiano R, Matthews C. The PhasED Framework: A Measurement Theory–Based Approach to Algorithm Development and Evaluation. Journal for the Measurement of Physical Behaviour. Manuscript ID: JMPB.2025-0074.
@@ -302,6 +301,7 @@ Daniel Fuller __bold__
 ## <span style="color:#81112c">Presentations</span>
 
 ### <span style="color:#81112c">Invited Presentations</span>
+
 1. Saturday October 16, 2021: **Fuller D**. Walkability, Health, and Urban Planning. Keep Rolling: An event to promote diversity, inclusion in Saskatoon's cycling community. Saskatoon Cycles. 
 1. Friday December 4, 2020: **Fuller D**. The Health Costs and Benefits of Urban Planning. Atlantic Planners Institute.
 1. Wednesday February 19, 2020: **Fuller D**. Emergency Panel on Pedestrian Safety in St. John's. Green New Drinks organized by the St. John's Social Justice Cooperative. 
