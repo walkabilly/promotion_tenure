@@ -5,8 +5,8 @@ author: "Daniel Fuller"
 output:
   html_document: 
     keep_md: yes
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
 
@@ -710,6 +710,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
+1. Tod Fox talks road safety on anniversary of wife's cycling death. Saskatoon Star Pheonix - Brody Langage. May 27, 2026. [https://thestarphoenix.com/news/local-news/tod-fox-talks-road-safety-on-anniversary-of-wifes-cycling-death](https://thestarphoenix.com/news/local-news/tod-fox-talks-road-safety-on-anniversary-of-wifes-cycling-death).
 1. AI-powered tech helps amateur athletes train like the pros. The Globe and Mail - Josh Greenblatt. November 4, 2024. [https://www.theglobeandmail.com/life/article-ai-powered-tech-helps-amateur-athletes-train-like-the-pros/](https://www.theglobeandmail.com/life/article-ai-powered-tech-helps-amateur-athletes-train-like-the-pros/)
 1. Rue Scarth : un retour de la circulation en voiture est-il envisageable ? Point du Jour - Radio Canada. August 16, 2024. [https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/1830309/revitaliser-rue-scarth-au-centre-ville-regina](https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/1830309/revitaliser-rue-scarth-au-centre-ville-regina)
 1. Walk the Talk: Researchers Under the Scope. University of Saskatchewan College of Medicine. June 25, 2024. [https://medicine.usask.ca/news/2024/walking-the-talk-dr-daniel-fuller-on-urban-health-and-mobility.php ](https://medicine.usask.ca/news/2024/walking-the-talk-dr-daniel-fuller-on-urban-health-and-mobility.php)
