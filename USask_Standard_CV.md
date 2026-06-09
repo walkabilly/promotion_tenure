@@ -114,6 +114,13 @@ __9.1 Scheduled Instructional Activity__
 | 2022-2023 | CHEP 816.3, Population Health Intervention Research | Instructor | 4 | 36 | 144 |
 | 2021-2022 | CHEP 990.1, Graduate Seminar | Instructor | 58 | 12 | 696 |
 | 2021-2022 | CHEP 811.3, Professional Research Skills in Community and Population Health Research | Co-Instructor | 18 | 36 | 648 |
+
+#### Previous Teaching Activity
+
+----------------------------------
+
+| Year | Course Number, Title | Instructional Type | Enrollment | Yearly Instructional Hours | YCSH | 
+|------|----------------|-------|--------------------|------------|----------------------------|-----|
 | 2021 | HKR 6130.3, Computer Applications for Physical Activity Measurement and Intervention | Instructor |  |  | |
 | 2021 | HKR 6000.3,  Quantitative Methods in Physical Education | Instructor |  |  | |
 | 2020 | HKR 6000.3, Quantitative Methods in Physical Education | Instructor |  |  | |
@@ -275,7 +282,7 @@ __Published:__
 1. Lapointe Y, Kapur A, Sharma A, Panter J, __Fuller D__, Mamiya H. Non-reproducibility of wearable accelerometer methods in protective association between physical activity and cardiovascular disease: a cohort study. Preventive Medicine. 2026. 209, 108603. [https://doi.org/10.1016/j.ypmed.2026.108603](https://doi.org/10.1016/j.ypmed.2026.108603).
     * __Contribution:__ I co-developed this study, and helped write this paper. The lead author Hiroshi Mamiya is my former Post Doctoral fellow. Contribution 10%.
     * __5-year Journal Impact Factor:__ 4.5
-1. _Mamiya H_, Thierry B, Poirier Stephens Z, Bell S, Diab E, Kestens Y, Winters M,  __Fuller D.__ Temporal shifts in area-level access to cycling infrastructure for equity-deserving groups in three Canadian cities: a descriptive epidemiologic study. Canadian Journal of Public Health. 2026. [https://doi.org/10.17269/s41997-026-01209-7](https://doi.org/10.17269/s41997-026-01209-7).
+1. __Mamiya H__, Thierry B, Poirier Stephens Z, Bell S, Diab E, Kestens Y, Winters M,  __Fuller D.__ Temporal shifts in area-level access to cycling infrastructure for equity-deserving groups in three Canadian cities: a descriptive epidemiologic study. Canadian Journal of Public Health. 2026. [https://doi.org/10.17269/s41997-026-01209-7](https://doi.org/10.17269/s41997-026-01209-7).
     * __Contribution:__ I co-developed this study, lead all data collection and helped write this paper. The first author Hiroshi Mamiya is my former Post Doctoral fellow. Contribution 30%.
     * __5-year Journal Impact Factor:__ 3.0
 2. __Pittman T__, Carr T, Muhajarine M, __Fuller D.__ Ownership change in American nursing homes during the COVID-19 pandemic and the relationship with measures in Donabedian's model of care quality. The Gerontologist. 2026. 66, 5. [https://doi.org/10.1093/geront/gnag021](https://doi.org/10.1093/geront/gnag021).
@@ -299,10 +306,10 @@ __Published:__
 8. Plante C, Datta Gupta S, Bandara T, Beland D, Blaser C, Camillo CA, de Villa E, Dutton D, __Fuller D__, Hasselback J, Lix LM, Marouzi A, Muhajarine N, Notten G, Reimer B, Wolfson M, Young M, Yupanqui Concha D, Neudorf C. Multilevel estimation of the relative impacts of social determinants on income-related health inequalities in urban Canada: Protocol for the Canadian Social Determinants Urban Laboratory. JMIR Research Protocols. 2025;14:e71929. [http://dx.doi.org/10.2196/71929](http://dx.doi.org/10.2196/71929)
     * __Contribution:__  I am a member of this research team and contribute to the grant writing and protocol development. Contribution 10%.
     * __5-year Journal Impact Factor:__ 1.5
-9. _Ibeh C C_, __Fuller D__, & Alhassan J A K (2025). The health and socioeconomic impacts of free transportation initiatives: A scoping review. Journal of Transport & Health, 44(June), 102139. [https://doi.org/10.1016/j.jth.2025.102139](https://doi.org/10.1016/j.jth.2025.102139).
+9. __Ibeh C C__, __Fuller D__, & Alhassan J A K (2025). The health and socioeconomic impacts of free transportation initiatives: A scoping review. Journal of Transport & Health, 44(June), 102139. [https://doi.org/10.1016/j.jth.2025.102139](https://doi.org/10.1016/j.jth.2025.102139).
     * __Contribution:__  I was a member of the supervisory committee for Casmir Ibeh. I particiated in the data extraction, and writing for this paper. Contribution 30%.
     * __5-year Journal Impact Factor:__ 3.3
-10. _Sturrock S_, Moineddin R, Gesink D, Woodruff S, __Fuller D__. 2025. The effect of software and hardware version on Apple Watch activity measurement: A secondary analysis of the COVFIT retrospective cohort study. PLOS Digital Health. 4(4): e0000727. [https://doi.org/10.1371/journal.pdig.0000727](https://doi.org/10.1371/journal.pdig.0000727)
+10. __Sturrock S__, Moineddin R, Gesink D, Woodruff S, __Fuller D__. 2025. The effect of software and hardware version on Apple Watch activity measurement: A secondary analysis of the COVFIT retrospective cohort study. PLOS Digital Health. 4(4): e0000727. [https://doi.org/10.1371/journal.pdig.0000727](https://doi.org/10.1371/journal.pdig.0000727)
     * __Contribution:__  I was the primary supervisor for Dr. Shelby Sturrock. I contributed to study design, data analysis, and writing. Contribution 40%.
     * __Journal Impact Factor:__ 3.5
 11. __Verity W__, Poirier Stephens Z, Lin H, Ottoni C A, Bourgeois E, Kestens Y, __Fuller D__, Manaugh K, Winters M. Health and equity considerations in policy and practice related to sustainable transportation interventions in four Canadian cities. Journal of Transport & Health. Volume 41, March 2025, 102009. [https://doi.org/10.1016/j.jth.2025.102009](https://doi.org/10.1016/j.jth.2025.102009).
@@ -331,7 +338,7 @@ __Published:__
 19. Wadden K P, Hollohan N, Furneaux T, Maher R, Barrett C, __Fuller D__, Basset F A, Murphy A, Murphy S, Healey S, McGowan R, Twells L. 2024. PRO-FIT-CARE Study: The Feasibility Assessment of a Pilot Online Exercise Intervention for Persons Living with Obesity and Female Infertility. Frontiers in Sports and Active Living. [https://doi.org/10.3389/fspor.2024.1332376](https://doi.org/10.3389/fspor.2024.1332376)
 20. _Musa S B_, _Rocky A_, Stanley K, Basset F, _Mamiya H_, Mongeon K, __Fuller D.__  2024. Comparing accelerometer processing metrics and hyper-parameter optimization for physical activity classification accuracy using machine learning methods. Journal for the Measurement of Physical Behaviour. [https://doi.org/10.1123/jmpb.2023-0033](https://doi.org/10.1123/jmpb.2023-0033).
 21. Winters, M., __Fuller, D.__, Cloutier, M-S, Harris, M.A., Howard, A., Kestens, Y., Kirk, S.F.L, Macpherson, A., Moore, S.A., Rothman, L., Shareck, M., Tomasone, J., Laberee, K., Poirier-Stephens, Z., Sones, M., Ayton, D., Batomen, B., Bell, S., Collins, P.A., Diab, E., Giles, A., Hagel, B.E., Harris, M.S., Harris, P., Lachapelle, U., Manaugh, K., Mitra, R., Muhajarine, N., Muller Myrdahl, T., Pettit, C.J., Pike, I., Skouteris, H., Wachsmuth, D., Whitehurst, D.G.T. & Beck, B. Accepted. Building CapaCITY/É for Sustainable Transportation: Protocol for an Implementation Science Research Program in Healthy Cities. BMJ Open. [https://doi.org/10.1136/bmjopen-2024-085850](https://doi.org/10.1136/bmjopen-2024-085850)
-22. Fuller, D., Stanojevic, S., Watson-Creed, G., Laura, Anderson., Natalya, Mason., Jennifer, Walker. Incorporating equity, diversity, and inclusion into the epidemiology and biostatistics curriculum: A workshop report and implementation strategies recommendations. Can J Public Health (2024). [https://doi.org/10.17269/s41997-024-00876-8](https://doi.org/10.17269/s41997-024-00876-8).
+22. Fuller, D., Stanojevic, S., Watson-Creed, G., Laura, Anderson., Natalya, Mason., Jennifer, Walker. Incorporating equity, diversity, and inclusion into the epidemiology and biostatistics curriculum: A workshop report and implementation strategies recommendations. Can J Public Health. 2024. [https://doi.org/10.17269/s41997-024-00876-8](https://doi.org/10.17269/s41997-024-00876-8).
 23. Doiron D, Setton E N, Seyer J, Redivo A, McKee A, Noaeen M, Patel P, Booth G L, Brauer M, __Fuller D__, Kestens Y, Rosella L C, Stieb D, VilleneuveP, Brook J R. HealthyPlan.City: A Web Tool to Support Urban Environmental Equity and Public Health in Canadian Communities. 2024. Journal of Urban Health. [https://doi.org/10.1007/s11524-024-00855-x](https://doi.org/10.1007/s11524-024-00855-x).
 24. _Kiani B_, Thierry B, Apparicio P, Firth C, __Fuller D__, Winters M, Kestens Y. Associations between gentrification, census tract-level socioeconomic status, and cycling infrastructure expansions in Montreal, Canada. SSM - Population Health. 25, March 2024, 101637. [https://doi.org/10.1016/j.ssmph.2024.101637](https://doi.org/10.1016/j.ssmph.2024.101637).
 25. _Barua A_, __Fuller D__, Jiang X. Investigating The Effectiveness of Simple Heuristic Features in Solving Sensor Orientation and Sensor Placement Problems in Human Activity Recognition Using A Single Smartphone Accelerometer. BioMed Eng OnLine 23, 21 (2024). [https://doi.org/10.1186/s12938-024-01213-3](https://doi.org/10.1186/s12938-024-01213-3).
@@ -359,11 +366,16 @@ __Published:__
 46. _Firth C L_, Kestens Y, Winters M, Stanley K, Bell S, Thierry B, Phillips K, Poirier-Stephens Z, __Fuller D__. Using combined Global Position System and accelerometer data points to examine how built environments and gentrification are associated with physical activity in four Canadian cities. 2022. International Journal of Behavioral Nutrition and Physical Activity, 19, 78. [https://doi.org/10.1186/s12966-022-01306-z](https://doi.org/10.1186/s12966-022-01306-z).
 47. _Afosool A_, __Fuller D__, Chen Y. ALF-Score - A novel approach to build a predictive network-based walkability scoring system. PLOS ONE 17(6): e0270098. [https://doi.org/10.1371/journal.pone.0270098](https://doi.org/10.1371/journal.pone.0270098).
 48. _Khataeipour S_, Rahimipour Anaraki J, Bozorgi A, Rayner M, Basset F, __Fuller D__. Predicting Movement Types Using Smartphone Accelerometers at Three Different Wear Locations; Hands, Pants Pocket, Backpack. BMJ Open Sport & Exercise. 2022;8:e001242. [https://bmjopensem.bmj.com/content/8/2/e001242](https://bmjopensem.bmj.com/content/8/2/e001242)
-49. Mah C L. Foster K, Jago E, Hajizadeh M, Luongo G, Taylor N, __Fuller D__, Yi Y, Esan K, Lukic R, MacDonald B, Boyd H, McIver H, Khederi A, Clarke M, Wranik D, Brimblecombe J, Peeters A. Study protocol for CELLAR: population-based observational study to monitor dietary intakes and purchasing during COVID-19 in four Canadian provinces. BMJ Open. [https://pubmed.ncbi.nlm.nih.gov/35477873/](https://pubmed.ncbi.nlm.nih.gov/35477873/).
+49. Mah C L. Foster K, Jago E, Hajizadeh M, Luongo G, Taylor N, __Fuller D__, Yi Y, Esan K, Lukic R, MacDonald B, Boyd H, McIver H, Khederi A, Clarke M, Wranik D, Brimblecombe J, Peeters A. Study protocol for CELLAR: population-based observational study to monitor dietary intakes and purchasing during COVID-19 in four Canadian provinces. BMJ Open. 2022;12(4):e061660. [https://pubmed.ncbi.nlm.nih.gov/35477873/](https://pubmed.ncbi.nlm.nih.gov/35477873/).
 50. _Roy A_, __Fuller D__, Kendron P, Nelson T. Assessing the role of geographic context in transportation mode detection from GPS data. Journal of Transport Geography. 2022;100:103330. [https://doi.org/10.1016/j.jtrangeo.2022.103330](https://doi.org/10.1016/j.jtrangeo.2022.103330)
 51. __Fuller D__, Ferber R, Stanley K. Why Machine Learning (ML) has failed physical activity research and how we can improve. BMJ Open Sport & Exercise. 2022;8:e001259. [https://doi.org/10.1136/bmjsem-2021-001259](https://doi.org/10.1136/bmjsem-2021-001259) 
-52. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 22, Article number: 450. [https://doi.org/10.1186/s12889-022-12747-3](https://doi.org/10.1186/s12889-022-12747-3)
-53. _Luan H_, __Fuller D__. Urban form in Canada at a small-area level: quantifying “compactness” and “sprawl” with Bayesian multivariate spatial factor analysis. Environment and Planning B: Urban Analytics and City Science. December 2021.  [https://doi.org/10.1177%2F23998083211062901](https://doi.org/10.1177%2F23998083211062901)
+52. __Fuller D__, _Tobin M_, _Orychock K_, Ross N, Hajna S, DeVries M, Villeneuve P J, Frank L D, McCormack G, Wasfi R, Steinmetz-Wood M, Gilliland J, Booth GL, Winters M, Kestens Y, Manaugh K, Rainham D, Gauvin L, Widener M J, Muhajarine N, _Luan H_. Active Living Environments: Re-Framing and Defining the Concept of Walkability. BMC Public Health. 2022. 22, Article number: 450. [https://doi.org/10.1186/s12889-022-12747-3](https://doi.org/10.1186/s12889-022-12747-3)
+
+#### Previous Publications 
+
+----------------------------------
+
+54. _Luan H_, __Fuller D__. Urban form in Canada at a small-area level: quantifying “compactness” and “sprawl” with Bayesian multivariate spatial factor analysis. Environment and Planning B: Urban Analytics and City Science. December 2021.  [https://doi.org/10.1177%2F23998083211062901](https://doi.org/10.1177%2F23998083211062901)
 54. Wasfi R, Poirier Stephens Z, Sones M, Laberee K, Gough M, Pugh C, __Fuller D__, Winters M, Kestens Y. Recruiting Participants for Population Health Intervention Research: Effectiveness and Costs of Recruitment Methods for the INTErventions, Research, and Action in Cities Team (INTERACT) study. Journal of Medical Internet Research.  Vol 23, No 11. [https://doi.org/10.2196/21142](https://doi.org/10.2196/21142)
 55. Diaz F, Abbasi J, __Fuller D__, Diab E. Canadian Transit Agencies Response to COVID-19: Understanding Strategies, Information Accessibility and the Use of Social Media. Transportation Research Interdisciplinary Perspectives. 2021: 12, 100465. [https://doi.org/10.1016/j.trip.2021.100465](https://doi.org/10.1016/j.trip.2021.100465).
 56. __Fuller D__, Bell S, Firth C L, Muhajarine N, Nelson T, Stanley K S, Sones M, Smith J, Thierry B, Laberee K, Poirier Stephens Z, Philips K, Kestens Y, Winters M. Wave 1 results of the INTerventions, Research, and Action in Cities Team (INTERACT) cohort study: Examining the spatio-temporal measures for urban environments and health. Health & Place. [https://doi.org/10.1016/j.healthplace.2021.102646](https://doi.org/10.1016/j.healthplace.2021.102646)
@@ -473,11 +485,43 @@ and publications prepared as a requirement for sponsored research projects, cult
 
 ## <span style="color:#81112c">19. RESEARCH FUNDING HISTORY</span>
 
-NOTE: Include received research funding that formally named you as a principal investigator, co-principal
-investigator, co-applicant/co-investigator or other team member. Activities that aided in securing funding for
-the project, such as writing, editing, etc., should be included in section 24. Do not include project applications
-that have been submitted or are under review by an agency(ies) or were not funded.
+NOTE: Include received research funding that formally named you as a principal investigator, co-principal investigator, co-applicant/co-investigator or other team member. Activities that aided in securing funding for the project, such as writing, editing, etc., should be included in section 24. Do not include project applications that have been submitted or are under review by an agency(ies) or were not funded.
 
+# UPDATE
+
+1. 
+1. Applicant, Principal Applicant (September 2023–September 2024). A working group for equity, measurement, and methods for commercial wearable devices among children and youth, $10,000 (CAD). SHRF, SHRF. Amount received: $10,000.
+2. Applicant, Principal Applicant (September 2023–September 2024). Applying data driven tools to understand healthy sustainable transportation in Saskatoon, $30,000 (CAD). USask Research Junction, USask Research Junction. Amount received: $30,000.
+3. Applicant, Co-Applicant (September 2023–September 2027). Multilevel estimation of the relative impacts of social determinants on income-related health inequalities in urban Canada: Toward a new Canadian Social Determinants Urban Laboratory, $940,000 (CAD). CIHR Project Grant, CIHR. Amount received: $60,000.
+4. Applicant, Co-Principal Applicant (November 2022–November 2028). CapaCITY Implementation Science Team Grant for Healthy Cities, $3,000,000 (CAD). CIHR, CIHR. Amount received: $400,000.
+5. Applicant, Co-Principal Applicant (February 2022–February 2023). Planning Grant, $20,000 (CAD). CIHR, CIHR. Amount received: $0.
+6. Applicant, Co-Principal Applicant (February 2022–February 2023). Planning Grant, $40,000 (CAD). CIHR, CIHR. Amount received: $0.
+7. Applicant, Co-Principal Applicant (February 2022–February 2028). AI for public health (AI4PH) Training Platform, $2,400,000 (CAD). CIHR, CIHR. Amount received: $0.
+8. Applicant, Principal Applicant (October 2021–October 2026). INTerventions, Equity, Research and Action in Cities Team (INTERACT), $918,000 (CAD). CIHR, CIHR. Amount received: $918,000.
+9. Applicant, Principal Applicant (August 2021–August 2026). Canada Research Chair - Renewal, $500,000 (CAD). CRC, CRC. Amount received: $500,000.
+
+#### Previous Grants 
+
+----------------------------------
+
+1. Applicant, Co-Applicant (September 2020–March 2024). Examining the impacts of the downtown Sherbrooke (QC) revitalization project on health equity among young adults: a mixed-methods evaluation, $100,000 (CAD). CIHR, CIHR. Amount received: $0.
+2. Applicant, Co-Applicant (September 2020–March 2024). Equity in Built Environment Surveillance Tool (E-BEST), $1,000,000 (CAD). Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program, Public Health Agency of Canada. Amount received: $0.
+3. Applicant, Co-Applicant (September 2020–March 2024). Citizen Mapping of Microscale Barriers to Mobility, $681,992 (CAD). Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program, Public Health Agency of Canada. Amount received: $40,000.
+4. Applicant, Co-Applicant (June 2020–June 2021). Dietary change during COVID‑19: A population-based study in Atlantic Canada to build evidence for government economic and social policy responses, $267,020 (CAD). CIHR COVID-19 Rapid Research - Social Policy and Public Health Response, CIHR. Amount received: $0.
+5. Applicant, Co-Applicant (August 2019–August 2024). AI for public health (AI4PH): A focus on equity and prevention, $525,000 (CAD). Operating Grant: CIHR Summer Institute on Equitable AI for Public Health, CIHR. Amount received: $0.
+6. Applicant, Co-Applicant (October 2019–October 2022). Impacts of the new Réseau Express Métropolitain (REM) on mobility, health and equity: A pre-post intervention study, $441,002 (CAD). CIHR-NSERC Collaborative Health Research Projects, CIHR/NSERC. Amount received: $0.
+7. Applicant, Co-Applicant (February 2020–October 2020). Training for Healthy INterdisciplinary Knowledge in Cities (THINK-Cities), $25,000 (CAD). Training Grant: CIHR-NSERC-SSHRC Healthy Cities Research Training Platform (HCRTP), CIHR/NSERC/SSHRC. Amount received: $0.
+8. Applicant, Principal Investigator (March 2019–March 2020). Creating and comparing activity space measures to understand how walkability, urban sprawl, and public transit accessibility are associated with location-based physical activity in 4 Canadian cities, $100,000 (CAD). CIHR, CIHR. Amount received: $100,000.
+9. Applicant, Co-Applicant (May 2019–April 2020). Smart Cities, Healthy Citizens? Optimizing Health and Equity in City Policy Making, $24,985 (CAD). CIHR, CIHR. Amount received: $0.
+10. Applicant, Co-Applicant (March 2019–March 2023). Sustainable Healthy Cities: The Interplay between Urban Interventions, Gentrification, and Population Health, $527,851 (CAD). CIHR, CIHR. Amount received: $6,000.
+11. Applicant, Team Lead (April 2017–April 2021). Canadian Urban Environmental Health Research Consortium, $5,000,000 (CAD). CIHR, CIHR. Amount received: $45,000.
+12. Applicant, Co-Principal Investigator (December 2017–December 2021). Environments and Health INTERACT: INTErventions, Research, and Action in Cities Team, $2,000,000 (CAD). CIHR, CIHR. Amount received: $106,256.
+13. Applicant, Principal Investigator (August 2016–August 2021). Canada Research Chair in Population Physical Activity, $500,000 (CAD). CRC, CRC. Amount received: $500,000.
+14. Applicant, Principal Investigator (August 2016–August 2021). Newfoundland Research and Development Corporation CRC Leverage, $100,000 (CAD). RDC, RDC. Amount received: $100,000.
+15. Applicant, Principal Investigator (August 2016–August 2018). Canadian Foundation for Innovation John R. Evans Leaders Fund, $252,638 (CAD). CFI, CFI. Amount received: $252,638.
+16. Applicant, Principal Investigator (August 2016–August 2018). Newfoundland Research and Development Corporation CFI Leverage Grant, $100,000 (CAD). RDC, RDC. Amount received: $100,000.
+17. Applicant, Co-Applicant (August 2016–August 2021). Impacts of City-Wide Bicycle Infrastructure Investment on Population Health & Health Equity, $428,400 (CAD). CIHR, CIHR. Amount received: $0.
+18. Applicant, Co-Applicant (December 2017–December 2021). Multisectoral Urban Systems for Health and Equity in Canadian Cities, $2,000,000 (CAD). CIHR, CIHR. Amount received: $0.
 
 ## <span style="color:#81112c">20. PRACTICE OF PROFESSIONAL SKILLS</span>
 
