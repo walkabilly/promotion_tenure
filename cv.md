@@ -247,6 +247,8 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Kauffeldt K D, Shareck M, McCullogh E, Bell S, Collins P, Diab E, Lachapelle U, Manaugh K,  Couture-Ménard M-E, Beck B, Pearson L, Chevrier T, Winters M, __Fuller D__, Marie-Soleil C, Laberee K, Tomasone J R. Strategic commitments to sustainable transportation for public health: A protocol paper exploring the implementation of all ages and abilities cycling infrastructure and speed management interventions in Canadian cities. rontiers in Public Health. Manuscript ID: 1924630.
+1. Berliner N, Thierry B, Kestens Y, Bieleke M, __Fuller D__, Nussbeck F, Schüler J, Kanning M. Bidirectional short-term Associations between Incidental Affect and Physical Activity: Heterogeneous Effects Beyond Individual-Specific Diurnal Patterns. Psychology of Sport & Exercise. PSE-D-26-01335.
 1. Wilmer Ramos Santiago J, Orfin R, Lara D, Uceda V, Hurtado-de-Mendoza A, Chávez-Iñiguez A, __Fuller D__, Bermúdez D, Marquez D X, Ossip D J, Li D, DeJesus E, Vásquez E, Carter-Bawa L, Yousefi-Nooraie R, McIntosh S, Cupertino A P, Cartujano-Barrera F. Actívatexto: Advancing Smoking cessation and Physical Activity among Latinos. Study Protocol for a Randomized Clinical Trial. Contemporary Clinical Trials. Manuscript Number: CCT-D-26-00391.
 1. Verity W, Gopher S, Mitsuing L, Tipewan D, Moccasin D, Foulds H, McIlduff C, Fuller D, Leis A. Nitatoskēwininān Nitimahcihowininān - Our Program, Our Health: Self-Determination Promotes Feasibility and Access to an Older Adult Exercise Program in Saulteaux First Nation, Canada, to Journal of Community Health. Journal of Community Health. Manuscript ID: JOHE-D-26-01077.
 1. Salsabilian P, __Fuller D__, Lee S, Manaugh K. Addressing measurement uncertainty in neighborhood accessibility. Journal of Urban Mobility. Manuscript ID: URBMOB-D-26-00159.
@@ -336,8 +338,6 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Peer Reviewed Conferences</span>
 
-1. Upcoming May 2022. Shareck M, Paquette-Guay A, Ekouagou K, Camirand-Lemyre F, Dubé T, Firth C, Fuller D, Kestens Y, Morin P, 
-TA-M Tougas, Winters M. Who benefits from urban revitalization efforts and who doesn’t? Introducing the Centre-Ville Equitable et en Santé (CentrÉS) study. 24th IUHPE World Conference on Health Promotion.
 1. 2021 October: __Fuller, D.__, Colwell, E., Low, J., _Orychock, K._, _Tobin, M._, _Simango, B._, Buote, R., _van Heerden, D._, _Slade, L._, _Luan, H._, _Taylor, G. A. N._, Cullen, K. Systematic Review of the Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate. International Society for Physical Activity and Health (ISPAH).
 1. 2021 October: __Fuller D__, __Stanley K__, __Voss C__, __Winters M__, __Firth C__, __Kestens Y__. Combining Global Positioning System and Accelerometer Data: tools, methods, and headaches. International Society for Physical Activity and Health (ISPAH).
 1. 2020 October: _Maher, R.A._, Wadden, K., Twells, L., Basset, F., Murphy, S., Murphy, F., Fuller, D., McGowan, E. Exercise Interventions and Fertility Outcomes for Women Experiencing Obesity and Infertility: A Narrative Review. 7th Canadian Obesity Summit. Online.
@@ -712,6 +712,7 @@ Scholarship Writing Mentorship Program, Department of Social and Preventive Medi
 
 ### <span style="color:#81112c">Media</span>
 
+1. Do mobility scooters belong on the sidewalk or road? Guest Speaker - Blue Sky with Leisha Grebinski. June 30th, 2026. [https://www.cbc.ca/listen/live-radio/1-189-blue-sky/clip/16223963-do-mobility-scooters-belong-sidewalk-road](https://www.cbc.ca/listen/live-radio/1-189-blue-sky/clip/16223963-do-mobility-scooters-belong-sidewalk-road)
 1. Tod Fox talks road safety on anniversary of wife's cycling death. Saskatoon Star Pheonix - Brody Langage. May 27, 2026. [https://thestarphoenix.com/news/local-news/tod-fox-talks-road-safety-on-anniversary-of-wifes-cycling-death](https://thestarphoenix.com/news/local-news/tod-fox-talks-road-safety-on-anniversary-of-wifes-cycling-death).
 1. AI-powered tech helps amateur athletes train like the pros. The Globe and Mail - Josh Greenblatt. November 4, 2024. [https://www.theglobeandmail.com/life/article-ai-powered-tech-helps-amateur-athletes-train-like-the-pros/](https://www.theglobeandmail.com/life/article-ai-powered-tech-helps-amateur-athletes-train-like-the-pros/)
 1. Rue Scarth : un retour de la circulation en voiture est-il envisageable ? Point du Jour - Radio Canada. August 16, 2024. [https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/1830309/revitaliser-rue-scarth-au-centre-ville-regina](https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/1830309/revitaliser-rue-scarth-au-centre-ville-regina)
