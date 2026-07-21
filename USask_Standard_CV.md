@@ -703,7 +703,7 @@ economic impacts of sustainable transportation interventions. USask College of M
 
 _Pre-appointment:_
 
-1. Applicant, Principal Applicant (August 2021–August 2026). Canada Research Chair - Renewal, $500,000 (CAD). CRC, CRC. Amount received: $500,000.
+14. Applicant, Principal Applicant (August 2021–August 2026). Canada Research Chair - Renewal, $500,000 (CAD). CRC, CRC. Amount received: $500,000.
 1. Applicant, Co-Applicant (September 2020–March 2024). Examining the impacts of the downtown Sherbrooke (QC) revitalization project on health equity among young adults: a mixed-methods evaluation, $100,000 (CAD). CIHR, CIHR. Amount received: $0.
 2. Applicant, Co-Applicant (September 2020–March 2024). Equity in Built Environment Surveillance Tool (E-BEST), $1,000,000 (CAD). Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program, Public Health Agency of Canada. Amount received: $0.
 3. Applicant, Co-Applicant (September 2020–March 2024). Citizen Mapping of Microscale Barriers to Mobility, $681,992 (CAD). Public Health Agency of Canada - Enhanced Surveillance for Chronic Disease Program, Public Health Agency of Canada. Amount received: $40,000.
