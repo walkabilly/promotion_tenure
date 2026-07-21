@@ -47,10 +47,27 @@ Teaching and learning create remarkable moments in our human experience. From wa
 
 ## <span style="color:#81112c">Courses Taught</span>
 
-I have taught 14 different courses over the course of my career. I have developed 5 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology),  one in my position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention), and two at USask in Community Health and Epidemiology (Epidemiology 2 and Data Science for Epidemiology. I am committed to open learning and develop public websites for all of my courses. These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. 
+I have taught 14 different courses over the course of my career. I have developed 5 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology), one in my position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention), and two at USask in Community Health and Epidemiology (Epidemiology 2 and Data Science for Epidemiology). I am committed to open learning and develop public websites for all of my courses. These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. 
+
+
+|------|----------------|-------|--------------------|------------|----------------------------|-----|
+| 2025-2026 | CHEP 898.3, Machine Learning Methods in Health Science | Co-Instructor | 9 | 36  | 324 |
+| 2025-2026 | CHEP 801.3, Epidemiology 2 | Instructor | 8 | 36  | 288  |
+| 2025-2026 | CHEP 990.1, Graduate Seminar | Instructor | 56 | 12 | 672 |
+
+
+| 2025-2026 | Artificial Intelligence for Public Health, Foundations of Machine Learning and Artificial Intelligence | Instructor | 20 | 4 |
+| 2025-2026 | Artificial Intelligence for Public Health, Foundations of Machine Learning and Artificial Intelligence | Instructor | 20 | 4 |
+
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
+| University of Saskatchewan  | 2026 | Winter | CHEP 898 | Machine Learning Methods in Health Science | Co-Instructor |
+| Artificial Intelligence for Public Health  | 2026 | Winter | Foundations of Machine Learning and Artificial Intelligence | Machine Learning | Co-Instructor |
+| University of Saskatchewan  | 2026 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+| Artificial Intelligence for Public Health  | 2025 | Fall | Foundations of Machine Learning and Artificial Intelligence | Machine Learning  | Co-Instructor |
+| University of Saskatchewan  | 2025 | Fall | CHEP 801 | Epidemiology 2 | Instructor |
+| University of Saskatchewan  | 2025 | Fall | CHEP 990 | Graduate Seminar | Instructor |
 | Artificial Intelligence for Public Health  | 2025 | Winter | AI4PH  |  Analysis of Biosignal Data | Instructor |
 | University of Saskatchewan  | 2025 | Winter | CHEP 898 | Data Science for Epidemiology | Instructor |
 |   | 2025 | Winter | CHEP 990 | Graduate Seminar | Instructor |
@@ -93,6 +110,10 @@ I have taught 14 different courses over the course of my career. I have develope
 |  | 2014 | Fall | CHEP 898 | Population Health Intervention Research | Instructor | 
 | Université de Montréal | 2011 | Winter | MSO 6068c | Multilevel Modeling | Co-Instructor | 
 
+### <span style="color:#81112c">CHEP 898 Machine Learning Methods for Health Sciences</span>
+##### [https://github.com/walkabilly/ml_methods_health_science/](https://github.com/walkabilly/ml_methods_health_science/) 
+
+This course bridges the gap between data science techniques, biostatistics, and health research, equipping students with advanced tools to analyze complex health data. The course covers both the theoretical and practical aspects of machine learning. Through hands-on experience with R programming language, supervised and unsupervised machine learning techniques, and data visualization, students will learn to process and interpret large datasets to uncover insights into disease patterns, public health trends, and causal relationships. The course is designed to provide students with the theoretical knowledge and practical application of data science techniques. This will prepare learners to tackle health science challenges with modern data-driven approaches.
 
 ### <span style="color:#81112c">CHEP 898 Data Science for Epidemiology</span>
 ##### [https://github.com/walkabilly/data_science_for_epi_usask](https://github.com/walkabilly/data_science_for_epi_usask) 
@@ -403,6 +424,16 @@ Below I present only a figure that shows my scores for each question for each co
 ##### 10. In this course, I felt motivated to learn  
 
 ![](teaching_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
+
+### Comments from CHEP 898 Machine Learning for Health Science - Winter 2026
+
+
+### Comments from CHEP 801 - Fall 2024
+
+
+### Comments from CHEP 898 Data Science for Epidemiology - Winter 2025
+
+
 
 ### <span style="color:#81112c">Comments from HKR 3400 Winter 2018</span>
 

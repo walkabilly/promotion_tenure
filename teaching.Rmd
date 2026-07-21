@@ -49,10 +49,27 @@ Teaching and learning create remarkable moments in our human experience. From wa
 
 ## <span style="color:#81112c">Courses Taught</span>
 
-I have taught 14 different courses over the course of my career. I have developed 5 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology),  one in my position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention), and two at USask in Community Health and Epidemiology (Epidemiology 2 and Data Science for Epidemiology. I am committed to open learning and develop public websites for all of my courses. These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. 
+I have taught 14 different courses over the course of my career. I have developed 5 new courses, one during my postdoctoral fellowship (Population Health Intervention Research), one during my limited term appointment (Social Epidemiology), one in my position at Memorial University (Computer Applications for Physical Activity Measurement and Intervention), and two at USask in Community Health and Epidemiology (Epidemiology 2 and Data Science for Epidemiology). I am committed to open learning and develop public websites for all of my courses. These websites allow students to access the course outlines and some of the content for my courses prior to taking the course. 
+
+
+|------|----------------|-------|--------------------|------------|----------------------------|-----|
+| 2025-2026 | CHEP 898.3, Machine Learning Methods in Health Science | Co-Instructor | 9 | 36  | 324 |
+| 2025-2026 | CHEP 801.3, Epidemiology 2 | Instructor | 8 | 36  | 288  |
+| 2025-2026 | CHEP 990.1, Graduate Seminar | Instructor | 56 | 12 | 672 |
+
+
+| 2025-2026 | Artificial Intelligence for Public Health, Foundations of Machine Learning and Artificial Intelligence | Instructor | 20 | 4 |
+| 2025-2026 | Artificial Intelligence for Public Health, Foundations of Machine Learning and Artificial Intelligence | Instructor | 20 | 4 |
+
 
 | Institution | Year | Term | Course | Topic | Role |
 |-------------|------|------|--------|-------|------|
+| University of Saskatchewan  | 2026 | Winter | CHEP 898 | Machine Learning Methods in Health Science | Co-Instructor |
+| Artificial Intelligence for Public Health  | 2026 | Winter | Foundations of Machine Learning and Artificial Intelligence | Machine Learning | Co-Instructor |
+| University of Saskatchewan  | 2026 | Winter | CHEP 990 | Graduate Seminar | Instructor |
+| Artificial Intelligence for Public Health  | 2025 | Fall | Foundations of Machine Learning and Artificial Intelligence | Machine Learning  | Co-Instructor |
+| University of Saskatchewan  | 2025 | Fall | CHEP 801 | Epidemiology 2 | Instructor |
+| University of Saskatchewan  | 2025 | Fall | CHEP 990 | Graduate Seminar | Instructor |
 | Artificial Intelligence for Public Health  | 2025 | Winter | AI4PH  |  Analysis of Biosignal Data | Instructor |
 | University of Saskatchewan  | 2025 | Winter | CHEP 898 | Data Science for Epidemiology | Instructor |
 |   | 2025 | Winter | CHEP 990 | Graduate Seminar | Instructor |
@@ -95,6 +112,10 @@ I have taught 14 different courses over the course of my career. I have develope
 |  | 2014 | Fall | CHEP 898 | Population Health Intervention Research | Instructor | 
 | Université de Montréal | 2011 | Winter | MSO 6068c | Multilevel Modeling | Co-Instructor | 
 
+### <span style="color:#81112c">CHEP 898 Machine Learning Methods for Health Sciences</span>
+##### [https://github.com/walkabilly/ml_methods_health_science/](https://github.com/walkabilly/ml_methods_health_science/) 
+
+This course bridges the gap between data science techniques, biostatistics, and health research, equipping students with advanced tools to analyze complex health data. The course covers both the theoretical and practical aspects of machine learning. Through hands-on experience with R programming language, supervised and unsupervised machine learning techniques, and data visualization, students will learn to process and interpret large datasets to uncover insights into disease patterns, public health trends, and causal relationships. The course is designed to provide students with the theoretical knowledge and practical application of data science techniques. This will prepare learners to tackle health science challenges with modern data-driven approaches.
 
 ### <span style="color:#81112c">CHEP 898 Data Science for Epidemiology</span>
 ##### [https://github.com/walkabilly/data_science_for_epi_usask](https://github.com/walkabilly/data_science_for_epi_usask) 
@@ -371,28 +392,43 @@ teaching1 <- read_excel("/Users/dlf545/Dropbox/Teaching/Evaluations/Evaluations.
 library(dplyr)
 library(reshape2)
 library(ggplot2)
+library(ggstats)
+
+custom_colors <- c(
+  "MUN 3400"    = "#B50505",
+  "MUN 4600"    = "#CC0505",
+  "MUN 6134"        = "#720303",
+  "USask 801"    = "#0B6A41",
+  "USask 816"    = "#074128",
+  "USask 898 - Data Science"     = "#14BD74",
+  "USask 898 - R" = "#18E78D"
+)
 ``` 
 
 ##### 1. The instructor used challenging questions
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_challenging, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_challenging, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 2. The instructor was willing to listen to student opinions
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_listen, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_listen, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 3. The instructor was actively helpful to the students
@@ -400,11 +436,13 @@ ggplot(teaching1, aes(q_listen, group=course_num, col=course_num)) +
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_helpful, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_helpful, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 4. The instructor had a genuine interest in student learning 
@@ -412,11 +450,13 @@ ggplot(teaching1, aes(q_helpful, group=course_num, col=course_num)) +
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_interest_in_learning, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_interest_in_learning, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 5. The course materials (e.g., readings, notes, in‐class exercises) facilitated learning 
@@ -424,11 +464,13 @@ ggplot(teaching1, aes(q_interest_in_learning, group=course_num, col=course_num))
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_material_helped_learn, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_material_helped_learn, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 6. The general atmosphere in this course was good for learning
@@ -436,56 +478,76 @@ ggplot(teaching1, aes(q_material_helped_learn, group=course_num, col=course_num)
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_atmosphere_good, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_atmosphere_good, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 7. The instructor related to students in ways that promoted mutual respect
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_mutual_respect, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_mutual_respect, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 8. The instructor provided adequate opportunities for questions and discussion during class time  
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_class_discussion, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_class_discussion, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 9. Students were invited to share their ideas
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_share_ideas, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_share_ideas, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
 
 ##### 10. In this course, I felt motivated to learn  
 
 ```{r, warning=FALSE, echo = FALSE, message=FALSE}
 teaching1$course_num <- as.factor(teaching1$course_num)
-ggplot(teaching1, aes(q_motivated, group=course_num, col=course_num)) + 
+ggplot(teaching1, aes(q_motivated, group=course_num, colour=course_num)) + 
   geom_density(position='dodge') + 
   xlim(1, 5) + 
   labs(colour = "Course Number") + 
-  labs(x = "Scale")
+  scale_colour_manual(values = custom_colors) +
+  labs(x = "Scale") +
+  theme_minimal()
 ``` 
+
+### Comments from CHEP 898 Machine Learning for Health Science - Winter 2026
+
+
+### Comments from CHEP 801 - Fall 2024
+
+
+### Comments from CHEP 898 Data Science for Epidemiology - Winter 2025
+
+
 
 ### <span style="color:#81112c">Comments from HKR 3400 Winter 2018</span>
 
