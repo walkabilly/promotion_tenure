@@ -652,9 +652,8 @@ _Pre-appointment:_
 
 ## 16. REPORTS AND OTHER OUTPUTS
 
-
-
-1. World Health Organization. Measuring Physical Activity in Adults Using Wearable Technologies: Report of a Scientific Meeting. 10-12, June 2025, Montreal, Canada. 
+1. Integrating wearable technology into population health monitoring systems for physical activity measurement: meeting report, Utrecht, Kingdom of the Netherlands, November 2025, 25-27. [https://www.who.int/publications/i/item/B09745](https://www.who.int/publications/i/item/B09745).
+1. World Health Organization. Measuring Physical Activity in Adults Using Wearable Technologies: Report of a Scientific Meeting. June 2024, 10-12. Montreal, Canada. [https://iris.who.int/items/dbce8b7a-af89-4170-8d10-69bbd8b49ace](https://iris.who.int/items/dbce8b7a-af89-4170-8d10-69bbd8b49ace)
 1. Exon Smith K, Chapple K, Fagan D, Siemiatycki M. Canada's Urban Infrastructure Deficit: Toward democracy & equitable prosperity. 2024. Chapter 8: Moving Healthy Cities Forward - The state of cycling infrastructure in Canada. __Fuller D__, Winters M, Kestens Y, Mamiya H, Sones M, Thierry B, Poirier Stephens Z. [https://stateofcitiessummit.ca/report](https://stateofcitiessummit.ca/report).
 1. _Brondeel R_, _Rahimipour Anaraki J_, _KhataeiPour S_, __Fuller D__. activityCounts: Generate ActiLife Counts. [https://cran.r-project.org/web/packages/activityCounts/index.html](https://cran.r-project.org/web/packages/activityCounts/index.html)
 
@@ -679,14 +678,6 @@ _Pre-appointment:_
 * _Nil_
 
 ## 19. RESEARCH FUNDING HISTORY
-
-FORMAT: Applicant, A.A. (PI) & Team Member, B.B. (Start Year – End Year). Title of project,
-Amount (Currency). Agency Program, Agency(ies). Amount of funding received by you where
-multiple investigators are involved.
-
-EXAMPLE: Smith, C.D. (PI) & Jones, A.B. (2015 - 2016). Effects of H1N1 flu in Adolescents.
-$50,000. RUH Foundation Fund, 2015 - 2016. $25,000 to A.B. Jones.
-
 
 1. __Fuller D.__, Rochon, M. A Human Activity Recognition Artificial Intelligence Research Cluster. USask Artificial Intelligence Research & Innovation: 2026 Research Capacity Building Grant. 2026-2027. $15,000 (CAD) to __D Fuller.__
 1. __Fuller D.__. INTerventions, Equity, Research, and Action in Cities Team (INTERACT): Health and
@@ -727,34 +718,108 @@ _Pre-appointment:_
 
 ## 20. PRACTICE OF PROFESSIONAL SKILLS
 
-* Generative AI 101. Saskatchewan Population Health and Evaluation Research Unit. 
+__Funding or Scholarship Application Review__
+
+1. Academic Reviewer, Research Funding Application Assessment. Social Sciences and Humanities Research Council of Canada / USask Internal Review. 2026. 
+2. Academic Reviewer, Research Funding Application Assessment. Saskatchewan Health Research Foundation / Provincial. 2026. 
+3. Academic Reviewer, Research Funding Application Assessment. USask/City of Saskatoon Research Junction / Local. 2026. 
+4. Academic Reviewer, Research Funding Application Assessment. Natural Sciences and Engineering Research Council Discovery Grant / National. 2026. 
+4. Student Scholarship Reviewer. SMART Training Platform / National. 2025. 
+5. Academic Reviewer, Research Funding Application Assessment. Social Sciences and Humanities Research Council of Canada / USask Internal Review. 2025.
+4. Student Scholarship Reviewer. SMART Training Platform / National. 2024. 
+4. Academic Reviewer, Research Funding Application Assessment. Natural Sciences and Engineering Research Council Discovery Grant / National. 2024. 
+4. Academic Reviewer, Research Funding Application Assessment. United States National Science Foundation / International. 2023. 
+4. Student Scholarship Reviewer. Artificial Intelligence for Public Health / National. 2023. 
+4. Conference Abstract Reviewer. Spatial Knowledge and Information Conference / National. 2022. 
+4. Academic Reviewer, Research Funding Application Assessment. Natural Sciences and Engineering Research Council Discovery Grant / National. 2022. 
+4. Academic Reviewer, Research Funding Application Assessment. New Frontiers Research Fund Transformation / National. 2022.
+4. Student Scholarship Reviewer. Killiam Foundation / National. 2022. 
+4. Student Scholarship Reviewer. Canadian Society for Psychomotor Learning and Sport Psychology / National. 2022. 
+4. Academic Reviewer, Research Funding Application Assessment. CIHR Trailblazer in Population and Public Health Award / National. 2021.
+4. Academic Reviewer, Research Funding Application Assessment. Natural Sciences and Engineering Research Council Discovery Grant / National. 2021.
+
+__Journal Peer Review__
+
+1. Journal Review, Health Promotion and Chronic Disease Prevention in Canada, 2026.
+1. Journal Review, Cities & Health, 2026.
+1. Journal Review, Canadian Geographies / Géographies canadiennes, 2026.
+1. Journal Review, Journal of Science and Medicine in Sport, 2026.
+1. Journal Review, Health and Place, 2026.
+1. Journal Review, Canadian Journal of Public Health, 2025.
+    * 4 reviews conducted
+1. Journal Review, Cities & Health, 2025.
+1. Journal Review, Sports Medicine, 2024.
+1. Journal Review, Journal of Epidemiology & Community Health, 2024.
+    * 2 reviews conducted
+1. Journal Review, Canadian Journal of Public Health, 2024.
+    * 4 reviews conducted
+1. Journal Review, Intelligent Systems with Applications, 2024.
+1. Journal Review, International Journal of Behavioural Nutrition and Physical Activity, 2024.
+1. Journal Review, Health & Place, 2024.
+1. Journal Review, American Journal of Epidemiology, 2024.
+1. Journal Review, Transportation, 2023.
+1. Journal Review, Recherche Transports Sécurité, 2023.
+1. Journal Review, Journal of Public Transportation, 2023.
+1. Journal Review, Journal of Medical Internet Research, 2023.
+1. Journal Review, Journal of Epidemiology & Community Health, 2023.
+1. Journal Review, Health & Place, 2023.
+1. Journal Review, Epidemiology, 2023.
+1. Journal Review, Clinical Trials, 2023.
+1. Journal Review, Cities & Health, 2023.
+1. Journal Review, British Journal of Sports Medicine, 2023.
+1. Journal Review, British Medical Journal Open, 2023.
+1. Journal Review, Transport Reviews, 2023.
+1. Journal Review, Pediatric Exercise Science, 2023.
+1. Journal Review, Journal for the Measurement of Physical Behavior, 2022.
+    * 2 reviews conducted
+1. Journal Review, Health Promotion International, 2022.
+1. Journal Review, Cities & Health, 2022.
+    * 2 reviews conducted
+1. Journal Review, British Medical Journal Open, 2022.
+1. Journal Review, Applied Physiology, Nutrition, and Metabolism, 2022.
+1. Journal Review, American Psychologist, 2022.
+1. Journal Review, American Journal of Epidemiology, 2022.
+1. Journal Review, Sports Medicine, 2021.
+1. Journal Review, PLOS One, 2021.
+1. Journal Review, Canadian Journal of Public Health, 2021.
+
+__Presentations to Scholarly Organizations__
+
+* Generative AI 101. Saskatchewan Population Health and Evaluation Research Unit.
 
 ## 21. ADMINISTRATIVE SERVICE
 
 __21.1 University Committees__
 
+* Behavioural Research Ethics Board, University of Saskatchewan. 2022-ongoing.
+
 __21.2 College and Departmental Committees__
+
+* Departmental Search Committee. Department of Community Health and Epidemiology. 2023-2026.
+* Departmental Communications Committee. Department of Community Health and Epidemiology. 2023-ongoing.
+* Department Graduate Teaching Committee. Department of Community Health and Epidemiology. 2023-ongoing.
+* Research Working Group: College of Medicine Strategic Plan Implementation. 2025-2026.
 
 __21.3 Other Administrative Service__
 
 ## 22. PROFESSIONAL OR ASSOCIATION OFFICES AND COMMITTEE ACTIVITY OUTSIDE UNIVERSITY OF SASKATCHEWAN
 
-NOTE: Include activities related to your area of expertise or discipline, such as an editorship, participation on
-a professional or conference organizing committee, membership on a board, etc.
-
-
+1. ACFAS-Saskatchewan Board Member (Treasurer). [https://www.acfas.ca/acfas-saskatchewan](https://www.acfas.ca/acfas-saskatchewan). 2024-Ongoing.
+1. Scientific Lead for the Saskatchewan Epidemiology Association 2024 Annual Conference title “Public and Animal Health Surveillance in the Age of Big Data and a Shifting Privacy Landscape.”[https://www.saskepi.ca/home/events/2024-conference/](https://www.saskepi.ca/home/events/2024-conference/).
 
 ## 23. PUBLIC AND COMMUNITY CONTRIBUTIONS
 
 __23.1 University Related:__
 
+* _Nil_
+
 __23.2 Non University Related:__
+
+* _Nil_
 
 ## 24. OTHER ACTIVITIES
 
-NOTE: Include extension or consulting activities, such as addresses, tours, office visits, media events, etc.
-Typically, these activities would involve producers or end users rather than peers. Entries may be in
-paragraph or point form and should include the type of work, relevant dates, and whether the work was done
-gratis or on a fee-for-service basis.
+* _Nil_
+
 
 
