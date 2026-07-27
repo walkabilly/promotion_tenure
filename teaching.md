@@ -810,9 +810,7 @@ __7. Is there anything else about your experiences that you would like to share?
 
 * 2016 Most Effective Professor. School of Public Health Student Association. University of Saskatchewan.
 
-# Appendices
 
-## Course Syllabi
 
 
 
