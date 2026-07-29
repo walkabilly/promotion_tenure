@@ -41,15 +41,20 @@ Employee ID:
 
 ## 5. MEMBERSHIPS AND AFFILIATIONS
 
-__5.1 Associate Memberships at the University of Saskatchewan__    
-* Associate Member, Department Computer Science, University of Saskatchewan, July 2022 to present
+__5.1 Associate Memberships at the University of Saskatchewan__  
+
+* Associate Member, Department Computer Science, University of Saskatchewan, December 2021 to present
+* Researcher, Saskatchewan Population Evaluation and Research Unit, University of Saskatchewan, June 2016 to present
+
 
 __5.2 Adjunct Appointments at Other Institutions__      
+
 * Associate Member, Dalla Lana School of Public Health, University of Toronto, July 2019 to present
 * Associate Member, School of Human Kinetics and Recreation, Memorial University, July 2022 to July 2025
 * Member, College of Graduate and Postdoctoral Studies, University of Saskatchewan, September 2016 to present
 
 __5.3 Affiliations__    
+
 * Canadian Public Health Association
 * International Society for Behavioral Nutrition and Physical Activity
 * International Society for Physical Activity and Health
@@ -66,6 +71,7 @@ __5.3 Affiliations__
 
 __Personal Recognitions__
 
+* Mingling Minds Award; College of Medicine, University of Saskatchewan; $5,000, 2024     
 * Canada Research Chair (Tier 2); CIHR; $500,000, 2021    
 * Canada Research Chair (Tier 2); CIHR; $500,000, 2016     
 * Travel Award; CIHR Institute of Population and Public Health; $900, 2012       
@@ -180,7 +186,7 @@ _Pre-appointment:_
 
 __9.4 Teaching Materials__
 
-* _Nil_
+As much as possible, I make all of my teaching materials publicly available on dedicated websites. Please see Teaching Dossier for links to these websites. 
 
 __9.5 Other Teaching-Related Activities__
 
@@ -211,37 +217,37 @@ __10.1 Undergraduate Student Supervision__
 __10.2 Graduate Student Supervision__
 
 1. Gavelin, Kade. Master's of Public Health Practicum. Supervisor. Community Health and Epidemiology. 2025- present (in progress).
-1. Ramirez, Hector. MSc. Supervisor. Community Health and Epidemiology. 2025- present (in progress).
-2. Salazar, Patricia. MSc. Supervisor. Community Health and Epidemiology. 2024- present (in progress).
-3. Asante, Bernard. MSc. Supervisor. Community Health and Epidemiology. 2024- present (in progress).
-4. Pittman, Tyler. PhD. Supervisor. Community Health and Epidemiology. 2023- present (in progress).
+1. Ramirez, Hector. MSc. Supervisor. Community Health and Epidemiology. 2025 - present (in progress).
+2. Salazar, Patricia. MSc. Supervisor. Community Health and Epidemiology. 2024 - present (in progress).
+3. Asante, Bernard. MSc. Supervisor. Community Health and Epidemiology. 2024 - present (in progress).
+4. Pittman, Tyler. PhD. Supervisor. Community Health and Epidemiology. 2023 - present (in progress).
 
 __10.3 Graduate Theses Supervised__
 
-1. Collins, Ryan. Psy D. Co-Supervisor. Associations between Circadian Rhythm, Physical Activity, Mood, and Cognitive Function During the First Year of Treatment for Breast Cancer. January 2026.
-1. Pearman, Katrina. M.Sc. Supervisor. Community Health and Epidemiology. Examination of commercial wearable devices for children and youth who use manual wheelchairs. October 2025.
-1. Sturrock, Shelby. PhD. Co-Supervisor. Dalla Lana School of Public Health. University of Toronto. The Impact of COVID-19 restrictions on Physical Activity in Canada. August 2025.
-1. Nahar, Meherun. M.Sc., Supervisor. Community Health and Epidemiology. Association Between Public Transit Use and Happiness Across Four Canadian Cities: A Multilevel Analysis Using Longitudinal Data. June 2025.
+1. Collins, Ryan. Psy D. Co-Supervisor. A longitudinal analysis of 24-hour movement behaviors and associations with cognitive function and fatigue in women with breast cancer over the first year of diagnosis. January 2026. [https://hdl.handle.net/20.500.14783/15802](https://hdl.handle.net/20.500.14783/15802).
+1. Pearman, Katrina. M.Sc. Supervisor. Community Health and Epidemiology. Examination of commercial wearable devices for children and youth who use manual wheelchairs. October 2025. [https://hdl.handle.net/10388/17644](https://hdl.handle.net/10388/17644).
+1. Sturrock, Shelby. PhD. Co-Supervisor. Dalla Lana School of Public Health. University of Toronto. The Impact of COVID-19 restrictions on Physical Activity in Canada. August 2025. [https://hdl.handle.net/1807/150649](https://hdl.handle.net/1807/150649).
+1. Nahar, Meherun. M.Sc., Supervisor. Community Health and Epidemiology. Association Between Public Transit Use and Happiness Across Four Canadian Cities: A Multilevel Analysis Using Longitudinal Data. June 2025. [https://hdl.handle.net/10388/17253](https://hdl.handle.net/10388/17253)
 
 __10.4 Post-Doctoral Supervision__
 
-1. Lee, Naomi (Suela) Post-Doctoral Fellow. Supervisor, 2025- Ongoing
+1. Lee, Naomi (Suela) Post-Doctoral Fellow. Supervisor, 2025 - present (in progress).
 1. Mamiya, Hiroshi. Post-Doctoral Fellow. Supervisor, 2022-2023
 
 __10.5 Staff Supervision__
 
-1. Meridith Sones, Research Officer, Supervisor, 2025- ongoing
-1. Karen Laberee, Research Officer, Supervisor, 2023- ongoing
-1. Meisam Ghasedi, Research Assistant, Supervisor, 2024-2026
+1. Meridith Sones, Research Officer, Supervisor, 2025 - present.
+1. Karen Laberee, Research Officer, Supervisor, 2023 - present.
+1. Meisam Ghasedi, Research Assistant, Supervisor, 2024 - 2026.
 
 __10.6 Other Advisory Activities__
 
-1. Casmir, Ibeh. MSc. Committee Member. Community Health and Epidemiology. 2023- 2025.
-2. Ruporto, Raissa. MSc. Committee Member. Community Health and Epidemiology. 2023- 2025.
-3. Jannati, Nazanin. PhD. Committee Member. Community Health and Epidemiology. 2023- ongoing.
-4. Omot, Abang. MSc. Committee Member. Community Health and Epidemiology. 2023- ongoing.
-5. Khrebtishcheva, Olha. MSc. MITACS. Community Health and Epidemiology. 2022- 2023.
-6. Verity, Wendy. PhD. Committee Member. Community Health and Epidemiology. 2021- 2025.
+1. Casmir, Ibeh. MSc. Committee Member. Community Health and Epidemiology. 2023 - 2025.
+2. Ruporto, Raissa. MSc. Committee Member. Community Health and Epidemiology. 2023 - 2025.
+3. Jannati, Nazanin. PhD. Committee Member. Community Health and Epidemiology. 2023 - present (in progress).
+4. Omot, Abang. MSc. Committee Member. Community Health and Epidemiology. 2023 - present (in progress).
+5. Khrebtishcheva, Olha. MSc. MITACS. Community Health and Epidemiology. 2022 - 2023.
+6. Verity, Wendy. PhD. Committee Member. Community Health and Epidemiology. 2021 - 2025.
 7. Carter, Tori. Masters of Public Health Practicum. Supervisor. Community Health and Epidemiology. 2022.
 8. Liu, Stephanie Masters of Public Health Practicum. Supervisor. Community Health and Epidemiology. 2022.
 
@@ -330,7 +336,6 @@ __Published:__
     * __Contribution:__  I contributed to developing the WalkRollMap.org app based on a Public Health Agency of Canada Grant. Contribution 10%.
 13. Alhassan JAK, __Fuller D__, Woytowich R. (2025). The promises and perils of a free rural inter ‑ city transportation scheme: A mixed ‑ methods study from Northern Saskatchewan. Canadian Journal of Public Health. [https://doi.org/10.17269/s41997-024-00986-3](https://doi.org/10.17269/s41997-024-00986-3)
     * __Contribution:__  I conducted quantitative analyses and contributed to writing. Contribution 40%.
-    * __5-year Journal Impact Factor:__ 3.0
 14. Sousa-Silva R, Kestens Y, Poirier Stephens Z, Thierry B, Schoenig D, __Fuller D__, Winters M, Smargiassi A. 2024. Associations between types of urban vegetation and well-being measures: a cross-sectional study in Montreal, Canada. People and Nature. [https://doi.org/10.1002/pan3.10771](https://doi.org/10.1002/pan3.10771)
     * __Contribution:__  I lead the INTERACT study and contributed to data analysis, and writing. Contribution 20%.
 15. __Schweitzer A M__, __Fuller D__, Fliss M D, Mitchell C J. 2025. Perspective on Strategies for Matching Across Age and Sex in Physiology Research: "Recreationally Active" is Not Good Enough." Frontiers in Physiology. Volume 15. [https://doi.org/10.3389/fphys.2024.1517355](https://doi.org/10.3389/fphys.2024.1517355)
@@ -789,22 +794,22 @@ __Presentations to Scholarly Organizations__
 
 __21.1 University Committees__
 
-* Behavioural Research Ethics Board, University of Saskatchewan. 2022-ongoing.
+* Behavioural Research Ethics Board, University of Saskatchewan. 2022 - present.
 
 __21.2 College and Departmental Committees__
 
-* Departmental Search Committee. Department of Community Health and Epidemiology. 2023-2026.
-* Departmental Communications Committee. Department of Community Health and Epidemiology. 2023-ongoing.
-* Department Graduate Teaching Committee. Department of Community Health and Epidemiology. 2023-ongoing.
-* Department Student Research Day Organizing Committee. Department of Community Health and Epidemiology. 2022-ongoing.
-* Department Faculty Research Day Organizing Committee. Department of Community Health and Epidemiology. 2022-ongoing.
-* Research Working Group: College of Medicine Strategic Plan Implementation. 2025-2026.
+* Departmental Search Committee. Department of Community Health and Epidemiology. 2023 - 2026.
+* Departmental Communications Committee. Department of Community Health and Epidemiology. 2023 - present.
+* Department Graduate Teaching Committee. Department of Community Health and Epidemiology. 2023 - present.
+* Department Student Research Day Organizing Committee. Department of Community Health and Epidemiology. 2022 - present.
+* Department Faculty Research Day Organizing Committee. Department of Community Health and Epidemiology. 2022 - present.
+* Research Working Group: College of Medicine Strategic Plan Implementation. 2025 - 2026.
 
 __21.3 Other Administrative Service__
 
 ## 22. PROFESSIONAL OR ASSOCIATION OFFICES AND COMMITTEE ACTIVITY OUTSIDE UNIVERSITY OF SASKATCHEWAN
 
-1. ACFAS-Saskatchewan Board Member (Treasurer). [https://www.acfas.ca/acfas-saskatchewan](https://www.acfas.ca/acfas-saskatchewan). 2024-Ongoing.
+1. ACFAS-Saskatchewan Board Member (Treasurer). [https://www.acfas.ca/acfas-saskatchewan](https://www.acfas.ca/acfas-saskatchewan). 2024 - present.
 1. Scientific Lead for the Saskatchewan Epidemiology Association 2024 Annual Conference title “Public and Animal Health Surveillance in the Age of Big Data and a Shifting Privacy Landscape.”[https://www.saskepi.ca/home/events/2024-conference/](https://www.saskepi.ca/home/events/2024-conference/).
 
 ## 23. PUBLIC AND COMMUNITY CONTRIBUTIONS
@@ -815,7 +820,10 @@ __23.1 University Related:__
 
 __23.2 Non University Related:__
 
-* _Nil_
+1. Vice-President. Saskatoon Nordic Ski Club. 2022 - present.
+1. Board Member. Riversdale Community Association. 2020 - 2024.
+1. Treasurer. _Associations des Parents de l'Ecole Canadienne-francaise_. 2022 - present.
+1. Board Member. Forza Soccer Academy. 2021 - 2024.
 
 ## 24. OTHER ACTIVITIES
 
