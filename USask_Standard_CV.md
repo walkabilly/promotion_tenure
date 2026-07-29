@@ -197,6 +197,7 @@ __9.5 Other Teaching-Related Activities__
 
 _Pre-appointment:_
 
+* Ungrading Community of Practice. 2021. Centre for Innovation in Teaching and Learning, Memorial University. 
 * An Introduction to Documenting Teaching Activity and Effectiveness. 2019 Centre for Innovation in Teaching and Learning, Memorial University. 
 * Transformational Teaching and Learning Day. 2017. Centre for Innovation in Teaching and Learning, Memorial University.     
 * Teaching Improvement Project System (TIPS) Course. 2014. College of Medicine, University of Saskatchewan.    
@@ -216,7 +217,6 @@ __10.1 Undergraduate Student Supervision__
 
 __10.2 Graduate Student Supervision__
 
-1. Gavelin, Kade. Master's of Public Health Practicum. Supervisor. Community Health and Epidemiology. 2025- present (in progress).
 1. Ramirez, Hector. MSc. Supervisor. Community Health and Epidemiology. 2025 - present (in progress).
 2. Salazar, Patricia. MSc. Supervisor. Community Health and Epidemiology. 2024 - present (in progress).
 3. Asante, Bernard. MSc. Supervisor. Community Health and Epidemiology. 2024 - present (in progress).
@@ -242,12 +242,12 @@ __10.5 Staff Supervision__
 
 __10.6 Other Advisory Activities__
 
-1. Casmir, Ibeh. MSc. Committee Member. Community Health and Epidemiology. 2023 - 2025.
-2. Ruporto, Raissa. MSc. Committee Member. Community Health and Epidemiology. 2023 - 2025.
-3. Jannati, Nazanin. PhD. Committee Member. Community Health and Epidemiology. 2023 - present (in progress).
-4. Omot, Abang. MSc. Committee Member. Community Health and Epidemiology. 2023 - present (in progress).
-5. Khrebtishcheva, Olha. MSc. MITACS. Community Health and Epidemiology. 2022 - 2023.
-6. Verity, Wendy. PhD. Committee Member. Community Health and Epidemiology. 2021 - 2025.
+1. Jannati, Nazanin. PhD. Committee Member. Community Health and Epidemiology. 2023 - present (in progress).
+2. Omot, Abang. MSc. Committee Member. Community Health and Epidemiology. 2023 - present (in progress).
+3. Gavelin, Kade. Master's of Public Health Practicum. Supervisor. Community Health and Epidemiology. 2025 - 2025.
+4. Casmir, Ibeh. MSc. Committee Member. Community Health and Epidemiology. 2023 - 2025.
+5. Ruporto, Raissa. MSc. Committee Member. Community Health and Epidemiology. 2023 - 2025.
+6. Khrebtishcheva, Olha. MSc. MITACS. Community Health and Epidemiology. 2022 - 2023.
 7. Carter, Tori. Masters of Public Health Practicum. Supervisor. Community Health and Epidemiology. 2022.
 8. Liu, Stephanie Masters of Public Health Practicum. Supervisor. Community Health and Epidemiology. 2022.
 
