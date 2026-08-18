@@ -2,12 +2,12 @@
 title: "Curriculum vitae"
 author: "Daniel Fuller"
 output:
+  word_document: default
+  pdf_document: default
   html_document: 
     keep_md: yes
     toc: true
     toc_depth: 2
-  pdf_document: default
-  word_document: default
 ---
 
 ```{r setup, include=FALSE}
