@@ -96,6 +96,7 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Singh, J., Coleman, T., Nyambi, A., Pittman, T., Andre, F., Dupuis, J., and Fuller, D. Collaboratively building teaching resources for EDI in epidemiology and biostatistics. Canadian Journal of Public Health. 2026. [https://doi.org/10.17269/s41997-026-01225-7](https://doi.org/10.17269/s41997-026-01225-7).
 1. Keadle S K, Strath SJ, Giurgiu M, Fuller D, Martinez J, Doherty A, Ahmadi M, Hyde E T, Troiano R P, Matthews C E. The PhasED Framework: A Measurement Theory-Based Approach to Algorithm Development and Evaluation. Journal for the Measurement of Physical Behaviour. 2026. 9(1).  [https://doi.org/10.1123/jmpb.2025-0074](https://doi.org/10.1123/jmpb.2025-0074).
 1. _McCullogh E_, Moore S A, Maher R, Jannati N, Muosieryir M, Macpherson A, Beck B, __Fuller D_. Implementation science frameworks for active and sustainable transportation: A scoping review. Transportation Research Interdisciplinary Perspectives. 2026. 38, 102020. [https://doi.org/10.1016/j.trip.2026.102020](https://doi.org/10.1016/j.trip.2026.102020).
 1. Lapointe Y, Kapur A, Sharma A, Panter J, __Fuller D__, Mamiya H. Non-reproducibility of wearable accelerometer methods in protective association between physical activity and cardiovascular disease: a cohort study. Preventive Medicine. 2026. 209, 108603. [https://doi.org/10.1016/j.ypmed.2026.108603](https://doi.org/10.1016/j.ypmed.2026.108603).
@@ -239,7 +240,6 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">In Press Publications</span>
 
 1. _Pittman T_, Avery L, Smith B, __Fuller D__. Super-organization and community detection of American nursing homes in hospital referral region through shared owners during the COVID-19 pandemic. The Milbank Quarterly. Manuscript ID: 4963225.
-1. Singh J, Coleman T, Nyambi A, _Pittman T_, Dogget A, Andre F, Dupuis J, __Fuller D__. Collaboratively Building Teaching Resources for EDI in Epidemiology and Biostatistics. Canadian Journal of Public Health. Manuscript ID: CJPH-S-25-00649. 
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
 1. __Fuller D__, Ghasedi M, Achot G, Ross N. Can-ALE 2.0: Development of an open-source pipeline for the replication and extension of the Canadian Active Living Environments measure. Health Reports. [https://can-ale.ca/](https://can-ale.ca/).
 1. __Fuller D__, Stanley K G. Discussion on 'INTACT: A method for integration of longitudinal physical activity data from multiple sources' by Jingru Zhang, Erjia Cui, Hongzhe Li, and Haochang Shou". Biometrics. Manucsript ID: BIOM2025845D. 
@@ -247,6 +247,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Salsabilian P, __Fuller D__, Manaugh K. From Home to Activity Space: Individual Mobility-Based Accessibility and Its Role in Active Transportation. Journal of Transport Geography. Manuscript Number: JTRG-D-26-01683.
 1. Kauffeldt K D, Shareck M, McCullogh E, Bell S, Collins P, Diab E, Lachapelle U, Manaugh K,  Couture-Ménard M-E, Beck B, Pearson L, Chevrier T, Winters M, __Fuller D__, Marie-Soleil C, Laberee K, Tomasone J R. Strategic commitments to sustainable transportation for public health: A protocol paper exploring the implementation of all ages and abilities cycling infrastructure and speed management interventions in Canadian cities. rontiers in Public Health. Manuscript ID: 1924630.
 1. Berliner N, Thierry B, Kestens Y, Bieleke M, __Fuller D__, Nussbeck F, Schüler J, Kanning M. Bidirectional short-term Associations between Incidental Affect and Physical Activity: Heterogeneous Effects Beyond Individual-Specific Diurnal Patterns. Psychology of Sport & Exercise. PSE-D-26-01335.
 1. Wilmer Ramos Santiago J, Orfin R, Lara D, Uceda V, Hurtado-de-Mendoza A, Chávez-Iñiguez A, __Fuller D__, Bermúdez D, Marquez D X, Ossip D J, Li D, DeJesus E, Vásquez E, Carter-Bawa L, Yousefi-Nooraie R, McIntosh S, Cupertino A P, Cartujano-Barrera F. Actívatexto: Advancing Smoking cessation and Physical Activity among Latinos. Study Protocol for a Randomized Clinical Trial. Contemporary Clinical Trials. Manuscript Number: CCT-D-26-00391.
