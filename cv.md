@@ -247,6 +247,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
+1. Fuller D, Brockelbank L, Amadi M, Bach K, Doherty A, Stamatakis E, Strath S J, Martinez J, Maylor B, Matthews C E, Keadle S K. Bringing Wearables into Global Surveillance: Opportunities, Challenges and a call for collaboration. British Journal of Sports Medicine. Manuscript ID: bjsports-2026-112702.
 1. Matthews C E, Hayes H A, Keadle S K, Strath S J, Ahmadi M, Brocklebank L, Doherty A, Martinez J, Maylor B, Stamatakis E, Fuller D, Hong H G. Evaluation of the seven-day administration protocol in the context of population surveillance using wrist-worn accelerometers. Medicine and Science in Sport and Exercise. Manuscript ID: S-26-01244.
 1. Salsabilian P, __Fuller D__, Manaugh K. From Home to Activity Space: Individual Mobility-Based Accessibility and Its Role in Active Transportation. Journal of Transport Geography. Manuscript Number: JTRG-D-26-01683.
 1. Kauffeldt K D, Shareck M, McCullogh E, Bell S, Collins P, Diab E, Lachapelle U, Manaugh K,  Couture-Ménard M-E, Beck B, Pearson L, Chevrier T, Winters M, __Fuller D__, Marie-Soleil C, Laberee K, Tomasone J R. Strategic commitments to sustainable transportation for public health: A protocol paper exploring the implementation of all ages and abilities cycling infrastructure and speed management interventions in Canadian cities. rontiers in Public Health. Manuscript ID: 1924630.
