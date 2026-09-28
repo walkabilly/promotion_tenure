@@ -96,6 +96,7 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Chavez Uceda V, Orfin RH, Panizoni E, LanzDuret-Hernandez J, Hurtado-de-Mendoza A, Chávez-Iñiguez A, __Fuller D__, Marquez DX, Ossip DJ, Li D, Vasquez E, Ramos-Santiago JW, Carter-Bawa L, Aleese RM, Yousefi Nooraie R, McIntosh S, Cupertino AP, Cartujano-Barrera F. Feasibility of using a patient portal to recruit Latino adults into a smoking cessation and physical activity randomized clinical trial: A secondary analysis. Tobacco Induced Diseases. 2026. 2026;24:127. [https://doi.org/10.18332/tid/219277](https://doi.org/10.18332/tid/219277).
 1. Shareck M, Blache-Pichette C, Hugonnier J, Winters M, Tougas A-M, __Fuller D__. Considering young and socially marginalized people in urban revitalization: evidence on enablers and barriers from a mid-size Canadian city. International Journal of Public Health 71:1609821. 2026. [https://doi.org/10.3389/ijph.2026.1609821](https://doi.org/10.3389/ijph.2026.1609821).
 1. __Fuller D__, Ghasedi M, Achot G, Ross N. Can-ALE 2.0: Development of an open-source pipeline for the replication and extension of the Canadian Active Living Environments measure. Health Reports. [https://www.doi.org/10.25318/82-003-x202600600001-eng](https://www.doi.org/10.25318/82-003-x202600600001-eng).
 1. __Fuller D__, Stanley K G. Discussion on 'INTACT: A method for integration of longitudinal physical activity data from multiple sources' by Jingru Zhang, Erjia Cui, Hongzhe Li, and Haochang Shou". Biometrics. 82 (2). 2026. [https://doi.org/10.1093/biomtc/ujag114](https://doi.org/10.1093/biomtc/ujag114).
@@ -244,7 +245,7 @@ Daniel Fuller __bold__
 
 1. _Pittman T_, Avery L, Smith B, __Fuller D__. Super-organization and community detection of American nursing homes in hospital referral region through shared owners during the COVID-19 pandemic. The Milbank Quarterly. Manuscript ID: 4963225.
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
-1. Chavez Uceda V, Orfin RH, Panizoni E, LanzDuret-Hernandez J, Hurtado-de-Mendoza A, Chávez-Iñiguez A, __Fuller D__, Marquez DX, Ossip DJ, Li D, Vasquez E, Ramos-Santiago JW, Carter-Bawa L, Aleese RM, Yousefi Nooraie R, McIntosh S, Cupertino AP, Cartujano-Barrera F. Feasibility of using a patient portal to recruit Latino adults into a smoking cessation and physical activity randomized clinical trial: A secondary analysis. Tobacco Induced Diseases. 2026. TID-01903-2026-02.
+
 
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
