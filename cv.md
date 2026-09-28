@@ -96,6 +96,7 @@ Twitter: [walkabilly](https://twitter.com/walkabilly)
 Trainees supervised/co-supervised by Daniel Fuller _italics_  
 Daniel Fuller __bold__  
 
+1. Shareck M, Blache-Pichette C, Hugonnier J, Winters M, Tougas A-M, __Fuller D__. Considering young and socially marginalized people in urban revitalization: evidence on enablers and barriers from a mid-size Canadian city. International Journal of Public Health 71:1609821. 2026. [https://doi.org/10.3389/ijph.2026.1609821](https://doi.org/10.3389/ijph.2026.1609821).
 1. __Fuller D__, Ghasedi M, Achot G, Ross N. Can-ALE 2.0: Development of an open-source pipeline for the replication and extension of the Canadian Active Living Environments measure. Health Reports. [https://www.doi.org/10.25318/82-003-x202600600001-eng](https://www.doi.org/10.25318/82-003-x202600600001-eng).
 1. __Fuller D__, Stanley K G. Discussion on 'INTACT: A method for integration of longitudinal physical activity data from multiple sources' by Jingru Zhang, Erjia Cui, Hongzhe Li, and Haochang Shou". Biometrics. 82 (2). 2026. [https://doi.org/10.1093/biomtc/ujag114](https://doi.org/10.1093/biomtc/ujag114).
 1. Singh, J., Coleman, T., Nyambi, A., Pittman, T., Andre, F., Dupuis, J., and Fuller, D. Collaboratively building teaching resources for EDI in epidemiology and biostatistics. Canadian Journal of Public Health. 2026. [https://doi.org/10.17269/s41997-026-01225-7](https://doi.org/10.17269/s41997-026-01225-7).
