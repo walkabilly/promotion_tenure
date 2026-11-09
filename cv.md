@@ -244,6 +244,7 @@ Daniel Fuller __bold__
 
 ### <span style="color:#81112c">In Press Publications</span>
 
+1. _Alaniz-Salinas N V_, Vatanparast H, Lieffers J, __Fuller D__, Rachel Engler-Stringer. Changes in food-group and processing-level composition of lunches consumed following implementation of a universal school lunch program: a quasi-experimental study in Saskatchewan, Canada. Manuscript ID: nutrients-4586309.
 1. Wilmer Ramos Santiago J, Orfin R, Lara D, Uceda V, Hurtado-de-Mendoza A, Chávez-Iñiguez A, __Fuller D__, Bermúdez D, Marquez D X, Ossip D J, Li D, DeJesus E, Vásquez E, Carter-Bawa L, Yousefi-Nooraie R, McIntosh S, Cupertino A P, Cartujano-Barrera F. Actívatexto: Advancing Smoking cessation and Physical Activity among Latinos. Study Protocol for a Randomized Clinical Trial. Contemporary Clinical Trials. Manuscript Number: CCT-D-26-00391.
 1. _Pittman T_, Avery L, Smith B, __Fuller D__. Super-organization and community detection of American nursing homes in hospital referral region through shared owners during the COVID-19 pandemic. The Milbank Quarterly. Manuscript ID: 4963225.
 1. Lara D, Alaniz-Cantu E, Siddalingaiah S, Oliveira I, Chávez-Iñiguez A, DeJesus E, __Fuller D__, Marquez D, Vásquez D, Li D, McIntosh S, Ossip D, Cupertino A P, Cartujano-Barrera F. Actívatexto: Feasibility and acceptability of a mobile intervention that promotes smoking cessation and physical activity among Latinos. Cancer Research Communications. Manuscript Number: CRC-23-0519R.
@@ -251,7 +252,6 @@ Daniel Fuller __bold__
 ### <span style="color:#81112c">Submitted Publications Under Review</span>
 
 1. _Gavelin K_, Salazar Ramirez P, Lee S, & __Fuller D.__ Racial and Gender Bias at Uncontrolled Crosswalks in Saskatoon, Canada. 2026. Transport Findings.
-1. _Alaniz-Salinas N V_, Vatanparast H, Lieffers J, __Fuller D__, Rachel Engler-Stringer. Changes in food-group and processing-level composition of lunches consumed following implementation of a universal school lunch program: a quasi-experimental study in Saskatchewan, Canada. Manuscript ID: nutrients-4586309.
 1. __Fuller, D.__, Laberee, K., _Pearman, K._, Tiznado-Aitken, I., _Salazar-Ramírez, P._, Pearson, L., Hossein Rashidi, L., Cloutier, M.-S., Beck, B., Winters, M. Tools to support implementation of sustainable transportation interventions: An environmental scan. Submitted to Health & Place, Special Issue Healthy Cities Research: Learnings for Implementation and Practice in Canada and beyond. Manuscript ID: JHAP-D-26-02972. 
 1. Collins R, __Fuller D__, Garland S N. Cancer-Related Fatigue and 24-Hour Movement Behavior Composition in Women with Breast Cancer during the 12 Months Following Diagnosis. Manuscript ID: curroncol-4628651.
 1. Jannati N, __Fuller D__, Muhajarine N. From Legalization to Pandemic: National Trends in Alcohol and Cannabis Co-Use Among Canadian Youth. Journal of Studies on Alcohol and Drugs. 2026. 
